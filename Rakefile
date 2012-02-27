@@ -22,6 +22,11 @@ task :deploy => :build do
   sh 'rsync -rtzh --progress --delete _site/ username@servername:/var/www/websitename/'
 end
 
+desc 'deploy to s3'
+task :s3 => :build  do
+  sh 's3cmd \'--add-header=Cache-Control:public, max-age=300\' --acl-public sync _site s3://blog.eamonn.org'
+end
+
 desc 'Check links for site already running on localhost:4000'
 task :check_links do
   begin
@@ -63,3 +68,8 @@ end
 def compass(opts = '')
   sh 'compass compile -c config.rb --force ' + opts
 end
+
+
+
+
+
