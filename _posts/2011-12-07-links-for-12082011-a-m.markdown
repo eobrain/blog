@@ -1,0 +1,28 @@
+---
+date: '2011-12-07 16:37:08'
+layout: post
+slug: links-for-12082011-a-m
+status: publish
+title: Calling Octave (the Matlab clone) from Java.
+wordpress_id: '1253'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [joPAS :: Presentation](http://jopas.sourceforge.net)      
+
+     
+
+Calling Octave (the Matlab clone) from Java.
+
+             
+
+         tags:                      [java](http://www.diigo.com/user/eobrain/java)            [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

@@ -1,0 +1,46 @@
+---
+date: '2010-11-10 15:05:43'
+layout: post
+slug: links-for-2010-11-10
+status: publish
+title: The Riak noSQL distributed database is not as widely adopted as Cassandra,
+  but it has a cleaner programming and deployment model.
+wordpress_id: '1006'
+categories:
+- Programming
+---
+
+  * 
+                
+
+[Adrian Cockcroft's Blog: Comparing NoSQL Availability Models](http://perfcap.blogspot.com/2010/10/comparing-nosql-availability-models.html)
+
+
+                
+
+Comparing Cassandra, MongoDB, and Riak.  (Perhaps more later.)
+
+
+                
+
+(tags: [architecture](http://www.delicious.com/eob/architecture) [database](http://www.delicious.com/eob/database) [programming](http://www.delicious.com/eob/programming) [scaling](http://www.delicious.com/eob/scaling))
+
+
+            
+  * 
+                
+
+[Basho Riak - An Internet-Scale Data Store](http://www.basho.com/Riak.html)
+
+
+                
+
+Riak is one of the few noSQL databases that is truly scalable (others are Cassandra and Voldemort)
+
+
+                
+
+(tags: [database](http://www.delicious.com/eob/database) [programming](http://www.delicious.com/eob/programming) [scaling](http://www.delicious.com/eob/scaling) [architecture](http://www.delicious.com/eob/architecture))
+
+
+            

@@ -1,0 +1,28 @@
+---
+date: '1999-11-29 16:00:00'
+layout: post
+slug: links-for-10012011-a-m
+status: publish
+title: The web-page microdata ontology created by Google, Bing, and Yahoo!.
+wordpress_id: '1244'
+categories:
+- Consumer Media
+---
+
+     
+  *      
+
+               [schema.org - Full Hierarchy](http://schema.org/docs/full.html)      
+
+     
+
+The web-page microdata ontology created by Google, Bing, and Yahoo!.
+
+             
+
+         tags:                      [taxonomy](http://www.diigo.com/user/eobrain/taxonomy)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

@@ -1,0 +1,258 @@
+---
+date: '2008-11-10 16:05:36'
+layout: post
+slug: links-for-2008-11-10
+status: publish
+title: links for 2008-11-10
+wordpress_id: '315'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Print Smart](http://www.hunlock.com/blogs/Print_Smart)
+
+
+                
+
+A few simple print-CSS examples.
+
+
+                
+
+(tags: [printing](http://delicious.com/eob/printing) [css](http://delicious.com/eob/css) [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[PrintWhatYouLike.com {beta}: Save money and the environment printing only what you like.](http://www.printwhatyoulike.com/)
+
+
+                
+
+Web service (with convenient  bookmarklet) for printing web pages.  Has interactive editing to add or remove page components.
+
+
+                
+
+(tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [tool](http://delicious.com/eob/tool) [printing](http://delicious.com/eob/printing) [web](http://delicious.com/eob/web) [service](http://delicious.com/eob/service))
+
+
+            
+  * 
+                
+
+[HP Smart Web Printing ](http://h10025.www1.hp.com/ewfrf/wc/softwareDownloadIndex?os=228&softwareitem=dj-56929-4&lc=en&dlc=en&cc=us&product=3551212)
+
+
+                
+
+browser add-on for IE and Firefox
+
+
+                
+
+(tags: [printing](http://delicious.com/eob/printing) [hp](http://delicious.com/eob/hp) [web](http://delicious.com/eob/web) [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[PAGE DESIGN: Design grids for Web pages](http://www.webstyleguide.com/page/grids.html)
+
+
+                
+                
+
+(tags: [design](http://delicious.com/eob/design) [guide](http://delicious.com/eob/guide) [web](http://delicious.com/eob/web) [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[Paged media](http://www.w3.org/TR/CSS2/page.html)
+
+
+                
+
+W3C spec on paged media support in CSS
+
+
+                
+
+(tags: [reference](http://delicious.com/eob/reference) [css](http://delicious.com/eob/css) [web](http://delicious.com/eob/web) [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[Firefox:Printing and Page Setup - MozillaWiki](https://wiki.mozilla.org/Firefox:Printing_and_Page_Setup)
+
+
+                
+
+Discussions by Firefox guys about web printing
+
+
+                
+
+(tags: [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[Paged media](http://www.webmasterworld.com/forum83/556.htm)
+
+
+                
+
+These CSS paged-media examples work for me on IE6, Firefox, and Chrome.
+
+
+                
+
+(tags: [css](http://delicious.com/eob/css) [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[Nuke Anything Enhanced :: Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/951)
+
+
+                
+
+Firefox extension to remove unwanted parts of page before printing.
+
+
+                
+
+(tags: [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[Firefox/Feature Brainstorming:Printing - MozillaWiki](https://wiki.mozilla.org/Firefox/Feature_Brainstorming:Printing)
+
+
+                
+
+Thoughts on web printing from Firefox
+
+
+                
+
+(tags: [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[Consistent Correlation Between Book Page and Type Area](http://learning.north.londonmet.ac.uk/epoc/tschichd.htm)
+
+
+                
+
+Rules for relative proportions of margins and text block size.
+
+
+                
+
+(tags: [reference](http://delicious.com/eob/reference) [design](http://delicious.com/eob/design) [books](http://delicious.com/eob/books) [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[Five simple steps to designing grid systems - Part 5 : Journal : Mark Boulton](http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_designing_grid_systems_part_5/)
+
+
+                
+
+Grid based web design
+
+
+                
+
+(tags: [tutorial](http://delicious.com/eob/tutorial) [design](http://delicious.com/eob/design) [web](http://delicious.com/eob/web) [css](http://delicious.com/eob/css))
+
+
+            
+  * 
+                
+
+[Home — blueprint-css — GitHub](http://github.com/joshuaclayton/blueprint-css/wikis/home)
+
+
+                
+
+A CSS framework with a grid.  Includes a print stylesheet.
+
+
+                
+
+(tags: [reference](http://delicious.com/eob/reference) [tutorial](http://delicious.com/eob/tutorial) [design](http://delicious.com/eob/design) [css](http://delicious.com/eob/css) [web](http://delicious.com/eob/web) [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[960 Grid System](http://960.gs/)
+
+
+                
+
+CSS library for grid-based web design
+
+
+                
+
+(tags: [tool](http://delicious.com/eob/tool) [css](http://delicious.com/eob/css) [code](http://delicious.com/eob/code) [design](http://delicious.com/eob/design) [web](http://delicious.com/eob/web))
+
+
+            
+  * 
+                
+
+[Elegant Web Typography - SlideShare](http://www.slideshare.net/jeff_croft/elegant-web-typography-presentation)
+
+
+                
+
+Excellent overview of web typography using CSS
+
+
+                
+
+(tags: [tutorial](http://delicious.com/eob/tutorial) [design](http://delicious.com/eob/design) [css](http://delicious.com/eob/css) [web](http://delicious.com/eob/web))
+
+
+            
+  * 
+                
+
+[Digital Web Magazine	 - The Principles of Design](http://www.digital-web.com/articles/principles_of_design/)
+
+
+                
+                
+
+(tags: [design](http://delicious.com/eob/design) [tutorial](http://delicious.com/eob/tutorial) [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            

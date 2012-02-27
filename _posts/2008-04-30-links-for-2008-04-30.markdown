@@ -1,0 +1,33 @@
+---
+date: '2008-04-30 16:38:01'
+layout: post
+slug: links-for-2008-04-30
+status: publish
+title: links for 2008-04-30
+wordpress_id: '275'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[RDFa Primer](http://www.w3.org/TR/xhtml-rdfa-primer/)
+
+
+		
+
+A way of embedding RDF in XHTML, in the same way as microfromats but with more rigour.
+
+
+		
+
+(tags: [tutorial](http://del.icio.us/eob/tutorial) [guide](http://del.icio.us/eob/guide) [language](http://del.icio.us/eob/language))
+
+
+	
+
+
+

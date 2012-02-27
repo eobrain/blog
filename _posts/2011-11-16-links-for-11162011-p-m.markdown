@@ -1,0 +1,28 @@
+---
+date: '2011-11-16 04:31:57'
+layout: post
+slug: links-for-11162011-p-m
+status: publish
+title: How to avoid being blocked by a pop-up blocker.
+wordpress_id: '1251'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [javascript - window.open popup getting blocked during click event - Stack Overflow](http://stackoverflow.com/questions/6628949/window-open-popup-getting-blocked-during-click-event/6629045#6629045)      
+
+     
+
+How to avoid being blocked by a pop-up blocker.
+
+             
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

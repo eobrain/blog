@@ -1,0 +1,42 @@
+---
+date: '2011-03-25 16:37:49'
+layout: post
+slug: links-for-03262011-a-m
+status: publish
+title: links for 03/26/2011 (a.m.)
+wordpress_id: '1185'
+categories:
+- bookmarks
+---
+
+     
+  *      
+
+               [Grid Calculator](http://www.29digital.net/grid)      
+
+     
+
+Calculating web design grid values.
+
+             
+
+         tags:                      [css](http://www.diigo.com/user/eobrain/css)            [layout](http://www.diigo.com/user/eobrain/layout)            [design](http://www.diigo.com/user/eobrain/design)            [tool](http://www.diigo.com/user/eobrain/tool)
+
+                                       
+     
+  *      
+
+               [backplanejs - A JavaScript library that provides cross-browser XForms, RDFa, and SMIL support. - Google Project Hosting](http://code.google.com/p/backplanejs)      
+
+     
+
+An RDF-oriented Javascript library.
+
+             
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [library](http://www.diigo.com/user/eobrain/library)            [programming](http://www.diigo.com/user/eobrain/programming)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

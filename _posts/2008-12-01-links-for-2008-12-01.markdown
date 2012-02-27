@@ -1,0 +1,79 @@
+---
+date: '2008-12-01 15:05:58'
+layout: post
+slug: links-for-2008-12-01
+status: publish
+title: links for 2008-12-01
+wordpress_id: '329'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Print web page to fit printer from Internet Explorer - PrintPunk](http://www.printpunk.com/)
+
+
+                
+
+An IE toolbar add-on that improves the web page printing experience by fitting web pages to the printed page.
+
+
+                
+
+(tags: [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[Need a HTML to PDF Converter? Learn about Highwire, an HTML to PDF Converter](http://www.corda.com/html-to-pdf-converter-software-version-3.php)
+
+
+                
+
+A web-service that web sites can use to create PDF versions of their HTML pages.
+
+
+                
+
+(tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [webservices](http://delicious.com/eob/webservices))
+
+
+            
+  * 
+                
+
+[Color Correction By the Numbers](http://www.ledet.com/margulis/PP7_Ch02_ByTheNumbers.pdf)
+
+
+                
+
+Useful guidelines in how to color-correct photographs
+
+
+                
+
+(tags: [photo](http://delicious.com/eob/photo) [tutorial](http://delicious.com/eob/tutorial) [reference](http://delicious.com/eob/reference) [imaging](http://delicious.com/eob/imaging))
+
+
+            
+  * 
+                
+
+[Snapfish Lab: An open online imaging community](http://intl.ieeexplore.ieee.org/xpl/freeabs_all.jsp?isnumber=4665023&arnumber=4665042&count=195&index=18)
+
+
+                
+
+Publication of description of Snapfish Lab as presented at the  2008 IEEE 10th Workshop on Multimedia Signal Processing.
+
+
+                
+
+(tags: [my](http://delicious.com/eob/my) [snapfishlab](http://delicious.com/eob/snapfishlab) [hp](http://delicious.com/eob/hp))
+
+
+            

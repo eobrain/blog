@@ -1,0 +1,33 @@
+---
+date: '2006-12-23 16:19:01'
+layout: post
+slug: links-for-2006-12-23
+status: publish
+title: links for 2006-12-23
+wordpress_id: '154'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Security in Ad-hoc And Sensor Networks: First... - Google Book Search](http://books.google.com/books?id=f1R_YIyJPOwC&pg=PA178&lpg=PA178&dq=%22o+brien+strain%22&source=web&ots=EBYqhT_Fu4&sig=Z--RFLKee-WcdWqPeJyr6hsIV7I#PPA177,M1)
+
+
+		
+
+"Securely Propagating Authentication in an Ensemble of Personal Devices Using Single Sign-On" -- a paper I co-wrote a few years ago
+
+
+		
+
+(tags: [my](http://del.icio.us/eob/my))
+
+
+	
+
+
+

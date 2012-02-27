@@ -1,0 +1,56 @@
+---
+date: '2012-01-26 04:33:43'
+layout: post
+slug: links-for-01262012-p-m
+status: publish
+title: links for 01/26/2012 (p.m.)
+wordpress_id: '4051'
+categories:
+- bookmarks
+---
+
+     
+  *      
+
+               [Jo HTML5 Mobile App Framework](http://joapp.com)      
+
+     
+
+Another JavaScript development library for creating mobile web apps with a native app feel.
+
+             
+
+         tags:                      [mobile](http://www.diigo.com/user/eobrain/mobile)            [html5](http://www.diigo.com/user/eobrain/html5)            [javascript](http://www.diigo.com/user/eobrain/javascript)
+
+                                       
+     
+  *      
+
+               [Enyo JavaScript Application Framework](http://enyojs.com)      
+
+     
+
+The WebOS enyo library is now open-sourced and available for desktop browsers, not just mobile browsers.
+
+             
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [mobile](http://www.diigo.com/user/eobrain/mobile)            [webos](http://www.diigo.com/user/eobrain/webos)            [programming](http://www.diigo.com/user/eobrain/programming)
+
+                                       
+     
+  *      
+
+               [Ookaboo RDF dump 2012-01-23](http://rdf.ookaboo.com/data/latest)      
+
+     
+
+Mapping from concepts to images
+
+             
+
+         tags:                      [rdf](http://www.diigo.com/user/eobrain/rdf)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

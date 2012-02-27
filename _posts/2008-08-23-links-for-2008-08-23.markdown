@@ -1,0 +1,28 @@
+---
+date: '2008-08-23 14:04:57'
+layout: post
+slug: links-for-2008-08-23
+status: publish
+title: links for 2008-08-23
+wordpress_id: '300'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Design Meltdown](http://www.designmeltdown.com/)
+
+
+                
+
+This looks like a useful web design resource site.
+
+
+                
+
+(tags: [reference](http://delicious.com/eob/reference) [graphics](http://delicious.com/eob/graphics) [design](http://delicious.com/eob/design) [ideas](http://delicious.com/eob/ideas))
+
+
+            

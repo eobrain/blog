@@ -1,0 +1,33 @@
+---
+date: '2008-05-27 16:31:39'
+layout: post
+slug: links-for-2008-05-27
+status: publish
+title: links for 2008-05-27
+wordpress_id: '289'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Affinity Propagation](http://www.psi.toronto.edu/affinitypropagation/)
+
+
+		
+
+A new clustering algorithm that claims to be much faster than existing clustering algorithms while still producing very good results.  Unlike K-Means it does not require the number of clusters to be given a priori.
+
+
+		
+
+(tags: [machinelearning](http://del.icio.us/eob/machinelearning) [programming](http://del.icio.us/eob/programming) [code](http://del.icio.us/eob/code) [algorithm](http://del.icio.us/eob/algorithm))
+
+
+	
+
+
+

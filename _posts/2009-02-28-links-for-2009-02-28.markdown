@@ -1,0 +1,28 @@
+---
+date: '2009-02-28 15:05:22'
+layout: post
+slug: links-for-2009-02-28
+status: publish
+title: links for 2009-02-28
+wordpress_id: '370'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Adjust a text frame to fit its content - Scribus Public Wiki](http://wiki.scribus.net/index.php/Adjust_a_text_frame_to_fit_its_content)
+
+
+                
+
+Using a scribus python script to adjust the size of a text frame to fit its content.
+
+
+                
+
+(tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [layout](http://delicious.com/eob/layout))
+
+
+            

@@ -1,0 +1,52 @@
+---
+date: '2007-10-09 16:27:57'
+layout: post
+slug: links-for-2007-10-09
+status: publish
+title: links for 2007-10-09
+wordpress_id: '199'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[BrightQube: changing the way the world finds images](http://brightqube.com/)
+
+
+		
+
+Stock photo finder with a navigation interface like Google maps
+
+
+		
+
+(tags: [web2.0](http://del.icio.us/eob/web2.0) [photo](http://del.icio.us/eob/photo))
+
+
+	
+
+	
+  * 
+		
+
+[Explode!](http://ex.plode.us/)
+
+
+		
+
+A mash-up of different social networking sites.
+
+
+		
+
+(tags: [service](http://del.icio.us/eob/service) [web2.0](http://del.icio.us/eob/web2.0) [social](http://del.icio.us/eob/social))
+
+
+	
+
+
+

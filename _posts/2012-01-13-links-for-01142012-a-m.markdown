@@ -1,0 +1,31 @@
+---
+date: '2012-01-13 16:38:45'
+layout: post
+slug: links-for-01142012-a-m
+status: publish
+title: Using JCoffeescript can mean for simpler setting up of a coffeescript development
+  environment because it does not have dependencies on node.js and npm
+wordpress_id: '1963'
+categories:
+- Programming
+tags:
+- linkedin
+---
+
+     
+  *      
+
+               [yeungda/jcoffeescript - GitHub](https://github.com/yeungda/jcoffeescript)      
+
+     
+
+Using jcoffeescript (Java/Rhino implementation coffeescript) can mean for simpler setting up of a development environment because it does not have dependencies on node.js and npm, which can be difficult to install.  However jcoffeescript is missing some features such as the --watch option or the ability to compile multiple files.
+
+             
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

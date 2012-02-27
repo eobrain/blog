@@ -1,0 +1,24 @@
+---
+date: '2008-12-09 15:03:39'
+layout: post
+slug: links-for-2008-12-09
+status: publish
+title: links for 2008-12-09
+wordpress_id: '334'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Five Simple Steps to Typesetting on the web: Printing the web : Journal : Mark Boulton](http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_typesetting_on_the_web_printing_the_web/)
+
+
+                
+                
+
+(tags: [printing](http://delicious.com/eob/printing) [design](http://delicious.com/eob/design) [css](http://delicious.com/eob/css) [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            

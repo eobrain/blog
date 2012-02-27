@@ -1,0 +1,29 @@
+---
+date: '2011-08-09 16:37:40'
+layout: post
+slug: links-for-08102011-a-m
+status: publish
+title: Maven has an annoyingly verbose and difficult-to-remember command line.  Here
+  is a handy little reminder of the most common commands and options.
+wordpress_id: '1230'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [NBT Consulting - Maven 2 Cheat Sheet](http://nbtconsulting.com/cheat-sheets/maven-cheat-sheet.html)      
+
+     
+
+Maven has an annoyingly verbose and difficult-to-remember command line.  Here is a handy little reminder of the most common commands and options.
+
+             
+
+         tags:                      [programming](http://www.diigo.com/user/eobrain/programming)            [reference](http://www.diigo.com/user/eobrain/reference)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

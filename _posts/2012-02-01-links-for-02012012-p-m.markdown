@@ -1,0 +1,29 @@
+---
+date: '2012-02-01 04:33:29'
+layout: post
+slug: links-for-02012012-p-m
+status: publish
+title: For sorting user ratings the best algorithm is lower bound of Wilson score
+  confidence interval for a Bernoulli parameter (via +Christopher Hoover)
+wordpress_id: '4741'
+categories:
+- Consumer Media
+---
+
+     
+  *      
+
+               [How Not To Sort By Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)      
+
+     
+
+For sorting user ratings the best algorithm is lower bound of Wilson score confidence interval for a Bernoulli parameter (via +Christopher Hoover) 
+
+             
+
+         tags:                      [programming](http://www.diigo.com/user/eobrain/programming)            [algorithm](http://www.diigo.com/user/eobrain/algorithm)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

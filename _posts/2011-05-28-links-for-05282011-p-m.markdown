@@ -1,0 +1,28 @@
+---
+date: '2011-05-28 04:31:45'
+layout: post
+slug: links-for-05282011-p-m
+status: publish
+title: This crocodoc site has impressive document manipulation technology.
+wordpress_id: '1208'
+categories:
+- Consumer Media
+---
+
+     
+  *      
+
+               [demo | Crocodoc](http://crocodoc.com/demo/efwpa)      
+
+     
+
+This crocodoc site has impressive document manipulation technology.  It converts PDF to HTML5, which the user can annotate and then downloaded as a modified PDF.
+
+             
+
+         tags:                      [html5](http://www.diigo.com/user/eobrain/html5)            [webservices](http://www.diigo.com/user/eobrain/webservices)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

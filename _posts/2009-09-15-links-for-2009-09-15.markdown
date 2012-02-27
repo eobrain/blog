@@ -1,0 +1,28 @@
+---
+date: '2009-09-15 15:06:46'
+layout: post
+slug: links-for-2009-09-15
+status: publish
+title: Equations for converting between different colour spaces
+wordpress_id: '431'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Useful Color Equations](http://brucelindbloom.com/index.html?Math.html)
+
+
+                
+
+Equations for converting between different colour spaces.
+
+
+                
+
+(tags: [reference](http://delicious.com/eob/reference) [design](http://delicious.com/eob/design))
+
+
+            

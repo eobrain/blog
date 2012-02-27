@@ -1,0 +1,90 @@
+---
+date: '2008-05-24 16:31:33'
+layout: post
+slug: links-for-2008-05-24
+status: publish
+title: links for 2008-05-24
+wordpress_id: '287'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Eduforge: Flash Based RPG Game Engine: Project Info](http://eduforge.org/projects/gameflashobjs/)
+
+
+		
+
+A simple flash engine intended for instructional games.  Examples are all very text heavy.  Interactiion is just to make choices on each page to determine which page to go to next.
+
+
+		
+
+(tags: [game](http://del.icio.us/eob/game) [flash](http://del.icio.us/eob/flash))
+
+
+	
+
+	
+  * 
+		
+
+[FFilmation](http://www.ffilmation.org/website/)
+
+
+		
+
+Open source Flash game engine that allows you to create characters that can move through a 3-D world.
+
+
+		
+
+(tags: [game](http://del.icio.us/eob/game) [flash](http://del.icio.us/eob/flash) [3d](http://del.icio.us/eob/3d) [code](http://del.icio.us/eob/code))
+
+
+	
+
+	
+  * 
+		
+
+[Games in a Flash: Flash Games | Customizable Games](http://www.gamesinaflash.com/)
+
+
+		
+
+Flash games that can be licensed and customized.
+
+
+		
+
+(tags: [flash](http://del.icio.us/eob/flash) [games](http://del.icio.us/eob/games))
+
+
+	
+
+	
+  * 
+		
+
+[APE - Actionscript Physics Engine](http://www.cove.org/ape/index.htm)
+
+
+		
+
+Open source 2-d  PHYSICS ENGINE
+
+
+		
+
+(tags: [flash](http://del.icio.us/eob/flash) [flex](http://del.icio.us/eob/flex) [game](http://del.icio.us/eob/game) [code](http://del.icio.us/eob/code))
+
+
+	
+
+
+

@@ -1,0 +1,45 @@
+---
+date: '2009-12-08 15:03:53'
+layout: post
+slug: links-for-2009-12-08
+status: publish
+title: Building iPhone web apps that look like native apps
+wordpress_id: '446'
+categories:
+- Programming
+---
+
+  * 
+                
+
+[Building iPhone Apps with HTML, CSS, and JavaScript](http://building-iphone-apps.labs.oreilly.com/)
+
+
+                
+
+Full text of a draft O'Reilly book on building web apps for the iPhone.
+
+
+                
+
+(tags: [programming](http://delicious.com/eob/programming) [tutorial](http://delicious.com/eob/tutorial) [reference](http://delicious.com/eob/reference) [javascript](http://delicious.com/eob/javascript) [web](http://delicious.com/eob/web) [css](http://delicious.com/eob/css) [books](http://delicious.com/eob/books) [mobile](http://delicious.com/eob/mobile))
+
+
+            
+  * 
+                
+
+[iPhone Development: 12 Tips To Get You Started [HTML & XHTML Tutorials]](http://articles.sitepoint.com/article/iphone-development-12-tips)
+
+
+                
+
+How to create web apps that use iPhone-specific capabilities, so that they act more like native iPhone apps.
+
+
+                
+
+(tags: [web](http://delicious.com/eob/web) [css](http://delicious.com/eob/css) [mobile](http://delicious.com/eob/mobile) [javascript](http://delicious.com/eob/javascript))
+
+
+            

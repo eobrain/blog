@@ -1,0 +1,52 @@
+---
+date: '2007-12-21 16:24:54'
+layout: post
+slug: links-for-2007-12-21
+status: publish
+title: links for 2007-12-21
+wordpress_id: '220'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Watir - Overview](http://wtr.rubyforge.org/)
+
+
+		
+
+Ruby-powered testing of web applications.
+
+
+		
+
+(tags: [ruby](http://del.icio.us/eob/ruby) [tool](http://del.icio.us/eob/tool))
+
+
+	
+
+	
+  * 
+		
+
+[bookr :: pimpampum](http://www.pimpampum.net/bookr/)
+
+
+		
+
+Flash toll to create photobooks  \from Flickr images.  One photo per page.  Manual fill.
+
+
+		
+
+(tags: [photo](http://del.icio.us/eob/photo) [service](http://del.icio.us/eob/service))
+
+
+	
+
+
+

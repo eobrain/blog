@@ -1,0 +1,33 @@
+---
+date: '2007-12-13 16:26:15'
+layout: post
+slug: links-for-2007-12-13
+status: publish
+title: links for 2007-12-13
+wordpress_id: '217'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Amazon.com: Homepage: Amazon Web Services](http://www.amazon.com/gp/browse.html?node=3435361)
+
+
+		
+
+Pay-per-use storage and compute
+
+
+		
+
+(tags: [programming](http://del.icio.us/eob/programming) [webservices](http://del.icio.us/eob/webservices))
+
+
+	
+
+
+

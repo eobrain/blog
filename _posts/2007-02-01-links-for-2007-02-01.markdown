@@ -1,0 +1,99 @@
+---
+date: '2007-02-01 16:27:53'
+layout: post
+slug: links-for-2007-02-01
+status: publish
+title: links for 2007-02-01
+wordpress_id: '170'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Hybridizing Java](http://www.artima.com/weblogs/viewpost.jsp?thread=193593)
+
+
+		
+
+Interesting articel about problems with Java and promise of Flex.
+
+
+		
+
+(tags: [flash](http://del.icio.us/eob/flash) [Flex](http://del.icio.us/eob/Flex) [java](http://del.icio.us/eob/java) [programming](http://del.icio.us/eob/programming) [ajax](http://del.icio.us/eob/ajax) [web2.0](http://del.icio.us/eob/web2.0))
+
+
+	
+
+	
+  * 
+		
+
+[Liverail - RubyOnRails (1.1) and Flex (2.0): Pt 1](http://www.liverail.net/articles/2006/04/16/rubyonrails-1-1-and-flex-2-0-pt-1)
+
+
+		
+
+(tags: [rubyonrails](http://del.icio.us/eob/rubyonrails) [flex](http://del.icio.us/eob/flex) [programming](http://del.icio.us/eob/programming) [code](http://del.icio.us/eob/code))
+
+
+	
+
+	
+  * 
+		
+
+[Juixe TechKnow » Flex On Rails](http://www.juixe.com/techknow/index.php/2006/08/07/flex-on-rails/)
+
+
+		
+
+(tags: [rubyonrails](http://del.icio.us/eob/rubyonrails) [flash](http://del.icio.us/eob/flash) [flex](http://del.icio.us/eob/flex) [programming](http://del.icio.us/eob/programming))
+
+
+	
+
+	
+  * 
+		
+
+[FlexibleRailsBookPreview.pdf (application/pdf Object)](http://www.flexiblerails.com/files/FlexibleRailsBookPreview.pdf)
+
+
+		
+
+Preview of a boook about using Flex with Rails.
+
+
+		
+
+(tags: [rubyonrails](http://del.icio.us/eob/rubyonrails) [flex](http://del.icio.us/eob/flex))
+
+
+	
+
+	
+  * 
+		
+
+[WebORB for Ruby on Rails | Flex RPC and Flash Remoting for Ruby on Rails](http://www.themidnightcoders.com/weborb/rubyonrails/index.htm)
+
+
+		
+
+A rails plugin to provide server-side support for Flex.
+
+
+		
+
+(tags: [flex](http://del.icio.us/eob/flex) [rubyonrails](http://del.icio.us/eob/rubyonrails) [ruby](http://del.icio.us/eob/ruby) [programming](http://del.icio.us/eob/programming) [library](http://del.icio.us/eob/library))
+
+
+	
+
+
+

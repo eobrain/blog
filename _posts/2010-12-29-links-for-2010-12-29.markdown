@@ -1,0 +1,28 @@
+---
+date: '2010-12-29 15:12:32'
+layout: post
+slug: links-for-2010-12-29
+status: publish
+title: Tracking work on my Nrby Photos webos app.
+wordpress_id: '1086'
+categories:
+- Programming
+---
+
+  * 
+                
+
+[Nrby Photos - Pivotal Tracker](https://www.pivotaltracker.com/projects/134754)
+
+
+                
+
+Tracking work on my Nrby Photos webos app.
+
+
+                
+
+(tags: [web2.0](http://www.delicious.com/eob/web2.0) [agile](http://www.delicious.com/eob/agile) [webos](http://www.delicious.com/eob/webos) [webservices](http://www.delicious.com/eob/webservices) [programming](http://www.delicious.com/eob/programming))
+
+
+            

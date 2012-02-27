@@ -1,0 +1,39 @@
+---
+date: '2012-01-10 16:38:01'
+layout: post
+slug: links-for-01112012-a-m
+status: publish
+title: 'When the worm turns: will consumers rebel against large-scale collection and
+  analysis of their data?'
+wordpress_id: '1681'
+categories:
+- Consumer Media
+tags:
+- linkedin
+---
+
+     
+  *      
+
+               [Will Data Collection on User Behaviour Be Forced to End Soon?](http://www.readwriteweb.com/archives/will_data_collection_on_user_behavior_be_forced_to.php?utm_source=pulsenews&utm_medium=referral&utm_campaign=Feed%3A+readwriteweb+%28ReadWriteWeb%29)      
+
+                                             
+ 
+
+Interesting point of view on possible push-back from consumers on the massive collection of data about them.  One particular quote:
+
+
+
+> no one had yet found a way to articulate the value proposition of aggregate data analysis to end consumers because there wasn't one yet
+
+
+
+In other words, while there is a lot of value to companies of the data gathered about consumers, but there is not much value to the consumers themselves.
+
+
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favourite links are [here](http://www.diigo.com/user/eobrain).
+
+
+
+

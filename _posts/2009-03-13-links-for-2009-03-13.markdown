@@ -1,0 +1,62 @@
+---
+date: '2009-03-13 15:06:04'
+layout: post
+slug: links-for-2009-03-13
+status: publish
+title: links for 2009-03-13
+wordpress_id: '374'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Brief introduction to phpLiveDocx | phpLiveDocx](http://www.phplivedocx.org/articles/brief-introduction-to-phplivedocx/)
+
+
+                
+
+Generate PDF and other document formats by filling in a template.
+
+
+                
+
+(tags: [programming](http://delicious.com/eob/programming) [tool](http://delicious.com/eob/tool) [php](http://delicious.com/eob/php) [webpageprinting](http://delicious.com/eob/webpageprinting) [layout](http://delicious.com/eob/layout))
+
+
+            
+  * 
+                
+
+[Making a PDF generator class using Zend_Pdf | CodeUtopia](http://codeutopia.net/blog/2008/10/04/making-a-pdf-generator-class-using-zend_pdf/)
+
+
+                
+
+Example php to fill in PDF templates and generate PDF documents.
+
+
+                
+
+(tags: [php](http://delicious.com/eob/php) [tutorial](http://delicious.com/eob/tutorial) [webpageprinting](http://delicious.com/eob/webpageprinting) [library](http://delicious.com/eob/library))
+
+
+            
+  * 
+                
+
+[manual-final-final-last-louis.pdf](http://rapidshare.de/files/45947483/manual-final-final-last-louis.pdf.html)
+
+
+                
+
+Scribus Manual (450 page PDF)
+
+
+                
+
+(tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [layout](http://delicious.com/eob/layout))
+
+
+            

@@ -1,0 +1,57 @@
+---
+date: '2012-01-17 16:38:29'
+layout: post
+slug: links-for-01182012-a-m
+status: publish
+title: JavaScript snippet for a shim to do cross-domain Ajax in IE
+wordpress_id: '2344'
+categories:
+- Programming
+tags:
+- linkedin
+---
+
+     
+  *      
+
+               [Cross-domain Ajax with Cross-Origin Resource Sharing | NCZOnline](http://www.nczonline.net/blog/2010/05/25/cross-domain-ajax-with-cross-origin-resource-sharing)      
+
+     
+
+Includes JavaScript snippet for a shim to do cross-domain ajax in IE
+
+      
+
+[js]
+function createCORSRequest(method, url){
+    var xhr = new XMLHttpRequest();
+    if ("withCredentials" in xhr){
+        xhr.open(method, url, true);
+    } else if (typeof XDomainRequest != "undefined"){
+        xhr = new XDomainRequest();
+        xhr.open(method, url);
+    } else {
+        xhr = null;
+    }
+    return xhr;
+}
+
+var request = createCORSRequest("get", "http://www.nczonline.net/");
+if (request){
+    request.onload = function(){
+        //do something with request.responseText
+    };
+    request.send();
+}
+[/js]
+
+
+
+       
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

@@ -1,0 +1,33 @@
+---
+date: '2008-03-14 16:29:59'
+layout: post
+slug: links-for-2008-03-14
+status: publish
+title: links for 2008-03-14
+wordpress_id: '259'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[YouTube APIs and Tools - Google Code](http://code.google.com/apis/youtube/overview.html)
+
+
+		
+
+YouTube now has a new fairly powerul API.
+
+
+		
+
+(tags: [programming](http://del.icio.us/eob/programming) [javascript](http://del.icio.us/eob/javascript) [code](http://del.icio.us/eob/code) [architecture](http://del.icio.us/eob/architecture) [ajax](http://del.icio.us/eob/ajax) [library](http://del.icio.us/eob/library) [reference](http://del.icio.us/eob/reference))
+
+
+	
+
+
+

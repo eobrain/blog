@@ -1,0 +1,90 @@
+---
+date: '2006-12-15 16:31:35'
+layout: post
+slug: links-for-2006-12-15
+status: publish
+title: links for 2006-12-15
+wordpress_id: '149'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[8.4 The Peano Curve and Fractal Curves](http://www.geom.uiuc.edu/docs/reference/CRC-formulas/node36.html#SECTION01840000000000000000)
+
+
+		
+
+Constructing a peano space-filling curve by recursive replacement
+
+
+		
+
+(tags: [graphics](http://del.icio.us/eob/graphics))
+
+
+	
+
+	
+  * 
+		
+
+[Plane Filling Curves](http://www.cut-the-knot.org/do_you_know/hilbert.shtml)
+
+
+		
+
+Demonstration of plane-filling curves
+
+
+		
+
+(tags: [programming](http://del.icio.us/eob/programming) [graphics](http://del.icio.us/eob/graphics))
+
+
+	
+
+	
+  * 
+		
+
+[The Hilbert curve](http://www.compuphase.com/hilbert.htm)
+
+
+		
+
+ALgorithm for generating Hilbert space-filling curve
+
+
+		
+
+(tags: [graphics](http://del.icio.us/eob/graphics))
+
+
+	
+
+	
+  * 
+		
+
+[Binary image compression challenge - KBK's entry](http://wiki.tcl.tk/12332)
+
+
+		
+
+Use of hilbert curve order in image compression
+
+
+		
+
+(tags: [graphics](http://del.icio.us/eob/graphics))
+
+
+	
+
+
+

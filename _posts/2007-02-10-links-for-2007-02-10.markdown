@@ -1,0 +1,71 @@
+---
+date: '2007-02-10 16:20:41'
+layout: post
+slug: links-for-2007-02-10
+status: publish
+title: links for 2007-02-10
+wordpress_id: '174'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[BassicTech News Blog : Remapping the Universe using this GUI](http://www.bassictech.com/blogs/bassictech_news_blog/archive/2007/01/20/remapping-the-universe-using-this-gui.aspx)
+
+
+		
+
+This may be a bit old now, but still it is a good demo of the promise of minority report style GUI using multi-touch.
+
+
+		
+
+(tags: [graphics](http://del.icio.us/eob/graphics))
+
+
+	
+
+	
+  * 
+		
+
+[GPlotter: Make Google Maps Easily](http://gplotter.offwhite.net/)
+
+
+		
+
+How to make personalized google maps.
+
+
+		
+
+(tags: [ajax](http://del.icio.us/eob/ajax) [javascript](http://del.icio.us/eob/javascript) [code](http://del.icio.us/eob/code) [library](http://del.icio.us/eob/library) [mapping](http://del.icio.us/eob/mapping))
+
+
+	
+
+	
+  * 
+		
+
+[Ruby HTTP Upload in a Background Thread](http://www.example-code.com/ruby/ruby-upload.asp)
+
+
+		
+
+Ruby library containing clinet-side code for uploading files over HTTP.  It appears however to only run on Windows.
+
+
+		
+
+(tags: [ruby](http://del.icio.us/eob/ruby) [library](http://del.icio.us/eob/library))
+
+
+	
+
+
+

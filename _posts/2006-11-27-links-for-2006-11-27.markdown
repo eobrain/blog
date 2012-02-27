@@ -1,0 +1,47 @@
+---
+date: '2006-11-27 16:31:29'
+layout: post
+slug: links-for-2006-11-27
+status: publish
+title: links for 2006-11-27
+wordpress_id: '141'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[TSN : The Science Network](http://tsntv.org/)
+
+
+		
+
+(tags: [science](http://del.icio.us/eob/science) [video](http://del.icio.us/eob/video))
+
+
+	
+
+	
+  * 
+		
+
+[Ruby Programming Language Enables Concise Network Programming](http://www.devx.com/enterprise/Article/28101/0/page/4)
+
+
+		
+
+How to access a SOAP service using ruby.
+
+
+		
+
+(tags: [ruby](http://del.icio.us/eob/ruby) [tutorial](http://del.icio.us/eob/tutorial) [service](http://del.icio.us/eob/service) [programming](http://del.icio.us/eob/programming))
+
+
+	
+
+
+

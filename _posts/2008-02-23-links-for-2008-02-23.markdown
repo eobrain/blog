@@ -1,0 +1,33 @@
+---
+date: '2008-02-23 16:24:10'
+layout: post
+slug: links-for-2008-02-23
+status: publish
+title: links for 2008-02-23
+wordpress_id: '248'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Magpie RSS - PHP RSS Parser](http://magpierss.sourceforge.net/)
+
+
+		
+
+Claims to parse Atom and most variants of RSS
+
+
+		
+
+(tags: [code](http://del.icio.us/eob/code) [php](http://del.icio.us/eob/php) [programming](http://del.icio.us/eob/programming) [library](http://del.icio.us/eob/library) [s:waitingon](http://del.icio.us/eob/s:waitingon) [@online](http://del.icio.us/eob/@online))
+
+
+	
+
+
+

@@ -1,0 +1,66 @@
+---
+date: '2006-11-13 16:30:42'
+layout: post
+slug: links-for-2006-11-13
+status: publish
+title: links for 2006-11-13
+wordpress_id: '132'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Overheard in Ireland](http://overheardinireland.ie/leinster.php)
+
+
+		
+
+There are some gems mixed in amongst these little anecdotes from Ireland.
+
+
+		
+
+(tags: [Ireland](http://del.icio.us/eob/Ireland))
+
+
+	
+
+	
+  * 
+		
+
+[Google Operating System: Photosynth - Transform Photo Collections into 3D Models](http://googlesystem.blogspot.com/2006/11/photosynth-transform-photo-collections.html)
+
+
+		
+
+(tags: [web2.0](http://del.icio.us/eob/web2.0) [photo](http://del.icio.us/eob/photo) [searchandorganization](http://del.icio.us/eob/searchandorganization))
+
+
+	
+
+	
+  * 
+		
+
+[Lab_color_at_neutral_luminance.png (PNG Image, 340x312 pixels)](http://upload.wikimedia.org/wikipedia/en/4/45/Lab_color_at_neutral_luminance.png)
+
+
+		
+
+A slice through the LAB colour space at L=50%.  Handy reminder of what colours are on what axis.
+
+
+		
+
+(tags: [graphics](http://del.icio.us/eob/graphics))
+
+
+	
+
+
+

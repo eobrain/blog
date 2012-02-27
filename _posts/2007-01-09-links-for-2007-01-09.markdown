@@ -1,0 +1,33 @@
+---
+date: '2007-01-09 16:22:46'
+layout: post
+slug: links-for-2007-01-09
+status: publish
+title: links for 2007-01-09
+wordpress_id: '161'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Crossing borders: REST on Rails](http://www-128.ibm.com/developerworks/java/library/j-cb08016/index.html)
+
+
+		
+
+How to make a rub-on-rails application also be a REST web service endpoint.
+
+
+		
+
+(tags: [rubyonrails](http://del.icio.us/eob/rubyonrails) [tutorial](http://del.icio.us/eob/tutorial) [service](http://del.icio.us/eob/service))
+
+
+	
+
+
+

@@ -1,0 +1,28 @@
+---
+date: '2009-08-08 15:05:28'
+layout: post
+slug: links-for-2009-08-08
+status: publish
+title: Riak is a "nosql" database, similar to CouchDB
+wordpress_id: '422'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Riak - A Decentralized Database](http://riak.basho.com/)
+
+
+                
+
+Another nosql database, similar to CouchDB
+
+
+                
+
+(tags: [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling) [database](http://delicious.com/eob/database))
+
+
+            

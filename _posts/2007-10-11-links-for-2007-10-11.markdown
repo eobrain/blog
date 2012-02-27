@@ -1,0 +1,52 @@
+---
+date: '2007-10-11 16:31:21'
+layout: post
+slug: links-for-2007-10-11
+status: publish
+title: links for 2007-10-11
+wordpress_id: '200'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Ajaxload - Ajax loading gif generator](http://www.ajaxload.info/)
+
+
+		
+
+Create busy indicator GIFs
+
+
+		
+
+(tags: [graphics](http://del.icio.us/eob/graphics) [design](http://del.icio.us/eob/design))
+
+
+	
+
+	
+  * 
+		
+
+[About « Graphing Social Patterns: The Business & Technology of Facebook](http://graphingsocial.com/)
+
+
+		
+
+Facebook conference
+
+
+		
+
+(tags: [conference](http://del.icio.us/eob/conference) [social](http://del.icio.us/eob/social) [technology](http://del.icio.us/eob/technology) [design](http://del.icio.us/eob/design) [business](http://del.icio.us/eob/business))
+
+
+	
+
+
+

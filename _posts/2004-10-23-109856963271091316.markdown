@@ -1,0 +1,10 @@
+---
+date: '2004-10-23 15:13:52'
+layout: post
+slug: '109856963271091316'
+status: publish
+title: '109856963271091316'
+wordpress_id: '50'
+---
+
+Testing from wapblogger. Yet another way to blog from my phone.

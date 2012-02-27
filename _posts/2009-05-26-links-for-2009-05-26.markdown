@@ -1,0 +1,28 @@
+---
+date: '2009-05-26 15:36:33'
+layout: post
+slug: links-for-2009-05-26
+status: publish
+title: Quick link to your contacts list on Google Voice
+wordpress_id: '400'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Google Voice - Contacts](https://www.google.com/voice#contacts)
+
+
+                
+
+Because my cellphone reception at home is so bad I usually use Google Voice to place calls from my home phone.
+
+
+                
+
+(tags: [daily](http://delicious.com/eob/daily) [webservices](http://delicious.com/eob/webservices))
+
+
+            

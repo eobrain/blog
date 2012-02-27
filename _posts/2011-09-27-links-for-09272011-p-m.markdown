@@ -1,0 +1,28 @@
+---
+date: '2011-09-27 04:31:57'
+layout: post
+slug: links-for-09272011-p-m
+status: publish
+title: Headless JavaScript using webkit.  Includes rendering to image and PDF.
+wordpress_id: '1243'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [PhantomJS: Headless WebKit with JavaScript API](http://www.phantomjs.org)      
+
+     
+
+Headless JavaScript using webkit.  Includes rendering to image and PDF.
+
+             
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [programming](http://www.diigo.com/user/eobrain/programming)            [webpageprinting](http://www.diigo.com/user/eobrain/webpageprinting)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

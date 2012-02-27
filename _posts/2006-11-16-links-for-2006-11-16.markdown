@@ -1,0 +1,33 @@
+---
+date: '2006-11-16 16:26:47'
+layout: post
+slug: links-for-2006-11-16
+status: publish
+title: links for 2006-11-16
+wordpress_id: '135'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Google Code Search](http://www.google.com/codesearch)
+
+
+		
+
+Wow.  Now I can grep, using regular expressions, through all the public code in the world.
+
+
+		
+
+(tags: [programming](http://del.icio.us/eob/programming) [tools](http://del.icio.us/eob/tools))
+
+
+	
+
+
+

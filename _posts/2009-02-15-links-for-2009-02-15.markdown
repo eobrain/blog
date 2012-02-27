@@ -1,0 +1,28 @@
+---
+date: '2009-02-15 15:04:44'
+layout: post
+slug: links-for-2009-02-15
+status: publish
+title: links for 2009-02-15
+wordpress_id: '364'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Academic Earth - Video lectures from the world's top scholars](http://academicearth.org/)
+
+
+                
+
+Some interesting lectures here -- I plan to audit some of them.  (Thanks to Ian for the pointer.)
+
+
+                
+
+(tags: [video](http://delicious.com/eob/video) [todo](http://delicious.com/eob/todo))
+
+
+            

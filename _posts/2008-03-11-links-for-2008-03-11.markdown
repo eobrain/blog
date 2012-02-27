@@ -1,0 +1,33 @@
+---
+date: '2008-03-11 16:23:44'
+layout: post
+slug: links-for-2008-03-11
+status: publish
+title: links for 2008-03-11
+wordpress_id: '257'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Towards truly document oriented Web services - O'Reilly XML Blog](http://www.oreillynet.com/xml/blog/2005/07/towards_truly_document_oriente.html)
+
+
+		
+
+Compares and contrasts different web service approaches:  RPC, document-oriented, state transfer, and REST
+
+
+		
+
+(tags: [architecture](http://del.icio.us/eob/architecture) [programming](http://del.icio.us/eob/programming) [webservices](http://del.icio.us/eob/webservices))
+
+
+	
+
+
+

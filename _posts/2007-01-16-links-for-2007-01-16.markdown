@@ -1,0 +1,33 @@
+---
+date: '2007-01-16 16:24:35'
+layout: post
+slug: links-for-2007-01-16
+status: publish
+title: links for 2007-01-16
+wordpress_id: '163'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[AutoStitch](http://www.cs.ubc.ca/~mbrown/autostitch/autostitch.html)
+
+
+		
+
+Demo download of panorama creator
+
+
+		
+
+(tags: [photo](http://del.icio.us/eob/photo) [tools](http://del.icio.us/eob/tools) [windows](http://del.icio.us/eob/windows) [imaging](http://del.icio.us/eob/imaging) [graphics](http://del.icio.us/eob/graphics))
+
+
+	
+
+
+

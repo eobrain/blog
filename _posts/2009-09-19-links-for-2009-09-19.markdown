@@ -1,0 +1,28 @@
+---
+date: '2009-09-19 15:03:07'
+layout: post
+slug: links-for-2009-09-19
+status: publish
+title: Calling Java from XUL applications
+wordpress_id: '432'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Stanislav Vitvitskiy's blog: Calling java from XUL applications](http://stanislavvitvitskiy.blogspot.com/2009/04/calling-java-from-xul-applications.html)
+
+
+                
+
+thanks to @jam1401 for the link.
+
+
+                
+
+(tags: [java](http://delicious.com/eob/java) [javascript](http://delicious.com/eob/javascript))
+
+
+            

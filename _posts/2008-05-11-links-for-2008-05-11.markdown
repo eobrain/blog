@@ -1,0 +1,52 @@
+---
+date: '2008-05-11 16:32:01'
+layout: post
+slug: links-for-2008-05-11
+status: publish
+title: links for 2008-05-11
+wordpress_id: '279'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[PicLens | Immersive Views Across the Web](http://piclens.com/lite/webmasterguide.php)
+
+
+		
+
+How to add the piclens experience to a photo web site without requiring the piclens extension.
+
+
+		
+
+(tags: [3d](http://del.icio.us/eob/3d) [graphics](http://del.icio.us/eob/graphics) [photo](http://del.icio.us/eob/photo) [web2.0](http://del.icio.us/eob/web2.0) [service](http://del.icio.us/eob/service) [guide](http://del.icio.us/eob/guide))
+
+
+	
+
+	
+  * 
+		
+
+[Ethan Allen Room Planning](http://www2.ethanallen.com/roomplanner/rpmain.asp)
+
+
+		
+
+Java applet for trying planning furniture selection and arrangement in a room.
+
+
+		
+
+(tags: [perspective](http://del.icio.us/eob/perspective) [service](http://del.icio.us/eob/service) [business](http://del.icio.us/eob/business))
+
+
+	
+
+
+

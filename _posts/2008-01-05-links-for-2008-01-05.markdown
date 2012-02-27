@@ -1,0 +1,28 @@
+---
+date: '2008-01-05 16:26:38'
+layout: post
+slug: links-for-2008-01-05
+status: publish
+title: links for 2008-01-05
+wordpress_id: '226'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Free-energy and the brain.pdf (application/pdf Object)](http://www.fil.ion.ucl.ac.uk/~karl/Free-energy%20and%20the%20brain.pdf)
+
+
+		
+
+Very interesting approach to modelling the brain as a Baysean network that minimizes "suprise" free energy.
+
+
+	
+
+
+

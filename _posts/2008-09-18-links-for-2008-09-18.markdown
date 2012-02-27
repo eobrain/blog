@@ -1,0 +1,45 @@
+---
+date: '2008-09-18 16:33:34'
+layout: post
+slug: links-for-2008-09-18
+status: publish
+title: links for 2008-09-18
+wordpress_id: '303'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[The future of photography - tech - 16 September 2008 - New Scientist Tech](http://technology.newscientist.com/article/dn14735?promcode=nletter&DCMP=NLC-nletter&nsref=dn14735)
+
+
+                
+
+What imaging research that New Scientist thinks is coming to digital photography.
+
+
+                
+
+(tags: [photo](http://delicious.com/eob/photo) [imaging](http://delicious.com/eob/imaging))
+
+
+            
+  * 
+                
+
+[Birdwatching in stereo captures flocks in 3D - tech - 07 May 2008 - New Scientist Tech](http://technology.newscientist.com/channel/tech/dn13853-birdwatching-in-stereo-captures-flocks-in-3d.html)
+
+
+                
+
+Uses epipolar technique to track thousands of identical starlings in a flock.
+
+
+                
+
+(tags: [3d](http://delicious.com/eob/3d))
+
+
+            

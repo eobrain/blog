@@ -1,0 +1,34 @@
+---
+date: '2008-02-10 16:21:32'
+layout: post
+slug: links-for-2008-02-10
+status: publish
+title: links for 2008-02-10
+wordpress_id: '241'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[posh - Microformats](http://microformats.org/wiki/POSH)
+
+
+		
+
+Plain Old Semantic HTML (POSH) -- useful guidelines 
+
+
+
+		
+
+(tags: [design](http://del.icio.us/eob/design))
+
+
+	
+
+
+

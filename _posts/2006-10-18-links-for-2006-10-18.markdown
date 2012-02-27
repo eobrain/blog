@@ -1,0 +1,52 @@
+---
+date: '2006-10-18 16:32:44'
+layout: post
+slug: links-for-2006-10-18
+status: publish
+title: links for 2006-10-18
+wordpress_id: '121'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[The current state of video search](http://www.niallkennedy.com/blog/archives/2006/10/video-search.html)
+
+
+		
+
+A nice survey of the video on the web, and how it could be searched.
+
+
+		
+
+(tags: [video](http://del.icio.us/eob/video))
+
+
+	
+
+	
+  * 
+		
+
+[Moving Images](http://www.digitalpreservation.gov/formats/content/video.shtml)
+
+
+		
+
+The Library of COngress on video formats for preservation.
+
+
+		
+
+(tags: [video](http://del.icio.us/eob/video))
+
+
+	
+
+
+

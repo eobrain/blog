@@ -1,0 +1,62 @@
+---
+date: '2010-11-11 15:13:36'
+layout: post
+slug: links-for-2010-11-11
+status: publish
+title: links for 2010-11-11
+wordpress_id: '1007'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Stax Networks - Home](http://www.stax.net/)
+
+
+                
+
+A provider of a Java EE cloud on top of Amazon AWS
+
+
+                
+
+(tags: [java](http://www.delicious.com/eob/java) [programming](http://www.delicious.com/eob/programming) [scala](http://www.delicious.com/eob/scala) [web](http://www.delicious.com/eob/web) [scaling](http://www.delicious.com/eob/scaling))
+
+
+            
+  * 
+                
+
+[jonjlee / riak-java-client / wiki / Home – Bitbucket](http://bitbucket.org/jonjlee/riak-java-client/wiki/Home)
+
+
+                
+
+The official Java client library for the Riak distributed noSQL database
+
+
+                
+
+(tags: [java](http://www.delicious.com/eob/java) [database](http://www.delicious.com/eob/database))
+
+
+            
+  * 
+                
+
+[Using window.name transport for cross-site POST scripting | Just enough code to be dangerous](http://development.lombardi.com/?p=611)
+
+
+                
+
+Interesting hack to communicate between two pieces of JavaScript code that are served from different servers.
+
+
+                
+
+(tags: [javascript](http://www.delicious.com/eob/javascript))
+
+
+            

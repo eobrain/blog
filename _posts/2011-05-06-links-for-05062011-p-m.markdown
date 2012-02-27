@@ -1,0 +1,29 @@
+---
+date: '2011-05-06 04:33:10'
+layout: post
+slug: links-for-05062011-p-m
+status: publish
+title: Some tricks here that I had to use when using Java to connect to a Jira server
+  with a self-signed SSL certificate.
+wordpress_id: '1202'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [Connecting to SSL services - JIRA 4.4 EAP - Atlassian Documentation - Confluence](http://confluence.atlassian.com/display/JIRA/Connecting+to+SSL+services)      
+
+     
+
+Some tricks here that I had to use when using Java to connect to a Jira server with a self-signed SSL certificate.
+
+             
+
+         tags:                      [java](http://www.diigo.com/user/eobrain/java)            [security](http://www.diigo.com/user/eobrain/security)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

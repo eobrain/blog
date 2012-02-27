@@ -1,0 +1,71 @@
+---
+date: '2008-02-11 16:22:41'
+layout: post
+slug: links-for-2008-02-11
+status: publish
+title: links for 2008-02-11
+wordpress_id: '242'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Hoopla! » Application Error - Rails application failed to start properly](http://6brand.com/application-error-rails-app-failed-to-start-properly)
+
+
+		
+
+How to get rails working at Dreamhost
+
+
+		
+
+(tags: [ruby](http://del.icio.us/eob/ruby) [rubyonrails](http://del.icio.us/eob/rubyonrails) [guide](http://del.icio.us/eob/guide) [deployment](http://del.icio.us/eob/deployment))
+
+
+	
+
+	
+  * 
+		
+
+[Powerful Web Services Through Composition -- web-calculus](http://www.waterken.com/dev/Web/REST/)
+
+
+		
+
+Tyler's great paper on REST-based web service composition
+
+
+		
+
+(tags: [architecture](http://del.icio.us/eob/architecture) [design](http://del.icio.us/eob/design) [webservices](http://del.icio.us/eob/webservices))
+
+
+	
+
+	
+  * 
+		
+
+[Facial recognition slipped into Google image search](http://arstechnica.com/news.ars/post/20070530-facial-recognition-slipped-into-google-image-search.html)
+
+
+		
+
+Get face detection by adding &imgtype;=face to end of Google Image search URL.
+
+
+		
+
+(tags: [facerecognition](http://del.icio.us/eob/facerecognition) [identification](http://del.icio.us/eob/identification) [imaging](http://del.icio.us/eob/imaging) [technology](http://del.icio.us/eob/technology))
+
+
+	
+
+
+

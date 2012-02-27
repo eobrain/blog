@@ -1,0 +1,42 @@
+---
+date: '2012-02-19 16:36:38'
+layout: post
+slug: links-for-02202012-a-m
+status: publish
+title: A couple of interesting JavaScript libraries ...
+wordpress_id: '6541'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [dist/script.js at master from ded/script.js - GitHub](https://github.com/ded/script.js/blob/master/dist/script.js)      
+
+     
+
+Asynchronous JavaScript loading can increase the responsiveness of your web site to your users.  Here is a nice easy-to-use JavaScript loader that can handle arbitrarily complex dependencies in the client-side of your app.
+
+             
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [api](http://www.diigo.com/user/eobrain/api)            [library](http://www.diigo.com/user/eobrain/library)            [programming](http://www.diigo.com/user/eobrain/programming)
+
+                                       
+     
+  *      
+
+               [defunkt/jquery-pjax - GitHub](https://github.com/defunkt/jquery-pjax)      
+
+     
+
+Pjax is a nice way to get a responsive web app. It has a similar effect as a single-page javascript/json app, but allows for more conventional server-side programming and easier fallback for old browsers.
+
+             
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

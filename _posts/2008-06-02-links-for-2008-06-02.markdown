@@ -1,0 +1,33 @@
+---
+date: '2008-06-02 16:32:03'
+layout: post
+slug: links-for-2008-06-02
+status: publish
+title: links for 2008-06-02
+wordpress_id: '293'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[as3cards - Google Code](http://code.google.com/p/as3cards/)
+
+
+		
+
+"The as3cards project provides a skinnable ActionScript 3.0 card engine for creating playing card games, with an example implementation of Klondike Solitaire."
+
+
+		
+
+(tags: [game](http://del.icio.us/eob/game) [flex](http://del.icio.us/eob/flex) [flash](http://del.icio.us/eob/flash))
+
+
+	
+
+
+

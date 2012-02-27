@@ -1,0 +1,33 @@
+---
+date: '2008-04-12 16:34:41'
+layout: post
+slug: links-for-2008-04-12
+status: publish
+title: links for 2008-04-12
+wordpress_id: '267'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Jena I/O Mini HowTo](http://jena.sourceforge.net/IO/iohowto.html)
+
+
+		
+
+Reading and writing RDF in Java.
+
+
+		
+
+(tags: [rdf](http://del.icio.us/eob/rdf) [database](http://del.icio.us/eob/database) [java](http://del.icio.us/eob/java) [tutorial](http://del.icio.us/eob/tutorial))
+
+
+	
+
+
+

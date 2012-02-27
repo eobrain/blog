@@ -1,0 +1,28 @@
+---
+date: '2011-03-31 16:39:05'
+layout: post
+slug: links-for-04012011-a-m
+status: publish
+title: API doc for scala API to MongoDB
+wordpress_id: '1190'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [Casbah casbah-core v2.1.1 - _root_](http://api.mongodb.org/scala/casbah/2.1.1/scaladoc)      
+
+     
+
+API doc for scala API to MongoDB
+
+             
+
+         tags:                      [scala](http://www.diigo.com/user/eobrain/scala)            [reference](http://www.diigo.com/user/eobrain/reference)            [programming](http://www.diigo.com/user/eobrain/programming)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

@@ -1,0 +1,24 @@
+---
+date: '2009-01-05 15:06:26'
+layout: post
+slug: links-for-2009-01-05
+status: publish
+title: links for 2009-01-05
+wordpress_id: '342'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Stanford InfoSeminar](http://infolab.stanford.edu/infoseminar/)
+
+
+                
+                
+
+(tags: [todo](http://delicious.com/eob/todo))
+
+
+            

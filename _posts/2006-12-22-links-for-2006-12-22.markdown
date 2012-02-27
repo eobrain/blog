@@ -1,0 +1,104 @@
+---
+date: '2006-12-22 16:23:23'
+layout: post
+slug: links-for-2006-12-22
+status: publish
+title: links for 2006-12-22
+wordpress_id: '153'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Rails Framework Documentation](http://api.rubyonrails.org/)
+
+
+		
+
+(tags: [programming](http://del.icio.us/eob/programming) [reference](http://del.icio.us/eob/reference) [ruby](http://del.icio.us/eob/ruby) [rubyonrails](http://del.icio.us/eob/rubyonrails))
+
+
+	
+
+	
+  * 
+		
+
+[Distributing Rails Applications - A Tutorial](http://www.erikveen.dds.nl/distributingrubyapplications/rails.html)
+
+
+		
+
+How to wrap up a rails app for deployment using sqlite as the database.
+
+
+		
+
+(tags: [deployment](http://del.icio.us/eob/deployment) [rubyonrails](http://del.icio.us/eob/rubyonrails) [ruby](http://del.icio.us/eob/ruby) [tutorial](http://del.icio.us/eob/tutorial))
+
+
+	
+
+	
+  * 
+		
+
+[MySQL AB :: MySQL 3.23, 4.0, 4.1 Reference Manual :: 3.4 Getting Information About Databases and Tables](http://dev.mysql.com/doc/refman/4.1/en/getting-information.html)
+
+
+		
+
+How to get information about the schema in an existing database.  Handy for figuring out what a rails migrate has done.
+
+
+		
+
+(tags: [database](http://del.icio.us/eob/database))
+
+
+	
+
+	
+  * 
+		
+
+[apache friends - very easy apache, mysql, php and perl installation without hassles](http://www.apachefriends.org/en/index.html)
+
+
+		
+
+Handy installation of the LAMP stack.
+
+
+		
+
+(tags: [download](http://del.icio.us/eob/download) [tools](http://del.icio.us/eob/tools) [database](http://del.icio.us/eob/database) [apache](http://del.icio.us/eob/apache))
+
+
+	
+
+	
+  * 
+		
+
+[Ruby on Rails: Active Record](http://ruby.about.com/od/activerecord/Ruby_on_Rails_Active_Record.htm)
+
+
+		
+
+How to use use migration to create your database schema.
+
+
+		
+
+(tags: [rubyonrails](http://del.icio.us/eob/rubyonrails) [database](http://del.icio.us/eob/database) [tutorial](http://del.icio.us/eob/tutorial))
+
+
+	
+
+
+

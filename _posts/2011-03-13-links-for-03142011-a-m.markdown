@@ -1,0 +1,116 @@
+---
+date: '2011-03-13 16:38:40'
+layout: post
+slug: links-for-03142011-a-m
+status: publish
+title: 'Links for SXSW talk "One Codebase, Endless Possibilities: Real HTML5 Hacking"'
+wordpress_id: '1154'
+categories:
+- Programming
+---
+
+[One Codebase, Endless Possibilities: Real HTML5 Hacking](http://lanyrd.com/2011/sxsw/scpzx/)
+
+
+
+     
+  *      
+
+               [joemccann/freebeernearme - GitHub](https://github.com/joemccann/freebeernearme)      
+
+     
+
+#hack5 code
+
+             
+
+         tags:                      [programming](http://www.diigo.com/user/eobrain/programming)            [mobile](http://www.diigo.com/user/eobrain/mobile)            [javascript](http://www.diigo.com/user/eobrain/javascript)            [html5](http://www.diigo.com/user/eobrain/html5)
+
+                                       
+     
+  *      
+
+               [Free Beer Near Me!](http://freebeernear.me)      
+
+     
+
+#hack5 example
+
+             
+
+         tags:                      [programming](http://www.diigo.com/user/eobrain/programming)            [mobile](http://www.diigo.com/user/eobrain/mobile)            [javascript](http://www.diigo.com/user/eobrain/javascript)            [html5](http://www.diigo.com/user/eobrain/html5)
+
+                                       
+     
+  *      
+
+               [SXSW 2011 Presentation – One Codebase, Endless Possibilities – Real HTML5 Hacking](http://subprint.com/blog/sxsw-2011-presentation-one-codebase-endless-possibilities-real-html5-hacking)      
+
+     
+
+#hack5 presentation
+
+             
+
+         tags:                      [programming](http://www.diigo.com/user/eobrain/programming)            [mobile](http://www.diigo.com/user/eobrain/mobile)            [javascript](http://www.diigo.com/user/eobrain/javascript)            [html5](http://www.diigo.com/user/eobrain/html5)
+
+                                       
+     
+  *      
+
+               [PhoneGap Build](https://build.phonegap.com)      
+
+     
+
+Online phonegap build #hack5
+
+             
+
+         tags:                      [programming](http://www.diigo.com/user/eobrain/programming)            [mobile](http://www.diigo.com/user/eobrain/mobile)            [javascript](http://www.diigo.com/user/eobrain/javascript)            [html5](http://www.diigo.com/user/eobrain/html5)
+
+                                       
+     
+  *      
+
+               [Sencha - Sencha Touch Overview - Mobile Web App Development for Android & iPhone | Sencha Touch | Products | Sencha](http://www.sencha.com/products/touch)      
+
+     
+
+Similar to phonegap #hack5
+
+             
+
+         tags:                      [programming](http://www.diigo.com/user/eobrain/programming)            [mobile](http://www.diigo.com/user/eobrain/mobile)            [library](http://www.diigo.com/user/eobrain/library)            [html5](http://www.diigo.com/user/eobrain/html5)            [javascript](http://www.diigo.com/user/eobrain/javascript)
+
+                                       
+     
+  *      
+
+               [Use Appcelerator Titanium to build mobile apps for iPhone & Android and desktop apps for Windows, Mac OS X & Linux from Web technologies](http://www.appcelerator.com)      
+
+     
+
+Like phonegap or sencha, but also with desktop bindings. #hack5
+
+             
+
+         tags:                      [programming](http://www.diigo.com/user/eobrain/programming)            [library](http://www.diigo.com/user/eobrain/library)            [mobile](http://www.diigo.com/user/eobrain/mobile)
+
+                                                                       
+     
+  *      
+
+               [Yahoo! Query Language - YDN](http://developer.yahoo.com/yql)      
+
+     
+
+Write Javascript queries to screenscrape the web. #hack5
+
+             
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [programming](http://www.diigo.com/user/eobrain/programming)            [library](http://www.diigo.com/user/eobrain/library)            [json](http://www.diigo.com/user/eobrain/json)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

@@ -1,0 +1,47 @@
+---
+date: '2008-05-01 16:37:30'
+layout: post
+slug: links-for-2008-05-01
+status: publish
+title: links for 2008-05-01
+wordpress_id: '276'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[random($foo): Web 2.0 Expo Presentation Rundown](http://randomfoo.net/blog/id/4175)
+
+
+		
+
+Handy commented collection of links to Web 2.0 Expo videos and slides.
+
+
+		
+
+(tags: [web2.0](http://del.icio.us/eob/web2.0))
+
+
+	
+
+	
+  * 
+		
+
+[SEOmoz | The Web Developer's SEO Cheat Sheet](http://www.seomoz.org/blog/the-web-developers-seo-cheat-sheet)
+
+
+		
+
+(tags: [seo](http://del.icio.us/eob/seo) [reference](http://del.icio.us/eob/reference) [tutorial](http://del.icio.us/eob/tutorial))
+
+
+	
+
+
+

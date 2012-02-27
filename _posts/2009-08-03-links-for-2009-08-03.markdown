@@ -1,0 +1,28 @@
+---
+date: '2009-08-03 15:05:21'
+layout: post
+slug: links-for-2009-08-03
+status: publish
+title: Single-tier web applications with static files and CouchDB
+wordpress_id: '419'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Urbantastic - Tech Tuesday: The Fiddly Bits](http://blog.urbantastic.com/post/81336210/tech-tuesday-the-fiddly-bits)
+
+
+                
+
+An architectural approach that uses mostly static HTML and JSON, powered by CouchDB.
+
+
+                
+
+(tags: [programming](http://delicious.com/eob/programming) [web2.0](http://delicious.com/eob/web2.0) [javascript](http://delicious.com/eob/javascript) [ajax](http://delicious.com/eob/ajax) [web](http://delicious.com/eob/web) [architecture](http://delicious.com/eob/architecture) [database](http://delicious.com/eob/database) [json](http://delicious.com/eob/json) [scaling](http://delicious.com/eob/scaling))
+
+
+            

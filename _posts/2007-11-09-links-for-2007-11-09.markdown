@@ -1,0 +1,33 @@
+---
+date: '2007-11-09 16:25:25'
+layout: post
+slug: links-for-2007-11-09
+status: publish
+title: links for 2007-11-09
+wordpress_id: '207'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Caching Tutorial for Web Authors and Webmasters](http://www.web-caching.com/mnot_tutorial/how.html)
+
+
+		
+
+HTTP Caching
+
+
+		
+
+(tags: [tutorial](http://del.icio.us/eob/tutorial) [networking](http://del.icio.us/eob/networking))
+
+
+	
+
+
+

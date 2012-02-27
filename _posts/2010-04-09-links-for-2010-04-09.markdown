@@ -1,0 +1,28 @@
+---
+date: '2010-04-09 15:03:34'
+layout: post
+slug: links-for-2010-04-09
+status: publish
+title: The scala-specific repository used by default by SBT
+wordpress_id: '830'
+categories:
+- Programming
+---
+
+  * 
+                
+
+[Index of /repo-releases/](http://scala-tools.org/repo-releases/)
+
+
+                
+
+The scala-specific repository used by default by SBT
+
+
+                
+
+(tags: [scala](http://delicious.com/eob/scala) [library](http://delicious.com/eob/library))
+
+
+            

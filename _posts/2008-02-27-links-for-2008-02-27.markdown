@@ -1,0 +1,33 @@
+---
+date: '2008-02-27 16:25:38'
+layout: post
+slug: links-for-2008-02-27
+status: publish
+title: links for 2008-02-27
+wordpress_id: '252'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[media-metadata-examples - Microformats](http://microformats.org/wiki/media-metadata-examples)
+
+
+		
+
+An extensive survey of the many ways in which media is made available on the Internet and how its metadata is represented.
+
+
+		
+
+(tags: [metadata](http://del.icio.us/eob/metadata) [reference](http://del.icio.us/eob/reference) [photo](http://del.icio.us/eob/photo) [video](http://del.icio.us/eob/video) [webservices](http://del.icio.us/eob/webservices))
+
+
+	
+
+
+

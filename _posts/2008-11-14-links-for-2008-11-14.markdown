@@ -1,0 +1,28 @@
+---
+date: '2008-11-14 16:06:37'
+layout: post
+slug: links-for-2008-11-14
+status: publish
+title: links for 2008-11-14
+wordpress_id: '321'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[A. Sundararajan's Weblog](http://blogs.sun.com/sundararajan/entry/scala_for_java_programmers)
+
+
+                
+
+A Java-Scala cheat cheat
+
+
+                
+
+(tags: [programming](http://delicious.com/eob/programming) [reference](http://delicious.com/eob/reference) [java](http://delicious.com/eob/java) [scala](http://delicious.com/eob/scala))
+
+
+            

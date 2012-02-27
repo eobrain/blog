@@ -1,0 +1,47 @@
+---
+date: '2008-10-24 16:03:02'
+layout: post
+slug: links-for-2008-10-24
+status: publish
+title: links for 2008-10-24
+wordpress_id: '309'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[JavaScript DOM](http://krook.org/jsdom/)
+
+
+                
+
+Handy javadoc-style documentation of the Javascript DOM API
+
+
+                
+
+(tags: [javascript](http://delicious.com/eob/javascript) [code](http://delicious.com/eob/code) [programming](http://delicious.com/eob/programming) [web](http://delicious.com/eob/web) [web2.0](http://delicious.com/eob/web2.0) [reference](http://delicious.com/eob/reference))
+
+
+            
+  * 
+                
+
+[HTTP Proxy instruction? - Ruby Forum](http://www.ruby-forum.com/topic/139859)
+
+
+                
+
+A Ruby one-liner to create an HTTP proxy:
+
+ruby -r webrick/httpproxy -e 's = WEBrick::HTTPProxyServer.new(:Port => 9999, :RequestCallback => Proc.new{|req,res| puts req.request_line, req.raw_header}); trap("INT"){s.shutdown}; s.start'
+
+
+                
+
+(tags: [ruby](http://delicious.com/eob/ruby))
+
+
+            

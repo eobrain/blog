@@ -1,0 +1,29 @@
+---
+date: '2003-11-12 11:28:32'
+layout: post
+slug: '108674500783410368'
+status: publish
+title: '108674500783410368'
+wordpress_id: '16'
+---
+
+J2ME Profiles
+
+[Personal Basis Profile vs. Personal Profile: What's the Difference?](http://developers.sun.com/techtopics/mobility/personal/articles/pbp_pp/)
+
+
+
+> 
+Recently, however, two new CDC-based profiles were finalized. These profiles, the Personal Basis Profile (PBP) and the Personal Profile (PP), replace the PersonalJava platform, which is no longer under active development. Like PersonalJava, they provide the classes necessary for building interactive applications. This article describes the two profiles, and compares them to each other and to the PersonalJava platform. 
+
+
+
+
+
+
+* * *
+
+
+{Recovered from old blog.)
+
+

@@ -1,0 +1,62 @@
+---
+date: '2010-05-14 15:04:00'
+layout: post
+slug: links-for-2010-05-14
+status: publish
+title: links for 2010-05-14
+wordpress_id: '844'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Reference Library – Palm Developer Center](http://developer.palm.com/index.php?option=com_content&view=article&id=1654&Itemid=20)
+
+
+                
+
+WebOS APIs
+
+
+                
+
+(tags: [programming](http://delicious.com/eob/programming) [reference](http://delicious.com/eob/reference) [webos](http://delicious.com/eob/webos))
+
+
+            
+  * 
+                
+
+[Flickr Services](http://www.flickr.com/services/api/)
+
+
+                
+
+Flickr API reference
+
+
+                
+
+(tags: [programming](http://delicious.com/eob/programming) [reference](http://delicious.com/eob/reference) [web](http://delicious.com/eob/web) [web2.0](http://delicious.com/eob/web2.0) [webservices](http://delicious.com/eob/webservices) [photo](http://delicious.com/eob/photo))
+
+
+            
+  * 
+                
+
+[Palm - Ares](http://ares.palm.com/Ares/index.html)
+
+
+                
+
+Online IDE for developing WebOS apps.
+
+
+                
+
+(tags: [javascript](http://delicious.com/eob/javascript) [mobile](http://delicious.com/eob/mobile) [programming](http://delicious.com/eob/programming) [tool](http://delicious.com/eob/tool) [webos](http://delicious.com/eob/webos))
+
+
+            

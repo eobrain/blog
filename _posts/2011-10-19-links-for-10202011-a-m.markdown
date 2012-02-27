@@ -1,0 +1,42 @@
+---
+date: '2011-10-19 16:37:51'
+layout: post
+slug: links-for-10202011-a-m
+status: publish
+title: links for 10/20/2011 (a.m.)
+wordpress_id: '1249'
+categories:
+- bookmarks
+---
+
+     
+  *      
+
+               [Components — PAL](https://pal.sri.com/Plone/framework/Components)      
+
+     
+
+Machine learning applications and components, including the ancestor of Siri.
+
+             
+
+         tags:                      [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)
+
+                                       
+     
+  *      
+
+               [Color Semantics for Image Indexing](http://diameter.itn.liu.se/colse)      
+
+     
+
+Mapping from adjectives to colors.
+
+             
+
+         tags:                      [imaging](http://www.diigo.com/user/eobrain/imaging)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

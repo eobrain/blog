@@ -1,0 +1,33 @@
+---
+date: '2007-05-22 16:33:55'
+layout: post
+slug: links-for-2007-05-22
+status: publish
+title: links for 2007-05-22
+wordpress_id: '185'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[MySQL AB :: Does MySQL Connector/J Support Multithreaded Programming?](http://www.mysql.com/news-and-events/newsletter/2003-04/a0000000154.html)
+
+
+		
+
+We are running into some mysterious MySql bugs.  Perhaps it is something to do with the fact that we are using multiple threads.  Though we are sharing only the Connection, not the Statement or ResultSet.
+
+
+		
+
+(tags: [database](http://del.icio.us/eob/database))
+
+
+	
+
+
+

@@ -1,0 +1,52 @@
+---
+date: '2008-05-31 16:31:18'
+layout: post
+slug: links-for-2008-05-31
+status: publish
+title: links for 2008-05-31
+wordpress_id: '292'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Google App Engine - Google Code](http://code.google.com/appengine/)
+
+
+		
+
+Google now supports building your web application on their platform.
+
+
+		
+
+(tags: [network](http://del.icio.us/eob/network) [deployment](http://del.icio.us/eob/deployment) [code](http://del.icio.us/eob/code) [business](http://del.icio.us/eob/business) [architecture](http://del.icio.us/eob/architecture))
+
+
+	
+
+	
+  * 
+		
+
+[Merb | Looking for a hacker's framework?](http://www.merbivore.com/)
+
+
+		
+
+Possible alternative to Ruby on Rails
+
+
+		
+
+(tags: [web2.0](http://del.icio.us/eob/web2.0) [programming](http://del.icio.us/eob/programming) [library](http://del.icio.us/eob/library))
+
+
+	
+
+
+

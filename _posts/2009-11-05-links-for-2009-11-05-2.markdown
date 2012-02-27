@@ -1,0 +1,28 @@
+---
+date: '2009-11-05 16:09:12'
+layout: post
+slug: links-for-2009-11-05-2
+status: publish
+title: Java library to render PDF
+wordpress_id: '444'
+categories:
+- Programming
+---
+
+  * 
+                
+
+[pdf-renderer: PDFRenderer Home Page](https://pdf-renderer.dev.java.net/)
+
+
+                
+
+Java library to render PDF
+
+
+                
+
+(tags: [programming](http://delicious.com/eob/programming) [library](http://delicious.com/eob/library) [java](http://delicious.com/eob/java) [graphics](http://delicious.com/eob/graphics) [imaging](http://delicious.com/eob/imaging))
+
+
+            

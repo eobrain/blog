@@ -1,0 +1,45 @@
+---
+date: '2009-07-14 15:06:18'
+layout: post
+slug: links-for-2009-07-14
+status: publish
+title: links for 2009-07-14
+wordpress_id: '408'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Magazine Digital Edition Systems for Digital Magazine | Infoswell Media](http://infoswell.com/digital-editions.php)
+
+
+                
+
+A company that creates animated "digital editions" of magazines for publishers.
+
+
+                
+
+(tags: [contenttransformation](http://delicious.com/eob/contenttransformation))
+
+
+            
+  * 
+                
+
+[http://csl.stanford.edu/~christos/publications/2007.cmp_mapreduce.hpca.pdf](http://csl.stanford.edu/~christos/publications/2007.cmp_mapreduce.hpca.pdf)
+
+
+                
+
+The Phoenix implementation of MapReduce for Multi-core and Multiprocessor Systems
+
+
+                
+
+(tags: [architecture](http://delicious.com/eob/architecture))
+
+
+            

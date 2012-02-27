@@ -1,0 +1,28 @@
+---
+date: '2008-01-28 16:24:26'
+layout: post
+slug: links-for-2008-01-28
+status: publish
+title: links for 2008-01-28
+wordpress_id: '237'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[twitterfeed.com : feed your blog to twitter - post RSS to twitter automatically](http://twitterfeed.com/)
+
+
+		
+
+(tags: [social](http://del.icio.us/eob/social) [web2.0](http://del.icio.us/eob/web2.0) [webservices](http://del.icio.us/eob/webservices))
+
+
+	
+
+
+

@@ -1,0 +1,52 @@
+---
+date: '2008-01-13 16:25:55'
+layout: post
+slug: links-for-2008-01-13
+status: publish
+title: links for 2008-01-13
+wordpress_id: '228'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Hbase - Lucene-hadoop Wiki](http://wiki.apache.org/lucene-hadoop/Hbase)
+
+
+		
+
+Hadoop version of BigTable, Google's massivly-scalable database
+
+
+		
+
+(tags: [apache](http://del.icio.us/eob/apache) [code](http://del.icio.us/eob/code) [database](http://del.icio.us/eob/database) [java](http://del.icio.us/eob/java) [scaling](http://del.icio.us/eob/scaling) [totry](http://del.icio.us/eob/totry) [web2.0](http://del.icio.us/eob/web2.0))
+
+
+	
+
+	
+  * 
+		
+
+[Using Ruby on Rails with Facebook Platform - Facebook Developers Wiki](http://wiki.developers.facebook.com/index.php/Ruby_on_Rails)
+
+
+		
+
+Using Roby on Rails to build facebook applications
+
+
+		
+
+(tags: [facebook](http://del.icio.us/eob/facebook) [ruby](http://del.icio.us/eob/ruby) [rubyonrails](http://del.icio.us/eob/rubyonrails) [tutorial](http://del.icio.us/eob/tutorial))
+
+
+	
+
+
+

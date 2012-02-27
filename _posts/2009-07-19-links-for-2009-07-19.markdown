@@ -1,0 +1,45 @@
+---
+date: '2009-07-19 15:04:40'
+layout: post
+slug: links-for-2009-07-19
+status: publish
+title: Linking Java to relational databases
+wordpress_id: '409'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Standardizing Java Persistence with the EJB3 Java Persistence API - O'Reilly Media](http://onjava.com/pub/a/onjava/2006/05/17/standardizing-with-ejb3-java-persistence-api.html)
+
+
+                
+
+Some examples of how to use annotations to map Java objects to a database using the EJB3/JPA standard.
+
+
+                
+
+(tags: [database](http://delicious.com/eob/database) [java](http://delicious.com/eob/java))
+
+
+            
+  * 
+                
+
+[Memcached UDF for Java DB on OpenSolaris : Knut Anders Hatlen's Weblog](http://blogs.sun.com/kah/entry/memcached_udf_for_java_db)
+
+
+                
+
+Example of implementing a Java user-defined-function in the Java DB (Derby) database.
+
+
+                
+
+(tags: [database](http://delicious.com/eob/database) [java](http://delicious.com/eob/java))
+
+
+            

@@ -1,0 +1,62 @@
+---
+date: '2008-10-29 16:06:42'
+layout: post
+slug: links-for-2008-10-29
+status: publish
+title: links for 2008-10-29
+wordpress_id: '312'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Chinese Character Dictionary](http://www.mandarintools.com/chardict.html)
+
+
+                
+
+Handy Chinese online character dictionary
+
+
+                
+
+(tags: [mandarin](http://delicious.com/eob/mandarin) [language](http://delicious.com/eob/language) [reference](http://delicious.com/eob/reference))
+
+
+            
+  * 
+                
+
+[Multicolr Search Lab - Idée Inc.](http://labs.ideeinc.com/multicolr/)
+
+
+                
+
+Search for creative-commons Flickr photos based on the colours they contain.
+
+
+                
+
+(tags: [photo](http://delicious.com/eob/photo) [web2.0](http://delicious.com/eob/web2.0) [tool](http://delicious.com/eob/tool) [graphics](http://delicious.com/eob/graphics))
+
+
+            
+  * 
+                
+
+[Write Your own Bookmarklets](http://subsimple.com/bookmarklets/writeyourown.asp)
+
+
+                
+
+Handy guide to writing bookmarklets.
+
+
+                
+
+(tags: [programming](http://delicious.com/eob/programming) [tutorial](http://delicious.com/eob/tutorial) [reference](http://delicious.com/eob/reference) [guide](http://delicious.com/eob/guide) [web](http://delicious.com/eob/web) [javascript](http://delicious.com/eob/javascript))
+
+
+            

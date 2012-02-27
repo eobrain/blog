@@ -1,0 +1,109 @@
+---
+date: '2006-11-15 16:31:23'
+layout: post
+slug: links-for-2006-11-15
+status: publish
+title: links for 2006-11-15
+wordpress_id: '134'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Contact sheet based image management patent invention](http://www.freshpatents.com/Contact-sheet-based-image-management-dt20061026ptan20060242567.php)
+
+
+		
+
+One of my patent applications has appeared in the public patent database.
+
+
+		
+
+(tags: [my](http://del.icio.us/eob/my) [patent](http://del.icio.us/eob/patent))
+
+
+	
+
+	
+  * 
+		
+
+[Verifying incremental updates to hierarchicaly structured information patent invention](http://www.freshpatents.com/Verifying-incremental-updates-to-hierarchicaly-structured-information-dt20051208ptan20050273472.php)
+
+
+		
+
+Another partent application of mine.
+
+
+		
+
+(tags: [my](http://del.icio.us/eob/my) [patent](http://del.icio.us/eob/patent))
+
+
+	
+
+	
+  * 
+		
+
+[Secure incremental updates to hierarchicaly structured information patent invention](http://www.freshpatents.com/Secure-incremental-updates-to-hierarchicaly-structured-information-dt20051208ptan20050273471.php)
+
+
+		
+
+ANd another patent application of mine.
+
+
+		
+
+(tags: [patent](http://del.icio.us/eob/patent) [my](http://del.icio.us/eob/my))
+
+
+	
+
+	
+  * 
+		
+
+[Method and system for performance level modeling and simulation of electronic systems having both hardware and software elements - Patent # 7069204 - PatentGenius](http://www.patentgenius.com/patent/7069204.html)
+
+
+		
+
+One of my patents that got awarded.
+
+
+		
+
+(tags: [my](http://del.icio.us/eob/my) [patent](http://del.icio.us/eob/patent))
+
+
+	
+
+	
+  * 
+		
+
+[esp@cenet document view](http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=WO0227565)
+
+
+		
+
+European patent for my hardware-software co-design work.
+
+
+		
+
+(tags: [my](http://del.icio.us/eob/my) [patent](http://del.icio.us/eob/patent))
+
+
+	
+
+
+

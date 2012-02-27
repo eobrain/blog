@@ -1,0 +1,28 @@
+---
+date: '2009-08-04 15:05:58'
+layout: post
+slug: links-for-2009-08-04
+status: publish
+title: Announcing Goat Rodeo
+wordpress_id: '420'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Lift, Goat Rodeo and Such  - David Pollak's Blog](http://blog.lostlake.org/index.php?/archives/94-Lift,-Goat-Rodeo-and-Such.html)
+
+
+                
+
+The author of Lift expresses some interesting points of view about web application architecture and announces the Goat Rodeo project.
+
+
+                
+
+(tags: [architecture](http://delicious.com/eob/architecture) [web2.0](http://delicious.com/eob/web2.0) [programming](http://delicious.com/eob/programming))
+
+
+            

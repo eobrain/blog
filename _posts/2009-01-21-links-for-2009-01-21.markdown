@@ -1,0 +1,28 @@
+---
+date: '2009-01-21 15:08:13'
+layout: post
+slug: links-for-2009-01-21
+status: publish
+title: links for 2009-01-21
+wordpress_id: '354'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[How to Create a Draggable Div](http://www.diffusedreality.com/content.html)
+
+
+                
+
+Handy JavaScript tricks
+
+
+                
+
+(tags: [javascript](http://delicious.com/eob/javascript))
+
+
+            

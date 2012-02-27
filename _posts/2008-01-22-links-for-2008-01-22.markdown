@@ -1,0 +1,33 @@
+---
+date: '2008-01-22 16:28:26'
+layout: post
+slug: links-for-2008-01-22
+status: publish
+title: links for 2008-01-22
+wordpress_id: '233'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Jasypt: Java simplified encryption - Main](http://www.jasypt.org/)
+
+
+		
+
+Handy easy-to-use wrapper around the Java security APIs.
+
+
+		
+
+(tags: [java](http://del.icio.us/eob/java) [library](http://del.icio.us/eob/library) [programming](http://del.icio.us/eob/programming) [security](http://del.icio.us/eob/security))
+
+
+	
+
+
+

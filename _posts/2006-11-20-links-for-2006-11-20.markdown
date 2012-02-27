@@ -1,0 +1,33 @@
+---
+date: '2006-11-20 16:31:54'
+layout: post
+slug: links-for-2006-11-20
+status: publish
+title: links for 2006-11-20
+wordpress_id: '140'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Associations in Ruby on Rails](http://wiki.rubyonrails.org/rails/pages/Associations)
+
+
+		
+
+Associations to add to rails model classes.
+
+
+		
+
+(tags: [rubyonrails](http://del.icio.us/eob/rubyonrails) [database](http://del.icio.us/eob/database) [ruby](http://del.icio.us/eob/ruby))
+
+
+	
+
+
+

@@ -1,0 +1,67 @@
+---
+date: '2008-12-10 15:04:23'
+layout: post
+slug: links-for-2008-12-10
+status: publish
+title: links for 2008-12-10
+wordpress_id: '335'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[danvk.org » san francisco](http://www.danvk.org/wp/category/san-francisco/)
+
+
+                
+
+Cool "now and then" San Francisco photos from 1945 and 2008, looking up Waller from Filmore.  Use the slider to compare them.  My home occupies a few pixels in the upper left of the photo.
+
+
+                
+
+(tags: [sanfrancisco](http://delicious.com/eob/sanfrancisco))
+
+
+            
+  * 
+                
+
+[JavaScript tutorial - DOM CSS](http://www.howtocreate.co.uk/tutorials/javascript/domcss)
+
+
+                
+
+How to get access to runtime style information for elements in JavaScript in a browser independent way.
+
+Actually this could be improved by using defaultView for some browsers instead of window.
+
+	var view = document.defaultView ? document.defaultView : window;
+	var style = view.getComputedStyle ?  view.getComputedStyle(obj, "") : obj.currentStyle ;
+
+
+                
+
+(tags: [programming](http://delicious.com/eob/programming) [javascript](http://delicious.com/eob/javascript) [css](http://delicious.com/eob/css))
+
+
+            
+  * 
+                
+
+[CutyCapt - A Qt WebKit Web Page Rendering Capture Utility](http://cutycapt.sourceforge.net/)
+
+
+                
+
+Command-line executable to generate bitmap or PDF from a URL
+
+
+                
+
+(tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [tool](http://delicious.com/eob/tool) [web](http://delicious.com/eob/web))
+
+
+            

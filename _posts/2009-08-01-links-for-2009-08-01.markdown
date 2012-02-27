@@ -1,0 +1,62 @@
+---
+date: '2009-08-01 15:03:27'
+layout: post
+slug: links-for-2009-08-01
+status: publish
+title: links for 2009-08-01
+wordpress_id: '417'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[HadoopStreaming - Hadoop Wiki](http://wiki.apache.org/hadoop/HadoopStreaming)
+
+
+                
+
+Map-Reduce with shell scripts as mappers and reducers -- implemented on top of Hadoop.
+
+
+                
+
+(tags: [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling))
+
+
+            
+  * 
+                
+
+[Last.fm – the Blog · Mapreduce Bash Script](http://blog.last.fm/2009/04/06/mapreduce-bash-script)
+
+
+                
+
+Map-Reduce implemented as a bash script!
+
+
+                
+
+(tags: [programming](http://delicious.com/eob/programming) [code](http://delicious.com/eob/code) [linux](http://delicious.com/eob/linux) [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling))
+
+
+            
+  * 
+                
+
+[Home - filemap - GitHub](http://wiki.github.com/mfisk/filemap)
+
+
+                
+
+A simple Map-Reduce framework in which the processing elements are executables operating on files.  It allows existing standard Linux command-line operations to be used as part of the Map-Reduce pipeline.
+
+
+                
+
+(tags: [networking](http://delicious.com/eob/networking) [python](http://delicious.com/eob/python) [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling))
+
+
+            

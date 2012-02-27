@@ -1,0 +1,17 @@
+---
+date: '2005-07-05 12:12:20'
+layout: post
+slug: img_0641-hawkjpg
+status: publish
+title: IMG_0641-hawk.JPG
+wordpress_id: '77'
+categories:
+- Photo
+---
+
+[![](http://photos18.flickr.com/23836535_027cd90ab1_m.jpg)](http://www.flickr.com/photos/eob/23836535/) 
+   [IMG_0641-hawk.JPG](http://www.flickr.com/photos/eob/23836535/)  
+  Originally uploaded by [Tolka Rover](http://www.flickr.com/people/eob/). 
+
+A hawk glimpsed from our back deck.  
+

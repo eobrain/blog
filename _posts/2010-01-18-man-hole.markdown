@@ -1,0 +1,14 @@
+---
+date: '2010-01-18 22:56:01'
+layout: post
+slug: man-hole
+status: publish
+title: Man hole
+wordpress_id: '620'
+categories:
+- Photo
+---
+
+[![](http://msnbcmedia.msn.com/j/MSNBC/Components/Slideshows/_production/ss-090722-dip/2007_twip_070118_11.ss_full.jpg)](http://msnbcmedia.msn.com/j/MSNBC/Components/Slideshows/_production/ss-090722-dip/2007_twip_070118_11.ss_full.jpg)
+
+From [](http://www.msnbc.msn.com/id/34261690/displaymode/1247/?beginSlide=1)MSNBC "2007: Floodwaters drain in Latvia: A Riga, Latvia, city worker stands on a manhole cover he removed to allow floodwater in Riga's Krasta Street to escape like bathwater down the drain"

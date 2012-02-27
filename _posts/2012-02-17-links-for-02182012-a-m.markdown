@@ -1,0 +1,29 @@
+---
+date: '2012-02-17 16:38:14'
+layout: post
+slug: links-for-02182012-a-m
+status: publish
+title: Conveniently-formatted data files with Wikipedia page linking data. It is a
+  bit out of date, but still good for testing algorithms.
+wordpress_id: '6219'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [Using the Wikipedia link dataset -- Henry Haselgrove](http://haselgrove.id.au/wikipedia.htm)      
+
+     
+
+Conveniently-formatted data files with Wikipedia page linking data.  It is a bit out of date, but still good for testing algorithms.
+
+             
+
+         tags:                      [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)            [web](http://www.diigo.com/user/eobrain/web)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

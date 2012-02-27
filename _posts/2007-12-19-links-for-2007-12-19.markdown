@@ -1,0 +1,33 @@
+---
+date: '2007-12-19 16:24:37'
+layout: post
+slug: links-for-2007-12-19
+status: publish
+title: links for 2007-12-19
+wordpress_id: '219'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[SWSE](http://www.google.com/gwt/n?u=http%3A%2F%2Fswse.org%2F)
+
+
+		
+
+Semantic Web Search Engine
+
+
+		
+
+(tags: [rdf](http://del.icio.us/eob/rdf))
+
+
+	
+
+
+

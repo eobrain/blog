@@ -1,0 +1,28 @@
+---
+date: '2012-01-29 04:32:46'
+layout: post
+slug: links-for-01292012-p-m
+status: publish
+title: Nice survey of the various social-network influence sites
+wordpress_id: '4336'
+categories:
+- Consumer Media
+---
+
+     
+  *      
+
+               [The Online Influence Players | Ressive Networks](http://ressivenetworks.com/2010/10/the-online-influence-players)      
+
+     
+
+Nice survey of the various social-network influence players, including some interesting math on how one of them calculates "influence" in terms of probabilities that others have read your postings.  (Note however, that this article is more than a year old, which is ancient in Internet-time.)
+
+             
+
+         tags:                      [social](http://www.diigo.com/user/eobrain/social)            [algorithm](http://www.diigo.com/user/eobrain/algorithm)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

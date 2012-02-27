@@ -1,0 +1,28 @@
+---
+date: '2007-01-30 16:25:01'
+layout: post
+slug: links-for-2007-01-30
+status: publish
+title: links for 2007-01-30
+wordpress_id: '168'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[ News and articles about Ruby and XML](http://www.rubyxml.com/articles/REXML/MySQL_and_REXML)
+
+
+		
+
+(tags: [programming](http://del.icio.us/eob/programming) [ruby](http://del.icio.us/eob/ruby) [database](http://del.icio.us/eob/database) [xml](http://del.icio.us/eob/xml))
+
+
+	
+
+
+

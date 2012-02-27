@@ -1,0 +1,28 @@
+---
+date: '2009-08-19 15:05:01'
+layout: post
+slug: links-for-2009-08-19
+status: publish
+title: Keyboard Not Working in Xorg After Booting Ubuntu
+wordpress_id: '427'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Keyboard Not Working in Xorg After Booting Ubuntu | Mats Lindh](http://e-mats.org/2009/05/keyboard-not-working-after-booting-ubuntu/)
+
+
+                
+
+I ran int this problem, and the fix described here worked like a charm.
+
+
+                
+
+(tags: [linux](http://delicious.com/eob/linux))
+
+
+            

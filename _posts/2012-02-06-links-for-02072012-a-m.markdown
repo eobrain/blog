@@ -1,0 +1,28 @@
+---
+date: '2012-02-06 16:37:05'
+layout: post
+slug: links-for-02072012-a-m
+status: trash
+title: links for 02/07/2012 (a.m.)
+wordpress_id: '5379'
+categories:
+- bookmarks
+---
+
+     
+  *      
+
+               [Designing a JavaScript client for a REST API - Ajaxian](http://ajaxian.com/archives/designing-a-javascript-client-for-a-rest-api#footnote3)      
+
+     
+
+Nice overview of the issues arounnd creating a JavaScript API around a REST API. (via Li Yi)
+
+             
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [api](http://www.diigo.com/user/eobrain/api)            [library](http://www.diigo.com/user/eobrain/library)            [programming](http://www.diigo.com/user/eobrain/programming)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

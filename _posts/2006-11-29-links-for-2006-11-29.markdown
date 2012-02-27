@@ -1,0 +1,52 @@
+---
+date: '2006-11-29 16:28:19'
+layout: post
+slug: links-for-2006-11-29
+status: publish
+title: links for 2006-11-29
+wordpress_id: '142'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Smilebox](http://www.smilebox.com/)
+
+
+		
+
+Another photo video show start-up.  Flash based, e-mailable.  Has SDK for Flash developers to submit their own designs for resale.
+
+
+		
+
+(tags: [photovideo](http://del.icio.us/eob/photovideo) [service](http://del.icio.us/eob/service) [business](http://del.icio.us/eob/business))
+
+
+	
+
+	
+  * 
+		
+
+[The only CSS layout you need(?) | Strictly CSS](http://www.strictlycss.com/articles/article/40/the-only-css-layout-you-need)
+
+
+		
+
+css cookbook examples
+
+
+		
+
+(tags: [css](http://del.icio.us/eob/css))
+
+
+	
+
+
+

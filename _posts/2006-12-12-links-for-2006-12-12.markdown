@@ -1,0 +1,52 @@
+---
+date: '2006-12-12 16:32:01'
+layout: post
+slug: links-for-2006-12-12
+status: publish
+title: links for 2006-12-12
+wordpress_id: '147'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[FLV Online Converter - vixy.net](http://vixy.net/flv_converter)
+
+
+		
+
+A tool to convert web FLV videos to other formats.  Could be handy!
+
+
+		
+
+(tags: [flash](http://del.icio.us/eob/flash) [video](http://del.icio.us/eob/video) [service](http://del.icio.us/eob/service) [tool](http://del.icio.us/eob/tool) [totry](http://del.icio.us/eob/totry))
+
+
+	
+
+	
+  * 
+		
+
+[:: GOM PLAYER ::](http://www.gomplayer.com/main.html)
+
+
+		
+
+Another video player that, like VLC and mplayer. includes its own codecs.  Also claims to be able to play broken videos.
+
+
+		
+
+(tags: [video](http://del.icio.us/eob/video) [windows](http://del.icio.us/eob/windows) [totry](http://del.icio.us/eob/totry))
+
+
+	
+
+
+

@@ -1,0 +1,38 @@
+---
+date: '2011-06-26 16:36:50'
+layout: post
+slug: links-for-06272011-a-m
+status: publish
+title: Seminal noSQL papers
+wordpress_id: '1220'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [Giuseppe DeCandia et al, "Dynamo: Amazon’s Highly Available Key-value Store"](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)      
+
+     
+
+Another of the seminal noSQL papers.
+
+                                       
+     
+  *      
+
+               [Fay Chan et al, "Bigtable: A Distributed Storage System for Structured Data"](http://static.googleusercontent.com/external_content/untrusted_dlcp/labs.google.com/en/us/papers/bigtable-osdi06.pdf)      
+
+     
+
+One of the seminal noSQL papers.
+
+             
+
+         tags:                      [database](http://www.diigo.com/user/eobrain/database)            [scaling](http://www.diigo.com/user/eobrain/scaling)            [architecture](http://www.diigo.com/user/eobrain/architecture)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

@@ -1,0 +1,22 @@
+---
+date: '2006-10-14 11:29:11'
+layout: post
+slug: '116'
+status: publish
+title: None
+wordpress_id: '116'
+categories:
+- Programming
+---
+
+With Ubunto it seems that Linux is getting closer to be a viable replacement for Windows.  I am several days into my experiment of running Ubunto as my operating system on my laptop.  So far it is going fairly well, but I have hit the following problems:  
+
+
+  1. I cannot get the Evolution connection to my companies Exchange server to work correctly.  For mail this is not a problem, because I can use an IMAP connection, but I really need to be able to connect to the Exchange calendar.
+  2. Ubuntu does not deal with monitors well.  It defaulted to a fairly low resolution and I had to do some arcane command-line magic and answer many questions about my LCD screen capabilities that I did not have readily to hand.  Not very friendly for a non-technical user.  Also it appears that if I want to be able to run with a second monitor attached to my laptop I have to do some pretty complex config file hacking.  It sure would be nice if Linux had something as convenient as Windows display properties configuration GUI.
+  3. The usual VPN solution for my company only works on Windows.  I will have to jump through some hoops to be able to work from home.
+  
+So I am glad I configured my laptop for dual boot. That way I can fire up Windows when I need it.  
+  
+One nice feature I found is that I can hibernate both WIndows and Linux, so that when I reboot to switch I am switching into a saved state of the other operating system.  However I did find some problem getting the wireless connection to work on Linux after waking up.  
+

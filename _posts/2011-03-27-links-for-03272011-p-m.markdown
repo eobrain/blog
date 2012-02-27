@@ -1,0 +1,28 @@
+---
+date: '2011-03-27 04:32:31'
+layout: post
+slug: links-for-03272011-p-m
+status: publish
+title: Handy cheat-cheat of SQL / mongoDB correspondences.
+wordpress_id: '1187'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [SQL to Mongo Mapping Chart - MongoDB](http://www.mongodb.org/display/DOCS/SQL+to+Mongo+Mapping+Chart)      
+
+     
+
+Handy cheat-cheat of SQL / mongoDB correspondences.
+
+             
+
+         tags:                      [database](http://www.diigo.com/user/eobrain/database)            [scaling](http://www.diigo.com/user/eobrain/scaling)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

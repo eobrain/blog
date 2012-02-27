@@ -1,0 +1,28 @@
+---
+date: '2010-06-11 15:06:02'
+layout: post
+slug: links-for-2010-06-11
+status: publish
+title: A nice framework for implementing REST services in Java.
+wordpress_id: '897'
+categories:
+- Programming
+---
+
+  * 
+                
+
+[jersey: Home](https://jersey.dev.java.net/)
+
+
+                
+
+A nice framework for implementing REST services in Java.  It's use of annotations make the code a lot cleaner than when using the Restlet library.  However unlike Restlet it has a lot of dependencies and is more difficult to get setup.
+
+
+                
+
+(tags: [java](http://delicious.com/eob/java) [api](http://delicious.com/eob/api) [library](http://delicious.com/eob/library) [programming](http://delicious.com/eob/programming) [webservices](http://delicious.com/eob/webservices) [web](http://delicious.com/eob/web))
+
+
+            

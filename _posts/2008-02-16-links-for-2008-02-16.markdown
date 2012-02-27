@@ -1,0 +1,52 @@
+---
+date: '2008-02-16 16:19:25'
+layout: post
+slug: links-for-2008-02-16
+status: publish
+title: links for 2008-02-16
+wordpress_id: '245'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Image management for my common workflow | Brad Ideas](http://ideas.4brad.com/archives/000189.html)
+
+
+		
+
+Wishlist for photo management UI and workflow
+
+
+		
+
+(tags: [photo](http://del.icio.us/eob/photo))
+
+
+	
+
+	
+  * 
+		
+
+[CakePHP: the rapid development php framework. Home](http://www.cakephp.org/)
+
+
+		
+
+Bringing a Rails-like aproach to PHP.
+
+
+		
+
+(tags: [php](http://del.icio.us/eob/php) [library](http://del.icio.us/eob/library) [design](http://del.icio.us/eob/design) [code](http://del.icio.us/eob/code))
+
+
+	
+
+
+

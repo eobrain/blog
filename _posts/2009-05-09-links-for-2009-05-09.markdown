@@ -1,0 +1,28 @@
+---
+date: '2009-05-09 15:04:09'
+layout: post
+slug: links-for-2009-05-09
+status: publish
+title: Identity in the Age of Cloud Computing
+wordpress_id: '394'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Identity in the Age of Cloud Computing](http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/Identity_in_the_Age_of_Cloud_Computing.pdf)
+
+
+                
+
+Report from a round table at the Aspen Institute
+
+
+                
+
+(tags: [networking](http://delicious.com/eob/networking) [politics](http://delicious.com/eob/politics) [architecture](http://delicious.com/eob/architecture))
+
+
+            

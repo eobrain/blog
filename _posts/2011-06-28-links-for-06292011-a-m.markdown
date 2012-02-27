@@ -1,0 +1,40 @@
+---
+date: '2011-06-28 16:37:38'
+layout: post
+slug: links-for-06292011-a-m
+status: publish
+title: Puppet and Chef are two popular tools for automating the deployment of large
+  scale applications in data centers servers and elastic cloud.
+wordpress_id: '1221'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [Opscode - Rule The Cloud | Opscode](http://www.opscode.com/chef)      
+
+     
+
+  
+
+
+             
+
+         tags:                      [architecture](http://www.diigo.com/user/eobrain/architecture)            [deployment](http://www.diigo.com/user/eobrain/deployment)
+
+                                       
+     
+  *      
+
+               [Puppet Labs: The Leading Open Source Data Center Automation Solutio](http://www.puppetlabs.com)
+
+             
+
+         tags:                      [architecture](http://www.diigo.com/user/eobrain/architecture)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

@@ -1,0 +1,62 @@
+---
+date: '2010-04-04 15:03:47'
+layout: post
+slug: links-for-2010-04-04
+status: publish
+title: Java matrix packages with linear system solvers
+wordpress_id: '827'
+categories:
+- Programming
+---
+
+  * 
+                
+
+[UJMP » Universal Java Matrix Package » About](http://www.ujmp.org/)
+
+
+                
+
+A very flexible Java programming framework that integrates many different Java matrix libraries.
+
+
+                
+
+(tags: [java](http://delicious.com/eob/java) [library](http://delicious.com/eob/library) [programming](http://delicious.com/eob/programming) [algorithm](http://delicious.com/eob/algorithm))
+
+
+            
+  * 
+                
+
+[Overview - matrix-toolkits-java - Overview of Matrix Toolkits for Java (MTJ) - Project Hosting on Google Code](http://code.google.com/p/matrix-toolkits-java/wiki/Overview)
+
+
+                
+
+A comprehensive Java matrix library, including support for iterative solvers and native speed-up for dense matrices.
+
+
+                
+
+(tags: [java](http://delicious.com/eob/java) [library](http://delicious.com/eob/library) [algorithm](http://delicious.com/eob/algorithm))
+
+
+            
+  * 
+                
+
+[inv](http://billharlan.com/pub/code/inv/index.html)
+
+
+                
+
+More recent version of the "optimal" code, including pointers to where it is included in the Mines Java Toolkit.
+
+
+                
+
+(tags: [java](http://delicious.com/eob/java) [algorithm](http://delicious.com/eob/algorithm) [library](http://delicious.com/eob/library))
+
+
+            

@@ -1,0 +1,33 @@
+---
+date: '2008-03-08 16:24:03'
+layout: post
+slug: links-for-2008-03-08
+status: publish
+title: links for 2008-03-08
+wordpress_id: '254'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Exceptional Performance](http://developer.yahoo.com/performance/)
+
+
+		
+
+Websit performance tips.
+
+
+		
+
+(tags: [architecture](http://del.icio.us/eob/architecture) [code](http://del.icio.us/eob/code) [design](http://del.icio.us/eob/design) [css](http://del.icio.us/eob/css) [ajax](http://del.icio.us/eob/ajax))
+
+
+	
+
+
+

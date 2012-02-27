@@ -1,0 +1,45 @@
+---
+date: '2010-07-07 15:03:11'
+layout: post
+slug: links-for-2010-07-07
+status: publish
+title: links for 2010-07-07
+wordpress_id: '908'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Welcome to the Shared Digital Future | www.hathitrust.org](http://www.hathitrust.org/)
+
+
+                
+
+A way to access scanned books without going through Google
+
+
+                
+
+(tags: [books](http://delicious.com/eob/books) [library](http://delicious.com/eob/library) [metadata](http://delicious.com/eob/metadata) [reference](http://delicious.com/eob/reference))
+
+
+            
+  * 
+                
+
+[Padraig O'Sullivan - Building a Small Cassandra Cluster for Testing and Development](http://posulliv.com/2009/09/07/building-a-small-cassandra-cluster-for-testing-and-development.html)
+
+
+                
+
+Handy little howto for setting up Cassandra
+
+
+                
+
+(tags: [database](http://delicious.com/eob/database) [tutorial](http://delicious.com/eob/tutorial))
+
+
+            

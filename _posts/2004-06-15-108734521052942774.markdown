@@ -1,0 +1,10 @@
+---
+date: '2004-06-15 17:20:10'
+layout: post
+slug: '108734521052942774'
+status: publish
+title: '108734521052942774'
+wordpress_id: '21'
+---
+
+Well, I did a quick look around on the net and most people seemed to think that [w.bloggar](http://wbloggar.com/) is the best blogging tool.  So here is my first attempt to post with it.

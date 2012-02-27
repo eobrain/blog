@@ -1,0 +1,33 @@
+---
+date: '2007-10-29 16:31:25'
+layout: post
+slug: links-for-2007-10-29
+status: publish
+title: links for 2007-10-29
+wordpress_id: '204'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Testing Concurrent Programs](http://www.theserverside.com/tt/articles/article.tss?l=TestingConcurrent)
+
+
+		
+
+Some valuable guidelines for testing concurrent code
+
+
+		
+
+(tags: [programming](http://del.icio.us/eob/programming) [java](http://del.icio.us/eob/java))
+
+
+	
+
+
+

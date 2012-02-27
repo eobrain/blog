@@ -1,0 +1,42 @@
+---
+date: '2011-06-15 16:39:29'
+layout: post
+slug: links-for-06162011-a-m
+status: publish
+title: links for 06/16/2011 (a.m.)
+wordpress_id: '1212'
+categories:
+- bookmarks
+---
+
+     
+  *      
+
+               [Home | OpenCalais](http://www.opencalais.com)      
+
+     
+
+Semantic analysis web service
+
+             
+
+         tags:                      [metadata](http://www.diigo.com/user/eobrain/metadata)            [api](http://www.diigo.com/user/eobrain/api)            [webservices](http://www.diigo.com/user/eobrain/webservices)
+
+                                                                       
+     
+  *      
+
+               [CSS Lint](http://csslint.net)      
+
+     
+
+online tool to check for problems in your CSS stylesheets
+
+             
+
+         tags:                      [css](http://www.diigo.com/user/eobrain/css)            [web](http://www.diigo.com/user/eobrain/web)            [tool](http://www.diigo.com/user/eobrain/tool)            [webservices](http://www.diigo.com/user/eobrain/webservices)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

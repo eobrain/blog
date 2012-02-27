@@ -1,0 +1,33 @@
+---
+date: '2007-09-04 16:32:35'
+layout: post
+slug: links-for-2007-09-04
+status: publish
+title: links for 2007-09-04
+wordpress_id: '191'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[PreliminaryProgram.pdf (application/pdf Object)](http://mmc36.informatik.uni-augsburg.de/acmmm2007/PreliminaryProgram.pdf)
+
+
+		
+
+Program for ACM Multimedia 2007
+
+
+		
+
+(tags: [travel](http://del.icio.us/eob/travel))
+
+
+	
+
+
+

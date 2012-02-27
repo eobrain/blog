@@ -1,0 +1,42 @@
+---
+date: '2011-12-21 16:37:02'
+layout: post
+slug: links-for-12222011-a-m
+status: publish
+title: links for 12/22/2011 (a.m.)
+wordpress_id: '1258'
+categories:
+- bookmarks
+---
+
+     
+  *      
+
+               [Zappa: CoffeeScript-optimized interface for building web apps on Node.js with Express and Socket.IO.](http://zappajs.org)      
+
+     
+
+Coffesscript web framework on top of node.js
+
+             
+
+         tags:                      [web](http://www.diigo.com/user/eobrain/web)            [coffescript](http://www.diigo.com/user/eobrain/coffescript)            [javascript](http://www.diigo.com/user/eobrain/javascript)
+
+                                       
+     
+  *      
+
+               [riak-js: Javascript Turtles All the Way Down](http://www.slideshare.net/seancribbs/riakjs-javascript-turtles-all-the-way-down)      
+
+     
+
+Using Riak from node.js
+
+             
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [database](http://www.diigo.com/user/eobrain/database)            [scaling](http://www.diigo.com/user/eobrain/scaling)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

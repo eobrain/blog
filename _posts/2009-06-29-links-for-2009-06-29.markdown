@@ -1,0 +1,28 @@
+---
+date: '2009-06-29 15:05:01'
+layout: post
+slug: links-for-2009-06-29
+status: publish
+title: Handy formulae for converting between different color spaces
+wordpress_id: '407'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[EasyRGB - The inimitable RGB and COLOR search engine!](http://www.easyrgb.com/index.php?X=MATH)
+
+
+                
+
+Handy formulae for converting between different color spaces
+
+
+                
+
+(tags: [programming](http://delicious.com/eob/programming) [graphics](http://delicious.com/eob/graphics) [code](http://delicious.com/eob/code))
+
+
+            

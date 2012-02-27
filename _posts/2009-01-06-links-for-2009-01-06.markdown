@@ -1,0 +1,62 @@
+---
+date: '2009-01-06 15:03:24'
+layout: post
+slug: links-for-2009-01-06
+status: publish
+title: links for 2009-01-06
+wordpress_id: '344'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[PeeDee's webstrip at master — GitHub](http://github.com/PeeDee/webstrip/tree/master)
+
+
+                
+
+Ruby Camping web application to remove unwanted stuff from web pages.
+
+
+                
+
+(tags: [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[PrintWhatYouLike.com News](http://printwhatyoulike.wordpress.com/)
+
+
+                
+
+The blog for the web page printing web service.
+
+
+                
+
+(tags: [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[Six Features of a Good User Story - INVEST Model | Agile Software Development](http://agilesoftwaredevelopment.com/blog/vaibhav/good-user-story-invest)
+
+
+                
+
+A description of what an Agile user story should look like -- more concrete than most descriptions.
+
+
+                
+
+(tags: [design](http://delicious.com/eob/design) [agile](http://delicious.com/eob/agile))
+
+
+            

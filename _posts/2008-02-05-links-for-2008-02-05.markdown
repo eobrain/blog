@@ -1,0 +1,52 @@
+---
+date: '2008-02-05 16:21:47'
+layout: post
+slug: links-for-2008-02-05
+status: publish
+title: links for 2008-02-05
+wordpress_id: '239'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[RDF Site Summary (RSS) 1.0](http://web.resource.org/rss/1.0/spec)
+
+
+		
+
+Spec for RDF variant of RSS
+
+
+		
+
+(tags: [programming](http://del.icio.us/eob/programming) [rdf](http://del.icio.us/eob/rdf) [web2.0](http://del.icio.us/eob/web2.0) [reference](http://del.icio.us/eob/reference) [metadata](http://del.icio.us/eob/metadata))
+
+
+	
+
+	
+  * 
+		
+
+[TWiki . Javawsxml . Rome05TutorialFeedWriter](http://wiki.java.net/bin/view/Javawsxml/Rome05TutorialFeedWriter)
+
+
+		
+
+Creating a feed using the ROME library
+
+
+		
+
+(tags: [programming](http://del.icio.us/eob/programming) [tutorial](http://del.icio.us/eob/tutorial) [java](http://del.icio.us/eob/java) [library](http://del.icio.us/eob/library) [metadata](http://del.icio.us/eob/metadata))
+
+
+	
+
+
+

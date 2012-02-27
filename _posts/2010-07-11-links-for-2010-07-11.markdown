@@ -1,0 +1,45 @@
+---
+date: '2010-07-11 15:04:16'
+layout: post
+slug: links-for-2010-07-11
+status: publish
+title: links for 2010-07-11
+wordpress_id: '909'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Logo Design, Web Design and Copywriting by the World's Best Creative Team | crowdSPRING](http://www.crowdspring.com/)
+
+
+                
+
+Similar to Logoworks.  Covered by the "On the Media" radio program on 11 July 2010.
+
+
+                
+
+(tags: [business](http://delicious.com/eob/business) [design](http://delicious.com/eob/design) [graphics](http://delicious.com/eob/graphics) [web](http://delicious.com/eob/web) [web2.0](http://delicious.com/eob/web2.0))
+
+
+            
+  * 
+                
+
+[Exploring the software behind Facebook, the world’s largest site | Royal Pingdom](http://royal.pingdom.com/2010/06/18/the-software-behind-facebook/)
+
+
+                
+
+Interesting list of the software technologies that Facebook uses.
+
+
+                
+
+(tags: [architecture](http://delicious.com/eob/architecture) [deployment](http://delicious.com/eob/deployment) [facebook](http://delicious.com/eob/facebook) [php](http://delicious.com/eob/php) [programming](http://delicious.com/eob/programming) [scaling](http://delicious.com/eob/scaling) [technology](http://delicious.com/eob/technology) [web](http://delicious.com/eob/web))
+
+
+            

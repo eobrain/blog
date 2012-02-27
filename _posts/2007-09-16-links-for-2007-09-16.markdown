@@ -1,0 +1,52 @@
+---
+date: '2007-09-16 16:25:07'
+layout: post
+slug: links-for-2007-09-16
+status: publish
+title: links for 2007-09-16
+wordpress_id: '194'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[PatternLayout (Apache Log4j 1.2.15 API)](http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/PatternLayout.html)
+
+
+		
+
+How to format log4j messages.
+
+
+		
+
+(tags: [java](http://del.icio.us/eob/java) [reference](http://del.icio.us/eob/reference))
+
+
+	
+
+	
+  * 
+		
+
+[eStarling_API_Guide.pdf (application/pdf Object)](http://www.estarling.com/download/eStarling_API_Guide.pdf)
+
+
+		
+
+Web service API for the eStarling photo frame
+
+
+		
+
+(tags: [photo](http://del.icio.us/eob/photo) [service](http://del.icio.us/eob/service) [programming](http://del.icio.us/eob/programming))
+
+
+	
+
+
+

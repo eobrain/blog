@@ -1,0 +1,42 @@
+---
+date: '2012-02-09 04:33:41'
+layout: post
+slug: links-for-02092012-p-m
+status: publish
+title: You used to need flash to do this.  Now you can do it in HTML5.
+wordpress_id: '5607'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [cakejs - CAKE - Canvas Animation Kit Experiment - Google Project Hosting](http://code.google.com/p/cakejs)      
+
+     
+
+JavaScript canvas drawing library
+
+             
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [graphics](http://www.diigo.com/user/eobrain/graphics)            [html5](http://www.diigo.com/user/eobrain/html5)            [library](http://www.diigo.com/user/eobrain/library)
+
+                                       
+     
+  *      
+
+               [mrdoob/three.js - GitHub](https://github.com/mrdoob/three.js)      
+
+     
+
+A JavaScript 3D library.
+
+             
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [3d](http://www.diigo.com/user/eobrain/3d)            [html5](http://www.diigo.com/user/eobrain/html5)            [programming](http://www.diigo.com/user/eobrain/programming)            [library](http://www.diigo.com/user/eobrain/library)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

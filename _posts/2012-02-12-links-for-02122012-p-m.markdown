@@ -1,0 +1,56 @@
+---
+date: '2012-02-12 04:32:31'
+layout: post
+slug: links-for-02122012-p-m
+status: publish
+title: Scala resources from the people who built Twitter
+wordpress_id: '5886'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [twitter/finagle - GitHub](https://github.com/twitter/finagle)      
+
+     
+
+A Scala RPC library from the Twitter devs.
+
+             
+
+         tags:                      [scala](http://www.diigo.com/user/eobrain/scala)            [library](http://www.diigo.com/user/eobrain/library)
+
+                                       
+     
+  *      
+
+               [twitter/util - GitHub](https://github.com/twitter/util)      
+
+     
+
+A Scala library that fills in some gaps in the standard library.
+
+             
+
+         tags:                      [scala](http://www.diigo.com/user/eobrain/scala)            [library](http://www.diigo.com/user/eobrain/library)
+
+                                       
+     
+  *      
+
+               [Effective Scala](http://twitter.github.com/effectivescala/#Concurrency)      
+
+     
+
+Excellent advice from Twitter devs on programming in Scala.
+
+             
+
+         tags:                      [scala](http://www.diigo.com/user/eobrain/scala)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

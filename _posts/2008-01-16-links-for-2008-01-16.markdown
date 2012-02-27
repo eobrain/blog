@@ -1,0 +1,33 @@
+---
+date: '2008-01-16 16:23:05'
+layout: post
+slug: links-for-2008-01-16
+status: publish
+title: links for 2008-01-16
+wordpress_id: '231'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Apsis Gmbh](http://www.apsis.ch/pound/)
+
+
+		
+
+Software load balancer
+
+
+		
+
+(tags: [deployment](http://del.icio.us/eob/deployment) [networking](http://del.icio.us/eob/networking) [network](http://del.icio.us/eob/network))
+
+
+	
+
+
+

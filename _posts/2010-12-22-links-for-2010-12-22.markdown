@@ -1,0 +1,60 @@
+---
+date: '2010-12-22 15:13:55'
+layout: post
+slug: links-for-2010-12-22
+status: publish
+title: links for 2010-12-22
+wordpress_id: '1063'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Git Reference](http://gitref.org/remotes/#fetch)
+
+
+                
+                
+
+  *                
+
+(tags: [mobile](http://www.delicious.com/eob/mobile) [guide](http://www.delicious.com/eob/guide) [tutorial](http://www.delicious.com/eob/tutorial) [hp](http://www.delicious.com/eob/hp) [palm](http://www.delicious.com/eob/palm))
+
+
+            
+  * 
+                
+
+[Dashboard - Pivotal Tracker](https://www.pivotaltracker.com/dashboard)
+
+
+                
+
+Very nice free agile planning tool that I use for my personal programming projects.
+
+
+                
+
+(tags: [pivotal](http://www.delicious.com/eob/pivotal) [tracker](http://www.delicious.com/eob/tracker) [agile](http://www.delicious.com/eob/agile) [service](http://www.delicious.com/eob/service) [tool](http://www.delicious.com/eob/tool))
+
+
+            
+  * 
+                
+
+[SG](http://social-guardian.bruntonspall.staxapps.net/)
+
+
+                
+
+This is an interesting experiment in adaptive reading of news articles.  (The website is built using Scala Lift.)
+
+
+                
+
+(tags: [scala](http://www.delicious.com/eob/scala) [web2.0](http://www.delicious.com/eob/web2.0) [news](http://www.delicious.com/eob/news))
+
+
+            

@@ -1,0 +1,97 @@
+---
+date: '2010-11-09 15:04:25'
+layout: post
+slug: links-for-2010-11-09
+status: publish
+title: links for 2010-11-9
+wordpress_id: '1005'
+categories:
+- bookmarks
+- Programming
+---
+
+  * 
+                
+
+[TwtBks.com - Turn Tweets Into Books Like Magic](http://www.twtbks.com/)
+
+
+                
+
+Creates books from Twitter, enhanced your tweets with matching photos from Flickr.
+
+
+                
+
+(tags: [web2.0](http://www.delicious.com/eob/web2.0) [webpageprinting](http://www.delicious.com/eob/webpageprinting) [web](http://www.delicious.com/eob/web) [printing](http://www.delicious.com/eob/printing) [service](http://www.delicious.com/eob/service) [startup](http://www.delicious.com/eob/startup) [sanfrancisco](http://www.delicious.com/eob/sanfrancisco))
+
+
+            
+  * 
+                
+
+[RabbitMQ - Messaging that just works](http://www.rabbitmq.com/)
+
+
+                
+
+A popular messaging server.
+
+
+                
+
+(tags: [architecture](http://www.delicious.com/eob/architecture) [library](http://www.delicious.com/eob/library) [programming](http://www.delicious.com/eob/programming))
+
+
+            
+  * 
+                
+
+[MemcacheDB: A distributed key-value storage system designed for persistent](http://memcachedb.org/)
+
+
+                
+
+A persistent version of memcached.
+
+
+                
+
+(tags: [database](http://www.delicious.com/eob/database) [programming](http://www.delicious.com/eob/programming) [scaling](http://www.delicious.com/eob/scaling) [web](http://www.delicious.com/eob/web))
+
+
+            
+  * 
+                
+
+[daemontools supervise](http://cr.yp.to/daemontools/supervise.html)
+
+
+                
+
+Simple way to automatically restart programs that crash.
+
+
+                
+
+(tags: [programming](http://www.delicious.com/eob/programming) [service](http://www.delicious.com/eob/service) [architecture](http://www.delicious.com/eob/architecture))
+
+
+            
+  * 
+                
+
+[Hipmunk: Better Flight Search](http://www.hipmunk.com/)
+
+
+                
+
+Nice visualization of options when booking flights.
+
+
+                
+
+(tags: [service](http://www.delicious.com/eob/service) [travel](http://www.delicious.com/eob/travel))
+
+
+            

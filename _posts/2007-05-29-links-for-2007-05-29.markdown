@@ -1,0 +1,52 @@
+---
+date: '2007-05-29 16:37:47'
+layout: post
+slug: links-for-2007-05-29
+status: publish
+title: links for 2007-05-29
+wordpress_id: '188'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Replacing headlight bulbs for the VW Passat](http://home.comcast.net/~slashpub/headlights/ReplacingHeadlightBulbs.pdf)
+
+
+		
+
+It turns out to be non-trivial to replace the headlight bulbs in our Passat.
+
+
+		
+
+(tags: [car](http://del.icio.us/eob/car) [tutorial](http://del.icio.us/eob/tutorial))
+
+
+	
+
+	
+  * 
+		
+
+[Volkswagen Passat Headlight Bulbs](http://autorepair.about.com/library/faqs/bl607h.htm)
+
+
+		
+
+Another reference for changing passat headlight bulbs.  But these instructions do not address the problem of accessing the back of the assembly.
+
+
+		
+
+(tags: [car](http://del.icio.us/eob/car) [tutorial](http://del.icio.us/eob/tutorial))
+
+
+	
+
+
+

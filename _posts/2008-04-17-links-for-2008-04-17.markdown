@@ -1,0 +1,33 @@
+---
+date: '2008-04-17 16:37:39'
+layout: post
+slug: links-for-2008-04-17
+status: publish
+title: links for 2008-04-17
+wordpress_id: '271'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Diffie-Hellman key exchange](http://nighthawk.enanocms.org/workbench/diffiehellman/diffiehellman.php)
+
+
+		
+
+Javascript implementation of Diffie-Hellman key exchange
+
+
+		
+
+(tags: [programming](http://del.icio.us/eob/programming) [service](http://del.icio.us/eob/service))
+
+
+	
+
+
+

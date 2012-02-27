@@ -1,0 +1,28 @@
+---
+date: '2011-04-16 04:32:01'
+layout: post
+slug: links-for-04162011-p-m
+status: publish
+title: Lots of interesting data, available via a convenient API.
+wordpress_id: '1193'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [Infochimps Data Marketplace + Commons: Download Sell or Share Databases, statistics, datasets for free | Infochimps](http://www.infochimps.com)      
+
+     
+
+Lots of interesting data, available via a convenient API.
+
+             
+
+         tags:                      [api](http://www.diigo.com/user/eobrain/api)            [webservices](http://www.diigo.com/user/eobrain/webservices)            [web2.0](http://www.diigo.com/user/eobrain/web2.0)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

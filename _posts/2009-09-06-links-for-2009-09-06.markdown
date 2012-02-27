@@ -1,0 +1,28 @@
+---
+date: '2009-09-06 15:05:31'
+layout: post
+slug: links-for-2009-09-06
+status: publish
+title: How to make a live USB Ubuntu, with persistence
+wordpress_id: '430'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[[ubuntu netbook remix] How to use all space on a large USB flash drive with Remix installed ? - Ubuntu Forums](http://ubuntuforums.org/showthread.php?p=7220253#post7220253)
+
+
+                
+
+How to make a live USB Ubuntu, with persistence
+
+
+                
+
+(tags: [linux](http://delicious.com/eob/linux))
+
+
+            

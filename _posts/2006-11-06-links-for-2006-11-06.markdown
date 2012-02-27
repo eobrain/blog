@@ -1,0 +1,52 @@
+---
+date: '2006-11-06 16:30:02'
+layout: post
+slug: links-for-2006-11-06
+status: publish
+title: links for 2006-11-06
+wordpress_id: '126'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[SOAP by Example](http://www.intertwingly.net/stories/2002/12/20/sbe.html)
+
+
+		
+
+How to do SOAP programming very simply.
+
+
+		
+
+(tags: [python](http://del.icio.us/eob/python) [programming](http://del.icio.us/eob/programming) [network](http://del.icio.us/eob/network) [service](http://del.icio.us/eob/service))
+
+
+	
+
+	
+  * 
+		
+
+[:: Design for a better internet :: Open Source by Ted Forbes ::](http://design.tedforbes.com/)
+
+
+		
+
+Using FLickr as a back-end CMS for a photo gallery.
+
+
+		
+
+(tags: [photo](http://del.icio.us/eob/photo) [service](http://del.icio.us/eob/service) [totry](http://del.icio.us/eob/totry))
+
+
+	
+
+
+

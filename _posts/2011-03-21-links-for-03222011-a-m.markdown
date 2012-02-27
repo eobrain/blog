@@ -1,0 +1,42 @@
+---
+date: '2011-03-21 16:38:34'
+layout: post
+slug: links-for-03222011-a-m
+status: publish
+title: links for 03/22/2011 (a.m.)
+wordpress_id: '1168'
+categories:
+- bookmarks
+---
+
+     
+  *      
+
+               [Less Framework 4](http://lessframework.com)      
+
+     
+
+A nice-looking CSS framework for building grid-based web sites that are responsive to different screen sizes.
+
+             
+
+         tags:                      [programming](http://www.diigo.com/user/eobrain/programming)            [css](http://www.diigo.com/user/eobrain/css)            [html5](http://www.diigo.com/user/eobrain/html5)            [mobile](http://www.diigo.com/user/eobrain/mobile)            [layout](http://www.diigo.com/user/eobrain/layout)
+
+                                       
+     
+  *      
+
+               [API Console](https://apigee.com/console)      
+
+     
+
+A way of testing web APIs that is more convenient than curl.
+
+             
+
+         tags:                      [programming](http://www.diigo.com/user/eobrain/programming)            [api](http://www.diigo.com/user/eobrain/api)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

@@ -1,0 +1,39 @@
+---
+date: '2011-01-07 15:23:34'
+layout: post
+slug: links-for-2011-01-07
+status: publish
+title: Kenny Gorman, data architect at Shutterfly has been talking about how they
+  use a NoSQL database at Shutterfly
+wordpress_id: '1092'
+categories:
+- Consumer Media
+- Programming
+---
+
+  * 
+                
+
+[NoSQL Databases - NoSQL Databases - Q](http://www.nosqldatabases.com/main/2011/1/6/q-a-with-kenny-gorman-data-architect-for-shutterfly-inc.html)
+
+
+                
+
+Interview
+
+
+                
+            
+  * 
+                
+
+[Sharing Lifes Joy With Mongodb: A Shutterfly Case Study](http://www.scribd.com/doc/44994351/Sharing-Lifes-Joy-With-Mongodb-A-Shutterfly-Case-Study)
+
+
+                
+
+Presentation
+
+
+                
+            

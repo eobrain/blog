@@ -1,0 +1,52 @@
+---
+date: '2008-05-09 16:41:06'
+layout: post
+slug: links-for-2008-05-09
+status: publish
+title: links for 2008-05-09
+wordpress_id: '278'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Snapfish Lab - Home](http://snapfishlab.com/)
+
+
+		
+
+Snapfish Lab contains a collection of media processing tools that you can use with your SnapFish photo collection. These tools are based on technologies currently being developed at HP Labs.
+
+
+		
+
+(tags: [hp](http://del.icio.us/eob/hp) [snapfishlab](http://del.icio.us/eob/snapfishlab) [photo](http://del.icio.us/eob/photo))
+
+
+	
+
+	
+  * 
+		
+
+[Fabjectory - virtual objects in real life](http://www.fabjectory.com/)
+
+
+		
+
+Use 3D printer to make real verion of virtual objects and avatars.
+
+
+		
+
+(tags: [3d](http://del.icio.us/eob/3d))
+
+
+	
+
+
+

@@ -1,0 +1,41 @@
+---
+date: '2010-01-16 15:01:57'
+layout: post
+slug: links-for-2010-01-16
+status: publish
+title: Some Maven repos (handy for SBT too)
+wordpress_id: '618'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Index of /maven2/](http://repo2.maven.org/maven2/)
+
+
+                
+
+One of the main Maven repositories.
+
+
+                
+
+(tags: [java](http://delicious.com/eob/java) [programming](http://delicious.com/eob/programming))
+
+
+            
+  * 
+                
+
+[Index of /repo-snapshots/](http://scala-tools.org/repo-snapshots/)
+
+
+                
+
+This is one of the repositories where SBT (Simple Built Tool) looks for external JAR dependencies specified with as an inline declaration in the SBT project definition.
+
+
+                
+            

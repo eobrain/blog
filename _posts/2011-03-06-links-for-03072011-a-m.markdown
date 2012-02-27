@@ -1,0 +1,28 @@
+---
+date: '2011-03-06 16:38:15'
+layout: post
+slug: links-for-03072011-a-m
+status: publish
+title: A nice looking  JavaScript library for dynamically modifying web pages.
+wordpress_id: '1153'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [Knockout : Home](http://knockoutjs.com)      
+
+     
+
+A nice looking  JavaScript library for dynamically modifying web pages.
+
+             
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [programming](http://www.diigo.com/user/eobrain/programming)            [library](http://www.diigo.com/user/eobrain/library)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

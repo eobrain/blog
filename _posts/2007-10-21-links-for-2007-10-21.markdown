@@ -1,0 +1,33 @@
+---
+date: '2007-10-21 16:23:08'
+layout: post
+slug: links-for-2007-10-21
+status: publish
+title: links for 2007-10-21
+wordpress_id: '202'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[rfacebook - facebook api for ruby and rails](http://rfacebook.rubyforge.org/)
+
+
+		
+
+Using Rails to create a facebook application.
+
+
+		
+
+(tags: [rubyonrails](http://del.icio.us/eob/rubyonrails) [ruby](http://del.icio.us/eob/ruby) [facebook](http://del.icio.us/eob/facebook) [programming](http://del.icio.us/eob/programming) [library](http://del.icio.us/eob/library) [web2.0](http://del.icio.us/eob/web2.0))
+
+
+	
+
+
+

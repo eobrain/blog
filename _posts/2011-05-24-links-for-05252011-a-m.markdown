@@ -1,0 +1,46 @@
+---
+date: '2011-05-24 16:39:36'
+layout: post
+slug: links-for-05252011-a-m
+status: publish
+title: links for 05/25/2011 (a.m.)
+wordpress_id: '1207'
+categories:
+- bookmarks
+---
+
+     
+  *      
+
+               [removing stale members from the ring was: Re: Questions about ring sta](http://permalink.gmane.org/gmane.comp.db.riak.user/1441)      
+
+     
+
+How to remove a zombie Riak node from a cluster:
+1.  riak attach
+2.  {ok, C} = riak:local_client(). 
+3.  C:remove_from_cluster('riak@host').
+4   ^D
+
+             
+
+         tags:                      [database](http://www.diigo.com/user/eobrain/database)            [scaling](http://www.diigo.com/user/eobrain/scaling)
+
+                                       
+     
+  *      
+
+               [Getting Started - Making AJAX Applications Crawlable - Google Code](http://code.google.com/web/ajaxcrawling/docs/getting-started.html)      
+
+     
+
+How to make AJAX sites crawlable by Google.
+
+             
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [seo](http://www.diigo.com/user/eobrain/seo)            [web](http://www.diigo.com/user/eobrain/web)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

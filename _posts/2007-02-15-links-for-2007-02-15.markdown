@@ -1,0 +1,52 @@
+---
+date: '2007-02-15 16:24:10'
+layout: post
+slug: links-for-2007-02-15
+status: publish
+title: links for 2007-02-15
+wordpress_id: '177'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Top: show](http://127.0.0.1:3000/)
+
+
+		
+
+Default localhost page when developing with Ruby on Rails.
+
+
+		
+
+(tags: [ruby](http://del.icio.us/eob/ruby) [rubyonrails](http://del.icio.us/eob/rubyonrails))
+
+
+	
+
+	
+  * 
+		
+
+[RubyForge: objectiveflickr: Project Info](http://rubyforge.org/projects/objectiveflickr/)
+
+
+		
+
+A ruby API for flickr that seems to be under active development.
+
+
+		
+
+(tags: [library](http://del.icio.us/eob/library) [ruby](http://del.icio.us/eob/ruby) [photo](http://del.icio.us/eob/photo))
+
+
+	
+
+
+

@@ -1,0 +1,28 @@
+---
+date: '2006-12-20 16:25:18'
+layout: post
+slug: links-for-2006-12-20
+status: publish
+title: links for 2006-12-20
+wordpress_id: '152'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Main Page - Ajax Patterns](http://ajaxpatterns.org/)
+
+
+		
+
+(tags: [programming](http://del.icio.us/eob/programming) [web2.0](http://del.icio.us/eob/web2.0) [javascript](http://del.icio.us/eob/javascript) [design](http://del.icio.us/eob/design))
+
+
+	
+
+
+

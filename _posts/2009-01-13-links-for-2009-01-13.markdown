@@ -1,0 +1,45 @@
+---
+date: '2009-01-13 15:04:43'
+layout: post
+slug: links-for-2009-01-13
+status: publish
+title: links for 2009-01-13
+wordpress_id: '350'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[San Francisco 1859 - David Rumsey Historical Map Collection](http://rumsey.geogarage.com/maps/g1032000.html?lat=37.759858513184625&lon=-122.4195384979248&zoom=13)
+
+
+                
+
+San Francisco 150 years ago, overlaid on Google Maps.
+
+
+                
+
+(tags: [sanfrancisco](http://delicious.com/eob/sanfrancisco))
+
+
+            
+  * 
+                
+
+[Getting Creative With Transparency in Web Design | How-To | Smashing Magazine](http://www.smashingmagazine.com/2008/04/16/getting-creative-with-transparency-in-web-design/)
+
+
+                
+
+How to use PNG alpha transparency, and how to work-around IE6 incompatibility.
+
+
+                
+
+(tags: [javascript](http://delicious.com/eob/javascript) [css](http://delicious.com/eob/css) [web](http://delicious.com/eob/web) [code](http://delicious.com/eob/code) [graphics](http://delicious.com/eob/graphics) [design](http://delicious.com/eob/design) [tutorial](http://delicious.com/eob/tutorial))
+
+
+            

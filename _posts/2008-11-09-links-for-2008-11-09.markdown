@@ -1,0 +1,130 @@
+---
+date: '2008-11-09 16:05:06'
+layout: post
+slug: links-for-2008-11-09
+status: publish
+title: links for 2008-11-09
+wordpress_id: '314'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[The Typesetting Area](http://www.ntg.nl/maps/30/13.pdf)
+
+
+                
+
+Guidelines for book margins and text block widths. For example "In order to make life easier for the reader, one should try to make the average line length some 40 to 70 characters long – including spaces."
+
+
+                
+
+(tags: [printing](http://delicious.com/eob/printing) [webpageprinting](http://delicious.com/eob/webpageprinting) [design](http://delicious.com/eob/design))
+
+
+            
+  * 
+                
+
+[Five simple steps to designing grid systems - Part 1 : Journal : Mark Boulton](http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_designing_grid_systems_part_1/)
+
+
+                
+
+Using the grid system in graphic design
+
+
+                
+
+(tags: [tutorial](http://delicious.com/eob/tutorial) [graphics](http://delicious.com/eob/graphics) [design](http://delicious.com/eob/design) [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[Grid (page layout) - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Grid_(page_layout))
+
+
+                
+
+The grid system is influential in print page layout.
+
+
+                
+
+(tags: [graphics](http://delicious.com/eob/graphics) [design](http://delicious.com/eob/design) [web](http://delicious.com/eob/web) [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[Canons of page construction - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Canons_of_page_construction)
+
+
+                
+
+Learning from historical books what are the best margin sizes in relation to the text block.
+
+
+                
+
+(tags: [books](http://delicious.com/eob/books) [graphics](http://delicious.com/eob/graphics) [design](http://delicious.com/eob/design) [printing](http://delicious.com/eob/printing) [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[Print Design vs. Web Design (Alertbox)](http://www.useit.com/alertbox/990124.html)
+
+
+                
+
+Nine-year old but still relevant analysis of the difference between print design and web page design.
+
+
+                
+
+(tags: [web](http://delicious.com/eob/web) [design](http://delicious.com/eob/design) [printing](http://delicious.com/eob/printing) [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            
+  * 
+                
+
+[Lyra Research Newsletter; Recent Lead Stories](http://www.lyra.com/LeadStory.nsf/a6df7dce4a0ca65f85256d160061e4eb?OpenView)
+
+
+                
+
+The Hard Copy Observer
+
+
+                
+
+(tags: [printing](http://delicious.com/eob/printing))
+
+
+            
+  * 
+                
+
+[WikiPublisher | WPSlides / Home Page | Browse](http://wikipublisher.org/wiki/WPSlides/HomePage)
+
+
+                
+
+"The Wikipublisher project develops an open source Typesetting Engine that takes Web page content and turns it into a form suitable for printing."
+
+
+                
+
+(tags: [printing](http://delicious.com/eob/printing) [web2.0](http://delicious.com/eob/web2.0) [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            

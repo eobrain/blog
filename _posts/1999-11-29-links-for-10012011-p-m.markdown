@@ -1,0 +1,29 @@
+---
+date: '1999-11-29 16:00:00'
+layout: post
+slug: links-for-10012011-p-m
+status: publish
+title: New faster alternative to HTTP used by chrome to talk to some Google services.
+   Also used by Amazon Silk browser.
+wordpress_id: '1245'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [SPDY Protocol](http://mbelshe.github.com/SPDY-Specification/draft-mbelshe-spdy-00.xml)      
+
+     
+
+New faster alternative to HTTP used by chrome to talk to some Google services.  Also used by Amazon Silk browser.
+
+             
+
+         tags:                      [web](http://www.diigo.com/user/eobrain/web)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

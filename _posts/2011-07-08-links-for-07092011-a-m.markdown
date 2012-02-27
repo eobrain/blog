@@ -1,0 +1,28 @@
+---
+date: '2011-07-08 16:36:59'
+layout: post
+slug: links-for-07092011-a-m
+status: publish
+title: Comprehensive guide to the various ways of sharing Git repositories.
+wordpress_id: '1222'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [8 ways to share your git repository](http://www.jedi.be/blog/2009/05/06/8-ways-to-share-your-git-repository/#apachehttp)      
+
+     
+
+Comprehensive guide to the various ways of sharing Git repositories.
+
+             
+
+         tags:                      [programming](http://www.diigo.com/user/eobrain/programming)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

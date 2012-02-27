@@ -1,0 +1,28 @@
+---
+date: '2009-09-01 15:05:43'
+layout: post
+slug: links-for-2009-09-01
+status: publish
+title: Handy network monitoring tool
+wordpress_id: '428'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[ngrep - network grep](http://ngrep.sourceforge.net/)
+
+
+                
+
+Handy network monitoring tool
+
+
+                
+
+(tags: [networking](http://delicious.com/eob/networking) [network](http://delicious.com/eob/network) [tool](http://delicious.com/eob/tool))
+
+
+            

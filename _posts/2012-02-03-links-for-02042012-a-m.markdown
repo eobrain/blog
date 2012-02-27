@@ -1,0 +1,29 @@
+---
+date: '2012-02-03 16:37:01'
+layout: post
+slug: links-for-02042012-a-m
+status: publish
+title: Handy reference for all the JavaScript event types as supported by the different
+  browsers.
+wordpress_id: '5008'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [Events in JavaScript](http://help.dottoro.com/larrqqck.php)      
+
+     
+
+Handy reference for all the JavaScript event types as supported by the different browsers.   However it does not cover the touch events in mobile browsers.
+
+             
+
+         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [reference](http://www.diigo.com/user/eobrain/reference)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

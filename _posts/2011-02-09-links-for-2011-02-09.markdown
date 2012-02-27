@@ -1,0 +1,30 @@
+---
+date: '2011-02-09 15:04:31'
+layout: post
+slug: links-for-2011-02-09
+status: publish
+title: Getting away from traditional windowing
+wordpress_id: '1103'
+categories:
+- Futzing
+---
+
+  * 
+                
+
+[How-to: Set up XMonad](http://www.huntlycameron.co.uk/wordpress/2010/11/16/how-to-set-up-xmonad-xmobar-ubuntu/)
+
+
+                
+
+getting away from traditional windowing
+
+
+                
+
+(tags: [linux](http://www.delicious.com/eob/linux))
+
+
+            
+
+[![](http://www.huntlycameron.co.uk/wordpress/wp-content/uploads/xmonadgnome.png)](http://www.huntlycameron.co.uk/wordpress/2010/11/16/how-to-set-up-xmonad-xmobar-ubuntu/)

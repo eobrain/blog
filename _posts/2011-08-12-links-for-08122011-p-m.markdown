@@ -1,0 +1,28 @@
+---
+date: '2011-08-12 04:31:55'
+layout: post
+slug: links-for-08122011-p-m
+status: publish
+title: A fast, flexible HTTP client library
+wordpress_id: '1232'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [sonatype/async-http-client - GitHub](https://github.com/sonatype/async-http-client)      
+
+     
+
+A fast, flexible HTTP client library,
+
+             
+
+         tags:                      [library](http://www.diigo.com/user/eobrain/library)            [java](http://www.diigo.com/user/eobrain/java)
+
+                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

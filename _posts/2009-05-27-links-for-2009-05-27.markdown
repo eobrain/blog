@@ -1,0 +1,24 @@
+---
+date: '2009-05-27 15:05:59'
+layout: post
+slug: links-for-2009-05-27
+status: publish
+title: Web site design patterns
+wordpress_id: '401'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Design Patterns At a glance » The Design of Sites](http://www.designofsites.com/design-patterns/)
+
+
+                
+                
+
+(tags: [design](http://delicious.com/eob/design) [web](http://delicious.com/eob/web) [library](http://delicious.com/eob/library) [webpageprinting](http://delicious.com/eob/webpageprinting))
+
+
+            

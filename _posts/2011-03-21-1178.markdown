@@ -1,0 +1,34 @@
+---
+date: '2011-03-21 20:41:09'
+layout: post
+slug: '1178'
+status: publish
+title: Social Photo Sharing Sessions at SXSW
+wordpress_id: '1178'
+categories:
+- Consumer Media
+tags:
+- linkedin
+---
+
+[![Promiscuity or Private Groups: Mobile Photo Sharing](http://farm6.static.flickr.com/5214/5537982085_fd89cf913c.jpg)](http://www.flickr.com/photos/eob/5537982085/)There were two different sessions at SXSW covering social photo sharing, one a panel and the other a round-table discussion group.
+
+The panel, [Photo Sharing – Promiscuity or Private Groups](http://lanyrd.com/2011/sxsw/sczdm/), featured Mayank Mehta from Cooliris the gee-whizz photo browsing company (who have recently added a social photo sharing) and Danny Trinh from Path, the social network that emphasizes private sharing among a select group of real friends.  Also on the panel was the blogger Louis Gray who moderated.
+
+The panel noted that online photo activity has moved away from the older services, typified by Shutterfly where people actively upload selected photos from their PC, to the newer services that receive photos automatically uploaded from mobile devices.
+
+On interesting “minus 30 seconds” problem statement they posed how to decide the intent the photographer had when they took out their phone to shoot the photo just before the phone uploaded it.  With whom did they intend sharing that photo?  A simple approach is to  have the  user explicitly share with a particular group of social contacts, using the group context to control sharing.
+
+The panel seemed to agree that social validation is the main reason that people post updates or share photos.  If they at some point stop getting validated (are not getting many likes, comments, or retweets) they tend to stop sharing.
+
+Finally there was a discussion on how startups could be successful in the age of Facebook.  One opinion from the panel was that Facebook is simply a communication channel, and there are many ways to co-exist with it.  The important thing was to concentrate on just one thing and to do it well.  As for monetization, panelists advised having a paid premium level as well as having app-like things such as Instagram-like lenses sold individually.
+
+Later, in the other session, a round table discussion, called [Focusing In On the Future of Social Photography](http://lanyrd.com/2011/sxsw/scpxw/), one particularly interesting participant was Sam Odio head of Facebook Photos, who came in when Facebook acquired Divvyshot to “fix Facebook Photos”.  The Facebook photo volume is huge--people upload a Flickr's worth of photographs every month --however Facebook considers that the  cost of storing all those photos is more than outweighed by their value to Facebook.  According to Odio, the main role of Facebook Photos is to “help users tell stories”, which mostly means providing context.
+
+Instagram was a service that came up a lot in both sessions.  There is a lot of buzz around this company because they have had such remarkably high adoption rates.  They are an app with software “lenses” that apply effects to photos, which according to the Trinh makes people more willing to share photos because otherwise “most people think they take bad photos”.  Instagram also has social networking features that people seem to like a lot.  Trinh noted that Path have recently added lenses to their service.
+
+Yan-David Erlich, the moderator of the round-table, said that in their service the most popular pages are the “places”.  He also mentioned that concert venues are experimenting with social photography.
+
+In response to a question on face recognition, Odio implied that Facebook do have such technology but that they are wary of deploying it.  He said they have a whole team of people responsible for just thinking about the legal and social implications of face recognition.
+
+As regards videos, people share them much less often than they share photos.  One reason is that videos are still much more difficult to share online, though this is likely to change in the next few years.   Another reason is that although an unskilled person can snap a halfway decent photo with today's devices, it is very difficult for them to shoot a decent looking video. 

@@ -1,0 +1,33 @@
+---
+date: '2008-01-27 16:25:38'
+layout: post
+slug: links-for-2008-01-27
+status: publish
+title: links for 2008-01-27
+wordpress_id: '236'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[DiVA - Distributed Virtual Architectures](http://webhome.cs.uvic.ca/~jbaldwin/diva/)
+
+
+		
+
+Jennifer's previous work
+
+
+		
+
+(tags: [@online](http://del.icio.us/eob/@online) [s:waitingon](http://del.icio.us/eob/s:waitingon))
+
+
+	
+
+
+

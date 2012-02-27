@@ -1,0 +1,45 @@
+---
+date: '2008-11-12 16:05:26'
+layout: post
+slug: links-for-2008-11-12
+status: publish
+title: links for 2008-11-12
+wordpress_id: '317'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[CEDICT: Chinese-English Dictionary](http://www.mandarintools.com/cedict.html)
+
+
+                
+
+downloadable Chinese character/pinyin/English dictionary/database.
+
+
+                
+
+(tags: [mandarin](http://delicious.com/eob/mandarin))
+
+
+            
+  * 
+                
+
+[SurfPinyin](http://www.pinyinannotator.com/surfpinyin.php?url=http%3A%2F%2Fcn.yahoo.com%2F)
+
+
+                
+
+Web service to modify Chinese language web site to annotate characters with pinyin and English.
+
+
+                
+
+(tags: [mandarin](http://delicious.com/eob/mandarin))
+
+
+            

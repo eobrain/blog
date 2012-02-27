@@ -1,0 +1,52 @@
+---
+date: '2008-02-19 16:26:24'
+layout: post
+slug: links-for-2008-02-19
+status: publish
+title: links for 2008-02-19
+wordpress_id: '247'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[The End of an Architectural Era (It’s Time for a Complete Rewrite)](http://www.vldb.org/conf/2007/papers/industrial/p1150-stonebraker.pdf)
+
+
+		
+
+Interesting paper by DB pioneer Michael Stonebraker arguing that it is time to abandon conventional relational databases.
+
+
+		
+
+(tags: [database](http://del.icio.us/eob/database) [architecture](http://del.icio.us/eob/architecture) [s:waitingon](http://del.icio.us/eob/s:waitingon) [@online](http://del.icio.us/eob/@online))
+
+
+	
+
+	
+  * 
+		
+
+[panoramic video 360 cities by jeffrey martin](http://vrlog.net/temp/z/panomovie3/panomovie2flv.html)
+
+
+		
+
+Amazing video where you can control the camera left-right and up-down in 360 degrees.
+
+
+		
+
+(tags: [video](http://del.icio.us/eob/video))
+
+
+	
+
+
+

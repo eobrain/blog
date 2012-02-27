@@ -1,0 +1,47 @@
+---
+date: '2010-09-09 15:04:26'
+layout: post
+slug: links-for-2010-09-09
+status: publish
+title: links for 2010-09-09
+wordpress_id: '986'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Cassandra Summit 2010 Performance Tuning](http://www.slideshare.net/driftx/cassandra-summit-2010-performance-tuning)
+
+
+                
+
+Some detailed advice for tweaking Cassandra for best performance.
+
+
+                
+
+(tags: [database](http://delicious.com/eob/database) [architecture](http://delicious.com/eob/architecture))
+
+
+            
+  * 
+                
+
+[Play framework ★ Home](http://www.playframework.org/)
+
+
+                
+
+They claim: "Finally a Java framework made by Web developers. Discover a clean alternative to bloated enterprise Java stacks. Play focuses on developer productivity and targets RESTful architectures."
+
+It also has support for writing web apps in Scala, which is cool.
+
+
+                
+
+(tags: [api](http://delicious.com/eob/api) [java](http://delicious.com/eob/java) [programming](http://delicious.com/eob/programming) [scala](http://delicious.com/eob/scala) [web](http://delicious.com/eob/web))
+
+
+            

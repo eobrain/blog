@@ -1,0 +1,29 @@
+---
+date: '2011-04-07 16:38:56'
+layout: post
+slug: links-for-04082011-a-m
+status: publish
+title: A nicely organized tool to measure your web site performance, prioritizing
+  the actions you should take.
+wordpress_id: '1191'
+categories:
+- Programming
+---
+
+     
+  *      
+
+               [Page Speed Online](http://pagespeed.googlelabs.com)      
+
+     
+
+A nicely organized tool to measure your web site performance, prioritizing the actions you should take.  It goes beyond some other similar tools in also doing a mobile-specific analysis.
+
+             
+
+         tags:                      [tool](http://www.diigo.com/user/eobrain/tool)            [web](http://www.diigo.com/user/eobrain/web)            [javascript](http://www.diigo.com/user/eobrain/javascript)
+
+                                                                       
+ 
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

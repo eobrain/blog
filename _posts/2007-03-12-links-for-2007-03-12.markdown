@@ -1,0 +1,33 @@
+---
+date: '2007-03-12 16:20:57'
+layout: post
+slug: links-for-2007-03-12
+status: publish
+title: links for 2007-03-12
+wordpress_id: '183'
+categories:
+- bookmarks
+---
+
+
+	
+  * 
+		
+
+[Hide CSS from Browsers](http://w3development.de/css/hide_css_from_browsers/)
+
+
+		
+
+Handy ways to hide modern, standard-compliant CSS from old buggy browsers.
+
+
+		
+
+(tags: [programming](http://del.icio.us/eob/programming) [design](http://del.icio.us/eob/design) [code](http://del.icio.us/eob/code) [reference](http://del.icio.us/eob/reference))
+
+
+	
+
+
+

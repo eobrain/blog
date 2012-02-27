@@ -1,0 +1,113 @@
+---
+date: '2008-09-29 16:06:33'
+layout: post
+slug: links-for-2008-09-29
+status: publish
+title: links for 2008-09-29
+wordpress_id: '305'
+categories:
+- bookmarks
+---
+
+  * 
+                
+
+[Eamonn O Brien Strain - ACM author profile page](http://portal.acm.org/author_page.cfm?id=81100121981&coll=GUIDE&dl=GUIDE&trk=0)
+
+
+                
+
+Some of the ubiquitous computing work I did when I first joined HP Labs.
+
+
+                
+
+(tags: [my](http://delicious.com/eob/my))
+
+
+            
+  * 
+                
+
+[LinkedIn: Digital Cinema Company Group: Q&A](http://www.linkedin.com/groupAnswers?viewQuestionAndAnswers=&gid=3671&discussionID=31596&sik=1222661211098&trk=ug_qa_q&goback=%2Eana_3671_1222661211097_1%2Eana_3671_1222661211098_2)
+
+
+                
+
+Discussion of 3D movie production
+
+
+                
+
+(tags: [3d](http://delicious.com/eob/3d) [cinematography](http://delicious.com/eob/cinematography))
+
+
+            
+  * 
+                
+
+[Fujifilm to develop 3D digital photography system: Digital Photography Review](http://www.dpreview.com/news/0809/08092209fujifilm3D.asp)
+
+
+                
+
+Fujifilm were showing a prototype of this at Photokina last week.  It was quite impressive.
+
+
+                
+
+(tags: [3d](http://delicious.com/eob/3d) [photo](http://delicious.com/eob/photo))
+
+
+            
+  * 
+                
+
+[Berezin Stereo Home Page](http://www.berezin.com/3d/Default.htm)
+
+
+                
+
+Stereo photography supplies
+
+
+                
+
+(tags: [3d](http://delicious.com/eob/3d) [photo](http://delicious.com/eob/photo))
+
+
+            
+  * 
+                
+
+[3D Content Creation Guidelines](http://www.wowvx.com/assets/Downloadablefile/3D-Content-Creation-Notes-15363.pdf)
+
+
+                
+
+How to create 3D video in the Phillips 2D+depth format.
+
+
+                
+
+(tags: [3d](http://delicious.com/eob/3d) [tutorial](http://delicious.com/eob/tutorial))
+
+
+            
+  * 
+                
+
+[3D Warehouse](http://sketchup.google.com/3dwarehouse/)
+
+
+                
+
+Lots of 3D models
+
+
+                
+
+(tags: [3d](http://delicious.com/eob/3d) [web2.0](http://delicious.com/eob/web2.0))
+
+
+            
