@@ -6,9 +6,13 @@
     <meta name="description" content="{{ page.description }}" />
     {% endif %}
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <link rel="stylesheet" media="screen" href="/stylesheets/screen.css" type="text/css" />
+    <!--link rel="stylesheet" media="screen" type="text/css" 
+          href="/stylesheets/reset.css" /-->
+    <link rel="stylesheet" media="screen" type="text/css" 
+          href="/stylesheets/eob.css" />
     {% if site.feedburner %}
-    <link href="http://feeds.feedburner.com/{{ site.feedburner.id }}" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
+    <link rel="alternate" title="{{ site.title }}" type="application/atom+xml"
+          href="http://feeds.feedburner.com/{{ site.feedburner.id }}" />
     {% endif %}
     {% if site.google_analytics %}
     <!-- google analytics async -->
@@ -35,8 +39,11 @@
       </div>
     </div>
 
-  {% if site.github %}
-    <a href="http://github.com/{{ site.github.username }}"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub" /></a>
-  {% endif %}
   </body>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/js/ie-map.js"></script>
+  <![endif]-->
+  <script src="/js/eob.js"></script>
 </html>

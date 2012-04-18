@@ -1,5 +1,10 @@
 task :default => :server
 
+desc 'When developing, continuously recompile changed production coffee code to web tree'
+task :coffeewatch do
+  sh 'coffee --watch --compile --output js coffee/*.coffee'
+end
+
 desc 'Clean up generated site'
 task :clean do
   cleanup

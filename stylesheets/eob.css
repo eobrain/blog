@@ -1,0 +1,79 @@
+
+/*** Fonts ***/
+h1, .postdate {
+    font-family: Futura, 'Century Gothic', AppleGothic, sans-serif;
+}
+li {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+/*#header h1 {
+    font-size: 24pt;
+}
+#body h1 {
+    font-size: 18pt;
+}
+
+li {
+    font-size: 12pt;
+}*/
+
+
+/*** Colors ***/
+body, #header {
+  color:            #354; /* army blanket */
+  background-color: #8A9; /* Yucca plant */
+}
+#header a:link, #header a:visited {
+    color:            #354; /* army blanket */
+    background-color: #8A9; /* Yucca plant */
+}
+XXX body, XXX a:link {
+    color: #354;  /* army blanket */
+    background-color: #FFD; /* creme anglaise */
+}
+span, .postdate {
+  color:            #E00; /* wet lips */
+  background-color: #FFD; /* creme anglaise */
+}
+#body h1, .postdate {
+  color:            #354; /* army blanket */
+  background-color: #FFD; /* creme anglaise */
+}
+#posts li a:visited, .posts li a:visited, .post a:visited  {
+  color:            #354; /* army blanket */
+  background-color: #FE9; /* haystack */
+}
+#posts li, .posts li, .post {
+  color:            #8A9; /* Yucca plant */
+  background-color: #FE9; /* haystack */
+}
+XXX a:visited {
+  color:            #8A9; /* Yucca plant */
+  background-color: #FE9; /* haystack */
+}
+
+/*** Layout ***/
+body {
+    background-image: url('/images/Carlsbad_Bats.jpg');
+    background-attachment:fixed;
+    background-position:center;
+}
+
+h1, #posts li, .posts li, .post, .postdate {
+    margin:1em;
+    padding:1em;
+}
+
+#body h1 {
+    text-align: center;
+}
+
+#posts ul, ul.posts {
+    list-style: none;
+}
+#posts li, .posts li {
+    overflow: hidden;
+    width:20em;
+    float:left;
+}
