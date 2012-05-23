@@ -3,11 +3,11 @@
 window.Grid = (marginWidth, marginHeight, colCount, colSep, cellHeight) ->
 
   #width of column as a percent
-  colWidth = (100 - marginWidth*2 - colSep*(colCount-1))/colCount
+  colWidth = (100 - marginWidth*2 - colSep*(colCount-1)) / colCount
 
   cellAreaPix = ->
     winWidthPix = $(window).width()
-    (winWidthPix*colWidth/100) * (winWidthPix*cellHeight/100)
+    (winWidthPix*colWidth / 100) * (winWidthPix*cellHeight / 100)
 
 
   # BEGIN nested Cell class
@@ -55,16 +55,16 @@ window.Grid = (marginWidth, marginHeight, colCount, colSep, cellHeight) ->
     @rows = -> rows
 
     #is this area available at this top-left?
-    available = (x,y)
-      for dy in 0...cols
-        for dx in 0...rows
+    available = (x,y) ->
+      for dy in [0...cols]
+        for dx in [0...rows]
           return false if get(x+dx,y+dy).allocated
       return true
 
     @findAvailableRegion = ->
       y = 0
       while true
-        for x in 0...colCount - cols + 1
+        for x in [0...colCount - cols + 1]
           if available x, y
             return new Region x, y, @
         y += 1
@@ -80,13 +80,13 @@ window.Grid = (marginWidth, marginHeight, colCount, colSep, cellHeight) ->
   # END nested Shape class
 
   #all contiguous shapes of cells of given cellcount
-  shapes = (cellCount)
+  shapes = (cellCount) ->
     result = []
-    for cols in 1..cellCount
+    for cols in [1..cellCount]
       rows = cellCount/cols
       if cols*rows = cellCount
         result.push new Shape cols, rows
-    result-
+    result
 
   # BEGIN Region classs
   Region = (x,y,shape) ->
@@ -111,12 +111,12 @@ window.Grid = (marginWidth, marginHeight, colCount, colSep, cellHeight) ->
           score +=  Math.exp -(distanceFrom prevRegion)/10
   # END Region class
 
-  allocate = (prevRegion, areaPix) =
+  allocate = (prevRegion, areaPix) ->
 
     bestRegion (regions) ->
       best = null
       bestScore = Number.NEGATIVE_INFINITY
-      for region = regions
+      for region in regions
         score = region.score prevRegion
         if score > bestScore
           bestScore = score
@@ -136,5 +136,4 @@ window.Grid = (marginWidth, marginHeight, colCount, colSep, cellHeight) ->
     prevRegion = region
 
   null
-  )
 # END Grid object

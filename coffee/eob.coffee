@@ -1,5 +1,5 @@
 $ ->
-  $('#posts li, .posts li').each ->
+  $('#pages li, #posts li, .posts li').each ->
     $this = $(this)
     len = 1.1 * Math.sqrt $this.width() * $this.height()
     $this.width  len

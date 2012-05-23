@@ -40,17 +40,16 @@ span, .postdate {
   color:            #354; /* army blanket */
   background-color: #FFD; /* creme anglaise */
 }
-#posts li a:visited, .posts li a:visited, .post a:visited  {
+#pages li a:visited, #posts li a:visited, .posts li a:visited, .post a:visited  {
   color:            #354; /* army blanket */
   background-color: #FE9; /* haystack */
 }
-#posts li, .posts li, .post {
-  color:            #8A9; /* Yucca plant */
-  background-color: #FE9; /* haystack */
+#body p, #pages li, #posts li, .posts li, .post {
+  color:            #354; /* army blanket */
+  background-color: #FFD; /* creme anglaise */
 }
-XXX a:visited {
-  color:            #8A9; /* Yucca plant */
-  background-color: #FE9; /* haystack */
+h2 {
+  color:            #FE9; /* haystack */
 }
 
 /*** Layout ***/
@@ -60,20 +59,37 @@ body {
     background-position:center;
 }
 
-h1, #posts li, .posts li, .post, .postdate {
+#body p, h1, #pages li, #posts li, .posts li, .post, .post li, .postdate {
     margin:1em;
     padding:1em;
+}
+
+.post ul {
+  margin:1em;
+  padding:1em;
+  list-style-image: url('/images/noun_project_34.png');
 }
 
 #body h1 {
     text-align: center;
 }
 
-#posts ul, ul.posts {
+#pages ul, #posts ul, ul.posts {
     list-style: none;
 }
 #posts li, .posts li {
     overflow: hidden;
     width:20em;
     float:left;
+}
+
+#pages li {
+    overflow: hidden;
+    width:20em;
+    postion: absolute;
+    top: 1em;
+}
+
+#pages h2, #posts h2 {
+    display: none;
 }

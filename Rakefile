@@ -5,13 +5,18 @@ task :coffeewatch do
   sh 'coffee --watch --compile --output js coffee/*.coffee'
 end
 
+desc 'Compile coffeescript'
+task :coffeebuild do
+  sh 'coffee --compile --output js coffee/*.coffee'
+end
+
 desc 'Clean up generated site'
 task :clean do
   cleanup
 end
 
 desc 'Build site with Jekyll'
-task :build => :clean do
+task :build => [:clean, :coffeebuild] do
   compass
   jekyll
 end
@@ -74,7 +79,11 @@ def compass(opts = '')
   sh 'compass compile -c config.rb --force ' + opts
 end
 
-
-
-
-
+begin
+  require 'jasmine'
+  load 'jasmine/tasks/jasmine.rake'
+rescue LoadError
+  task :jasmine  => :build do
+    abort "Jasmine is not available. In order to run jasmine, you must: (sudo) gem install jasmine"
+  end
+end
