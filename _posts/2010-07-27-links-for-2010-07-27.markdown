@@ -10,20 +10,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [ColumnText](http://api.itextpdf.com/com/itextpdf/text/pdf/ColumnText.html)
 
 
-                
-
 This seems to be the itext class to use for line wrapping and determining how many lines of text resulted.
 
-
-                
 
 (tags: [library](http://delicious.com/eob/library) [publishing](http://delicious.com/eob/publishing) [reference](http://delicious.com/eob/reference))
 
 
-            
+

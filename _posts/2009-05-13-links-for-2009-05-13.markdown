@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [App Engine Java Overview - Google App Engine - Google Code](http://code.google.com/appengine/docs/java/overview.html)
 
 
-                
-
 Framework virtualization
 
-
-                
 
 (tags: [java](http://delicious.com/eob/java) [webservices](http://delicious.com/eob/webservices) [architecture](http://delicious.com/eob/architecture))
 
 
-            
+

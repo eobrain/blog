@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [rfacebook - facebook api for ruby and rails](http://rfacebook.rubyforge.org/)

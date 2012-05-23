@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Exceptional Performance](http://developer.yahoo.com/performance/)

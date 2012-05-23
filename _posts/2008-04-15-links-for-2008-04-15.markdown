@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Richard's technical notes: Java Caching APIs](http://blog.spiralarm.com/richard/2007/07/java-caching.html)

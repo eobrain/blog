@@ -10,9 +10,7 @@ wordpress_id: '5'
 [crazybob.org](http://crazybob.org/index.jsp?weblog=http://freeroller.net/page/crazyboblee/20021117)
 
 
-
 Creating classes on the fly.  Wow!
-
 
 
 * * *

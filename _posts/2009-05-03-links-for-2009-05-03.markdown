@@ -9,18 +9,13 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [DEMO.DESIGN FAQ](http://www.enlight.ru/demo/faq/smth.phtml?query=alg_clr_cmyklab)
 
 
-                
-
-
-                
-
 (tags: [design](http://delicious.com/eob/design))
 
 
-            
+

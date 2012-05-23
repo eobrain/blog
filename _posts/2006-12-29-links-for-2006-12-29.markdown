@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [RubyForge: objectiveflickr: Project Info](http://rubyforge.org/projects/objectiveflickr)

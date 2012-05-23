@@ -9,20 +9,12 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [Tools - Google Translate](http://translate.google.com/translate_tools)      
+  * [Tools - Google Translate](http://translate.google.com/translate_tools)
 
-     
 
 How to add language translation to your web page.
+ tags:                      [web2.0](http://www.diigo.com/user/eobrain/web2.0)            [webservices](http://www.diigo.com/user/eobrain/webservices)
 
-             
-
-         tags:                      [web2.0](http://www.diigo.com/user/eobrain/web2.0)            [webservices](http://www.diigo.com/user/eobrain/webservices)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

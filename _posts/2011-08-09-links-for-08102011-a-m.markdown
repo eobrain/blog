@@ -10,20 +10,12 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [NBT Consulting - Maven 2 Cheat Sheet](http://nbtconsulting.com/cheat-sheets/maven-cheat-sheet.html)      
+  * [NBT Consulting - Maven 2 Cheat Sheet](http://nbtconsulting.com/cheat-sheets/maven-cheat-sheet.html)
 
-     
 
 Maven has an annoyingly verbose and difficult-to-remember command line.  Here is a handy little reminder of the most common commands and options.
+ tags:                      [programming](http://www.diigo.com/user/eobrain/programming)            [reference](http://www.diigo.com/user/eobrain/reference)
 
-             
-
-         tags:                      [programming](http://www.diigo.com/user/eobrain/programming)            [reference](http://www.diigo.com/user/eobrain/reference)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

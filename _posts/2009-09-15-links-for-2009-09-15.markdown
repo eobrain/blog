@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Useful Color Equations](http://brucelindbloom.com/index.html?Math.html)
 
 
-                
-
 Equations for converting between different colour spaces.
 
-
-                
 
 (tags: [reference](http://delicious.com/eob/reference) [design](http://delicious.com/eob/design))
 
 
-            
+

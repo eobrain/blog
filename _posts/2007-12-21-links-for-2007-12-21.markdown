@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Watir - Overview](http://wtr.rubyforge.org/)
@@ -30,7 +30,7 @@ Ruby-powered testing of web applications.
 	
 
 	
-  * 
+  *
 		
 
 [bookr :: pimpampum](http://www.pimpampum.net/bookr/)

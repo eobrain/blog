@@ -9,9 +9,9 @@ categories:
 - Photo
 ---
 
-[![](http://photos21.flickr.com/32849054_d81636b494_m.jpg)](http://www.flickr.com/photos/stewart/32849054/) 
-   [Packed house at BayCHI](http://www.flickr.com/photos/stewart/32849054/)  
-  Originally uploaded by [Stewart](http://www.flickr.com/people/stewart/). 
+[![](http://photos21.flickr.com/32849054_d81636b494_m.jpg)](http://www.flickr.com/photos/stewart/32849054/)
+   [Packed house at BayCHI](http://www.flickr.com/photos/stewart/32849054/)
+  Originally uploaded by [Stewart](http://www.flickr.com/people/stewart/).
 
-Oh look!  I am in one of Stewart's photos.  
+Oh look!  I am in one of Stewart's photos.
 

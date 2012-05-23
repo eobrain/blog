@@ -10,20 +10,12 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [Apache ActiveMQ ™ -- How do I embed a Broker inside a Connection](http://activemq.apache.org/how-do-i-embed-a-broker-inside-a-connection.html)      
+  * [Apache ActiveMQ ™ -- How do I embed a Broker inside a Connection](http://activemq.apache.org/how-do-i-embed-a-broker-inside-a-connection.html)
 
-     
 
 An easy-to-deploy configuration of ActiveMQ messaging, that seems good for modest levels of scaling.
+ tags:                      [architecture](http://www.diigo.com/user/eobrain/architecture)
 
-             
-
-         tags:                      [architecture](http://www.diigo.com/user/eobrain/architecture)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

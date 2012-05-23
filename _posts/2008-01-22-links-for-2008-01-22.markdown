@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Jasypt: Java simplified encryption - Main](http://www.jasypt.org/)

@@ -9,22 +9,16 @@ categories:
 - Futzing
 ---
 
-  * 
-                
+  *
+
 
 [How-to: Set up XMonad](http://www.huntlycameron.co.uk/wordpress/2010/11/16/how-to-set-up-xmonad-xmobar-ubuntu/)
 
 
-                
-
 getting away from traditional windowing
 
 
-                
-
 (tags: [linux](http://www.delicious.com/eob/linux))
 
-
-            
 
 [![](http://www.huntlycameron.co.uk/wordpress/wp-content/uploads/xmonadgnome.png)](http://www.huntlycameron.co.uk/wordpress/2010/11/16/how-to-set-up-xmonad-xmobar-ubuntu/)

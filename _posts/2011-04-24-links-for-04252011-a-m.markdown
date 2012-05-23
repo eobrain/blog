@@ -9,34 +9,19 @@ categories:
 - bookmarks
 ---
 
-     
-  *      
 
-               [Secure module: how do you "log in" in a FunctionalTest? - play-framework | Google Groups](http://groups.google.com/group/play-framework/msg/6f8cdd14f4ded8c)      
+  * [Secure module: how do you "log in" in a FunctionalTest? - play-framework | Google Groups](http://groups.google.com/group/play-framework/msg/6f8cdd14f4ded8c)
 
-     
 
 Workaround to preserve cookies across requests in the Play Framework functional tests.
+ tags:                      [programming](http://www.diigo.com/user/eobrain/programming)
 
-             
 
-         tags:                      [programming](http://www.diigo.com/user/eobrain/programming)
+  * [HOWTO: Native iPhone/iPad apps in JavaScript](http://matt.might.net/articles/how-to-native-iphone-ipad-apps-in-javascript)
 
-                                       
-     
-  *      
-
-               [HOWTO: Native iPhone/iPad apps in JavaScript](http://matt.might.net/articles/how-to-native-iphone-ipad-apps-in-javascript)      
-
-     
 
 Very nice summary of how to make a web application look like a native iOS app.  Also included is a way to add a native app wrapper around it so a web app can be provided via the app store.
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [html5](http://www.diigo.com/user/eobrain/html5)            [web](http://www.diigo.com/user/eobrain/web)            [mobile](http://www.diigo.com/user/eobrain/mobile)
 
-             
-
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [html5](http://www.diigo.com/user/eobrain/html5)            [web](http://www.diigo.com/user/eobrain/web)            [mobile](http://www.diigo.com/user/eobrain/mobile)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

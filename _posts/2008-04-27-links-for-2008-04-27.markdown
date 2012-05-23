@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [reCAPTCHA: Stop Spam, Read Books](http://recaptcha.net/)
@@ -30,7 +30,7 @@ Free web service for to provide humanness test to web application, while at the 
 	
 
 	
-  * 
+  *
 		
 
 [Gin, Television, and Social Surplus - Here Comes Everybody](http://www.herecomeseverybody.org/2008/04/looking-for-the-mouse.html)

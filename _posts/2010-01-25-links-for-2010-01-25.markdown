@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [RunningSbt - simple-build-tool - Project Hosting on Google Code](http://code.google.com/p/simple-build-tool/wiki/RunningSbt)
 
 
-                
-
 Handy summary of SBT commands.
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming))
 
 
-            
+

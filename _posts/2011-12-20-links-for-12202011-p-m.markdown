@@ -9,20 +9,12 @@ categories:
 - Consumer Media
 ---
 
-     
-  *      
 
-               [Open Text Summarizer](http://libots.sourceforge.net)      
+  * [Open Text Summarizer](http://libots.sourceforge.net)
 
-     
 
 Easy-to-use text summarization that comes as a standard Ubuntu package.
+ tags:                      [language](http://www.diigo.com/user/eobrain/language)            [library](http://www.diigo.com/user/eobrain/library)
 
-             
-
-         tags:                      [language](http://www.diigo.com/user/eobrain/language)            [library](http://www.diigo.com/user/eobrain/library)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

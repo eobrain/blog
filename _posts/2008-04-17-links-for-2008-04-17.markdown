@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Diffie-Hellman key exchange](http://nighthawk.enanocms.org/workbench/diffiehellman/diffiehellman.php)

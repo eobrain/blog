@@ -10,20 +10,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [pivotal's jasmine at master - GitHub](http://github.com/pivotal/jasmine)
 
 
-                
-
 A nice-looking JavaScript test framework that can be used when building WebOS apps.
 
-
-                
 
 (tags: [javascript](http://delicious.com/eob/javascript) [programming](http://delicious.com/eob/programming) [library](http://delicious.com/eob/library))
 
 
-            
+

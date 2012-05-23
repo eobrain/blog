@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Test your web design in different browsers - Browsershots](http://browsershots.org/)

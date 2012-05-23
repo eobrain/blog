@@ -12,84 +12,72 @@ categories:
 Here are two different ways of defining a class in Coffeescript:
 
 
+{% highlight coffeescript %}
+    class Container
 
-[coffee]
-class Container
+      constructor: (@member) ->
 
-  constructor: (@member) ->
+      secret = 3
 
-  secret = 3
+      dec = ->
+        if secret > 0
+          secret -= 1
+          true
+        else
+          false
 
-  dec = ->
-    if secret > 0
-      secret -= 1
-      true
-    else
-      false
+      service : ->
+        if dec() then @member else null
 
-  service : ->
-    if dec() then @member else null
-
-Container::stamp = (string) ->
-  @member + string
-[/coffee]
-
-
-[coffee]
-Container = (param) ->
-
-  @member = param
-  secret = 3
-
-  dec = ->
-    if secret > 0
-      secret -= 1
-      true
-    else
-      false
-
-  @service = ->
-    if dec() then @member else null
-
-  null
-
-Container::stamp = (string) ->
-  @member + string
-[/coffee]
+    Container::stamp = (string) ->
+      @member + string
+{% endhighlight %}
 
 
+{% highlight coffeescript %}
+    Container = (param) ->
 
-Both of these define a class called `Container` with 
+      @member = param
+      secret = 3
+
+      dec = ->
+        if secret > 0
+          secret -= 1
+          true
+        else
+          false
+
+      @service = ->
+        if dec() then @member else null
+
+      null
+
+    Container::stamp = (string) ->
+      @member + string
+{% endhighlight %}
 
 
+Both of these define a class called `Container` with
 
-  * a public field `member` initialized by a constructor parameter 
 
-
+  * a public field `member` initialized by a constructor parameter
   * a private field `secret`
-
-
   * a private method `dec`
-
-
   * a privileged method `service`
-
-
   * a public method `stamp`
 
 
-
 We can use both in the same way:
-[coffee]
-myContainer = new Container 'abc'
+{% highlight coffeescript %}
+    myContainer = new Container 'abc'
 
-console.log  myContainer.member      # abc
-console.log  myContainer.stamp 'def' # abcdef
-console.log  myContainer.service()   # abc
-console.log  myContainer.service()   # abc
-console.log  myContainer.service()   # abc
-console.log  myContainer.service()   # null
-[/coffee]
+    console.log  myContainer.member      # abc
+    console.log  myContainer.stamp 'def' # abcdef
+    console.log  myContainer.service()   # abc
+    console.log  myContainer.service()   # abc
+    console.log  myContainer.service()   # abc
+    console.log  myContainer.service()   # null
+{% endhighlight %}
 
 The version above on the left is the special class syntax that Coffeescript provides.  However, to me, this extra layer of syntax seems to depart a bit from the "Coffeescript is just JavaScript" philosophy.
 
@@ -98,27 +86,27 @@ The version above on the right is a translation of [Douglas Crockford's pattern]
 Which is better?  The left is a bit easier to read for a newcomer to the language, but I find the right more elegant because there is less "magic".
 
 And there is another advantage to the Crockford style.  Consider this small modification:
-[coffee]
-Container = (param, decrementBy) ->
+{% highlight coffeescript %}
+    Container = (param, decrementBy) ->
 
-  @member = param
-  secret = 3
+      @member = param
+      secret = 3
 
-  dec = ->
-    if secret > 0
-      secret -= decrementBy
-      true
-    else
-      false
+      dec = ->
+        if secret > 0
+          secret -= decrementBy
+          true
+        else
+          false
 
-  @service = ->
-    if dec() then @member else null
+      @service = ->
+        if dec() then @member else null
 
-  null
+      null
 
-Container::stamp = (string) ->
-  @member + string
-[/coffee]
+    Container::stamp = (string) ->
+      @member + string
+{% endhighlight %}
 Here we have generalized the class by adding a `decrementBy` parameter to the constructor.  We do not copy this to a property, but any of the private or privileged methods in the class can use it. (Don't you love closures!).  There is no way to do this using the Coffeescript `class` syntax in a way that would prevent the decrementBy value being modified from outside the object.
 
 I think I might switch to using the Crockford-style classes.

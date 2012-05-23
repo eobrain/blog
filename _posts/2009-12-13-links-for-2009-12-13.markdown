@@ -10,20 +10,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [m-pulse / a cooltown magazine / An Agile Approach: HP Labs' Jim Rowson on Developing and Deploying for Device Ensembles](http://web.archive.org/web/20040225133139/http://cooltown.hp.com/mpulse/1202-thinker.asp)
 
 
-                
-
 This is about one of the first projects I worked on in HP labs.  The original URL is long gone, but luckily it is still there in the wayback machine.
 
-
-                
 
 (tags: [me](http://delicious.com/eob/me) [pervasive](http://delicious.com/eob/pervasive) [hp](http://delicious.com/eob/hp))
 
 
-            
+

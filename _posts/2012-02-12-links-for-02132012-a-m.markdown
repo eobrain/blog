@@ -9,34 +9,19 @@ categories:
 - bookmarks
 ---
 
-     
-  *      
 
-               [balupton/history.js - GitHub](https://github.com/balupton/history.js)      
+  * [balupton/history.js - GitHub](https://github.com/balupton/history.js)
 
-     
 
 You can use this library to fix the AJAX back-button problem in a browser-compatible way.
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [html5](http://www.diigo.com/user/eobrain/html5)            [ajax](http://www.diigo.com/user/eobrain/ajax)            [seo](http://www.diigo.com/user/eobrain/seo)            [library](http://www.diigo.com/user/eobrain/library)
 
-             
 
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [html5](http://www.diigo.com/user/eobrain/html5)            [ajax](http://www.diigo.com/user/eobrain/ajax)            [seo](http://www.diigo.com/user/eobrain/seo)            [library](http://www.diigo.com/user/eobrain/library)
+  * [How To Build a Naive Bayes Classifier](http://bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html)
 
-                                       
-     
-  *      
-
-               [How To Build a Naive Bayes Classifier](http://bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html)      
-
-     
 
 Nice clear article explaining the theory and practice behind naive Bayes.
+ tags:                      [tutorial](http://www.diigo.com/user/eobrain/tutorial)            [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)
 
-             
-
-         tags:                      [tutorial](http://www.diigo.com/user/eobrain/tutorial)            [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

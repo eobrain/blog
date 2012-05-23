@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [MySQL AB :: MySQL 5.0 Reference Manual :: 11 Data Types](http://dev.mysql.com/doc/refman/5.0/en/data-types.html)
@@ -30,7 +30,7 @@ MySql datatype reference.  Handy when creating rails models.
 	
 
 	
-  * 
+  *
 		
 
 [ActiveRecord Relationships](http://www.slash7.com/cheats/activerecord_cheatsheet.pdf)

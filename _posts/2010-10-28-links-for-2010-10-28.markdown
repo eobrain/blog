@@ -9,56 +9,42 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [QtWebKitTiling – WebKit](https://trac.webkit.org/wiki/QtWebKitTiling)
 
-
-                
 
 At the end of this post it explains how to use "frame flattening" to expand iframes to the size of their content:
 
 QWebSettings::globalSettings()->setAttribute(QWebSettings::FrameFlatteningEnable, true);
 
 
-                
-
 (tags: [c++](http://www.delicious.com/eob/c%2B%2B) [web](http://www.delicious.com/eob/web) [example](http://www.delicious.com/eob/example) [tutorial](http://www.delicious.com/eob/tutorial) [programming](http://www.delicious.com/eob/programming))
 
 
-            
-  * 
-                
+  *
+
 
 [Resize iframe based on content | easyXDM](http://easyxdm.net/wp/2010/03/17/resize-iframe-based-on-content/)
 
 
-                
-
 Another way to resize iframes automatically
 
-
-                
 
 (tags: [web](http://www.delicious.com/eob/web) [programming](http://www.delicious.com/eob/programming) [tutorial](http://www.delicious.com/eob/tutorial) [example](http://www.delicious.com/eob/example))
 
 
-            
-  * 
-                
+  *
+
 
 [AlexAitken.net - IFrame Solutions](http://alexaitken.net/code/iframe-solutions.htm)
 
 
-                
-
 iframe security trickery
 
-
-                
 
 (tags: [web](http://www.delicious.com/eob/web) [programming](http://www.delicious.com/eob/programming) [javascript](http://www.delicious.com/eob/javascript) [tutorial](http://www.delicious.com/eob/tutorial) [example](http://www.delicious.com/eob/example))
 
 
-            
+

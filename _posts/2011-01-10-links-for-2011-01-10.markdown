@@ -10,23 +10,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Advanced QT Programming](http://www.scribd.com/doc/43729004/Advanced-QT-Programming)
 
 
-                
-
 Downloadable PDF book on Qt programming -- including how to integrate with the Qt Webkit component.
 
 
-                
-
 (tags: [programming](http://www.delicious.com/eob/programming) [tutorial](http://www.delicious.com/eob/tutorial) [c](http://www.delicious.com/eob/c) [web](http://www.delicious.com/eob/web))
-
-
-            
 
 
 [![](http://htmlimg1.scribdassets.com/1biba9094wrm3ng/images/1-f10e3c5385/000.jpg)](http://www.scribd.com/doc/43729004/Advanced-QT-Programming)

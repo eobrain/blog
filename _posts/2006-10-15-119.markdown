@@ -9,5 +9,5 @@ categories:
 - San Francisco
 ---
 
-I started creating a [spreadsheet of transit schedules](http://spreadsheets.google.com/ccc?key=pcHskMUPg8pw9E60J8f8LIQ) between my home in San Francisco and my office in Palo Alto.  It looks like there is no appealing options, but I will try it next week anyway.   
+I started creating a [spreadsheet of transit schedules](http://spreadsheets.google.com/ccc?key=pcHskMUPg8pw9E60J8f8LIQ) between my home in San Francisco and my office in Palo Alto.  It looks like there is no appealing options, but I will try it next week anyway.
 

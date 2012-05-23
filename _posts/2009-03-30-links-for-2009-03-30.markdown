@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Gapminder US](http://graphs.gapminder.org/world/usa.php#$majorMode=chart$is;shi=t;ly=2003;lb=f;il=t;fs=11;al=30;stl=t;st=t;nsl=t;se=t$wst;tts=C$ts;sp=2.9741935483871;ti=2006$zpv;v=0$inc_x;mmid=XCOORDS;iid=pp59adS3CHWfKPVb7dEexFA;by=ind$inc_y;mmid=YCOORDS;iid=pp59adS3CHWeR0Ufcou95MQ;by=ind$inc_s;uniValue=20;iid=pp59adS3CHWedi8p5UR-KMw;by=ind$inc_c;uniValue=255;gid=CATID1;iid=pp59adS3CHWeR0Ufcou95MQ;by=grp$map_x;scale=log;dataMin=109;dataMax=138556$map_y;scale=log;dataMin=1.8;dataMax=420$map_s;sma=50;smi=2$cd;bd=0$inds=i277_t001929,,,,;i104_t001913,,,,)
 
 
-                
-
 The statistical visualization tools on this site are an amazingly way to gain intuitive insight into large quantities of data.
 
-
-                
 
 (tags: [ireland](http://delicious.com/eob/ireland) [politics](http://delicious.com/eob/politics))
 
 
-            
+

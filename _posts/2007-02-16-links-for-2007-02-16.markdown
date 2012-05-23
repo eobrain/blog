@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Porchlight SF :: This Month](http://www.porchlightsf.com/thismonth.html)
@@ -30,7 +30,7 @@ Looks like fun ... and walking distance from our house.
 	
 
 	
-  * 
+  *
 		
 
 [Google Image Labeler](http://images.google.com/imagelabeler/)

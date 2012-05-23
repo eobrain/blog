@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [HadoopDB Project](http://db.cs.yale.edu/hadoopdb/hadoopdb.html)
 
 
-                
-
 Combining MapReduce with and SQL database
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [java](http://delicious.com/eob/java) [database](http://delicious.com/eob/database) [scaling](http://delicious.com/eob/scaling) [architecture](http://delicious.com/eob/architecture))
 
 
-            
+

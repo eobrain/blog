@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [EasyRGB - The inimitable RGB and COLOR search engine!](http://www.easyrgb.com/index.php?X=MATH)
 
 
-                
-
 Handy formulae for converting between different color spaces
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [graphics](http://delicious.com/eob/graphics) [code](http://delicious.com/eob/code))
 
 
-            
+

@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [as3cards - Google Code](http://code.google.com/p/as3cards/)

@@ -9,48 +9,26 @@ categories:
 - bookmarks
 ---
 
-     
-  *      
 
-               [C++0xCompilerSupport - Stdcxx Wiki](http://wiki.apache.org/stdcxx/C++0xCompilerSupport)      
+  * [C++0xCompilerSupport - Stdcxx Wiki](http://wiki.apache.org/stdcxx/C++0xCompilerSupport)
 
-     
 
 Handy table showing what new C++ features are supported by what compilers
+ tags:                      [c++](http://www.diigo.com/user/eobrain/c++)            [programming](http://www.diigo.com/user/eobrain/programming)
 
-             
 
-         tags:                      [c++](http://www.diigo.com/user/eobrain/c++)            [programming](http://www.diigo.com/user/eobrain/programming)
+  * [Web development tutorials, from beginner to advanced | Nettuts+](http://net.tutsplus.com)
 
-                                       
-     
-  *      
-
-               [Web development tutorials, from beginner to advanced | Nettuts+](http://net.tutsplus.com)      
-
-     
 
 Great source for web development news and information.
+ tags:                      [web](http://www.diigo.com/user/eobrain/web)
 
-             
 
-         tags:                      [web](http://www.diigo.com/user/eobrain/web)
+  * [Popcorn.js | The HTML5 Media Framework](http://popcornjs.org)
 
-                                                                       
-     
-  *      
 
-               [Popcorn.js | The HTML5 Media Framework](http://popcornjs.org)      
+HTML5 Javascript library
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [video](http://www.diigo.com/user/eobrain/video)
 
-     
-
-HTML5 Javascript library 
-
-             
-
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [video](http://www.diigo.com/user/eobrain/video)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

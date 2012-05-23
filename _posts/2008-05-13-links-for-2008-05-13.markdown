@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Google Friend Connect](http://www.google.com/friendconnect/home/moreinfo)
@@ -30,7 +30,7 @@ New Google service that sprinkles social-ness on any site.
 	
 
 	
-  * 
+  *
 		
 
 [Photojojo - The best photo tips, DIY projects, and gear in the whole wide world](http://photojojo.com/)

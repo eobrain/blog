@@ -9,20 +9,16 @@ categories:
 - Consumer Media
 ---
 
-  * 
-                
+  *
+
 
 [Nrby Photos - Cyrket](http://www.cyrket.com/p/palm/org.eamonn.nrby/)
 
 
-                
-
 Comments and ratings of my Palm WebOS app
 
-
-                
 
 (tags: [webos](http://delicious.com/eob/webos) [photo](http://delicious.com/eob/photo))
 
 
-            
+

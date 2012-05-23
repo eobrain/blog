@@ -10,20 +10,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Blog of Data » Blog Archive » Riak and Cassandra and HBase, oh my!](http://blog.mozilla.com/data/2010/05/18/riak-and-cassandra-and-hbase-oh-my/)
 
 
-                
-
 Interesting article and comments looking at scalable key-store data stores like Riak, HBase, and Cassandra.
 
-
-                
 
 (tags: [architecture](http://delicious.com/eob/architecture) [database](http://delicious.com/eob/database) [scaling](http://delicious.com/eob/scaling))
 
 
-            
+

@@ -9,20 +9,16 @@ categories:
 - Consumer Media
 ---
 
-  * 
-                
+  *
+
 
 [Idée Labs](http://labs.ideeinc.com/)
 
 
-                
-
 In addition to TinEye, Idée has several other image search and discovery services.
 
-
-                
 
 (tags: [imaging](http://www.delicious.com/eob/imaging) [webservices](http://www.delicious.com/eob/webservices))
 
 
-            
+

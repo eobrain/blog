@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [The Lift Book | Google Groups](http://the-lift-book.googlegroups.com/web/master.pdf?pli=1)
 
 
-                
-
 The latest version of the Lift Book, in PDF format. (Creative Commons licensed).  Lift is a Scala web application framework.
 
-
-                
 
 (tags: [scala](http://delicious.com/eob/scala) [web2.0](http://delicious.com/eob/web2.0) [webservices](http://delicious.com/eob/webservices) [web](http://delicious.com/eob/web) [programming](http://delicious.com/eob/programming) [tutorial](http://delicious.com/eob/tutorial) [reference](http://delicious.com/eob/reference))
 
 
-            
+

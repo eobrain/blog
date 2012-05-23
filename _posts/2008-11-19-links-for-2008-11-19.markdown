@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Main Page - OpenSocial](http://wiki.opensocial.org/index.php?title=Main_Page)
 
 
-                
-
 List of currently active OpenSocial container sites.
 
-
-                
 
 (tags: [social](http://delicious.com/eob/social) [code](http://delicious.com/eob/code))
 
 
-            
+

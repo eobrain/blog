@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Ajaxload - Ajax loading gif generator](http://www.ajaxload.info/)
@@ -30,7 +30,7 @@ Create busy indicator GIFs
 	
 
 	
-  * 
+  *
 		
 
 [About « Graphing Social Patterns: The Business & Technology of Facebook](http://graphingsocial.com/)

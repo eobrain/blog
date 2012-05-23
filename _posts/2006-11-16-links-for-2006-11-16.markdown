@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Google Code Search](http://www.google.com/codesearch)

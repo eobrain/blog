@@ -9,20 +9,12 @@ categories:
 - Consumer Media
 ---
 
-     
-  *      
 
-               [AppData - Facebook application leaderboards, charts, and metrics](http://www.appdata.com)      
+  * [AppData - Facebook application leaderboards, charts, and metrics](http://www.appdata.com)
 
-     
 
 Interesting data on Facebook and iOS apps.
+ tags:                      [mobile](http://www.diigo.com/user/eobrain/mobile)
 
-             
-
-         tags:                      [mobile](http://www.diigo.com/user/eobrain/mobile)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

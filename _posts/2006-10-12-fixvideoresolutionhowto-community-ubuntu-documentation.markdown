@@ -11,13 +11,10 @@ categories:
 
 One problem with my Ubunto installation on my laptop is that the max resolution I can set was 1024x768 which is pretty crowded for soing software development in Eclipse.  So I followed the instructions in [FixVideoResolutionHowto - Community Ubuntu Documentation](https://help.ubuntu.com/community/FixVideoResolutionHowto):
 
-    
-    
+
     sudo cp /etc/X11/xorg.conf /etc/X11/xorg.conf.custom
     sudo sh -c 'md5sum /etc/X11/xorg.conf > /var/lib/x11/xorg.conf.md5sum'
     sudo dpkg-reconfigure xserver-xorg
-    
-
 
 
 **update**
@@ -26,8 +23,8 @@ Well, that worked, but not without problems.  I was asked a daunting amount of q
 **update 2**
 Firstly, I forgot to mention that I needed to to a CTRL-ALT-BACKSPACE to restart X to see the effect of the above change.
 
-Secondly, _a strong warning_: when I tried to do this on a desktop machine on which I was installing Ubuntu a few days later it killed X and threw me back to the command line.  I think it was because I chose the option to automatically detect the monitor.  In that case all I really wanted to do was increase the monitor refresh rate to avoid an annoying flickr.  So after the above technique failed I instead I edited the `/etc/X11/xorg.conf` config script modifing the monitor refresh rate  line to 
-    
+Secondly, _a strong warning_: when I tried to do this on a desktop machine on which I was installing Ubuntu a few days later it killed X and threw me back to the command line.  I think it was because I chose the option to automatically detect the monitor.  In that case all I really wanted to do was increase the monitor refresh rate to avoid an annoying flickr.  So after the above technique failed I instead I edited the `/etc/X11/xorg.conf` config script modifing the monitor refresh rate  line to
+
     VertRefresh     43-85
 
 and restarted X.  That seems to have worked fine.

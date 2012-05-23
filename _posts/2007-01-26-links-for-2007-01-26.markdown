@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Ruby Java Bridge](http://rjb.rubyforge.org/)
@@ -30,7 +30,7 @@ Calling Java from Ruby
 	
 
 	
-  * 
+  *
 		
 
 [YAJB - いろいろ＠さくらい](http://www.cmt.phys.kyushu-u.ac.jp/~M.Sakurai/cgi-bin/fw/wiki.cgi?page=YAJB)
@@ -49,7 +49,7 @@ Calling Java from Ruby.  Unlike JRB this is pure java + pure ruby so it should w
 	
 
 	
-  * 
+  *
 		
 
 [sizeasy - your size comparison website](http://www.sizeasy.com/)
@@ -68,7 +68,7 @@ Interesting web service to give intuitive size comparisons.
 	
 
 	
-  * 
+  *
 		
 
 [OpenMoko](http://www.openmoko.com/)

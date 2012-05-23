@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Pagetest - where web sites go to get FAST!](http://www.webpagetest.org/)
 
 
-                
-
 This site is really useful for optimizing web page performance.
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [design](http://delicious.com/eob/design) [tool](http://delicious.com/eob/tool) [web](http://delicious.com/eob/web))
 
 
-            
+

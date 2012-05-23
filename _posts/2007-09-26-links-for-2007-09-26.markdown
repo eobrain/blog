@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [The Awful German Language, by Mark Twain](http://langs.eserver.org/the-awful-german-language.txt)

@@ -10,20 +10,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Scrum Basics](http://www.scrum.org/storage/scrumguides/Scrum%20Guide.pdf)
 
 
-                
-
 A very good overview and cheat-sheet of the Scrum agile process for software development.
 
-
-                
 
 (tags: [agile](http://delicious.com/eob/agile) [guide](http://delicious.com/eob/guide) [tutorial](http://delicious.com/eob/tutorial))
 
 
-            
+

@@ -10,13 +10,7 @@ wordpress_id: '8'
 [Cheap accommodation in Prague - basic czech phrases](http://www.accommodation-prague.cz/slovnik.html)
 
 
-
-
-
 Useful for upcoming trip to Prague.
-
-
-
 
 
 Copied from old blog.

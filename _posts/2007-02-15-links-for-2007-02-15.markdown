@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Top: show](http://127.0.0.1:3000/)
@@ -30,7 +30,7 @@ Default localhost page when developing with Ruby on Rails.
 	
 
 	
-  * 
+  *
 		
 
 [RubyForge: objectiveflickr: Project Info](http://rubyforge.org/projects/objectiveflickr/)

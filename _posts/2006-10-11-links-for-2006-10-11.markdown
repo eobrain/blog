@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [The Folding Bike Solution](http://www.transalt.org/features/foldingbike.html)
@@ -30,7 +30,7 @@ Reviews and advice on folding bicycles, a bit NYC-centric.
 	
 
 	
-  * 
+  *
 		
 
 [Brompton Bikes : Buying](http://www.bromptonbicycle.co.uk/index.cfm?fuseaction=buying.dealers&RegionID=37&countryID=22)
@@ -49,7 +49,7 @@ California stores selling Brompton folding bikes.
 	
 
 	
-  * 
+  *
 		
 
 [Web Page Analyzer - free website optimization tool website speed test check website performance report from web site optimization](http://www.websiteoptimization.com/services/analyze/)

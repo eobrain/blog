@@ -24,6 +24,6 @@ For one tape, I had the problem that it had originally been recorded with Dolby,
 All in all, despite some frustration it was fun to dive back into the kind of audio signal (1-D)   processing that I had not done much of since college, though I have been doing quite a lot of work in the analogous worlds of image (2-D) and video (3-D) processing.
 
 And now, I’m looking forward to listening to a lots of my old favorite music on my MP3 player.
- 
+
 
 

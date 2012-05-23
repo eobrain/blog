@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [How to get HTML5 working in IE and Firefox 2 | HTML5 Doctor](http://html5doctor.com/how-to-get-html5-working-in-ie-and-firefox-2/)
 
 
-                
-
 Thanks to @susiewee for this link
 
-
-                
 
 (tags: [css](http://www.delicious.com/eob/css) [html5](http://www.delicious.com/eob/html5) [javascript](http://www.delicious.com/eob/javascript) [code](http://www.delicious.com/eob/code) [web](http://www.delicious.com/eob/web))
 
 
-            
+

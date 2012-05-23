@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [mir.aculo.us](http://mir.aculo.us/2008/5/27/google-served-javascript-libraries)

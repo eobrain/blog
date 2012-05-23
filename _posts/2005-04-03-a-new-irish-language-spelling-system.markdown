@@ -14,12 +14,8 @@ One of the nice things about the Irish language is that its spelling is very reg
 This is particularly true of some of the lengthened consonants which in the modern spelling are indicated by adding an “h”:
 
 
-
-
-
 “th” and ”sh”
 (pronounced /h/)
-
 
 
 “bh” and ”mh”
@@ -30,18 +26,11 @@ dh” and ”gh”
 (pronounced /y/ or a /g/, /h/ mixture depending on context)
 
 
-
 “fh”
 (silent)
 
 
 I propose that we adopt a new spelling system that is more accessible to non-Irish speakers.
-
-
-
-
-
-
 
 
 Consonant
@@ -50,26 +39,22 @@ Lengthened, In New Spelling
 Example
 
 
-
-p       
-ph               
-f̃         
+p
+ph
+f̃
 Gaiṽ mo f̃ardún.
 
 
-
-t       
-th               
-ĥ         
+t
+th
+ĥ
 Go raiṽ maiĥ agat.
 
 
-
-c       
-ch               
-k̃         
+c
+ch
+k̃
 Óik̃e w̃aiĥ.
-
 
 
 b (+aou)
@@ -78,12 +63,10 @@ ŵa ŵo ŵu
 An laŵarann tú ...?
 
 
-
-b (+ei) 
-bhe bhi       
-ṽe ṽi    
+b (+ei)
+bhe bhi
+ṽe ṽi
 Sa ṽliain 2005 ...
-
 
 
 d (+aou)
@@ -92,12 +75,10 @@ ĥa ĥo ĥu
 Dia ĥuit.
 
 
-
-d (+ei) 
-dhe dhi       
-ŷe ŷi    
+d (+ei)
+dhe dhi
+ŷe ŷi
 rud a ŷéanfaí
-
 
 
 g (+aou)
@@ -106,12 +87,10 @@ ĥa ĥo ĥu
 Cuireaĥ ĥá ~oclóir
 
 
-
-g (+ei) 
-ghe ghi       
-ỹe ỹi    
+g (+ei)
+ghe ghi
+ỹe ỹi
 k̃uir an taiỹde seo
-
 
 
 m (+aou)
@@ -120,24 +99,21 @@ w̃a w̃o w̃u
 Tá fáilte row̃at.
 
 
-
-m (+ei) 
-mhe mhi       
-ṽe ṽi    
+m (+ei)
+mhe mhi
+ṽe ṽi
 teanga a ṽíniú
 
 
-
-s       
-sh               
-ĥ         
+s
+sh
+ĥ
 míle bliain ó ĥin
 
 
-
-f       
-fh               
-~         
+f
+fh
+~
 K̃un treorak̃a a ~áil
 
 

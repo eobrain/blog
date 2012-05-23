@@ -9,20 +9,12 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [boilerpipe - Boilerplate Removal and Fulltext Extraction from HTML pages - Google Project Hosting](http://code.google.com/p/boilerpipe)      
+  * [boilerpipe - Boilerplate Removal and Fulltext Extraction from HTML pages - Google Project Hosting](http://code.google.com/p/boilerpipe)
 
-     
 
 Find main text from web pages.
+ tags:                      [java](http://www.diigo.com/user/eobrain/java)            [web](http://www.diigo.com/user/eobrain/web)            [code](http://www.diigo.com/user/eobrain/code)            [library](http://www.diigo.com/user/eobrain/library)
 
-             
-
-         tags:                      [java](http://www.diigo.com/user/eobrain/java)            [web](http://www.diigo.com/user/eobrain/web)            [code](http://www.diigo.com/user/eobrain/code)            [library](http://www.diigo.com/user/eobrain/library)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

@@ -10,20 +10,12 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [Collaborative Filtering Using JRuby and Mahout : Danny 'Jay' Donnell](http://jaydonnell.com/blog/2011/10/21/collaborative-filtering-using-jruby-and-mahout)      
+  * [Collaborative Filtering Using JRuby and Mahout : Danny 'Jay' Donnell](http://jaydonnell.com/blog/2011/10/21/collaborative-filtering-using-jruby-and-mahout)
 
-     
 
 Nice simple and complete example of how to implement collaborative filtering using the Mahout Java library.
+ tags:                      [ruby](http://www.diigo.com/user/eobrain/ruby)            [javascript](http://www.diigo.com/user/eobrain/javascript)            [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)            [tutorial](http://www.diigo.com/user/eobrain/tutorial)
 
-             
-
-         tags:                      [ruby](http://www.diigo.com/user/eobrain/ruby)            [javascript](http://www.diigo.com/user/eobrain/javascript)            [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)            [tutorial](http://www.diigo.com/user/eobrain/tutorial)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

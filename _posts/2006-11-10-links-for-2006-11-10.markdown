@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [DVD Demystified](http://www.dvddemystified.com/)
@@ -25,7 +25,7 @@ categories:
 	
 
 	
-  * 
+  *
 		
 
 [GNOME: The Free Software Desktop Project](http://www.gnome.org/)

@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Bookmarklet of death: Domain hijacking without 0days | GNUCITIZEN](http://www.gnucitizen.org/blog/bookmark-of-death-domain-hijacking-without-0days/)
 
 
-                
-
 Using a bookmarklet to steal cookies by adding an image to the page.
 
-
-                
 
 (tags: [javascript](http://delicious.com/eob/javascript) [security](http://delicious.com/eob/security) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-            
+

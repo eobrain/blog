@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [pdf-renderer: PDFRenderer Home Page](https://pdf-renderer.dev.java.net/)
 
 
-                
-
 Java library to render PDF
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [library](http://delicious.com/eob/library) [java](http://delicious.com/eob/java) [graphics](http://delicious.com/eob/graphics) [imaging](http://delicious.com/eob/imaging))
 
 
-            
+

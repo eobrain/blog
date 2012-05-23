@@ -10,11 +10,7 @@ wordpress_id: '6'
 [ecardfile - card display](https://ecardfile.com/id/eob)
 
 
-
-
-
 * * *
-
 
 
 Copied from [old blog](http://web.archive.org/web/20030717051544/www.obrain.com/Eamonn/archives/000007.html)

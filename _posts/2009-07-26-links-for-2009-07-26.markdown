@@ -9,37 +9,28 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Snapfish Lab: An open online imaging community](http://www.ieeexplore.ieee.org/xpl/freeabs_all.jsp?isnumber=4665023&arnumber=4665042&count=189&index=12)
 
 
-                
-
 Our paper about Snapfish Lab.
 
-
-                
 
 (tags: [my](http://delicious.com/eob/my) [web2.0](http://delicious.com/eob/web2.0) [webservices](http://delicious.com/eob/webservices) [imaging](http://delicious.com/eob/imaging))
 
 
-            
-  * 
-                
+  *
+
 
 [Canons of page construction - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
 
 
-                
-
 Design principles for laying out book page margins.
 
-
-                
 
 (tags: [layout](http://delicious.com/eob/layout) [webpageprinting](http://delicious.com/eob/webpageprinting) [design](http://delicious.com/eob/design))
 
 
-            
+

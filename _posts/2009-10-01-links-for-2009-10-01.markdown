@@ -10,20 +10,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [The Perils of Image.getScaledInstance() | Java.net](http://today.java.net/pub/a/today/2007/04/03/perils-of-image-getscaledinstance.html)
 
 
-                
-
 Advice on how to scale images in Java
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [tutorial](http://delicious.com/eob/tutorial) [java](http://delicious.com/eob/java) [graphics](http://delicious.com/eob/graphics) [imaging](http://delicious.com/eob/imaging) [scaling](http://delicious.com/eob/scaling))
 
 
-            
+

@@ -11,5 +11,5 @@ categories:
 ---
 
 We had a big event in HP Labs today unveiling our new research strategy.  My small part was helping to demo our [Snapfish Lab](http://www.snapfishlab.com) web site.  We also released [a video about Snapfish Lab](http://www.hp.com/idealab/us/en/main.html#/snapfish/) in which I make an appearance.
-                           
-                    
+
+

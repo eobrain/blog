@@ -9,122 +9,88 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Ajaxian » Canvas2Image: Save out your canvas data to images](http://ajaxian.com/archives/canvas2image-save-out-your-canvas-data-to-images)
 
 
-                
-
 Javascript code to encode a canvas bitmap in base64
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [javascript](http://delicious.com/eob/javascript) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-            
-  * 
-                
+  *
+
 
 [Saving image to your server](http://www.izhuk.com/painter/product/doc/saving.htm)
 
 
-                
-
 Javascript code to grab image data and send it the server.
 
-
-                
 
 (tags: [javascript](http://delicious.com/eob/javascript) [webpageprinting](http://delicious.com/eob/webpageprinting) [tutorial](http://delicious.com/eob/tutorial))
 
 
-            
-  * 
-                
+  *
+
 
 [Abused Strings Considered Harmful: Overuse of Strings to Represent Non-String Data Leads to Problems](http://computer-programming-languages.suite101.com/article.cfm/abused_strings_considered_harmful)
 
 
-                
-
 I agree.  I try to never use a string when I can use some other type with clearer semantics.
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming))
 
 
-            
-  * 
-                
+  *
+
 
 [The onbeforeprint and onafterprint events of IE](http://www.javascriptkit.com/javatutors/ie5print.shtml)
 
 
-                
-
 IE-specific mechanism that can be used to modify a web page for printing.
 
-
-                
 
 (tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [printing](http://delicious.com/eob/printing) [javascript](http://delicious.com/eob/javascript))
 
 
-            
-  * 
-                
+  *
+
 
 [Digital Web Magazine	 - CSS Styling for Print and Other Media](http://www.digital-web.com/articles/css_styling_for_print_and_other_media/)
 
 
-                
-
 CSS media, with some good examples
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [tutorial](http://delicious.com/eob/tutorial) [reference](http://delicious.com/eob/reference) [design](http://delicious.com/eob/design) [code](http://delicious.com/eob/code) [printing](http://delicious.com/eob/printing) [css](http://delicious.com/eob/css) [web](http://delicious.com/eob/web) [guide](http://delicious.com/eob/guide) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-            
-  * 
-                
+  *
+
 
 [Index of /mirrors/ftp.trolltech.com/pub/qt/source](http://ftp.heanet.ie/mirrors/ftp.trolltech.com/pub/qt/source/)
 
 
-                
-
 mirror for Qt releases
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [library](http://delicious.com/eob/library))
 
 
-            
-  * 
-                
+  *
+
 
 [Ten Common Database Design Mistakes](http://www.simple-talk.com/sql/database-administration/ten-common-database-design-mistakes/)
 
 
-                
-
 Mostly I agree with the evil of these anti-patterns.
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [design](http://delicious.com/eob/design) [code](http://delicious.com/eob/code) [database](http://delicious.com/eob/database) [architecture](http://delicious.com/eob/architecture))
 
 
-            
+

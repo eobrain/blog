@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [ngrep - network grep](http://ngrep.sourceforge.net/)
 
 
-                
-
 Handy network monitoring tool
 
-
-                
 
 (tags: [networking](http://delicious.com/eob/networking) [network](http://delicious.com/eob/network) [tool](http://delicious.com/eob/tool))
 
 
-            
+

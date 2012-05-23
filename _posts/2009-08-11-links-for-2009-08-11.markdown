@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [V8 // ShaunInman.com](http://www.shauninman.com/archive/2008/07/30/v8)
 
 
-                
-
 Example of tilted text (Safari or Chrome)
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [design](http://delicious.com/eob/design) [javascript](http://delicious.com/eob/javascript) [web](http://delicious.com/eob/web) [css](http://delicious.com/eob/css))
 
 
-            
+

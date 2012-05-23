@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Index of /repo-releases/](http://scala-tools.org/repo-releases/)
 
 
-                
-
 The scala-specific repository used by default by SBT
 
-
-                
 
 (tags: [scala](http://delicious.com/eob/scala) [library](http://delicious.com/eob/library))
 
 
-            
+

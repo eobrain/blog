@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [eigenclass - rcov: code coverage for Ruby](http://eigenclass.org/hiki.rb?rcov)

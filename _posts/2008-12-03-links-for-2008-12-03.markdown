@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [17 powerful bookmarklets for your iPhone](http://www.lifeclever.com/17-powerful-bookmarklets-for-your-iphone/)
 
 
-                
-
 It is possible to execute bookmarklet JavaScript code on an iphone.  Very poweeful!  For example, Now my phone becomes even more useful, as I can use the delicious bookmarklet to bookmark pages (as I am doing now).
 
-
-                
 
 (tags: [javascript](http://delicious.com/eob/javascript) [mobile](http://delicious.com/eob/mobile) [web](http://delicious.com/eob/web) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-            
+

@@ -9,20 +9,12 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [Lazy Loader - Load HTML and Images on Window Scroll | jQuery Plugins](http://plugins.jquery.com/project/LazyLoadOnScroll)      
+  * [Lazy Loader - Load HTML and Images on Window Scroll | jQuery Plugins](http://plugins.jquery.com/project/LazyLoadOnScroll)
 
-     
 
 Nice easy-to-use lazy-loading JavaScript library to allow you to have long scrollable web pages without a big up-front loading time.
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [programming](http://www.diigo.com/user/eobrain/programming)
 
-             
-
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [programming](http://www.diigo.com/user/eobrain/programming)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

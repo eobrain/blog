@@ -10,20 +10,12 @@ categories:
 - Futzing
 ---
 
-     
-  *      
 
-               [HP EliteBook 8540w Mobile Workstation - Accessories, supplies & services](http://h10010.www1.hp.com/wwpc/us/en/sm/WF08a/321957-321957-64295-3740645-4307559-4096175.html)      
+  * [HP EliteBook 8540w Mobile Workstation - Accessories, supplies & services](http://h10010.www1.hp.com/wwpc/us/en/sm/WF08a/321957-321957-64295-3740645-4307559-4096175.html)
 
-     
 
 I think I need to get some more memory for my laptop so that I can run Windows and Ubuntu simultaneously (using a virtual machine).
+ tags:                      [HP](http://www.diigo.com/user/eobrain/HP)
 
-             
-
-         tags:                      [HP](http://www.diigo.com/user/eobrain/HP)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

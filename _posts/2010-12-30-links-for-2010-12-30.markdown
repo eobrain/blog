@@ -9,37 +9,28 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Color Scheme Designer 3](http://colorschemedesigner.com/#0g21Tw0fkw0w0)
 
 
-                
-
 Proposed palette for Miangr
 
-
-                
 
 (tags: [design](http://www.delicious.com/eob/design) [webservices](http://www.delicious.com/eob/webservices) [web](http://www.delicious.com/eob/web) [tool](http://www.delicious.com/eob/tool) [miangr](http://www.delicious.com/eob/miangr))
 
 
-            
-  * 
-                
+  *
+
 
 [Color Scheme Designer 3](http://colorschemedesigner.com/)
 
 
-                
-
 Very nice tool for creating a web site templates, starting with one base color.
 
-
-                
 
 (tags: [design](http://www.delicious.com/eob/design) [web](http://www.delicious.com/eob/web) [webservices](http://www.delicious.com/eob/webservices) [tool](http://www.delicious.com/eob/tool))
 
 
-            
+

@@ -20,7 +20,6 @@ The Beta 0.5 will soon be available for installation from the [Palm application 
 Changes:
 
 
-
   1. Internal changes to how the search radius is adjusted according to the local density of photographs.
 
 
@@ -28,7 +27,6 @@ Changes:
 
 
   3. Miscellaneous bug fixes.
-
 
 
 Please add any questions or comments below.

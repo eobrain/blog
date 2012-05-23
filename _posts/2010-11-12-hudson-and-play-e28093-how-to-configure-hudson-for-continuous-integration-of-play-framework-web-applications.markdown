@@ -18,20 +18,20 @@ Hudson is an amazingly useful continuous integration environment that you can se
 
 To integrate Play with Hudson I created a simple Makefile in the Play project directory:
 
-> 
+>
 >     PLAY=../play-1.1/play
->     
+>
 >     hudson: play-test play-javadoc
->     
+>
 >     play-test: ../play-1.1
 >     	$(PLAY) auto-test
->     
+>
 >     play-javadoc: ../play-1.1
 >     	$(PLAY) javadoc
->     
+>
 >     ../play-1.1/play: play-1.1.zip
 >     	cd ..; unzip */play-1.1.zip
->     
+>
 
 
 (Note that this assumes that I have included a ZIPed copy of the play framework in the module directory.  The first time the default target is called this will be unzipped into a sibling directory of the module directory.  This means that I do not need any special setup of the Hudson server for Play -- the module is self-contained.)
@@ -39,7 +39,7 @@ To integrate Play with Hudson I created a simple Makefile in the Play project di
 In the Hudson configuration you then need simply put in a script that changes to the module directory and invokes “make”
 [caption id="attachment_1016" align="alignnone" width="768" caption=""]![Configuring Hudson for Play Framework module](http://www.eamonn.org/blog/wp-content/uploads/2010/11/hudson-play1.png)[/caption]
 
-The screen-shot above assumes you install the Cobertura module into Play.  This gives you nice tracking of your code coverage.  On a brand new Play application, with no extra code added by you the coverage is as shown by Hudson in the screen-shot below.  
+The screen-shot above assumes you install the Cobertura module into Play.  This gives you nice tracking of your code coverage.  On a brand new Play application, with no extra code added by you the coverage is as shown by Hudson in the screen-shot below.
 
 [caption id="attachment_1020" align="alignnone" width="725" caption=""]![Initial code coverage on an empty Play Framework app](http://www.eamonn.org/blog/wp-content/uploads/2010/11/play-cobertura1.png)[/caption]
 

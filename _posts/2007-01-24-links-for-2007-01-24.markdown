@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Scale-invariant feature transform - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Scale-invariant_feature_transform)

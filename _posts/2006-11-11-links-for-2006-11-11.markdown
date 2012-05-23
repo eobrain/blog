@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [FAlbum at RandomByte](http://www.randombyte.net/blog/projects/falbum/)
@@ -30,7 +30,7 @@ Wordpress plugin for displaying FLickr photos
 	
 
 	
-  * 
+  *
 		
 
 [quickr-flickr: quickr-flickr: access Flickr services with Java, simply!](https://quickr-flickr.dev.java.net/)

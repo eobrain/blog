@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Stanislav Vitvitskiy's blog: Calling java from XUL applications](http://stanislavvitvitskiy.blogspot.com/2009/04/calling-java-from-xul-applications.html)
 
 
-                
-
 thanks to @jam1401 for the link.
 
-
-                
 
 (tags: [java](http://delicious.com/eob/java) [javascript](http://delicious.com/eob/javascript))
 
 
-            
+

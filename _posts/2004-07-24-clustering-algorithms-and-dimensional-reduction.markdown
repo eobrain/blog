@@ -13,10 +13,9 @@ I am giving my self a crash course on some data mining techniques for a project 
 
 Also [François Labelle at McGill](http://www.cs.mcgill.ca/%7Esqrt/dimr/dimreduction.html) has a nice overview of reducing the dimensionality of multivariate data using Principal Component Analysis, also with interactive demos which give a nice intuitive feel for the technique. Mathematica supports principal component analysis, so given a data matrix with the each observation in a row, and each column a dimension I found could do the following to get a nice two dimensional view of the multi-dimenstional data:
 
-    
-    
+
     <<Statistics`MultiDescriptiveStatistics`
     rotated = PrincipalComponents[Transpose[data]];
     rotated2d = Table[ {rotated〚i,1〛, rotated〚i,2〛}, {i,1,n}];
     ListPlot[rotated2d]
-    
+

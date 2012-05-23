@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [BrightQube: changing the way the world finds images](http://brightqube.com/)
@@ -30,7 +30,7 @@ Stock photo finder with a navigation interface like Google maps
 	
 
 	
-  * 
+  *
 		
 
 [Explode!](http://ex.plode.us/)

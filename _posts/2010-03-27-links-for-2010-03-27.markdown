@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [How to Make an HTML5 iPhone App](http://m.sixrevisions.com/web-development/html5-iphone-app/)
 
 
-                
-
 Handy step-by-step tutorial on using new HTML5, with and iPhone specific features
 
-
-                
 
 (tags: [tutorial](http://delicious.com/eob/tutorial) [web](http://delicious.com/eob/web))
 
 
-            
+

@@ -10,37 +10,28 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [redis - Project Hosting on Google Code](http://code.google.com/p/redis/)
 
 
-                
-
 A key-value database that claims to be very fast, and has bindings in many languages.
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [database](http://delicious.com/eob/database) [scaling](http://delicious.com/eob/scaling) [code](http://delicious.com/eob/code))
 
 
-            
-  * 
-                
+  *
+
 
 [Akka Project](http://akkasource.org/)
 
 
-                
-
 Promising-looking framework for distributed programming in Java or Scala.
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [library](http://delicious.com/eob/library) [java](http://delicious.com/eob/java) [scala](http://delicious.com/eob/scala))
 
 
-            
+

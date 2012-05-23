@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Re: [iText-questions] Finding / Removing Object from PDF](http://www.mail-archive.com/itext-questions@lists.sourceforge.net/msg42424.html)
 
 
-                
-
 Part of the answer of how to remove objects from PDF.
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming))
 
 
-            
+

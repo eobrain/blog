@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [nginx](http://nginx.org/en/)
 
 
-                
-
 Popular reverse proxy. E.g used by Foursquare.
 
-
-                
 
 (tags: [web2.0](http://delicious.com/eob/web2.0) [networking](http://delicious.com/eob/networking))
 
 
-            
+

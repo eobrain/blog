@@ -9,22 +9,16 @@ categories:
 - Consumer Media
 ---
 
-  * 
-                
+  *
+
 
 [Vacation Ad FAIL | Random Overload](http://randomoverload.com/vacation-ad-fail)
 
 
-                
-
 A good example of how a simple ad-matching algorithm can fail.  It would take some pretty sophisticated sentiment analysis to prevent this match happening.  (Thanks to my niece Grace for finding this great example.)
 
 
-                
-
 (tags: [web](http://www.delicious.com/eob/web))
 
-
-            
 
 [![](http://randomoverload.com/wp-content/uploads/2011/02/00311d3224d82e70.jpg.jpg)](http://randomoverload.com/vacation-ad-fail)

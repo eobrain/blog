@@ -10,20 +10,12 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [The Top 10 Javascript MVC Frameworks Reviewed - CodeBrief](http://codebrief.com/2012/01/the-top-10-javascript-mvc-frameworks-reviewed)      
+  * [The Top 10 Javascript MVC Frameworks Reviewed - CodeBrief](http://codebrief.com/2012/01/the-top-10-javascript-mvc-frameworks-reviewed)
 
-     
 
 Very useful comparison of different JavaScript MVC frameworks.  Spoiler: the article concludes Ember.js (AKA SproutCore 2.0) is best.
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [programming](http://www.diigo.com/user/eobrain/programming)
 
-             
-
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [programming](http://www.diigo.com/user/eobrain/programming)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

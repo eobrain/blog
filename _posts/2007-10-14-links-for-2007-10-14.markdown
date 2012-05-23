@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Welcome to Blog to Print - Powered by SharedBook](http://blogger.sharedbook.com/)
@@ -25,7 +25,7 @@ categories:
 	
 
 	
-  * 
+  *
 		
 
 [Tolka Rover's Photos (Flickr2Photocast)](http://snosrap.com/photocast/rss.php?user_id=&username=Tolka+Rover&photoset_id=&tags=&tag_mode=any&text=&min_date=&max_date=&date_mode=taken&sort=interestingness-desc&per_page=300&page=1&size=o)

@@ -9,20 +9,12 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [2.x From The Beginning - GitHub](https://github.com/capistrano/capistrano/wiki/2.x-From-The-Beginning)      
+  * [2.x From The Beginning - GitHub](https://github.com/capistrano/capistrano/wiki/2.x-From-The-Beginning)
 
-     
 
 Nice step-by-step tutorial for using Capistrano to deploy a rails app.
+ tags:                      [ruby](http://www.diigo.com/user/eobrain/ruby)            [rubyonrails](http://www.diigo.com/user/eobrain/rubyonrails)            [deployment](http://www.diigo.com/user/eobrain/deployment)
 
-             
-
-         tags:                      [ruby](http://www.diigo.com/user/eobrain/ruby)            [rubyonrails](http://www.diigo.com/user/eobrain/rubyonrails)            [deployment](http://www.diigo.com/user/eobrain/deployment)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

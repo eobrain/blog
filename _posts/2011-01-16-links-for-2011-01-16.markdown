@@ -9,19 +9,13 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Overview (Riak Client for Java 0.9.1 API)](http://www.jarvana.com/jarvana/view/com/basho/riak/riak-client/0.9.1/riak-client-0.9.1-javadoc.jar!/overview-summary.html)
 
 
-                
-
 API documentation for Riak Java Client
-
-
-                
-            
 
 
 Update: The documentation for the more recent is at [Riak Client for Java 1.0.1 API](http://www.jarvana.com/jarvana/view/com/basho/riak/riak-client/1.0.1/riak-client-1.0.1-javadoc.jar!/overview-summary.html)

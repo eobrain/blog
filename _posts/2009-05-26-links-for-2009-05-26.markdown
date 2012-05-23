@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Google Voice - Contacts](https://www.google.com/voice#contacts)
 
 
-                
-
 Because my cellphone reception at home is so bad I usually use Google Voice to place calls from my home phone.
 
-
-                
 
 (tags: [daily](http://delicious.com/eob/daily) [webservices](http://delicious.com/eob/webservices))
 
 
-            
+

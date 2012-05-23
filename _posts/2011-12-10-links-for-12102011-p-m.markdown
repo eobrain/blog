@@ -9,20 +9,12 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [Spark Cluster Computing Framework](http://www.spark-project.org)      
+  * [Spark Cluster Computing Framework](http://www.spark-project.org)
 
-     
 
 Interesting framework for machine learning using Scala
+ tags:                      [scala](http://www.diigo.com/user/eobrain/scala)            [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)            [scaling](http://www.diigo.com/user/eobrain/scaling)            [architecture](http://www.diigo.com/user/eobrain/architecture)
 
-             
-
-         tags:                      [scala](http://www.diigo.com/user/eobrain/scala)            [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)            [scaling](http://www.diigo.com/user/eobrain/scaling)            [architecture](http://www.diigo.com/user/eobrain/architecture)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

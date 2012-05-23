@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Dang Trung Kien, University of Amsterdam, "A Review of 3D Reconstruction from Video Sequences" 2005](http://staff.science.uva.nl/~dang/pub/3DRec.pdf)

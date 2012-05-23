@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [13 things that do not make sense - space - 19 March 2005 - New Scientist Space](http://space.newscientist.com/article.ns?id=mg18524911.600)
@@ -25,7 +25,7 @@ categories:
 	
 
 	
-  * 
+  *
 		
 
 [RichardDawkins.net - The Official Richard Dawkins Website](http://richarddawkins.net/search,ALL,page1,n,Video,n,n)
@@ -44,7 +44,7 @@ various videos from around the net as collected by richarddawkins.net
 	
 
 	
-  * 
+  *
 		
 
 [Duboce](http://shibainu.s218.xrea.com/flickr/fotolog.cgi?username=Tolka%20Rover)
@@ -63,7 +63,7 @@ Wrapper around Flickr
 	
 
 	
-  * 
+  *
 		
 
 [map.png (PNG Image, 1688x1436 pixels)](http://hood.theory.org/map.png)
@@ -82,7 +82,7 @@ Bottom-up classification of San-Francisco neighborhoods.
 	
 
 	
-  * 
+  *
 		
 
 [Central](http://www.sfarmls.com/docs/central.htm)

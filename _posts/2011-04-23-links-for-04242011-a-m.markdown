@@ -9,34 +9,19 @@ categories:
 - bookmarks
 ---
 
-     
-  *      
 
-               [morgueFile free photos for creatives by creatives](http://www.morguefile.com)      
+  * [morgueFile free photos for creatives by creatives](http://www.morguefile.com)
 
-     
 
 Handy source for free stock photos that can be used commercially.
+ tags:                      [photo](http://www.diigo.com/user/eobrain/photo)
 
-             
 
-         tags:                      [photo](http://www.diigo.com/user/eobrain/photo)
+  * [Google Prediction API - Google Code](https://code.google.com/apis/predict)
 
-                                                                       
-     
-  *      
-
-               [Google Prediction API - Google Code](https://code.google.com/apis/predict)      
-
-     
 
 Google has opened up their machine learning algorithms via an API.
+ tags:                      [api](http://www.diigo.com/user/eobrain/api)            [code](http://www.diigo.com/user/eobrain/code)            [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)
 
-             
-
-         tags:                      [api](http://www.diigo.com/user/eobrain/api)            [code](http://www.diigo.com/user/eobrain/code)            [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

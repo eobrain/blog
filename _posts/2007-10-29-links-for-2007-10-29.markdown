@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Testing Concurrent Programs](http://www.theserverside.com/tt/articles/article.tss?l=TestingConcurrent)

@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Hector – a Java Cassandra client | PrettyPrint.me](http://prettyprint.me/2010/02/23/hector-a-java-cassandra-client/)
 
 
-                
-
 This looks like it may be the best Java API for working with Cassandra.
 
-
-                
 
 (tags: [api](http://delicious.com/eob/api) [code](http://delicious.com/eob/code) [database](http://delicious.com/eob/database) [java](http://delicious.com/eob/java) [programming](http://delicious.com/eob/programming))
 
 
-            
+

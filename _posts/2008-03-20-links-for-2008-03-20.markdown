@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Software and Opinions » Blog Archive » Google AJAX APIs outside the browser](http://ianloic.com/2008/03/20/google-ajax-apis-outside-the-browser/)

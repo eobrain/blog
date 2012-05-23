@@ -11,13 +11,7 @@ wordpress_id: '9'
 P2P Storage Utilities](http://www.hpl.hp.com/techreports/2002/HPL-2002-40.pdf)
 
 
-
-
-
 How to overlay a hierarchical namespace on to a flat peer-to-peer namespace.  Agile would like to do this.
-
-
-
 
 
 * * *

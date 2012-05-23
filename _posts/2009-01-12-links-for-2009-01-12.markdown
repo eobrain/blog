@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Contact Info and Upcoming Events](http://rhizohm.net/contact.html)
 
 
-                
-
 Example JavaScript code that appears as a little minimized tell-tale that can be expanded out to overlay the page.
 
-
-                
 
 (tags: [javascript](http://delicious.com/eob/javascript) [webpageprinting](http://delicious.com/eob/webpageprinting) [example](http://delicious.com/eob/example))
 
 
-            
+

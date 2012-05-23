@@ -9,62 +9,33 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [FlexSlider - The Best Responsive jQuery Slider](http://flex.madebymufffin.com)      
+  * [FlexSlider - The Best Responsive jQuery Slider](http://flex.madebymufffin.com)
 
-     
 
 Yet another JavaScript slider
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [library](http://www.diigo.com/user/eobrain/library)
 
-             
 
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [library](http://www.diigo.com/user/eobrain/library)
+  * [Minimal setup for scrollable](http://flowplayer.org/tools/demos/scrollable/index.html)
 
-                                       
-     
-  *      
-
-               [Minimal setup for scrollable](http://flowplayer.org/tools/demos/scrollable/index.html)      
-
-     
 
 Another "scrollable" UI element
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [library](http://www.diigo.com/user/eobrain/library)            [programming](http://www.diigo.com/user/eobrain/programming)
 
-             
 
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [library](http://www.diigo.com/user/eobrain/library)            [programming](http://www.diigo.com/user/eobrain/programming)
+  * [jCarousel Lite](http://www.gmarwaha.com/jquery/jcarousellite/index.php)
 
-                                       
-     
-  *      
-
-               [jCarousel Lite](http://www.gmarwaha.com/jquery/jcarousellite/index.php)      
-
-     
 
 Alternative to jcarousel
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [api](http://www.diigo.com/user/eobrain/api)            [library](http://www.diigo.com/user/eobrain/library)            [programming](http://www.diigo.com/user/eobrain/programming)
 
-             
 
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [api](http://www.diigo.com/user/eobrain/api)            [library](http://www.diigo.com/user/eobrain/library)            [programming](http://www.diigo.com/user/eobrain/programming)
+  * [jCarousel - sorgalla.com](http://sorgalla.com/jcarousel/)
 
-                                       
-     
-  *      
-
-               [jCarousel - sorgalla.com](http://sorgalla.com/jcarousel/)      
-
-     
 
 JavaScript carousel container
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [api](http://www.diigo.com/user/eobrain/api)            [library](http://www.diigo.com/user/eobrain/library)            [programming](http://www.diigo.com/user/eobrain/programming)
 
-             
-
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [api](http://www.diigo.com/user/eobrain/api)            [library](http://www.diigo.com/user/eobrain/library)            [programming](http://www.diigo.com/user/eobrain/programming)
-
-                                                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

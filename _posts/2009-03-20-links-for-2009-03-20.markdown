@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Documents for your KDE-Desktop -  KDE-Files.org](http://kde-files.org/index.php?xcontentmode=642)
 
 
-                
-
 Some templates for Scribus
 
-
-                
 
 (tags: [web2.0](http://delicious.com/eob/web2.0) [webpageprinting](http://delicious.com/eob/webpageprinting) [layout](http://delicious.com/eob/layout))
 
 
-            
+

@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Riak - A Decentralized Database](http://riak.basho.com/)
 
 
-                
-
 Another nosql database, similar to CouchDB
 
-
-                
 
 (tags: [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling) [database](http://delicious.com/eob/database))
 
 
-            
+

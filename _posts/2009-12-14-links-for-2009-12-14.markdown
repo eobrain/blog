@@ -12,38 +12,28 @@ categories:
 At AT&T; Bell Labs in Princeton I worked on this particular type of built-in self-test for chip design.  These technologies are now commonplace, but back then it was cutting edge.
 
 
+  *
 
-  * 
-                
 
 [Circular BIST with Partial Scan](http://libra.msra.cn/Paper/471758.aspx?query=International%20Test%20Conference)
 
 
-                
-
 My first published paper
 
-
-                
 
 (tags: [my](http://delicious.com/eob/my))
 
 
-            
-  * 
-                
+  *
+
 
 [Welcome to IEEE Xplore 2.0: Circular BIST with partial scan](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=207857)
 
 
-                
-
 Better link for my paper
 
-
-                
 
 (tags: [my](http://delicious.com/eob/my))
 
 
-            
+

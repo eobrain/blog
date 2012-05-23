@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [SOAP by Example](http://www.intertwingly.net/stories/2002/12/20/sbe.html)
@@ -30,7 +30,7 @@ How to do SOAP programming very simply.
 	
 
 	
-  * 
+  *
 		
 
 [:: Design for a better internet :: Open Source by Ted Forbes ::](http://design.tedforbes.com/)

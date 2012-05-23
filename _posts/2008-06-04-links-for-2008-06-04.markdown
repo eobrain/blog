@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [The Personal World Clock](http://www.timeanddate.com/worldclock/personal.html?cities=237,438,1504,78,43,24,224)

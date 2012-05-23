@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Towards truly document oriented Web services - O'Reilly XML Blog](http://www.oreillynet.com/xml/blog/2005/07/towards_truly_document_oriente.html)

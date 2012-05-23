@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Grand Challenges for Engineering](http://www.engineeringchallenges.org/default.aspx)
@@ -30,7 +30,7 @@ To be revealed on Feb 15..
 	
 
 	
-  * 
+  *
 		
 
 [mydigimedia by Amy L. Webb](http://www.mydigimedia.com/WhoOwns.html)
@@ -49,7 +49,7 @@ Handy reference for what corporations own what Web 2.0 sites.
 	
 
 	
-  * 
+  *
 		
 
 [Photographic Memories - Interviews with U.S. Mom bloggers](http://www.hp.com/united-states/consumer/digital_photography/blog/index.html?jumpid=re_R602_prodexp/dp/split/outlet_rm)
@@ -68,7 +68,7 @@ HP features mom bloggers and their Flickr photographs.
 	
 
 	
-  * 
+  *
 		
 
 [MIT/Stanford Venture Lab](http://www.vlab.org/article.html?aid=172)

@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Design Meltdown](http://www.designmeltdown.com/)
 
 
-                
-
 This looks like a useful web design resource site.
 
-
-                
 
 (tags: [reference](http://delicious.com/eob/reference) [graphics](http://delicious.com/eob/graphics) [design](http://delicious.com/eob/design) [ideas](http://delicious.com/eob/ideas))
 
 
-            
+

@@ -9,20 +9,12 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [Jeff Dean's Ruby Blog - Building a fast, lightweight REST service with Rails 3](http://pivotallabs.com/users/jdean/blog/articles/1419-building-a-fast-lightweight-rest-service-with-rails-3-)      
+  * [Jeff Dean's Ruby Blog - Building a fast, lightweight REST service with Rails 3](http://pivotallabs.com/users/jdean/blog/articles/1419-building-a-fast-lightweight-rest-service-with-rails-3-)
 
-     
 
 Some useful tips for optimizing Rails for a simple  JSON REST service
+ tags:                      [rubyonrails](http://www.diigo.com/user/eobrain/rubyonrails)            [ruby](http://www.diigo.com/user/eobrain/ruby)
 
-             
-
-         tags:                      [rubyonrails](http://www.diigo.com/user/eobrain/rubyonrails)            [ruby](http://www.diigo.com/user/eobrain/ruby)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Smart Google Reader Subscribe Button [persistent.info]](http://persistent.info/archives/2006/05/06/google-reader-subscribe)

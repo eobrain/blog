@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [[Scribus] Differences between startup script and regular script](http://lists.scribus.info/pipermail/scribus/2007-December/023133.html)
 
 
-                
-
 Someone else hitting the same problems I did trying to run an HTTP server from a Scribus startu python script.
 
-
-                
 
 (tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [layout](http://delicious.com/eob/layout))
 
 
-            
+

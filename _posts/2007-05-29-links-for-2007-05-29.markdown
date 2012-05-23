@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Replacing headlight bulbs for the VW Passat](http://home.comcast.net/~slashpub/headlights/ReplacingHeadlightBulbs.pdf)
@@ -30,7 +30,7 @@ It turns out to be non-trivial to replace the headlight bulbs in our Passat.
 	
 
 	
-  * 
+  *
 		
 
 [Volkswagen Passat Headlight Bulbs](http://autorepair.about.com/library/faqs/bl607h.htm)

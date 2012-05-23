@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [org.apache.cassandra.thrift](http://www.docjar.com/docs/api/org/apache/cassandra/thrift/package-index.html)
 
 
-                
-
 Low-level Java API to Cassandra
 
-
-                
 
 (tags: [code](http://delicious.com/eob/code) [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling) [reference](http://delicious.com/eob/reference) [java](http://delicious.com/eob/java) [database](http://delicious.com/eob/database))
 
 
-            
+

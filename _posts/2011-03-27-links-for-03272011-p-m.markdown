@@ -9,20 +9,12 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [SQL to Mongo Mapping Chart - MongoDB](http://www.mongodb.org/display/DOCS/SQL+to+Mongo+Mapping+Chart)      
+  * [SQL to Mongo Mapping Chart - MongoDB](http://www.mongodb.org/display/DOCS/SQL+to+Mongo+Mapping+Chart)
 
-     
 
 Handy cheat-cheat of SQL / mongoDB correspondences.
+ tags:                      [database](http://www.diigo.com/user/eobrain/database)            [scaling](http://www.diigo.com/user/eobrain/scaling)
 
-             
-
-         tags:                      [database](http://www.diigo.com/user/eobrain/database)            [scaling](http://www.diigo.com/user/eobrain/scaling)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

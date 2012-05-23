@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Snapfish Lab - Home](http://snapfishlab.com/)
@@ -30,7 +30,7 @@ Snapfish Lab contains a collection of media processing tools that you can use wi
 	
 
 	
-  * 
+  *
 		
 
 [Fabjectory - virtual objects in real life](http://www.fabjectory.com/)

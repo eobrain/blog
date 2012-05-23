@@ -12,7 +12,6 @@ I am currenly listening to a Cambridge Forum speech by Sherry Turkle on our loca
 Interesting stuff. She is talking about the reality and implications of people forming emotional attachments to computation devices ("relational artifacts") like robot pets and dolls. I wonder how much this extends to the ubiquitous computation world that we are exploring in our research?
 
 
-
 * * *
 
 

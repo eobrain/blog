@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Jena I/O Mini HowTo](http://jena.sourceforge.net/IO/iohowto.html)

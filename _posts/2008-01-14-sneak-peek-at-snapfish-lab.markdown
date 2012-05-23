@@ -19,4 +19,4 @@ But hurry, this invitation code expires on Wednesday, January 16!
 To use it, go to [Snapfish Lab](http://www.snapfishlab.com), login with your Snapfish e-mail and password, and enter the above invitation code when asked.
 
 Enjoy.
- 
+

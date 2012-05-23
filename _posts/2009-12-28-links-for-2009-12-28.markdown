@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [CSS Techniques I Wish I Knew When I Started Designing Websites - Noupe](http://www.noupe.com/css/css-techniques-i-wish-i-knew-when-i-started-designing-websites.html)
 
 
-                
-
 Some handy tips including useful code snippets for the CSS programmer. (via @susiewee and @randymatheson on Twitter)
 
-
-                
 
 (tags: [tutorial](http://delicious.com/eob/tutorial) [reference](http://delicious.com/eob/reference) [design](http://delicious.com/eob/design) [code](http://delicious.com/eob/code) [web](http://delicious.com/eob/web) [css](http://delicious.com/eob/css))
 
 
-            
+

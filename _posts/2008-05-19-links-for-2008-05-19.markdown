@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [ColorJack: Sphere (Color Theory Visualizer)](http://www.colorjack.com/sphere/?LoadJack=fu:17,blind:0,mode:0,model:1,maly:1,currMe:191x191,cpu:0.735,cpv:0.265,abu:0.9,abv:0.07358,aeu:0.4719,aev:0.52705)
@@ -30,7 +30,7 @@ Find colours that go well together.
 	
 
 	
-  * 
+  *
 		
 
 [Blurb](http://www.blurb.com/create/book/pricing#square)

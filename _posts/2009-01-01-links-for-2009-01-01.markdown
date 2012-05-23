@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [EXACT DISCRETE-TIME REALIZATION OF A DOLBY B ENCODING/DECODING ARCHITECTURE](http://www.dafx.ca/proceedings/papers/p_297.pdf)
 
 
-                
-
 I found the graphs in this paper handy when trying to approximate Dolby B decoding in Audacity
 
-
-                
 
 (tags: [music](http://delicious.com/eob/music))
 
 
-            
+

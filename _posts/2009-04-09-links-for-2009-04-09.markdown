@@ -9,18 +9,13 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [.:Scribus:. GPL Desktop Publishing and More](http://docs.scribus.net/index.php?lang=en&page=scripterapi)
 
 
-                
-
-
-                
-
 (tags: [python](http://delicious.com/eob/python) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-            
+

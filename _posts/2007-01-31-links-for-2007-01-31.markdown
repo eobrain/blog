@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Rails and SQL queries - AnyExample.com](http://www.anyexample.com/webdev/rails/rails_and_sql_queries.xml)
@@ -30,7 +30,7 @@ Raw SQL queries in Ruby on Rails.
 	
 
 	
-  * 
+  *
 		
 
 [Hack Attack: Burn almost any video file to a playable DVD - Lifehacker](http://www.lifehacker.com/software/dvds/hack-attack-burn-almost-any-video-file-to-a-playable-dvd-232322.php)

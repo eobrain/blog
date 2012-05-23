@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [The Apache Tomcat 5.5 Servlet/JSP Container - Virtual Hosting and Tomcat](http://tomcat.apache.org/tomcat-5.5-doc/virtual-hosting-howto.html)
 
 
-                
-
 How to set up virtual hosts on Tomcat5.
 
-
-                
 
 (tags: [apache](http://delicious.com/eob/apache) [linux](http://delicious.com/eob/linux) [java](http://delicious.com/eob/java))
 
 
-            
+

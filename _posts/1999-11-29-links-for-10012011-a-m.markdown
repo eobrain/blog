@@ -9,20 +9,12 @@ categories:
 - Consumer Media
 ---
 
-     
-  *      
 
-               [schema.org - Full Hierarchy](http://schema.org/docs/full.html)      
+  * [schema.org - Full Hierarchy](http://schema.org/docs/full.html)
 
-     
 
 The web-page microdata ontology created by Google, Bing, and Yahoo!.
+ tags:                      [taxonomy](http://www.diigo.com/user/eobrain/taxonomy)
 
-             
-
-         tags:                      [taxonomy](http://www.diigo.com/user/eobrain/taxonomy)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Base64 Image Converter](http://www.askapache.com/online-tools/base64-image-converter/)
 
 
-                
-
 Online tool that you can use to create the base64 representation of an image URL.  Handy for creating inline data: URLs.
 
-
-                
 
 (tags: [tool](http://delicious.com/eob/tool) [graphics](http://delicious.com/eob/graphics))
 
 
-            
+

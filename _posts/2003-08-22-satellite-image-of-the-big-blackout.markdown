@@ -10,19 +10,10 @@ wordpress_id: '14'
 From [Earth Science Picture of the Day](http://epod.usra.edu/archive/epodviewer.php3?oid=152768):
 
 
-
-
-
 ![](http://epod.usra.edu/archive/images/main_blackout.png)
 
 
-
-
-
 Sometimes the emergent behavior from a distributed system is not what you want.
-
-
-
 
 
 * * *

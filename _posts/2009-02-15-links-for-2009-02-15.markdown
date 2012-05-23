@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Academic Earth - Video lectures from the world's top scholars](http://academicearth.org/)
 
 
-                
-
 Some interesting lectures here -- I plan to audit some of them.  (Thanks to Ian for the pointer.)
 
-
-                
 
 (tags: [video](http://delicious.com/eob/video) [todo](http://delicious.com/eob/todo))
 
 
-            
+

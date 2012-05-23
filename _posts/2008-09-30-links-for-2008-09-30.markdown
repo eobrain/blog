@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Particletree  » Automatically Version Your CSS and JavaScript Files](http://particletree.com/notebook/automatically-version-your-css-and-javascript-files/)
 
 
-                
-
 Nice implementation in PHP.  I might try to implement the same in Java.  Perhaps as a taglib.
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [apache](http://delicious.com/eob/apache) [web](http://delicious.com/eob/web))
 
 
-            
+

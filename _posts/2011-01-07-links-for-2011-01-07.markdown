@@ -11,29 +11,22 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [NoSQL Databases - NoSQL Databases - Q](http://www.nosqldatabases.com/main/2011/1/6/q-a-with-kenny-gorman-data-architect-for-shutterfly-inc.html)
 
 
-                
-
 Interview
 
 
-                
-            
-  * 
-                
+  *
+
 
 [Sharing Lifes Joy With Mongodb: A Shutterfly Case Study](http://www.scribd.com/doc/44994351/Sharing-Lifes-Joy-With-Mongodb-A-Shutterfly-Case-Study)
 
 
-                
-
 Presentation
 
 
-                
-            
+

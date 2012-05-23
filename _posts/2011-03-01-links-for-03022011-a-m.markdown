@@ -9,104 +9,54 @@ categories:
 - HP
 ---
 
-     
-  *      
 
-               [Recursive data naming - Patent 7797359](http://www.freepatentsonline.com/7797359.html)      
+  * [Recursive data naming - Patent 7797359](http://www.freepatentsonline.com/7797359.html)
 
-     
 
 Our invention for how to have a global naming system in a peer-to-peer aggregation of nodes.
+ tags:                      [patent](http://www.diigo.com/user/eobrain/patent)            [my](http://www.diigo.com/user/eobrain/my)            [ip](http://www.diigo.com/user/eobrain/ip)
 
-             
 
-         tags:                      [patent](http://www.diigo.com/user/eobrain/patent)            [my](http://www.diigo.com/user/eobrain/my)            [ip](http://www.diigo.com/user/eobrain/ip)
+  * [CREATING AN ALBUM](http://www.freepatentsonline.com/y2010/0235312.html)
 
-                                       
-     
-  *      
-
-               [CREATING AN ALBUM](http://www.freepatentsonline.com/y2010/0235312.html)      
-
-     
 
 Our invention of creating photo-books as a side-effect of people playing computer games.
+ tags:                      [patent](http://www.diigo.com/user/eobrain/patent)            [my](http://www.diigo.com/user/eobrain/my)            [ip](http://www.diigo.com/user/eobrain/ip)
 
-             
 
-         tags:                      [patent](http://www.diigo.com/user/eobrain/patent)            [my](http://www.diigo.com/user/eobrain/my)            [ip](http://www.diigo.com/user/eobrain/ip)
+  * [Image dominant line determination and use - Patent 7751627](http://www.freepatentsonline.com/7751627.html)
 
-                                       
-     
-  *      
-
-               [Image dominant line determination and use - Patent 7751627](http://www.freepatentsonline.com/7751627.html)      
-
-     
 
 Simon's invention for finding dominant lines in images.
+ tags:                      [patent](http://www.diigo.com/user/eobrain/patent)            [my](http://www.diigo.com/user/eobrain/my)            [ip](http://www.diigo.com/user/eobrain/ip)
 
-             
 
-         tags:                      [patent](http://www.diigo.com/user/eobrain/patent)            [my](http://www.diigo.com/user/eobrain/my)            [ip](http://www.diigo.com/user/eobrain/ip)
+  * [Encryption of hierarchically structured information - Patent 7721085](http://www.freepatentsonline.com/7721085.html)
 
-                                       
-     
-  *      
-
-               [Encryption of hierarchically structured information - Patent 7721085](http://www.freepatentsonline.com/7721085.html)      
-
-     
 
 Our invention for encrypting XML or JSON files, while preserving their structure.
+ tags:                      [patent](http://www.diigo.com/user/eobrain/patent)            [my](http://www.diigo.com/user/eobrain/my)            [ip](http://www.diigo.com/user/eobrain/ip)
 
-             
 
-         tags:                      [patent](http://www.diigo.com/user/eobrain/patent)            [my](http://www.diigo.com/user/eobrain/my)            [ip](http://www.diigo.com/user/eobrain/ip)
+  * [Securely propagating authentication in an ensemble of devices using single sign-on - Patent 7620978](http://www.freepatentsonline.com/7620978.html)
 
-                                       
-     
-  *      
-
-               [Securely propagating authentication in an ensemble of devices using single sign-on - Patent 7620978](http://www.freepatentsonline.com/7620978.html)      
-
-     
 
 Our invention for peer-to-peer authentication.
+ tags:                      [patent](http://www.diigo.com/user/eobrain/patent)            [my](http://www.diigo.com/user/eobrain/my)            [ip](http://www.diigo.com/user/eobrain/ip)
 
-             
 
-         tags:                      [patent](http://www.diigo.com/user/eobrain/patent)            [my](http://www.diigo.com/user/eobrain/my)            [ip](http://www.diigo.com/user/eobrain/ip)
+  * [Contact sheet based image management - Patent 7596751](http://www.freepatentsonline.com/7596751.html)
 
-                                       
-     
-  *      
-
-               [Contact sheet based image management - Patent 7596751](http://www.freepatentsonline.com/7596751.html)      
-
-     
 
 Our invention for organizing photos by marking up a contact sheet and scanning it.
+ tags:                      [patent](http://www.diigo.com/user/eobrain/patent)            [my](http://www.diigo.com/user/eobrain/my)            [ip](http://www.diigo.com/user/eobrain/ip)
 
-             
 
-         tags:                      [patent](http://www.diigo.com/user/eobrain/patent)            [my](http://www.diigo.com/user/eobrain/my)            [ip](http://www.diigo.com/user/eobrain/ip)
+  * [CONCURRENT PRESENTATION OF VIDEO SEGMENTS ENABLING RAPID VIDEO FILE COMPREHENSION - Patent Application EP2127368](http://www.freepatentsonline.com/EP2127368A1.html)
 
-                                       
-     
-  *      
-
-               [CONCURRENT PRESENTATION OF VIDEO SEGMENTS ENABLING RAPID VIDEO FILE COMPREHENSION - Patent Application EP2127368](http://www.freepatentsonline.com/EP2127368A1.html)      
-
-     
 
 My One-Glance Video invention
+ tags:                      [patent](http://www.diigo.com/user/eobrain/patent)            [my](http://www.diigo.com/user/eobrain/my)            [ip](http://www.diigo.com/user/eobrain/ip)
 
-             
-
-         tags:                      [patent](http://www.diigo.com/user/eobrain/patent)            [my](http://www.diigo.com/user/eobrain/my)            [ip](http://www.diigo.com/user/eobrain/ip)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

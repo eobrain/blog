@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [A Periodic Table of Visualization Methods](http://www.visual-literacy.org/periodic_table/periodic_table.html)
 
 
-                
-
 A great visualization of the universe of diagram types
 
-
-                
 
 (tags: [reference](http://delicious.com/eob/reference))
 
 
-            
+

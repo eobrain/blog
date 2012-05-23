@@ -9,34 +9,19 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [jQote2 – Javascript templating revamped : once upon my code](http://aefxx.com/jquery-plugins/jqote2)      
+  * [jQote2 – Javascript templating revamped : once upon my code](http://aefxx.com/jquery-plugins/jqote2)
 
-     
 
 A nice looking in-browser templating engine that claims to be faster than any other alternative except underscore.js
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
 
-             
 
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
+  * [Underscore.js templates with HAML and CoffeeScript - Jaime Moran](http://blog.jrmoran.com/underscorejs-templates-with-haml-and-coffeesc)
 
-                                       
-     
-  *      
-
-               [Underscore.js templates with HAML and CoffeeScript - Jaime Moran](http://blog.jrmoran.com/underscorejs-templates-with-haml-and-coffeesc)      
-
-     
 
 Nice clean way of the underscore JavaScript library to evaluate in-browser templates.
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
 
-             
-
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

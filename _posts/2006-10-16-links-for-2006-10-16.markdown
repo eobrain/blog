@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Flapjax Tutorial](http://www.flapjax-lang.org/tutorial/)

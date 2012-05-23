@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Hide CSS from Browsers](http://w3development.de/css/hide_css_from_browsers/)

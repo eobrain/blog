@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Apache 2 and Tomcat 5.5](http://www.crazysquirrel.com/computing/debian/servers/tomcat55.jspx)
 
 
-                
-
 Useful guide for getting Apache and Tomcat to play nice together.
 
-
-                
 
 (tags: [reference](http://delicious.com/eob/reference) [java](http://delicious.com/eob/java) [linux](http://delicious.com/eob/linux) [apache](http://delicious.com/eob/apache) [web](http://delicious.com/eob/web))
 
 
-            
+

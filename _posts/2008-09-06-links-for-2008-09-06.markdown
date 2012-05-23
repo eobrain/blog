@@ -9,16 +9,13 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [DefaultServlet (Jetty Server Project 6.1.12rc1 API)](http://jetty.mortbay.org/apidocs/org/mortbay/jetty/servlet/DefaultServlet.html)
 
 
-                
-
 How to control caching etc. for files serverd by Jetty
 
 
-                
-            
+

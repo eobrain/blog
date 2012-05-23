@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [PicLens | Immersive Views Across the Web](http://piclens.com/lite/webmasterguide.php)
@@ -30,7 +30,7 @@ How to add the piclens experience to a photo web site without requiring the picl
 	
 
 	
-  * 
+  *
 		
 
 [Ethan Allen Room Planning](http://www2.ethanallen.com/roomplanner/rpmain.asp)

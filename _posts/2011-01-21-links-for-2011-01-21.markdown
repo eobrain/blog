@@ -10,20 +10,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Creating Fast Buttons for Mobile Web Applications - Google Mobile Developer Products - Google Code](http://code.google.com/mobile/articles/fast_buttons.html)
 
 
-                
-
 Some JavaScript hacks for making your buttons respond faster in your mobile web application.
 
-
-                
 
 (tags: [programming](http://www.delicious.com/eob/programming) [web](http://www.delicious.com/eob/web) [tutorial](http://www.delicious.com/eob/tutorial) [mobile](http://www.delicious.com/eob/mobile) [javascript](http://www.delicious.com/eob/javascript))
 
 
-            
+

@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Web 2.0: The How Of OAuth » SlideShare](http://www.slideshare.net/nullstyle/web-20-the-how-of-oauth/)
@@ -30,7 +30,7 @@ Using ruby-on-rails to implement a OAuth consumer or service provider. (Talk I a
 	
 
 	
-  * 
+  *
 		
 
 [SlideShare » Slideshows tagged with web2expo (share powerpoint presentations online, slideshows, slide shows, download presentations, widgets, MySpace codes)](http://www.slideshare.net/tag/web2expo)
@@ -49,7 +49,7 @@ Some Slidesets from the Web 2.0 Expo
 	
 
 	
-  * 
+  *
 		
 
 [Presentation Files: Web 2.0 Expo San Francisco 2008 — Co-produced by TechWeb & O'Reilly Conferences, April 22 - 25, 2008, San Francisco, CA](http://en.oreilly.com/webexsf2008/public/schedule/proceedings)

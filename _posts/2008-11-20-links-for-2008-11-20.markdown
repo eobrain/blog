@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [ACM Ubiquity - The Fallacy of Premature Optimization](http://www.acm.org/ubiquity/views/v7i24_fallacy.html)
 
 
-                
-
 How blind adherence to the maxim "premature optimization is the root of all evil" can lead to slow bloated software systems.
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [design](http://delicious.com/eob/design) [code](http://delicious.com/eob/code))
 
 
-            
+

@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [RDF Site Summary (RSS) 1.0](http://web.resource.org/rss/1.0/spec)
@@ -30,7 +30,7 @@ Spec for RDF variant of RSS
 	
 
 	
-  * 
+  *
 		
 
 [TWiki . Javawsxml . Rome05TutorialFeedWriter](http://wiki.java.net/bin/view/Javawsxml/Rome05TutorialFeedWriter)

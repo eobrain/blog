@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [iamcal.com / talks](http://www.iamcal.com/talks/)
@@ -30,7 +30,7 @@ Excellent set of talks on how to build scalable web applications by Flickr's Cal
 	
 
 	
-  * 
+  *
 		
 
 [MogileFS](http://www.danga.com/mogilefs/)

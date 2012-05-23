@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [UI design with Tiles and Struts - Java World](http://www.javaworld.com/javaworld/jw-01-2002/jw-0104-tilestrut.html)
@@ -30,7 +30,7 @@ How to DRY up JSPs with includes and tiles.
 	
 
 	
-  * 
+  *
 		
 
 [JSTL: How do I set an array variable?](http://www.velocityreviews.com/forums/t124517-jstl-how-do-i-set-an-array-variable.html)

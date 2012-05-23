@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [SourceForge.net: PJL Compressing Filter](http://sourceforge.net/projects/pjl-comp-filter/)
 
 
-                
-
 Might be useful for increasing the performance of our web application.
 
-
-                
 
 (tags: [java](http://delicious.com/eob/java))
 
 
-            
+

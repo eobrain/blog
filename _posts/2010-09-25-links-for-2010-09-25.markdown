@@ -10,20 +10,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Code Style: Font stack builder:](http://www.codestyle.org/servlets/FontStack)
 
 
-                
-
 A very handy tool for designing, examining, manipulating, and analyzing effectiveness of CSS font stacks.
 
-
-                
 
 (tags: [css](http://delicious.com/eob/css) [design](http://delicious.com/eob/design) [tool](http://delicious.com/eob/tool) [web](http://delicious.com/eob/web))
 
 
-            
+

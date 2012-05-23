@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [optimal -  Project Hosting on Google Code](http://code.google.com/p/optimal/)
 
 
-                
-
 Java package for solving systems of linear equations
 
-
-                
 
 (tags: [algorithm](http://delicious.com/eob/algorithm) [library](http://delicious.com/eob/library))
 
 
-            
+

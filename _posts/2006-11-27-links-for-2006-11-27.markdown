@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [TSN : The Science Network](http://tsntv.org/)
@@ -25,7 +25,7 @@ categories:
 	
 
 	
-  * 
+  *
 		
 
 [Ruby Programming Language Enables Concise Network Programming](http://www.devx.com/enterprise/Article/28101/0/page/4)

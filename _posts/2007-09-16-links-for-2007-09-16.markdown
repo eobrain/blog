@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [PatternLayout (Apache Log4j 1.2.15 API)](http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/PatternLayout.html)
@@ -30,7 +30,7 @@ How to format log4j messages.
 	
 
 	
-  * 
+  *
 		
 
 [eStarling_API_Guide.pdf (application/pdf Object)](http://www.estarling.com/download/eStarling_API_Guide.pdf)

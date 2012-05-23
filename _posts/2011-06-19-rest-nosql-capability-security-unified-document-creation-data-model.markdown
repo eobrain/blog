@@ -17,5 +17,4 @@ tags:
 View more [presentations](http://www.slideshare.net/) from [Eamonn O'Brien-Strain](http://www.slideshare.net/eobrain)
 
 
-
 This is a presentation I gave earlier this year at the Electronic Imaging conference.  There are more details in [the paper](http://www.eamonn.org/blog/?attachment_id=1215) that went along with the presentation.

@@ -10,20 +10,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [jodconverter - a nice simple Java API for converting office document formats](http://code.google.com/p/jodconverter/)
 
 
-                
-
 I plan to use this to automatically convert Microsoft Word files into OpenOffice Writer files which I can than process using XML tools.
 
-
-                
 
 (tags: [java](http://delicious.com/eob/java) [library](http://delicious.com/eob/library))
 
 
-            
+

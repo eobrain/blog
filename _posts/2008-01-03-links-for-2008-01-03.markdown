@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Free Search Term Suggestion Tool by KeywordDiscovery.com](http://www.keyworddiscovery.com/search.html)
@@ -30,7 +30,7 @@ Handy for SEO
 	
 
 	
-  * 
+  *
 		
 
 [Google AdWords: Keyword Tool](https://adwords.google.com/select/KeywordToolExternal)
@@ -49,7 +49,7 @@ Another handy SEO tool
 	
 
 	
-  * 
+  *
 		
 
 [Free Keyword Suggestion Tool from Wordtracker](http://freekeywords.wordtracker.com/)

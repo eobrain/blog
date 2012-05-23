@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [jna: Java Native Access (JNA): Pure Java access to native libraries](https://jna.dev.java.net/)

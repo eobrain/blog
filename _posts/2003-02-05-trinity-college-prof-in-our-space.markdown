@@ -12,7 +12,6 @@ wordpress_id: '10'
 This guy is working in the same general area as us.
 
 
-
 * * *
 
 

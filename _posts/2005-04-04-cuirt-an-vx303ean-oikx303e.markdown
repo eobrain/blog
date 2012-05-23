@@ -10,42 +10,35 @@ categories:
 ---
 
 
-
-
-
-
-
 (Caiỹdean)
 (Nua)
-
-
 
 
 **Cúirt an Mhean-Oíche**
 Brian Merriman
 
-Ba ghnáth mé ar siúl le ciumhais na habhann 
-Ar bháinseach úr is an drúcht go trom, 
-In aice na gcoillte i gcoim an tsléibhe 
-Gan mhairg gan mhoill ar shoilseadh an lae. 
+Ba ghnáth mé ar siúl le ciumhais na habhann
+Ar bháinseach úr is an drúcht go trom,
+In aice na gcoillte i gcoim an tsléibhe
+Gan mhairg gan mhoill ar shoilseadh an lae.
 Do ghealadh mo chroí nuair chínn Loch Gréine,
-An talamh, an tír, is íor na spéire 
-Ba thaitneamhach aoibhinn suíomh na sléibhte 
+An talamh, an tír, is íor na spéire
+Ba thaitneamhach aoibhinn suíomh na sléibhte
 Ag bagairt a gcinn thar dhroim a chéile.
-Ghealfadh an croí bheadh críon le cianta 
-Caite gan bhrí nó líonta le pianta 
-An séithleach searbh gan sealbh gan saibhreas 
-D'fhéachfadh tamall thar bharra na gcoillte 
+Ghealfadh an croí bheadh críon le cianta
+Caite gan bhrí nó líonta le pianta
+An séithleach searbh gan sealbh gan saibhreas
+D'fhéachfadh tamall thar bharra na gcoillte
 Ar lachain ina scuain ar chuan gan cheo,
-An eala ar a bhfuaid is í ag gluaiseacht leo, 
-Na héisc le meidhir ag éirí anairde 
-Péirse i radharc go taibhseach tarrbhreac, 
-Dath an locha agus gorm na dtonn 
+An eala ar a bhfuaid is í ag gluaiseacht leo,
+Na héisc le meidhir ag éirí anairde
+Péirse i radharc go taibhseach tarrbhreac,
+Dath an locha agus gorm na dtonn
 Ag teacht go tolgach torannach trom,
 Bhíodh éanlaith i gcrann go meidhreach mómhar,
 Léimneach eilte i gcoillte im chóngar,
 Géimneach adharc is radharc ar shlóite,
-Tréanrith gadhar is Reynard rompu. 
+Tréanrith gadhar is Reynard rompu.
 ...
 
 
@@ -53,13 +46,13 @@ Tréanrith gadhar is Reynard rompu.
 Brian Merriman
 
 Ba ĥnáĥ mé ar siúl le ciuw̃ais na haŵann
-Ar ŵáinseak̃ úr is an drúk̃t go trom, 
-In aice na gcoillte i gcoim an tsléiṽe 
+Ar ŵáinseak̃ úr is an drúk̃t go trom,
+In aice na gcoillte i gcoim an tsléiṽe
 Gan w̃airg gan w̃oill ar ĥoilseaĥ an lae.
-Do ỹealaĥ mo k̃roí nuair k̃ínn Lok̃ Gréine, 
+Do ỹealaĥ mo k̃roí nuair k̃ínn Lok̃ Gréine,
 An talaṽ, an tír, is íor na spéire
 Ba ĥaitneaw̃ak̃ aoiṽinn suíoṽ na sléiṽte
-Ag bagairt a gcinn ĥar ĥroim a k̃éile. 
+Ag bagairt a gcinn ĥar ĥroim a k̃éile.
 Ỹealfaĥ an croí ṽeaĥ críon le cianta
 Caite gan ṽrí nó líonta le pianta
 An séiĥleak̃ searṽ gan sealṽ gan saiṽreas
@@ -75,10 +68,6 @@ Léimneak̃ eilte i gcoillte im k̃óngar,
 Géimneak̃ aĥarc is raĥarc ar ĥlóite,
 Tréanriĥ gaĥar is Reynard rompu.
 ...
-
-
-
-
 
 
 

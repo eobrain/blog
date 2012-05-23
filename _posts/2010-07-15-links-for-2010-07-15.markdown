@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Java 2D - Image width/height without loading file into JVM?](http://forums.sun.com/thread.jspa?threadID=5363192)
 
 
-                
-
 Handy memory optimization
 
-
-                
 
 (tags: [java](http://delicious.com/eob/java) [programming](http://delicious.com/eob/programming) [imaging](http://delicious.com/eob/imaging))
 
 
-            
+

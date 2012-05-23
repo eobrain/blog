@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [The End of an Architectural Era (It’s Time for a Complete Rewrite)](http://www.vldb.org/conf/2007/papers/industrial/p1150-stonebraker.pdf)
@@ -30,7 +30,7 @@ Interesting paper by DB pioneer Michael Stonebraker arguing that it is time to a
 	
 
 	
-  * 
+  *
 		
 
 [panoramic video 360 cities by jeffrey martin](http://vrlog.net/temp/z/panomovie3/panomovie2flv.html)

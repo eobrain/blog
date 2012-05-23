@@ -9,30 +9,16 @@ categories:
 - bookmarks
 ---
 
-     
-  *      
 
-               [Coding Horror: We Done Been ... Framed!](http://www.codinghorror.com/blog/2009/06/we-done-been-framed.html)      
+  * [Coding Horror: We Done Been ... Framed!](http://www.codinghorror.com/blog/2009/06/we-done-been-framed.html)
 
-     
 
 Frame busting busting -- a somewhat evil way to prevent a web site in an iframe from busting out out the iframe.
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [tutorial](http://www.diigo.com/user/eobrain/tutorial)
 
-             
 
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [tutorial](http://www.diigo.com/user/eobrain/tutorial)
+  * [YouTube - AutomaticDJ](http://www.youtube.com/watch?v=ZThxnYVIE40)
+ tags:                      [twebbug](http://www.diigo.com/user/eobrain/twebbug)
 
-                                       
-     
-  *      
-
-               [YouTube - AutomaticDJ](http://www.youtube.com/watch?v=ZThxnYVIE40)      
-
-                   
-
-         tags:                      [twebbug](http://www.diigo.com/user/eobrain/twebbug)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

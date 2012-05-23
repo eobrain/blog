@@ -9,48 +9,26 @@ categories:
 - bookmarks
 ---
 
-     
-  *      
 
-               [MaxMind - GeoIP Javascript Web Service](http://www.maxmind.com/app/javascript_city)      
+  * [MaxMind - GeoIP Javascript Web Service](http://www.maxmind.com/app/javascript_city)
 
-     
 
 A handy approximate IP-based geolocation that can be used as a fallback if the browser does not support proper geolocation.
+ tags:                      [programming](http://www.diigo.com/user/eobrain/programming)            [library](http://www.diigo.com/user/eobrain/library)            [javascript](http://www.diigo.com/user/eobrain/javascript)
 
-             
 
-         tags:                      [programming](http://www.diigo.com/user/eobrain/programming)            [library](http://www.diigo.com/user/eobrain/library)            [javascript](http://www.diigo.com/user/eobrain/javascript)
+  * [scalaj/scalaj-collection - GitHub](https://github.com/scalaj/scalaj-collection)
 
-                                       
-     
-  *      
-
-               [scalaj/scalaj-collection - GitHub](https://github.com/scalaj/scalaj-collection)      
-
-     
 
 Handy utility library for converting back and forth between Java and Scala collections.
+ tags:                      [scala](http://www.diigo.com/user/eobrain/scala)            [programming](http://www.diigo.com/user/eobrain/programming)            [library](http://www.diigo.com/user/eobrain/library)
 
-             
 
-         tags:                      [scala](http://www.diigo.com/user/eobrain/scala)            [programming](http://www.diigo.com/user/eobrain/programming)            [library](http://www.diigo.com/user/eobrain/library)
+  * [The Great WebKit Comparison Table](http://www.quirksmode.org/webkit.html)
 
-                                       
-     
-  *      
-
-               [The Great WebKit Comparison Table](http://www.quirksmode.org/webkit.html)      
-
-     
 
 Comprehensive table showing a lot of variation in degree of HTML5 support amongst the mobile Webkit browsers.
+ tags:                      [css](http://www.diigo.com/user/eobrain/css)            [mobile](http://www.diigo.com/user/eobrain/mobile)            [javascript](http://www.diigo.com/user/eobrain/javascript)            [html5](http://www.diigo.com/user/eobrain/html5)
 
-             
-
-         tags:                      [css](http://www.diigo.com/user/eobrain/css)            [mobile](http://www.diigo.com/user/eobrain/mobile)            [javascript](http://www.diigo.com/user/eobrain/javascript)            [html5](http://www.diigo.com/user/eobrain/html5)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

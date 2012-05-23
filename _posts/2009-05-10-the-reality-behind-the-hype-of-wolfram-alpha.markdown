@@ -12,8 +12,6 @@ categories:
 After been given advance hands-on access to Wolfram Alpha, I did some testing and my conclusions about the current state of this tool are:
 
 
-
-
   1. It would be a good educational tool, especially at the secondary/high-school level and perhaps in some areas at the college level.
 
 
@@ -35,7 +33,6 @@ After been given advance hands-on access to Wolfram Alpha, I did some testing an
   7. It is also not easy to find information about related topics.  The results returned y a query do not have links to allow you to explore “sideways” into related areas.
 
 
-
 I wish Wolfram well in developing this tool into something that is truly useful, but I fear that the expectations for it are so high that when it is finally released the disappointed reaction to it could be very damaging to its reputation.
 
 There follows more details of my explorations.
@@ -50,7 +47,7 @@ So, along with many people, I was intrigued by the build-up to the release of Wo
 
 I was very happy then to get access to a preview version of Alpha, ten days before the general release.
 
-The first thing I tried to test was to see was it indeed a “Google killer”.  Like many people, I use Google a lot, both as part of my work and for personal use.  I went back through my Google search history over the last few weeks and tried some of the queries I had made to Google.  I tried searching for a particular play, “The Beauty Queen of Leenane”, but apparently the current set of Alpha data does not include plays, even ones that have been on Broadway, and I got a “Wolfram|Alpha isn't sure what to do with your input” message with which I was about to become very familiar.  I tried searching for the playwright “Martin McDonagh” and got an unhelpful comparison between the surname “Martin” and the erroneously-corrected surname “Mcdonald”.  A tried some more queries such as “java deprecated annotation argument” which I had used successfully on Google to figure out some detailed usage information about a highly technical aspect of programming in the Java programming language.  However, Alpha was of no value.  In fact, as far as I can tell it knows nothing about any programming languages, except presumably Mathematica itself. 
+The first thing I tried to test was to see was it indeed a “Google killer”.  Like many people, I use Google a lot, both as part of my work and for personal use.  I went back through my Google search history over the last few weeks and tried some of the queries I had made to Google.  I tried searching for a particular play, “The Beauty Queen of Leenane”, but apparently the current set of Alpha data does not include plays, even ones that have been on Broadway, and I got a “Wolfram|Alpha isn't sure what to do with your input” message with which I was about to become very familiar.  I tried searching for the playwright “Martin McDonagh” and got an unhelpful comparison between the surname “Martin” and the erroneously-corrected surname “Mcdonald”.  A tried some more queries such as “java deprecated annotation argument” which I had used successfully on Google to figure out some detailed usage information about a highly technical aspect of programming in the Java programming language.  However, Alpha was of no value.  In fact, as far as I can tell it knows nothing about any programming languages, except presumably Mathematica itself.
 
 And so I slogged on through my Google query history, but everything I tried returned nothing from Alpha.  Eventually, going through weeks of Google history I found one query that it got correct: “speed of sound”.  (I had been trying to estimate how far my house was from the Golden Gate Bridge fog horns, given it takes the sound 10 seconds to get here.)  And, when I typed in “speed of sound * 10 seconds” I got the correct answer in both Google and Alpha.
 

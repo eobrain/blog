@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Image collection taxonomies for photo-book auto-population with intuitive interaction](http://portal.acm.org/citation.cfm?doid=1410140.1410160)
 
 
-                
-
 A demo at ACM DocEng that I helped build.
 
-
-                
 
 (tags: [my](http://delicious.com/eob/my))
 
 
-            
+

@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Transit.511.org - Schedules & Route Maps](http://transit.511.org/schedules/detailiframe.asp?cid=SF&rte=5612&dir=IB&day=2&dayid=&fst=4,14th+St+%26+Church+St&tst=5,Masonic+Ave+%26+Haight+St&mode=H)
@@ -30,7 +30,7 @@ categories:
 	
 
 	
-  * 
+  *
 		
 
 [Transit.511.org - Schedules & Route Maps](http://transit.511.org/schedules/detailiframe.asp?cid=SF&rte=5612&dir=OB&day=2&dayid=&fst=1,Masonic+Ave+%26+Haight+St&tst=2,14th+St+%26+Church+St&mode=H)

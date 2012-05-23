@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Programming Ruby: The Pragmatic Programmer's Guide](http://www.rubycentral.com/book/)
@@ -30,7 +30,7 @@ If you are programming in Ruby, keep a bookmark to this page!
 	
 
 	
-  * 
+  *
 		
 
 [split-s: Design by contract for Ruby](http://split-s.blogspot.com/2006/02/design-by-contract-for-ruby.html)

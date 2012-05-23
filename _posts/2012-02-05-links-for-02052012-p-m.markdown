@@ -10,20 +10,12 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [CoffeeLint - Lint your CoffeeScript](http://www.coffeelint.org)      
+  * [CoffeeLint - Lint your CoffeeScript](http://www.coffeelint.org)
 
-     
 
 It is easier to write clean code in Coffeescript than in JavaScript, but still it is good to check that you are not doing anything stupid.
+ tags:                      [programming](http://www.diigo.com/user/eobrain/programming)
 
-             
-
-         tags:                      [programming](http://www.diigo.com/user/eobrain/programming)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

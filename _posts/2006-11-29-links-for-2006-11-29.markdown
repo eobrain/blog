@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Smilebox](http://www.smilebox.com/)
@@ -30,7 +30,7 @@ Another photo video show start-up.  Flash based, e-mailable.  Has SDK for Flash 
 	
 
 	
-  * 
+  *
 		
 
 [The only CSS layout you need(?) | Strictly CSS](http://www.strictlycss.com/articles/article/40/the-only-css-layout-you-need)

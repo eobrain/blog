@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [RDF for "Little Languages"](http://www.ninebynine.org/RDFNotes/RDFForLittleLanguages.htm)

@@ -9,54 +9,40 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Panopticlick](https://panopticlick.eff.org/index.php?action=log&js=yes)
 
 
-                
-
 How a web site can track users by fingerprinting their browser.
 
-
-                
 
 (tags: [identification](http://www.delicious.com/eob/identification) [security](http://www.delicious.com/eob/security) [tool](http://www.delicious.com/eob/tool) [web](http://www.delicious.com/eob/web))
 
 
-            
-  * 
-                
+  *
+
 
 [evercookie - virtually irrevocable persistent cookies](http://samy.pl/evercookie/)
 
 
-                
-
 How a website can create a cookie on a user's computer that is very difficult to delete.
 
-
-                
 
 (tags: [api](http://www.delicious.com/eob/api) [flash](http://www.delicious.com/eob/flash) [html5](http://www.delicious.com/eob/html5) [javascript](http://www.delicious.com/eob/javascript) [library](http://www.delicious.com/eob/library) [programming](http://www.delicious.com/eob/programming) [security](http://www.delicious.com/eob/security) [web](http://www.delicious.com/eob/web))
 
 
-            
-  * 
-                
+  *
+
 
 [Adobe - Flash Player : Settings Manager - Website Storage Settings panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 
-                
-
 Viewing what web sites have stored "Flash Cookies" on your computer.
 
-
-                
 
 (tags: [flash](http://www.delicious.com/eob/flash) [flex](http://www.delicious.com/eob/flex) [security](http://www.delicious.com/eob/security) [web](http://www.delicious.com/eob/web))
 
 
-            
+

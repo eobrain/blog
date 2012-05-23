@@ -10,9 +10,6 @@ wordpress_id: '15'
 Some interesting quantitative data from Jim Gray's [Distributed Computing Economics](ftp://ftp.research.microsoft.com/pub/tr/tr-2003-24.pdf):
 
 
-
-
-
 $1
 
 = 1GB over WAN
@@ -29,18 +26,11 @@ $1
 = 10 TB disk bandwidth
 
 
-
-
-
 Computation/network break-even point is
 
 = 10k instructions per byte of network traffic
 
 = 1 minute CPU time per MB of network traffic
-
-
-
-
 
 
 * * *

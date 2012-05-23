@@ -10,20 +10,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [HTML5 Studio](http://studio.html5rocks.com/)
 
 
-                
-
 Some quite impressive examples of what you can do in HTML5 -- easy to copy and adapt.  (via @susiewee)
 
-
-                
 
 (tags: [html5](http://delicious.com/eob/html5) [web](http://delicious.com/eob/web) [tutorial](http://delicious.com/eob/tutorial))
 
 
-            
+

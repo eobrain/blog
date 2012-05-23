@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [random($foo): Web 2.0 Expo Presentation Rundown](http://randomfoo.net/blog/id/4175)
@@ -30,7 +30,7 @@ Handy commented collection of links to Web 2.0 Expo videos and slides.
 	
 
 	
-  * 
+  *
 		
 
 [SEOmoz | The Web Developer's SEO Cheat Sheet](http://www.seomoz.org/blog/the-web-developers-seo-cheat-sheet)

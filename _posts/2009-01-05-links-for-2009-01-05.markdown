@@ -9,16 +9,13 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Stanford InfoSeminar](http://infolab.stanford.edu/infoseminar/)
 
 
-                
-                
-
 (tags: [todo](http://delicious.com/eob/todo))
 
 
-            
+

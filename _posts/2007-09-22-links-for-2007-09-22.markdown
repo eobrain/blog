@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [The LAB - Home](http://www.thelab.org/)

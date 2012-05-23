@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Crossing borders: REST on Rails](http://www-128.ibm.com/developerworks/java/library/j-cb08016/index.html)

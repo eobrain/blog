@@ -9,18 +9,13 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [URL Shorteners: Which Shortening Service Should You Use?](http://searchengineland.com/analysis-which-url-shortening-service-should-you-use-17204)
 
 
-                
-
-
-                
-
 (tags: [web2.0](http://delicious.com/eob/web2.0) [web](http://delicious.com/eob/web) [technology](http://delicious.com/eob/technology) [seo](http://delicious.com/eob/seo) [reference](http://delicious.com/eob/reference))
 
 
-            
+

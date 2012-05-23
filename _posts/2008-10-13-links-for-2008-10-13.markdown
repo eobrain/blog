@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Debugging JavaScript | The Dojo Toolkit](http://dojotoolkit.org/node/136)
 
 
-                
-
 Handy list of IDEs and debuggers for JavaScript development
 
-
-                
 
 (tags: [javascript](http://delicious.com/eob/javascript))
 
 
-            
+

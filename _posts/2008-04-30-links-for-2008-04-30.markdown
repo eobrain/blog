@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [RDFa Primer](http://www.w3.org/TR/xhtml-rdfa-primer/)

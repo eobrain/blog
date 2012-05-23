@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [DocList API OCR Demo](http://googlecodesamples.com/docs/php/ocr.php)
 
 
-                
-
 Demo of using Google docs API to OCR an image.
 
-
-                
 
 (tags: [api](http://www.delicious.com/eob/api) [service](http://www.delicious.com/eob/service) [web](http://www.delicious.com/eob/web) [web2.0](http://www.delicious.com/eob/web2.0))
 
 
-            
+

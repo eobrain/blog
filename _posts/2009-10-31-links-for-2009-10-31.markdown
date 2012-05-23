@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Underscore.js](http://documentcloud.github.com/underscore/)
 
 
-                
-
 functional programming library for JavaScript
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [library](http://delicious.com/eob/library) [javascript](http://delicious.com/eob/javascript) [code](http://delicious.com/eob/code) [web](http://delicious.com/eob/web))
 
 
-            
+

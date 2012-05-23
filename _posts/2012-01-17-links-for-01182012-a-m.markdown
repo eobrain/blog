@@ -11,16 +11,12 @@ tags:
 - linkedin
 ---
 
-     
-  *      
 
-               [Cross-domain Ajax with Cross-Origin Resource Sharing | NCZOnline](http://www.nczonline.net/blog/2010/05/25/cross-domain-ajax-with-cross-origin-resource-sharing)      
+  * [Cross-domain Ajax with Cross-Origin Resource Sharing | NCZOnline](http://www.nczonline.net/blog/2010/05/25/cross-domain-ajax-with-cross-origin-resource-sharing)
 
-     
 
 Includes JavaScript snippet for a shim to do cross-domain ajax in IE
 
-      
 
 [js]
 function createCORSRequest(method, url){
@@ -44,14 +40,7 @@ if (request){
     request.send();
 }
 [/js]
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
 
-
-
-       
-
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

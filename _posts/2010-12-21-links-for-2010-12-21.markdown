@@ -10,17 +10,10 @@ categories:
 ---
 
 
+  *
 
-
-  * 
-                
 
 [Ubuntu -- Ubuntu Packages Search](http://packages.ubuntu.com/)
-
-
-                
-                
-            
 
 
 This was particularly useful when I was setting up my Latex environment -- the various Ubuntu Tex package do not seem to manage dependencies very well and I kept on getting errors caused by missing files.

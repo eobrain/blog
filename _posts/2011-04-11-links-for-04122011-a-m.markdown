@@ -10,20 +10,12 @@ categories:
 - bookmarks
 ---
 
-     
-  *      
 
-               [Setting up a Cassandra cluster with the DataStax AMI | DataStax](http://www.datastax.com/dev/blog/setting-up-a-cassandra-cluster-with-the-datastax-ami)      
+  * [Setting up a Cassandra cluster with the DataStax AMI | DataStax](http://www.datastax.com/dev/blog/setting-up-a-cassandra-cluster-with-the-datastax-ami)
 
-     
 
 This looks like a convenient recipe for getting Cassandra up and running in the cloud.
+ tags:                      [database](http://www.diigo.com/user/eobrain/database)            [scaling](http://www.diigo.com/user/eobrain/scaling)
 
-             
-
-         tags:                      [database](http://www.diigo.com/user/eobrain/database)            [scaling](http://www.diigo.com/user/eobrain/scaling)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

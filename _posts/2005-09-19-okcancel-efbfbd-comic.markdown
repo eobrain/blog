@@ -9,4 +9,4 @@ categories:
 - Programming
 ---
 
-As a software developer I found the [OK/Cancel � Comics](http://www.ok-cancel.com/archives/comic/) a really fun and informative insight into the point of view of a user experience designer. 
+As a software developer I found the [OK/Cancel � Comics](http://www.ok-cancel.com/archives/comic/) a really fun and informative insight into the point of view of a user experience designer.

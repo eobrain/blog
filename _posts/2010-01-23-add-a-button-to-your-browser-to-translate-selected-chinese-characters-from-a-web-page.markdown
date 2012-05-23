@@ -19,7 +19,6 @@ As a first step I built a simple crude tool to do this.  It is a little web-brow
 (So far, it seems to only work properly on Firefox.  I have had some problems on Chrome and IE.  I have not yet tested it on Safari.)
 
 
-
 To install it, drag this button [Explain Chinese](javascript:/*Copyright © 2010 Eamonn O’Brien-Strain eob@well.com */(function(){var s=window.getSelection?window.getSelection().toString():document.selection.createRange().text;window.open('http://translate.google.com/translate_t?hl=&text='+s+'&sl=zh-CN&tl=en#','a');window.open('http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb='+s,'b');})()) into your browser's links bar or bookmark bar.  You should end up with an "Explain Chinese" button in your browser.
 
 To use this button, highlight some Chinese characters, such as these ones **你好**, and click the "Explain Chinese" button.  It should open up two new pages with translations of the characters, one by Google which usually gives a fairly idiomatic translation of the text, and another one by the [MDBG](http://www.mdbg.net/chindict/chindict.php) dictionary which breaks the translation down into the individual words and characters, and gives the pinyin and audio pronunciation.

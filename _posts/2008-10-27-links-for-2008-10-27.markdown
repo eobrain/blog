@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [JavaScript Kit- DOM (Document Object Model) Reference](http://www.javascriptkit.com/domref/index.shtml)
 
 
-                
-
 Another handy Javascript DOM reference
 
-
-                
 
 (tags: [javascript](http://delicious.com/eob/javascript) [reference](http://delicious.com/eob/reference))
 
 
-            
+

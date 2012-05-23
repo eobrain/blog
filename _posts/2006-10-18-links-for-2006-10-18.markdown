@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [The current state of video search](http://www.niallkennedy.com/blog/archives/2006/10/video-search.html)
@@ -30,7 +30,7 @@ A nice survey of the video on the web, and how it could be searched.
 	
 
 	
-  * 
+  *
 		
 
 [Moving Images](http://www.digitalpreservation.gov/formats/content/video.shtml)

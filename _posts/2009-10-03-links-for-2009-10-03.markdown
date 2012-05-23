@@ -10,54 +10,40 @@ categories:
 - Consumer Media
 ---
 
-  * 
-                
+  *
+
 
 [MobileRead Wiki - EPUB](http://wiki.mobileread.com/wiki/EPUB)
 
 
-                
-
 Another guide to the ePub format, this one with some more details of the XHTML subset.
 
-
-                
 
 (tags: [reference](http://delicious.com/eob/reference) [books](http://delicious.com/eob/books) [publishing](http://delicious.com/eob/publishing))
 
 
-            
-  * 
-                
+  *
+
 
 [Epub Format Construction Guide - HXA7241 - 2007](http://www.hxa.name/articles/content/epub-guide_hxa7241_2007.html)
 
 
-                
-
 Nice concise guide for how to create electronic books in epub format.
 
-
-                
 
 (tags: [tutorial](http://delicious.com/eob/tutorial) [reference](http://delicious.com/eob/reference) [publishing](http://delicious.com/eob/publishing) [guide](http://delicious.com/eob/guide))
 
 
-            
-  * 
-                
+  *
+
 
 [IDPF Standards :: Index](http://www.idpf.org/forums/)
 
 
-                
-
 Some handy resources on the epub electronic book format.
 
-
-                
 
 (tags: [reference](http://delicious.com/eob/reference) [publishing](http://delicious.com/eob/publishing) [books](http://delicious.com/eob/books))
 
 
-            
+

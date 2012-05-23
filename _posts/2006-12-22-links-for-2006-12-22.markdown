@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Rails Framework Documentation](http://api.rubyonrails.org/)
@@ -25,7 +25,7 @@ categories:
 	
 
 	
-  * 
+  *
 		
 
 [Distributing Rails Applications - A Tutorial](http://www.erikveen.dds.nl/distributingrubyapplications/rails.html)
@@ -44,7 +44,7 @@ How to wrap up a rails app for deployment using sqlite as the database.
 	
 
 	
-  * 
+  *
 		
 
 [MySQL AB :: MySQL 3.23, 4.0, 4.1 Reference Manual :: 3.4 Getting Information About Databases and Tables](http://dev.mysql.com/doc/refman/4.1/en/getting-information.html)
@@ -63,7 +63,7 @@ How to get information about the schema in an existing database.  Handy for figu
 	
 
 	
-  * 
+  *
 		
 
 [apache friends - very easy apache, mysql, php and perl installation without hassles](http://www.apachefriends.org/en/index.html)
@@ -82,7 +82,7 @@ Handy installation of the LAMP stack.
 	
 
 	
-  * 
+  *
 		
 
 [Ruby on Rails: Active Record](http://ruby.about.com/od/activerecord/Ruby_on_Rails_Active_Record.htm)

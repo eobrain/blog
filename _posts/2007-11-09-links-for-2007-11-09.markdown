@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Caching Tutorial for Web Authors and Webmasters](http://www.web-caching.com/mnot_tutorial/how.html)

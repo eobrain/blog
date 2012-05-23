@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [MinGW - Frequently Asked Questions](http://www.mingw.org/mingwfaq.shtml#faq-msvcdll)

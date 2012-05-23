@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [SMAP and TSMAP Segmentation Software](https://engineering.purdue.edu/~bouman/software/segmentation/)
 
 
-                
-
 Document image segmentation
 
-
-                
 
 (tags: [publishing](http://delicious.com/eob/publishing) [algorithm](http://delicious.com/eob/algorithm))
 
 
-            
+

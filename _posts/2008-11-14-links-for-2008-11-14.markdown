@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [A. Sundararajan's Weblog](http://blogs.sun.com/sundararajan/entry/scala_for_java_programmers)
 
 
-                
-
 A Java-Scala cheat cheat
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [reference](http://delicious.com/eob/reference) [java](http://delicious.com/eob/java) [scala](http://delicious.com/eob/scala))
 
 
-            
+

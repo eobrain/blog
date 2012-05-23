@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [ News and articles about Ruby and XML](http://www.rubyxml.com/articles/REXML/MySQL_and_REXML)

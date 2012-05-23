@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Guidelines for writing a successful technical article -  NOSQL |  Google Groups](http://groups.google.com/group/nosql-discussion/browse_thread/thread/9764a769ce0f0a46?hl=en)
 
 
-                
-
 A useful guide for how to structure a technical article.
 
-
-                
 
 (tags: [language](http://delicious.com/eob/language))
 
 
-            
+

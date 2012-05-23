@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Effectively Using Git With Subversion | Web Development Blog: Web Development Insights, Best Practices, Tips & Techniques : Viget Labs](http://www.viget.com/extend/effectively-using-git-with-subversion/)
 
 
-                
-
 How to create a Git child repository off a Subversion parent repository.
 
-
-                
 
 (tags: [tutorial](http://delicious.com/eob/tutorial) [programming](http://delicious.com/eob/programming))
 
 
-            
+

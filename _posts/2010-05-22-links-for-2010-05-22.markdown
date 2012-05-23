@@ -10,20 +10,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Calculate distance and bearing between two Latitude/Longitude points using Haversine formula in JavaScript](http://www.movable-type.co.uk/scripts/latlong.html)
 
 
-                
-
 Handy code snippets for calculating distances between two lat/lon points on the Earth.
 
-
-                
 
 (tags: [javascript](http://delicious.com/eob/javascript) [reference](http://delicious.com/eob/reference) [tutorial](http://delicious.com/eob/tutorial) [programming](http://delicious.com/eob/programming) [mapping](http://delicious.com/eob/mapping))
 
 
-            
+

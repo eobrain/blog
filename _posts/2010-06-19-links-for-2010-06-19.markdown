@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [API - Cassandra Wiki](http://wiki.apache.org/cassandra/API)
 
 
-                
-
 A terse but definitive guide to the Cassandra Thrift API.
 
-
-                
 
 (tags: [api](http://delicious.com/eob/api) [database](http://delicious.com/eob/database) [reference](http://delicious.com/eob/reference) [architecture](http://delicious.com/eob/architecture) [programming](http://delicious.com/eob/programming))
 
 
-            
+

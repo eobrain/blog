@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [BassicTech News Blog : Remapping the Universe using this GUI](http://www.bassictech.com/blogs/bassictech_news_blog/archive/2007/01/20/remapping-the-universe-using-this-gui.aspx)
@@ -30,7 +30,7 @@ This may be a bit old now, but still it is a good demo of the promise of minorit
 	
 
 	
-  * 
+  *
 		
 
 [GPlotter: Make Google Maps Easily](http://gplotter.offwhite.net/)
@@ -49,7 +49,7 @@ How to make personalized google maps.
 	
 
 	
-  * 
+  *
 		
 
 [Ruby HTTP Upload in a Background Thread](http://www.example-code.com/ruby/ruby-upload.asp)

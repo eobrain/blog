@@ -9,16 +9,13 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [a copyright tracking platform](http://info.icopyright.com/The-iCopyright-Platform.pdf)
 
 
-                
-                
-
 (tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [webservices](http://delicious.com/eob/webservices))
 
 
-            
+

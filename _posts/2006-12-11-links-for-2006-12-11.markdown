@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Modernising Semantic Web Markup](http://www.idealliance.org/papers/dx_xmle04/papers/03-08-03/03-08-03.html)
@@ -19,7 +19,7 @@ categories:
 
 		
 
-Thia proposal for RXR, a new simpler XML encoding of RDF is so much nicer than RDF/XML.  It would be great if it gained some traction.  
+Thia proposal for RXR, a new simpler XML encoding of RDF is so much nicer than RDF/XML.  It would be great if it gained some traction.
 
 In the meantime I feel I need to use n3 or turtle instead of RDF/XML.
 

@@ -9,20 +9,12 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [joPAS :: Presentation](http://jopas.sourceforge.net)      
+  * [joPAS :: Presentation](http://jopas.sourceforge.net)
 
-     
 
 Calling Octave (the Matlab clone) from Java.
+ tags:                      [java](http://www.diigo.com/user/eobrain/java)            [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)
 
-             
-
-         tags:                      [java](http://www.diigo.com/user/eobrain/java)            [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

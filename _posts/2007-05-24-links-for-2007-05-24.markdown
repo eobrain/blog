@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Tech Report: HPL-2007-73: Sharing, Discovering and Browsing](http://www.hpl.hp.com/techreports/2007/HPL-2007-73.html?mtxs=rss-hpl-tr)
@@ -30,7 +30,7 @@ From the semantic web guys in Bristol.
 	
 
 	
-  * 
+  *
 		
 
 [Tech Report: HPL-2007-52: Using the emphasis statistics](http://www.hpl.hp.com/techreports/2007/HPL-2007-52.html?mtxs=rss-hpl-tr)
@@ -49,7 +49,7 @@ Dave's cast-based ideas.
 	
 
 	
-  * 
+  *
 		
 
 [Tech Report: HPL-2006-166: Content selection based on](http://www.hpl.hp.com/techreports/2006/HPL-2006-166.html?mtxs=rss-hpl-tr)
@@ -68,7 +68,7 @@ Pere's context-as-search
 	
 
 	
-  * 
+  *
 		
 
 [Tech Report: HPL-2006-140: Jena Property Table Implementation](http://www.hpl.hp.com/techreports/2006/HPL-2006-140.html?mtxs=rss-hpl-tr)
@@ -87,7 +87,7 @@ Ah.  This is the name for what I am doing.  Storing triples in "property tables"
 	
 
 	
-  * 
+  *
 		
 
 [Mongrel: Upload Progress](http://mongrel.rubyforge.org/docs/upload_progress.html)
@@ -106,7 +106,7 @@ How to monitor upload progress in Rails.
 	
 
 	
-  * 
+  *
 		
 
 [Computing.Net - Batch File - Start in a new window](http://www.computing.net/programming/wwwboard/forum/13899.html)

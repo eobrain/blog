@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [fliptrack: put your life to music](http://www.fliptrack.com/)
@@ -25,7 +25,7 @@ categories:
 	
 
 	
-  * 
+  *
 		
 
 [Brilliant Minds on the Next 50 Years: Instant Expert - science-forecasts - 16 November 2006 - New Scientist](http://www.newscientist.com/channel/opinion/science-forecasts/dn10580)
@@ -44,7 +44,7 @@ Predictions for the next 50 years from New Scientist
 	
 
 	
-  * 
+  *
 		
 
 [One True Media Home](http://www.onetruemedia.com/)
@@ -58,7 +58,7 @@ Predictions for the next 50 years from New Scientist
 	
 
 	
-  * 
+  *
 		
 
 [VideoEgg:](http://www.videoegg.com/)
@@ -72,7 +72,7 @@ Predictions for the next 50 years from New Scientist
 	
 
 	
-  * 
+  *
 		
 
 [RadRails: A free and open source Ruby on Rails IDE](http://www.radrails.org/)
@@ -91,7 +91,7 @@ Looks worth checking out.
 	
 
 	
-  * 
+  *
 		
 
 [Multiply](http://multiply.com/)

@@ -9,20 +9,12 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [sonatype/async-http-client - GitHub](https://github.com/sonatype/async-http-client)      
+  * [sonatype/async-http-client - GitHub](https://github.com/sonatype/async-http-client)
 
-     
 
 A fast, flexible HTTP client library,
+ tags:                      [library](http://www.diigo.com/user/eobrain/library)            [java](http://www.diigo.com/user/eobrain/java)
 
-             
-
-         tags:                      [library](http://www.diigo.com/user/eobrain/library)            [java](http://www.diigo.com/user/eobrain/java)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

@@ -16,7 +16,6 @@ The Beta 0.4 is now available for installation from the [Palm application web pa
 Changes:
 
 
-
   1. Photos do not now automatically refresh when new photos are available, but instead the user controls the refresh explicitly by pressing a button.
 
 
@@ -24,7 +23,6 @@ Changes:
 
 
   3. Miscellaneous bug fixes.
-
 
 
 Please add any questions or comments below.

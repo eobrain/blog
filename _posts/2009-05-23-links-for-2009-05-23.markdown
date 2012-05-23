@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Amazon Web Services Developer Community : Java Web Starter](http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1993&categoryID=208)
 
 
-                
-
 Useful looking AWS machine image for Java deployment
 
-
-                
 
 (tags: [webservices](http://delicious.com/eob/webservices) [java](http://delicious.com/eob/java) [deployment](http://delicious.com/eob/deployment))
 
 
-            
+

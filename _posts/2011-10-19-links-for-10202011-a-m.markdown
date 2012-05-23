@@ -9,34 +9,19 @@ categories:
 - bookmarks
 ---
 
-     
-  *      
 
-               [Components — PAL](https://pal.sri.com/Plone/framework/Components)      
+  * [Components — PAL](https://pal.sri.com/Plone/framework/Components)
 
-     
 
 Machine learning applications and components, including the ancestor of Siri.
+ tags:                      [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)
 
-             
 
-         tags:                      [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)
+  * [Color Semantics for Image Indexing](http://diameter.itn.liu.se/colse)
 
-                                       
-     
-  *      
-
-               [Color Semantics for Image Indexing](http://diameter.itn.liu.se/colse)      
-
-     
 
 Mapping from adjectives to colors.
+ tags:                      [imaging](http://www.diigo.com/user/eobrain/imaging)
 
-             
-
-         tags:                      [imaging](http://www.diigo.com/user/eobrain/imaging)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

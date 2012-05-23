@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [DiVA - Distributed Virtual Architectures](http://webhome.cs.uvic.ca/~jbaldwin/diva/)

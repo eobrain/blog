@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Overview (TLDDoc Generated Documentation)](http://java.sun.com/products/jsp/jstl/1.1/docs/tlddocs/index.html)
@@ -30,7 +30,7 @@ Refernece doc for standard taglib library.
 	
 
 	
-  * 
+  *
 		
 
 [Enterprise Java Community: Redirect After Post](http://www.theserverside.com/tt/articles/article.tss?l=RedirectAfterPost2)

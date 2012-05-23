@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Welcome to Flickr!](http://flickr.com/)

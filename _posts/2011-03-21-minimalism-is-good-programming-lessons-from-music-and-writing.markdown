@@ -19,8 +19,6 @@ The speaker also made a foray into the realm of writing prose.  He quoted George
 All of this was entertaining, but seemed a bit of a stretch in its analogies to programming.  I felt it was stroking the egos of programmers a bit, allowing them to see themselves not as code monkeys but as exalted artists.  However, he did end up with a list of coding guidelines that I already generally do follow and which I think all programmers should consider:
 
 
-
-
  	
   1. The simplest approach is always best.
 
@@ -44,8 +42,6 @@ All of this was entertaining, but seemed a bit of a stretch in its analogies to 
 
  	
   8. Break hard problems down to simple problems.
-
-
 
 
 **[Programming and Minimalism: Lessons from Orwell and the Clash](http://www.slideshare.net/jondahl/programming-and-minimalism-lessons-from-orwell-and-the-clash)**

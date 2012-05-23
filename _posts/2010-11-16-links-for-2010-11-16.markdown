@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [The Ultimate Play! Cheat sheet - Play Framework](http://www.crionics.com/products/opensource/play/TheUltimatePlayCheatSheet.pdf)
 
 
-                
-
 Excellent quick reference to the Play Framework
 
-
-                
 
 (tags: [java](http://www.delicious.com/eob/java) [web](http://www.delicious.com/eob/web) [reference](http://www.delicious.com/eob/reference))
 
 
-            
+

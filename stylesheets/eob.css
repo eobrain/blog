@@ -59,15 +59,25 @@ body {
     background-position:center;
 }
 
-#body p, h1, #pages li, #posts li, .posts li, .post, .post li, .postdate {
-    margin:1em;
-    padding:1em;
+#body p, h1, #pages li, #posts li, .posts li, .post, .postdate {
+    margin:0.5em;
+    padding:0.5em;
 }
 
+ .post li {
+    margin-left: 1em;
+}
+
+
 .post ul {
-  margin:1em;
-  padding:1em;
+  margin:0.5em;
+  padding:0.5em;
   list-style-image: url('/images/noun_project_34.png');
+}
+
+.post li a {
+  font-size: larger;
+  font-weight:bold;
 }
 
 #body h1 {

@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [World Conference Call Videoconference Meeting Planner](http://www.worldtimeserver.com/meeting-planner.aspx)
@@ -30,7 +30,7 @@ Convenient tool for planning phone meetings ot video conferences across multiple
 	
 
 	
-  * 
+  *
 		
 
 [iTWire - Photoshop online within six months](http://www.itwire.com.au/content/view/10043/53/)
@@ -49,7 +49,7 @@ Photoshop planning on oferring Photoshop capabilities over the web.
 	
 
 	
-  * 
+  *
 		
 
 [dnScoop - Domain Name History Tool, Traffic Verification and Forums](http://www.dnscoop.com/)

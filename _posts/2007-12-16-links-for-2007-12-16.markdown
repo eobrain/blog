@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [mysql-scaling-pains.pdf (application/pdf Object)](http://jeremy.zawodny.com/mysql/mysql-scaling-pains.pdf)
@@ -30,7 +30,7 @@ Some pointers towards methods to scale MySql and optomize its performance.
 	
 
 	
-  * 
+  *
 		
 
 [Real world scalability MySQL](http://www.scribd.com/doc/351492/Real-world-scalability-MySQL)
@@ -44,7 +44,7 @@ Some pointers towards methods to scale MySql and optomize its performance.
 	
 
 	
-  * 
+  *
 		
 
 [memcached: a distributed memory object caching system](http://www.danga.com/memcached/)

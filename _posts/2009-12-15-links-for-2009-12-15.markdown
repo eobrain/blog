@@ -9,14 +9,10 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Use Google For Text - Webmonkey](http://www.webmonkey.com/blog/Use_Google_For_Text-to-Speech_Translations_in_the_Browser?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+wired%2Findex+%28Wired%3A+Index+3+%28Top+Stories+2%29%29)
-
-
-                
-
 
 
 You can craft a URL that will take advantage of Google's web service to do test-to-speech of arbitrary English text like this
@@ -24,22 +20,15 @@ You can craft a URL that will take advantage of Google's web service to do test-
 
 This can easily be extended to work in a form. (Note, I found by trial-and-error that the text cannot have more than about 100 characters, so I limited how much you can type or paste into the text box.)
 
-  
-  
-  
 
-Try entering some text and to see for yourself!  
+Try entering some text and to see for yourself!
 
 There was some problem with the Internet Explorer browser.   If you get a "not found" error page, try refreshing the error page.  That worked for me.
 
 It worked fine in the Google Chrome browser.
 
 
-
-
-                
-
 (tags: [webservices](http://delicious.com/eob/webservices))
 
 
-            
+

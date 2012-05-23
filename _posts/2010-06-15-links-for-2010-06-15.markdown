@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [src/main/java/me/prettyprint/cassandra/service/ExampleClient.java at master from rantav's hector - GitHub](http://github.com/rantav/hector/blob/master/src/main/java/me/prettyprint/cassandra/service/ExampleClient.java)
 
 
-                
-
 Example Cassandra client using the Hector library
 
-
-                
 
 (tags: [java](http://delicious.com/eob/java) [tutorial](http://delicious.com/eob/tutorial) [code](http://delicious.com/eob/code) [architecture](http://delicious.com/eob/architecture))
 
 
-            
+

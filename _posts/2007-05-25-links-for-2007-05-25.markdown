@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [ElectionsIreland.org: Home Page](http://www.electionsireland.org/)
@@ -30,7 +30,7 @@ A place to watch the Irish election results come in.
 	
 
 	
-  * 
+  *
 		
 
 [Elections Ireland: 30th Dáil Summary of Results](http://www.electionsireland.org/results/general/30thdail/resultssummary.cfm)

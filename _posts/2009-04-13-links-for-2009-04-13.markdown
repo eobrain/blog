@@ -9,18 +9,13 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Scala Library](http://www.scala-lang.org/docu/files/api/index.html)
 
 
-                
-
-
-                
-
 (tags: [scala](http://delicious.com/eob/scala) [language](http://delicious.com/eob/language) [library](http://delicious.com/eob/library) [programming](http://delicious.com/eob/programming) [reference](http://delicious.com/eob/reference))
 
 
-            
+

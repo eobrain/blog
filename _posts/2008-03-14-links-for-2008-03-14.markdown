@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [YouTube APIs and Tools - Google Code](http://code.google.com/apis/youtube/overview.html)

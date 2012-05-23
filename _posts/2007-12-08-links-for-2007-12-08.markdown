@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [1911 Census -- Residents of a house 15 in Drumcondra Park (Drumcondra, Dublin)](http://www.census.nationalarchives.ie/pages/1911/Dublin/Drumcondra/Drumcondra_Park/23174/)
@@ -30,7 +30,7 @@ Grandfather.  Great-grandfather. Great-grandmother.
 	
 
 	
-  * 
+  *
 		
 
 [1911 Census -- Residents of a house 3.1 in Annesley Place (Mountjoy, Dublin)](http://www.census.nationalarchives.ie/pages/1911/Dublin/Mountjoy/Annesley_Place/21164/)

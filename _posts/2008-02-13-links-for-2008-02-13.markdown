@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Pixenate - Online Photo Editor](http://pixenate.com/)
@@ -25,7 +25,7 @@ categories:
 	
 
 	
-  * 
+  *
 		
 
 [http://www.gliffy.com/gliffy/](http://www.gliffy.com/gliffy/)
@@ -44,7 +44,7 @@ Online diagram editor -- including UML
 	
 
 	
-  * 
+  *
 		
 
 [nooked » the world’s first distributed feedcommerce platform](http://www.nooked.com/)
@@ -63,7 +63,7 @@ Making money from RSS
 	
 
 	
-  * 
+  *
 		
 
 [log5j - Google Code](http://code.google.com/p/log5j/)
@@ -82,7 +82,7 @@ Nice simple and useful layer on top of log4j
 	
 
 	
-  * 
+  *
 		
 
 [thatsmymouse (Beta) Home](http://thatsmymouse.com/)

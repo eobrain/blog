@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [media-metadata-examples - Microformats](http://microformats.org/wiki/media-metadata-examples)

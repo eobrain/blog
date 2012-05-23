@@ -9,48 +9,26 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [twitter/finagle - GitHub](https://github.com/twitter/finagle)      
+  * [twitter/finagle - GitHub](https://github.com/twitter/finagle)
 
-     
 
 A Scala RPC library from the Twitter devs.
+ tags:                      [scala](http://www.diigo.com/user/eobrain/scala)            [library](http://www.diigo.com/user/eobrain/library)
 
-             
 
-         tags:                      [scala](http://www.diigo.com/user/eobrain/scala)            [library](http://www.diigo.com/user/eobrain/library)
+  * [twitter/util - GitHub](https://github.com/twitter/util)
 
-                                       
-     
-  *      
-
-               [twitter/util - GitHub](https://github.com/twitter/util)      
-
-     
 
 A Scala library that fills in some gaps in the standard library.
+ tags:                      [scala](http://www.diigo.com/user/eobrain/scala)            [library](http://www.diigo.com/user/eobrain/library)
 
-             
 
-         tags:                      [scala](http://www.diigo.com/user/eobrain/scala)            [library](http://www.diigo.com/user/eobrain/library)
+  * [Effective Scala](http://twitter.github.com/effectivescala/#Concurrency)
 
-                                       
-     
-  *      
-
-               [Effective Scala](http://twitter.github.com/effectivescala/#Concurrency)      
-
-     
 
 Excellent advice from Twitter devs on programming in Scala.
+ tags:                      [scala](http://www.diigo.com/user/eobrain/scala)
 
-             
-
-         tags:                      [scala](http://www.diigo.com/user/eobrain/scala)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

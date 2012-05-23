@@ -10,20 +10,16 @@ categories:
 - Consumer Media
 ---
 
-  * 
-                
+  *
+
 
 [The Eamonn O'B-S Daily](http://paper.li/eob)
 
 
-                
-
 The tweets of the people I follow on Twitter, presented in the form of a newspaper -- somewhat like Flipboard.
 
-
-                
 
 (tags: [webpageprinting](http://www.delicious.com/eob/webpageprinting) [web2.0](http://www.delicious.com/eob/web2.0) [webservices](http://www.delicious.com/eob/webservices) [layout](http://www.delicious.com/eob/layout) [contenttransformation](http://www.delicious.com/eob/contenttransformation) [me](http://www.delicious.com/eob/me) [my](http://www.delicious.com/eob/my))
 
 
-            
+

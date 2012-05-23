@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Online Readability Software](http://readability.online-web-software.com/demo.php)

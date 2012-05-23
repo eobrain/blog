@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Structural Tags in HTML5 - Ordered List](http://orderedlist.com/our-writing/resources/html-css/structural-tags-in-html5/)
 
 
-                
-
 How to use HTML5 in current browser -- even IE.
 
-
-                
 
 (tags: [layout](http://delicious.com/eob/layout) [reference](http://delicious.com/eob/reference) [tutorial](http://delicious.com/eob/tutorial) [web](http://delicious.com/eob/web))
 
 
-            
+

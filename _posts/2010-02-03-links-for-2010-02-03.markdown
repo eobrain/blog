@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Scalate](http://scalate.fusesource.org/index.html)
 
 
-                
-
 So far, Lift has been the only Scala-specific way of creating web applications.  Scalate offers a lightweight alternative, though purists will shudder at how functionality and presentation are mixed willy-nilly.
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming))
 
 
-            
+

@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Lift](http://liftweb.net/index.php/Main_Page)
@@ -30,7 +30,7 @@ A Rails-like web application framework.  Uses Scala which seems to combine all t
 	
 
 	
-  * 
+  *
 		
 
 [Ruth Rosenholtz](http://web.mit.edu/rruth/www/)

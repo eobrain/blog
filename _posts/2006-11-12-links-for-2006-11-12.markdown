@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Radar Networks](http://www.radarnetworks.com/index.html)

@@ -9,20 +9,12 @@ categories:
 - Programming
 ---
 
-     
-  *      
 
-               [Using CSS to Do Anything: 50 Creative Examples and Tutorials - Noupe Design Blog](http://www.noupe.com/css/using-css-to-do-anything-50-creative-examples-and-tutorials.html)      
+  * [Using CSS to Do Anything: 50 Creative Examples and Tutorials - Noupe Design Blog](http://www.noupe.com/css/using-css-to-do-anything-50-creative-examples-and-tutorials.html)
 
-     
 
 Lots of interesting examples of how to do flashy stuff in CSS.
+ tags:                      [tutorial](http://www.diigo.com/user/eobrain/tutorial)            [javascript](http://www.diigo.com/user/eobrain/javascript)            [css](http://www.diigo.com/user/eobrain/css)            [design](http://www.diigo.com/user/eobrain/design)            [tutorials](http://www.diigo.com/user/eobrain/tutorials)
 
-             
-
-         tags:                      [tutorial](http://www.diigo.com/user/eobrain/tutorial)            [javascript](http://www.diigo.com/user/eobrain/javascript)            [css](http://www.diigo.com/user/eobrain/css)            [design](http://www.diigo.com/user/eobrain/design)            [tutorials](http://www.diigo.com/user/eobrain/tutorials)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

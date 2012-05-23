@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [![](http://twittergif.com/3/black/10/eob.gif)](http://twittergif.com/3/black/10/eob.gif)
 
 
-                
-
 twittergif service did seem a bit broken, but I did manage to get this animated GIF of my tweets.  Not sure how often it gets updated.
 
-
-                
 
 (tags: [my](http://delicious.com/eob/my) [web2.0](http://delicious.com/eob/web2.0) [webservices](http://delicious.com/eob/webservices))
 
 
-            
+

@@ -12,13 +12,11 @@ tags:
 - linkedin
 ---
 
-  * 
-                
+  *
+
 
 [Gremlin: A Graph-Based Programming Language](http://www.slideshare.net/slidarko/gremlin-a-graphbased-programming-language-3876581)
 
-
-                
 
 This is a Java-embeddable language that can perform queries on generalized graphs using a clear and concise XPath-based query language.  In addition it adds typical scripting constructs that  make it a complete language.  However these additions seem weak, and I think a pure query language (like SQL) would have been better.
 
@@ -27,9 +25,7 @@ One thing I thought was a bit inelegant was the number of special reserved ident
 I did like was how easy it is to define computed edges in the graph, sort of like views in SQL.  This can be considered a kind of reasoning.  I particularly was struck by the clear insight in the presentation that "Graph-based reasoning is the process of making explicit what is implicit in lop co-developer the graph"
 
 
-                
-
 (tags: [rdf](http://delicious.com/eob/rdf) [language](http://delicious.com/eob/language) [java](http://delicious.com/eob/java))
 
 
-            
+

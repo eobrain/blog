@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [LibraryThing | Catalog your books online](http://www.librarything.com/)
@@ -30,7 +30,7 @@ Simple but useful social sharing of personal book metadata.
 	
 
 	
-  * 
+  *
 		
 
 [Describing and retrieving photos using RDF and HTTP](http://www.w3.org/TR/photo-rdf/)

@@ -12,20 +12,12 @@ tags:
 - linkedin
 ---
 
-     
-  *      
 
-               [yeungda/jcoffeescript - GitHub](https://github.com/yeungda/jcoffeescript)      
+  * [yeungda/jcoffeescript - GitHub](https://github.com/yeungda/jcoffeescript)
 
-     
 
 Using jcoffeescript (Java/Rhino implementation coffeescript) can mean for simpler setting up of a development environment because it does not have dependencies on node.js and npm, which can be difficult to install.  However jcoffeescript is missing some features such as the --watch option or the ability to compile multiple files.
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
 
-             
-
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

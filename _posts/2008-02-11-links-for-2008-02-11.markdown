@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Hoopla! » Application Error - Rails application failed to start properly](http://6brand.com/application-error-rails-app-failed-to-start-properly)
@@ -30,7 +30,7 @@ How to get rails working at Dreamhost
 	
 
 	
-  * 
+  *
 		
 
 [Powerful Web Services Through Composition -- web-calculus](http://www.waterken.com/dev/Web/REST/)
@@ -49,7 +49,7 @@ Tyler's great paper on REST-based web service composition
 	
 
 	
-  * 
+  *
 		
 
 [Facial recognition slipped into Google image search](http://arstechnica.com/news.ars/post/20070530-facial-recognition-slipped-into-google-image-search.html)

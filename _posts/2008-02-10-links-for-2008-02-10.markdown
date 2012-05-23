@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [posh - Microformats](http://microformats.org/wiki/POSH)
@@ -19,8 +19,7 @@ categories:
 
 		
 
-Plain Old Semantic HTML (POSH) -- useful guidelines 
-
+Plain Old Semantic HTML (POSH) -- useful guidelines
 
 
 		

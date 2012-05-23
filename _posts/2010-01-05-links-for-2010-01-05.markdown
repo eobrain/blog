@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [ideone.com](http://ideone.com/)
 
 
-                
-
 A pastebin that actually executes your code.
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [service](http://delicious.com/eob/service) [tool](http://delicious.com/eob/tool) [web](http://delicious.com/eob/web))
 
 
-            
+

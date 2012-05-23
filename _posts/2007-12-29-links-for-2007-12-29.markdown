@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Pipes: Flickr user photostream](http://pipes.yahoo.com/pipes/pipe.info?_id=oBPiFqn02xG3vmrmEpPZnA)

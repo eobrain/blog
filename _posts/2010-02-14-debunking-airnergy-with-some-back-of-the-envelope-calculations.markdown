@@ -13,9 +13,9 @@ I have seen several reverences to [Airnergy device by RCA](http://www.engadget.c
 
 That sounded a bit fishy to me.  Let's look at some numbers.  First, how much power does a WiFi hotspot put out? According to [moonblinkwifi.com](http://www.moonblinkwifi.com/dbm_to_watt_conversion.cfm) a typical output is 200 mW.
 
-Now say this device is 3 metres (10 feet) away from the hotspot.  This 200 mW of power will be spread on the surface of a 3 metre-radius sphere with a surface area of about 110 square metres. 
+Now say this device is 3 metres (10 feet) away from the hotspot.  This 200 mW of power will be spread on the surface of a 3 metre-radius sphere with a surface area of about 110 square metres.
 
-Now, this device looks to be about 10cm X 5cm which is about 1/22000 of the area of the sphere across which the 200 mW is spread.  Which means the amount of power hitting the device is about 9.1 μW 
+Now, this device looks to be about 10cm X 5cm which is about 1/22000 of the area of the sphere across which the 200 mW is spread.  Which means the amount of power hitting the device is about 9.1 μW
 
 Now according to the Wikipedia [battery article](http://en.wikipedia.org/wiki/Battery_%28electricity%29#Battery_capacity_and_discharging) a small AAA rechargeable battery stores about 6700 J of energy.  How long would it take to recharge a AAA battery with our 9.1 μW of power, assuming you could miraculously capture 100% of the power?
 

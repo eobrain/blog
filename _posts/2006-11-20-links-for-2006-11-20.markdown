@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Associations in Ruby on Rails](http://wiki.rubyonrails.org/rails/pages/Associations)

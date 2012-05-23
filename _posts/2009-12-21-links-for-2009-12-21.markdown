@@ -9,54 +9,40 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Graphics.com: A Brief History of Grids](http://www.graphics.com/modules.php?name=Sections&op=viewarticle&artid=620)
 
 
-                
-
 A nice overview of how the use of grids has developed over the centuries
 
-
-                
 
 (tags: [design](http://delicious.com/eob/design) [layout](http://delicious.com/eob/layout))
 
 
-            
-  * 
-                
+  *
+
 
 [Vaadin - thinking of U and I - vaadin.com](http://vaadin.com/home)
 
 
-                
-
 An interesting Java web framework
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [web2.0](http://delicious.com/eob/web2.0) [library](http://delicious.com/eob/library) [javascript](http://delicious.com/eob/javascript) [java](http://delicious.com/eob/java) [web](http://delicious.com/eob/web) [ajax](http://delicious.com/eob/ajax))
 
 
-            
-  * 
-                
+  *
+
 
 [TiltViewer](http://www.simpleviewer.net/tiltviewer/app/?user_id=35034364763@N01)
 
 
-                
-
 My photos viewed by TiltViewer
 
-
-                
 
 (tags: [my](http://delicious.com/eob/my) [photo](http://delicious.com/eob/photo))
 
 
-            
+

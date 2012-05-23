@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [MySQL AB :: Does MySQL Connector/J Support Multithreaded Programming?](http://www.mysql.com/news-and-events/newsletter/2003-04/a0000000154.html)

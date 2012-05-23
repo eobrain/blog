@@ -9,34 +9,19 @@ categories:
 - bookmarks
 ---
 
-     
-  *      
 
-               [Making cross domain JavaScript requests using XMLHttpRequest or XDomainRequest | Phil Leggetter - Real-Time Web Software and Technology Evangelist](http://www.leggetter.co.uk/2010/03/12/making-cross-domain-javascript-requests-using-xmlhttprequest-or-xdomainrequest.html)      
+  * [Making cross domain JavaScript requests using XMLHttpRequest or XDomainRequest | Phil Leggetter - Real-Time Web Software and Technology Evangelist](http://www.leggetter.co.uk/2010/03/12/making-cross-domain-javascript-requests-using-xmlhttprequest-or-xdomainrequest.html)
 
-     
 
 Another way to do cross-domain JavaScript calls.
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
 
-             
 
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
+  * [Ben Alman » jQuery postMessage: Cross-domain scripting goodness](http://benalman.com/projects/jquery-postmessage-plugin)
 
-                                       
-     
-  *      
-
-               [Ben Alman » jQuery postMessage: Cross-domain scripting goodness](http://benalman.com/projects/jquery-postmessage-plugin)      
-
-     
 
 This seems like the best way to do cross-domain calls in JavaScript.
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
 
-             
-
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

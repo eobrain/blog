@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Peekaboom: Not just wasting your time...](http://www.peekaboom.org/)
@@ -30,7 +30,7 @@ Playing games to label images
 	
 
 	
-  * 
+  *
 		
 
 [gwap.com - Home](http://www.gwap.com/gwap/)
@@ -49,7 +49,7 @@ Games with a purpose -- CMU site using games to learn more about images and tune
 	
 
 	
-  * 
+  *
 		
 
 [YoYo Games | Make](http://www.yoyogames.com/make)
@@ -68,7 +68,7 @@ Playing, making, and sharing casual games.
 	
 
 	
-  * 
+  *
 		
 
 [James Cameron: 3D heading beyond movies | Beyond Binary - A blog by Ina Fried - CNET News.com](http://news.cnet.com/8301-13860_3-9948527-56.html?tag=nefd.lede--n)

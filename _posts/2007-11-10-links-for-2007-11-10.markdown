@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Java Default Timezone Issue Under Fedora Redhat Linux](http://minaret.biz/tips/timezone.html)

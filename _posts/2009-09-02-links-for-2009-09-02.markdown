@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Re: [iText-questions] Creating a "text area" that may be positioned abso](http://www.mail-archive.com/itext-questions@lists.sourceforge.net/msg01533.html)
 
 
-                
-
 It looks like itext can be used to place text boxes in PDF.
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [layout](http://delicious.com/eob/layout))
 
 
-            
+

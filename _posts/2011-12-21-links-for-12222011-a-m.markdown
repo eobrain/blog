@@ -9,34 +9,19 @@ categories:
 - bookmarks
 ---
 
-     
-  *      
 
-               [Zappa: CoffeeScript-optimized interface for building web apps on Node.js with Express and Socket.IO.](http://zappajs.org)      
+  * [Zappa: CoffeeScript-optimized interface for building web apps on Node.js with Express and Socket.IO.](http://zappajs.org)
 
-     
 
 Coffesscript web framework on top of node.js
+ tags:                      [web](http://www.diigo.com/user/eobrain/web)            [coffescript](http://www.diigo.com/user/eobrain/coffescript)            [javascript](http://www.diigo.com/user/eobrain/javascript)
 
-             
 
-         tags:                      [web](http://www.diigo.com/user/eobrain/web)            [coffescript](http://www.diigo.com/user/eobrain/coffescript)            [javascript](http://www.diigo.com/user/eobrain/javascript)
+  * [riak-js: Javascript Turtles All the Way Down](http://www.slideshare.net/seancribbs/riakjs-javascript-turtles-all-the-way-down)
 
-                                       
-     
-  *      
-
-               [riak-js: Javascript Turtles All the Way Down](http://www.slideshare.net/seancribbs/riakjs-javascript-turtles-all-the-way-down)      
-
-     
 
 Using Riak from node.js
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [database](http://www.diigo.com/user/eobrain/database)            [scaling](http://www.diigo.com/user/eobrain/scaling)
 
-             
-
-         tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [database](http://www.diigo.com/user/eobrain/database)            [scaling](http://www.diigo.com/user/eobrain/scaling)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

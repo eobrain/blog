@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [PropertyConfigurator (Apache Log4j 1.2.15 API)](http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/PropertyConfigurator.html#doConfigure(java.lang.String,%20org.apache.log4j.spi.LoggerRepository))

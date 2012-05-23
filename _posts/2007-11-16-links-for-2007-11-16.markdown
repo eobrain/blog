@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [An Exceptionally Simple Theory of Everything](http://www.arxiv.org/pdf/0711.0770)

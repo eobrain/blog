@@ -9,16 +9,13 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Design Patterns At a glance » The Design of Sites](http://www.designofsites.com/design-patterns/)
 
 
-                
-                
-
 (tags: [design](http://delicious.com/eob/design) [web](http://delicious.com/eob/web) [library](http://delicious.com/eob/library) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-            
+

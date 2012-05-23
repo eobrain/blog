@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Javascript Closures](http://jibbering.com/faq/faq_notes/closures.html)

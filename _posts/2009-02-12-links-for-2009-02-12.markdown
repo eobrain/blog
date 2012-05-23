@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Newseum | Today's Front Pages | Gallery View](http://www.newseum.org/todaysfrontpages/default.asp)
 
 
-                
-
 Front page images of newspapers from around the world.
 
-
-                
 
 (tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [news](http://delicious.com/eob/news))
 
 
-            
+

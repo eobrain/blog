@@ -9,18 +9,13 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Overview (Java Platform SE 6)](http://java.sun.com/javase/6/docs/api/overview-summary.html)
 
 
-                
-
-
-                
-
 (tags: [java](http://delicious.com/eob/java) [reference](http://delicious.com/eob/reference) [programming](http://delicious.com/eob/programming) [daily](http://delicious.com/eob/daily))
 
 
-            
+

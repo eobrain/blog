@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Save to Delicious](http://delicioussafari.com/___?javascript:window.location='dsbookmarks://save?url='+encodeURIComponent(document.location)+'&title='+encodeURIComponent(document.title))
 
 
-                
-
 Another way to get a bookmarklet on the iPhone by bookmarking a http: link and then manually editing the result.. (An alternative to dragging the bookmarklet onto the browser bar on the desktop browser and then syncing bookmarks with iTunes.)  Either way, a bad user experience for the average user.
 
-
-                
 
 (tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [web](http://delicious.com/eob/web) [web2.0](http://delicious.com/eob/web2.0) [webservices](http://delicious.com/eob/webservices))
 
 
-            
+

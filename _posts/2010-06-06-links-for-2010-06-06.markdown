@@ -9,20 +9,16 @@ categories:
 - Futzing
 ---
 
-  * 
-                
+  *
+
 
 [Screencast-O-Matic - Record screen capture video instantly for free!](http://www.screencast-o-matic.com/)
 
 
-                
-
 Very convenient to make screencasts.
 
-
-                
 
 (tags: [video](http://delicious.com/eob/video) [tool](http://delicious.com/eob/tool) [web](http://delicious.com/eob/web))
 
 
-            
+

@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Affinity Propagation](http://www.psi.toronto.edu/affinitypropagation/)

@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Lessons Learned](http://startuplessonslearned.blogspot.com/)
 
 
-                
-
 Currently listening to this guy talking at web2expo. Mostly obvious stuff, but some insightful anecdotes.
 
-
-                
 
 (tags: [programming](http://delicious.com/eob/programming) [business](http://delicious.com/eob/business) [agile](http://delicious.com/eob/agile) [startup](http://delicious.com/eob/startup))
 
 
-            
+

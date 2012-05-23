@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Printing the Web: Solutions and Techniques | CSS | Smashing Magazine](http://www.smashingmagazine.com/2007/02/21/printing-the-web-solutions-and-techniques/)
 
 
-                
-
 Handy overview of how to use CSS to create web pages that print better.
 
-
-                
 
 (tags: [tutorial](http://delicious.com/eob/tutorial) [design](http://delicious.com/eob/design) [printing](http://delicious.com/eob/printing) [css](http://delicious.com/eob/css) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-            
+

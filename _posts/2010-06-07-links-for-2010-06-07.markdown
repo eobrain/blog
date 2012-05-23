@@ -10,20 +10,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [libcloud python library - a unified interface to cloud server providers](http://incubator.apache.org/libcloud/)
 
 
-                
-
 Simple python scripting of different elastic cloud infrastructure systems.  Very cool.
 
-
-                
 
 (tags: [api](http://delicious.com/eob/api) [deployment](http://delicious.com/eob/deployment) [library](http://delicious.com/eob/library) [linux](http://delicious.com/eob/linux) [programming](http://delicious.com/eob/programming) [python](http://delicious.com/eob/python) [architecture](http://delicious.com/eob/architecture))
 
 
-            
+

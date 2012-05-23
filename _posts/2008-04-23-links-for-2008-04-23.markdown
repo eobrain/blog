@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [Scaling Twitter » SlideShare](http://www.slideshare.net/Blaine/scaling-twitter/)

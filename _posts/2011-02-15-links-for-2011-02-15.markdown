@@ -9,37 +9,28 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Outerthought :: Lily - the Scalable Content Repository](http://www.lilyproject.org/lily/index.html)
 
 
-                
-
 A content repository built on top of HBase (the Hadoop big-data store) and SOLR (the Lucene-based search platform).
 
-
-                
 
 (tags: [database](http://www.delicious.com/eob/database) [scaling](http://www.delicious.com/eob/scaling) [architecture](http://www.delicious.com/eob/architecture))
 
 
-            
-  * 
-                
+  *
+
 
 [RANDOM.ORG - String Generator](http://www.random.org/strings/?num=1)
 
 
-                
-
 When I need a truly random string, I get it from here.
 
-
-                
 
 (tags: [security](http://www.delicious.com/eob/security))
 
 
-            
+

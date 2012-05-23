@@ -9,34 +9,19 @@ categories:
 - bookmarks
 ---
 
-     
-  *      
 
-               [Home | OpenCalais](http://www.opencalais.com)      
+  * [Home | OpenCalais](http://www.opencalais.com)
 
-     
 
 Semantic analysis web service
+ tags:                      [metadata](http://www.diigo.com/user/eobrain/metadata)            [api](http://www.diigo.com/user/eobrain/api)            [webservices](http://www.diigo.com/user/eobrain/webservices)
 
-             
 
-         tags:                      [metadata](http://www.diigo.com/user/eobrain/metadata)            [api](http://www.diigo.com/user/eobrain/api)            [webservices](http://www.diigo.com/user/eobrain/webservices)
+  * [CSS Lint](http://csslint.net)
 
-                                                                       
-     
-  *      
-
-               [CSS Lint](http://csslint.net)      
-
-     
 
 online tool to check for problems in your CSS stylesheets
+ tags:                      [css](http://www.diigo.com/user/eobrain/css)            [web](http://www.diigo.com/user/eobrain/web)            [tool](http://www.diigo.com/user/eobrain/tool)            [webservices](http://www.diigo.com/user/eobrain/webservices)
 
-             
-
-         tags:                      [css](http://www.diigo.com/user/eobrain/css)            [web](http://www.diigo.com/user/eobrain/web)            [tool](http://www.diigo.com/user/eobrain/tool)            [webservices](http://www.diigo.com/user/eobrain/webservices)
-
-                                       
- 
 
 Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

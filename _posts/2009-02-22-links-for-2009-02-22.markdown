@@ -9,20 +9,16 @@ categories:
 - bookmarks
 ---
 
-  * 
-                
+  *
+
 
 [Xvfb + Firefox :: semicomplete.com - Jordan Sissel](http://semicomplete.com/blog/geekery/xvfb-firefox.html)
 
 
-                
-
 Capturing screenshots of web sites programatically from a server using firefox running under an X virtual frame buffer.
 
-
-                
 
 (tags: [tutorial](http://delicious.com/eob/tutorial) [web](http://delicious.com/eob/web) [linux](http://delicious.com/eob/linux) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-            
+

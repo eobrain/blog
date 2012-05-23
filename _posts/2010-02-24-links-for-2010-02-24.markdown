@@ -9,20 +9,16 @@ categories:
 - Programming
 ---
 
-  * 
-                
+  *
+
 
 [Patent US7668400](http://www.freepatentsonline.com/7668400.pdf)
 
 
-                
-
 One of my patents just got granted. "Image layout constraint generation"
 
-
-                
 
 (tags: [my](http://delicious.com/eob/my) [ip](http://delicious.com/eob/ip) [patent](http://delicious.com/eob/patent))
 
 
-            
+

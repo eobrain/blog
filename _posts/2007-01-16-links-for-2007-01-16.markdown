@@ -11,7 +11,7 @@ categories:
 
 
 	
-  * 
+  *
 		
 
 [AutoStitch](http://www.cs.ubc.ca/~mbrown/autostitch/autostitch.html)
