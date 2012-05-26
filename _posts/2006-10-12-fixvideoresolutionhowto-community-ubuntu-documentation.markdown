@@ -3,6 +3,7 @@ date: '2006-10-12 16:44:12'
 layout: post
 slug: fixvideoresolutionhowto-community-ubuntu-documentation
 status: publish
+ref: https://help.ubuntu.com/community/FixVideoResolutionHowto
 title: FixVideoResolutionHowto - Community Ubuntu Documentation
 wordpress_id: '115'
 categories:

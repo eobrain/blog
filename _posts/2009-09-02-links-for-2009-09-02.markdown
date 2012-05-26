@@ -3,22 +3,17 @@ date: '2009-09-02 15:04:59'
 layout: post
 slug: links-for-2009-09-02
 status: publish
+ref: http://www.mail-archive.com/itext-questions@lists.sourceforge.net/msg01533.html
 title: How itext can be used to place text boxes in PDF.
 wordpress_id: '429'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Re: [iText-questions] Creating a "text area" that may be positioned abso](http://www.mail-archive.com/itext-questions@lists.sourceforge.net/msg01533.html)
 
 
-[Re: [iText-questions] Creating a "text area" that may be positioned abso](http://www.mail-archive.com/itext-questions@lists.sourceforge.net/msg01533.html)
-
-
-It looks like itext can be used to place text boxes in PDF.
-
-
-(tags: [programming](http://delicious.com/eob/programming) [layout](http://delicious.com/eob/layout))
+It looks like itext can be used to place text boxes in PDF. (tags: [programming](http://delicious.com/eob/programming) [layout](http://delicious.com/eob/layout))
 
 
 

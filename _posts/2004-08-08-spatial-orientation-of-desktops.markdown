@@ -3,6 +3,7 @@ date: '2004-08-08 13:41:14'
 layout: post
 slug: spatial-orientation-of-desktops
 status: publish
+ref: http://arstechnica.com/paedia/f/finder/finder-1.html
 title: Spatial Orientation of Desktops
 wordpress_id: '39'
 ---

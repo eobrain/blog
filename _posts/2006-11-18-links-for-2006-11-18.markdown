@@ -3,6 +3,7 @@ date: '2006-11-18 16:26:37'
 layout: post
 slug: links-for-2006-11-18
 status: publish
+ref: http://www.digitalcustom.com/howto/mediaguidelines.asp
 title: links for 2006-11-18
 wordpress_id: '137'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[DigitalCustom: Photo Restoration Ethics](http://www.digitalcustom.com/howto/mediaguidelines.asp)
+  * [DigitalCustom: Photo Restoration Ethics](http://www.digitalcustom.com/howto/mediaguidelines.asp)
 
 
-		
-
-Journalistic rules for photo manipulation.
 
 
-		
-
-(tags: [photo](http://del.icio.us/eob/photo))
+Journalistic rules for photo manipulation. (tags: [photo](http://del.icio.us/eob/photo))
 
 
-	
+
 
 
 

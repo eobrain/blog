@@ -10,38 +10,22 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[LibraryThing | Catalog your books online](http://www.librarything.com/)
+  * [LibraryThing | Catalog your books online](http://www.librarything.com/)
 
 
-		
-
-Simple but useful social sharing of personal book metadata.
 
 
-		
-
-(tags: [books](http://del.icio.us/eob/books) [library](http://del.icio.us/eob/library) [service](http://del.icio.us/eob/service) [web2.0](http://del.icio.us/eob/web2.0))
+Simple but useful social sharing of personal book metadata. (tags: [books](http://del.icio.us/eob/books) [library](http://del.icio.us/eob/library) [service](http://del.icio.us/eob/service) [web2.0](http://del.icio.us/eob/web2.0))
 
 
-	
-
-	
-  *
-		
-
-[Describing and retrieving photos using RDF and HTTP](http://www.w3.org/TR/photo-rdf/)
 
 
-		
 
-(tags: [metadata](http://del.icio.us/eob/metadata) [photo](http://del.icio.us/eob/photo) [rdf](http://del.icio.us/eob/rdf))
+  * [Describing and retrieving photos using RDF and HTTP](http://www.w3.org/TR/photo-rdf/) (tags: [metadata](http://del.icio.us/eob/metadata) [photo](http://del.icio.us/eob/photo) [rdf](http://del.icio.us/eob/rdf))
 
 
-	
+
 
 
 

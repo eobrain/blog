@@ -3,6 +3,7 @@ date: '2007-11-01 16:28:48'
 layout: post
 slug: links-for-2007-11-01
 status: publish
+ref: http://www.slideshare.net/leahculver/pownce-lessons-learned
 title: links for 2007-11-01
 wordpress_id: '205'
 categories:
@@ -10,19 +11,11 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Pownce Lessons Learned » SlideShare (share powerpoint presentations online, slideshows, slide shows, download presentations, widgets, MySpace codes)](http://www.slideshare.net/leahculver/pownce-lessons-learned)
+  * [Pownce Lessons Learned » SlideShare (share powerpoint presentations online, slideshows, slide shows, download presentations, widgets, MySpace codes)](http://www.slideshare.net/leahculver/pownce-lessons-learned) (tags: [web2.0](http://del.icio.us/eob/web2.0) [programming](http://del.icio.us/eob/programming) [design](http://del.icio.us/eob/design) [architecture](http://del.icio.us/eob/architecture))
 
 
-		
 
-(tags: [web2.0](http://del.icio.us/eob/web2.0) [programming](http://del.icio.us/eob/programming) [design](http://del.icio.us/eob/design) [architecture](http://del.icio.us/eob/architecture))
-
-
-	
 
 
 

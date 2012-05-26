@@ -3,22 +3,17 @@ date: '2010-06-06 15:05:21'
 layout: post
 slug: links-for-2010-06-06
 status: publish
+ref: http://www.screencast-o-matic.com/
 title: Very convenient way to make screencasts.
 wordpress_id: '893'
 categories:
 - Futzing
 ---
 
-  *
+  * [Screencast-O-Matic - Record screen capture video instantly for free!](http://www.screencast-o-matic.com/)
 
 
-[Screencast-O-Matic - Record screen capture video instantly for free!](http://www.screencast-o-matic.com/)
-
-
-Very convenient to make screencasts.
-
-
-(tags: [video](http://delicious.com/eob/video) [tool](http://delicious.com/eob/tool) [web](http://delicious.com/eob/web))
+Very convenient to make screencasts. (tags: [video](http://delicious.com/eob/video) [tool](http://delicious.com/eob/tool) [web](http://delicious.com/eob/web))
 
 
 

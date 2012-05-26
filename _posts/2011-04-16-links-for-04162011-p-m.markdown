@@ -3,6 +3,7 @@ date: '2011-04-16 04:32:01'
 layout: post
 slug: links-for-04162011-p-m
 status: publish
+ref: http://www.infochimps.com
 title: Lots of interesting data, available via a convenient API.
 wordpress_id: '1193'
 categories:

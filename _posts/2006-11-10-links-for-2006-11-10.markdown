@@ -10,28 +10,17 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[DVD Demystified](http://www.dvddemystified.com/)
+  * [DVD Demystified](http://www.dvddemystified.com/) (tags: [dvd](http://del.icio.us/eob/dvd) [video](http://del.icio.us/eob/video) [tutorial](http://del.icio.us/eob/tutorial) [reference](http://del.icio.us/eob/reference))
 
 
-		
-
-(tags: [dvd](http://del.icio.us/eob/dvd) [video](http://del.icio.us/eob/video) [tutorial](http://del.icio.us/eob/tutorial) [reference](http://del.icio.us/eob/reference))
 
 
-	
 
-	
-  *
-		
-
-[GNOME: The Free Software Desktop Project](http://www.gnome.org/)
+  * [GNOME: The Free Software Desktop Project](http://www.gnome.org/)
 
 
-	
+
 
 
 

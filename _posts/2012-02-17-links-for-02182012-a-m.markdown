@@ -3,6 +3,7 @@ date: '2012-02-17 16:38:14'
 layout: post
 slug: links-for-02182012-a-m
 status: publish
+ref: http://haselgrove.id.au/wikipedia.htm
 title: Conveniently-formatted data files with Wikipedia page linking data. It is a
   bit out of date, but still good for testing algorithms.
 wordpress_id: '6219'

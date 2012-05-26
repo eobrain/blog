@@ -3,6 +3,7 @@ date: '2008-06-03 16:32:08'
 layout: post
 slug: links-for-2008-06-03
 status: publish
+ref: http://del.icio.us/eob/game
 title: links for 2008-06-03
 wordpress_id: '294'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Flickr: Flickr Games](http://www.flickr.com/groups/flickrgames/)
+  * [Flickr: Flickr Games](http://www.flickr.com/groups/flickrgames/)
 
 
-		
-
-Playing games with photos on Flickr.
 
 
-		
-
-(tags: [game](http://del.icio.us/eob/game) [photo](http://del.icio.us/eob/photo))
+Playing games with photos on Flickr. (tags: [game](http://del.icio.us/eob/game) [photo](http://del.icio.us/eob/photo))
 
 
-	
+
 
 
 

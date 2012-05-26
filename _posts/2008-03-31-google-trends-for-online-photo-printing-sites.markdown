@@ -3,6 +3,7 @@ date: '2008-03-31 12:11:52'
 layout: post
 slug: google-trends-for-online-photo-printing-sites
 status: publish
+ref: http://google.com/trends?q=snapfish%2C+kodak+easyshare%2C+shutterfly%2C+walgreens+photo%2C+walmart+photo&ctab=0&geo=all&date=all&sort=0
 title: Google Trends for Online Photo Printing Sites
 wordpress_id: '266'
 categories:

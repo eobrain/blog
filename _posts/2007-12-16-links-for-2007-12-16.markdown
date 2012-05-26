@@ -10,52 +10,28 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[mysql-scaling-pains.pdf (application/pdf Object)](http://jeremy.zawodny.com/mysql/mysql-scaling-pains.pdf)
+  * [mysql-scaling-pains.pdf (application/pdf Object)](http://jeremy.zawodny.com/mysql/mysql-scaling-pains.pdf)
 
 
-		
-
-Some pointers towards methods to scale MySql and optomize its performance.
 
 
-		
-
-(tags: [scaling](http://del.icio.us/eob/scaling) [webservices](http://del.icio.us/eob/webservices))
+Some pointers towards methods to scale MySql and optomize its performance. (tags: [scaling](http://del.icio.us/eob/scaling) [webservices](http://del.icio.us/eob/webservices))
 
 
-	
-
-	
-  *
-		
-
-[Real world scalability MySQL](http://www.scribd.com/doc/351492/Real-world-scalability-MySQL)
 
 
-		
 
-(tags: [scaling](http://del.icio.us/eob/scaling))
-
-
-	
-
-	
-  *
-		
-
-[memcached: a distributed memory object caching system](http://www.danga.com/memcached/)
+  * [Real world scalability MySQL](http://www.scribd.com/doc/351492/Real-world-scalability-MySQL) (tags: [scaling](http://del.icio.us/eob/scaling))
 
 
-		
-
-(tags: [database](http://del.icio.us/eob/database) [scaling](http://del.icio.us/eob/scaling))
 
 
-	
+
+  * [memcached: a distributed memory object caching system](http://www.danga.com/memcached/) (tags: [database](http://del.icio.us/eob/database) [scaling](http://del.icio.us/eob/scaling))
+
+
+
 
 
 

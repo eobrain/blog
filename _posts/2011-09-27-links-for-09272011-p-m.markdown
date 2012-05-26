@@ -3,6 +3,7 @@ date: '2011-09-27 04:31:57'
 layout: post
 slug: links-for-09272011-p-m
 status: publish
+ref: http://www.phantomjs.org
 title: Headless JavaScript using webkit.  Includes rendering to image and PDF.
 wordpress_id: '1243'
 categories:

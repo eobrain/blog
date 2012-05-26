@@ -3,24 +3,19 @@ date: '2009-07-24 15:07:02'
 layout: post
 slug: links-for-2009-07-24
 status: publish
+ref: http://code.google.com/p/specs/wiki/MatchersGuide
 title: Specs is a really useful framework for testing Java and Scala code
 wordpress_id: '412'
 categories:
 - bookmarks
 ---
 
-  *
-
-
-[MatchersGuide -  specs -  How to add expectations to your examples - Project Hosting on Google Code](http://code.google.com/p/specs/wiki/MatchersGuide)
+  * [MatchersGuide -  specs -  How to add expectations to your examples - Project Hosting on Google Code](http://code.google.com/p/specs/wiki/MatchersGuide)
 
 
 Specs is a really useful framework for testing Java and Scala code.  It integrates well with JUnit for running from Eclipse or Ant.  It also makes it easy to use Mockito to generate mock objects and makes it easy to use ScalaCheck to conveniently generate lots of random input to your test cases.  It really makes it much easier to follow the test-driven philosophy that is part of Agile programming.
 
-This page is a good reference for all the matchers available in Specs.
-
-
-(tags: [scala](http://delicious.com/eob/scala) [java](http://delicious.com/eob/java) [code](http://delicious.com/eob/code) [programming](http://delicious.com/eob/programming) [agile](http://delicious.com/eob/agile))
+This page is a good reference for all the matchers available in Specs. (tags: [scala](http://delicious.com/eob/scala) [java](http://delicious.com/eob/java) [code](http://delicious.com/eob/code) [programming](http://delicious.com/eob/programming) [agile](http://delicious.com/eob/agile))
 
 
 

@@ -3,6 +3,7 @@ date: '2011-03-21 11:19:19'
 layout: post
 slug: what-levels-of-radiation-you-should-worry-about
 status: publish
+ref: http://xkcd.com/radiation/
 title: What levels of radiation you should worry about
 wordpress_id: '1162'
 categories:

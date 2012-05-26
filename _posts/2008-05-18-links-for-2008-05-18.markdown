@@ -10,43 +10,27 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Lift](http://liftweb.net/index.php/Main_Page)
+  * [Lift](http://liftweb.net/index.php/Main_Page)
 
 
-		
-
-A Rails-like web application framework.  Uses Scala which seems to combine all the best features of Java and Ruby. Like Java it is fast and has good software-engineering scalability.  Like Ruby has it has clean syntax and functional programming.
 
 
-		
-
-(tags: [programming](http://del.icio.us/eob/programming) [java](http://del.icio.us/eob/java))
+A Rails-like web application framework.  Uses Scala which seems to combine all the best features of Java and Ruby. Like Java it is fast and has good software-engineering scalability.  Like Ruby has it has clean syntax and functional programming. (tags: [programming](http://del.icio.us/eob/programming) [java](http://del.icio.us/eob/java))
 
 
-	
-
-	
-  *
-		
-
-[Ruth Rosenholtz](http://web.mit.edu/rruth/www/)
 
 
-		
 
-Interesting work on measuring "visual clutter" in images.
-
-
-		
-
-(tags: [design](http://del.icio.us/eob/design) [photo](http://del.icio.us/eob/photo) [imaging](http://del.icio.us/eob/imaging))
+  * [Ruth Rosenholtz](http://web.mit.edu/rruth/www/)
 
 
-	
+
+
+Interesting work on measuring "visual clutter" in images. (tags: [design](http://del.icio.us/eob/design) [photo](http://del.icio.us/eob/photo) [imaging](http://del.icio.us/eob/imaging))
+
+
+
 
 
 

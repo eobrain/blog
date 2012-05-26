@@ -3,6 +3,7 @@ date: '2007-01-01 16:19:31'
 layout: post
 slug: links-for-2007-01-01
 status: publish
+ref: http://www.hakia.com/
 title: links for 2007-01-01
 wordpress_id: '157'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[hakia Search Engine Beta](http://www.hakia.com/)
+  * [hakia Search Engine Beta](http://www.hakia.com/)
 
 
-		
-
-Mentioned in the New Yoirk Times.
 
 
-		
-
-(tags: [service](http://del.icio.us/eob/service) [startup](http://del.icio.us/eob/startup))
+Mentioned in the New Yoirk Times. (tags: [service](http://del.icio.us/eob/service) [startup](http://del.icio.us/eob/startup))
 
 
-	
+
 
 
 

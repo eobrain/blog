@@ -9,28 +9,16 @@ categories:
 - Programming
 ---
 
-  *
+  * [PyWebShot – Generate website thumbnails using Python | Coderholic](http://www.coderholic.com/pywebshot-generate-website-thumbnails-using-python/)
 
 
-[PyWebShot – Generate website thumbnails using Python | Coderholic](http://www.coderholic.com/pywebshot-generate-website-thumbnails-using-python/)
+Rendering web pages to images using a Python wrapper around the Gecko/Mozilla browser engine.  This renders Flash correctly unlike the similar  solutions that use Webkit. (tags: [api](http://delicious.com/eob/api) [programming](http://delicious.com/eob/programming) [python](http://delicious.com/eob/python) [tool](http://delicious.com/eob/tool) [web](http://delicious.com/eob/web))
 
 
-Rendering web pages to images using a Python wrapper around the Gecko/Mozilla browser engine.  This renders Flash correctly unlike the similar  solutions that use Webkit.
+  * [spynner - Project Hosting on Google Code](http://code.google.com/p/spynner/)
 
 
-(tags: [api](http://delicious.com/eob/api) [programming](http://delicious.com/eob/programming) [python](http://delicious.com/eob/python) [tool](http://delicious.com/eob/tool) [web](http://delicious.com/eob/web))
-
-
-  *
-
-
-[spynner - Project Hosting on Google Code](http://code.google.com/p/spynner/)
-
-
-Another Python API encapsulating the the Qt webkit browser component.
-
-
-(tags: [javascript](http://delicious.com/eob/javascript) [python](http://delicious.com/eob/python) [web](http://delicious.com/eob/web))
+Another Python API encapsulating the the Qt webkit browser component. (tags: [javascript](http://delicious.com/eob/javascript) [python](http://delicious.com/eob/python) [web](http://delicious.com/eob/web))
 
 
 

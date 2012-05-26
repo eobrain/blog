@@ -10,19 +10,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Free-energy and the brain.pdf (application/pdf Object)](http://www.fil.ion.ucl.ac.uk/~karl/Free-energy%20and%20the%20brain.pdf)
+  * [Free-energy and the brain.pdf (application/pdf Object)](http://www.fil.ion.ucl.ac.uk/~karl/Free-energy%20and%20the%20brain.pdf)
 
 
-		
+
 
 Very interesting approach to modelling the brain as a Baysean network that minimizes "suprise" free energy.
 
 
-	
+
 
 
 

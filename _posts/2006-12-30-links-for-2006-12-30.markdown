@@ -10,95 +10,55 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[13 things that do not make sense - space - 19 March 2005 - New Scientist Space](http://space.newscientist.com/article.ns?id=mg18524911.600)
+  * [13 things that do not make sense - space - 19 March 2005 - New Scientist Space](http://space.newscientist.com/article.ns?id=mg18524911.600) (tags: [science](http://del.icio.us/eob/science))
 
 
-		
-
-(tags: [science](http://del.icio.us/eob/science))
 
 
-	
 
-	
-  *
-		
-
-[RichardDawkins.net - The Official Richard Dawkins Website](http://richarddawkins.net/search,ALL,page1,n,Video,n,n)
+  * [RichardDawkins.net - The Official Richard Dawkins Website](http://richarddawkins.net/search,ALL,page1,n,Video,n,n)
 
 
-		
-
-various videos from around the net as collected by richarddawkins.net
 
 
-		
-
-(tags: [science](http://del.icio.us/eob/science))
+various videos from around the net as collected by richarddawkins.net (tags: [science](http://del.icio.us/eob/science))
 
 
-	
-
-	
-  *
-		
-
-[Duboce](http://shibainu.s218.xrea.com/flickr/fotolog.cgi?username=Tolka%20Rover)
 
 
-		
 
-Wrapper around Flickr
-
-
-		
-
-(tags: [photo](http://del.icio.us/eob/photo))
+  * [Duboce](http://shibainu.s218.xrea.com/flickr/fotolog.cgi?username=Tolka%20Rover)
 
 
-	
-
-	
-  *
-		
-
-[map.png (PNG Image, 1688x1436 pixels)](http://hood.theory.org/map.png)
 
 
-		
-
-Bottom-up classification of San-Francisco neighborhoods.
+Wrapper around Flickr (tags: [photo](http://del.icio.us/eob/photo))
 
 
-		
-
-(tags: [sanfrancisco](http://del.icio.us/eob/sanfrancisco))
 
 
-	
 
-	
-  *
-		
-
-[Central](http://www.sfarmls.com/docs/central.htm)
+  * [map.png (PNG Image, 1688x1436 pixels)](http://hood.theory.org/map.png)
 
 
-		
-
-Map showing detailed boundaries of San Francisco neighbourhoods according to realtors.
 
 
-		
-
-(tags: [sanfrancisco](http://del.icio.us/eob/sanfrancisco))
+Bottom-up classification of San-Francisco neighborhoods. (tags: [sanfrancisco](http://del.icio.us/eob/sanfrancisco))
 
 
-	
+
+
+
+  * [Central](http://www.sfarmls.com/docs/central.htm)
+
+
+
+
+Map showing detailed boundaries of San Francisco neighbourhoods according to realtors. (tags: [sanfrancisco](http://del.icio.us/eob/sanfrancisco))
+
+
+
 
 
 

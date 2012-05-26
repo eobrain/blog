@@ -3,22 +3,17 @@ date: '2009-08-06 15:07:04'
 layout: post
 slug: links-for-2009-08-06
 status: publish
+ref: http://s3.amazonaws.com/AllThingsDistributed/sosp/amazon-dynamo-sosp2007.pdf
 title: How Amazon builds and scales its systems
 wordpress_id: '421'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Dynamo: Amazon’s Highly Available Key-value Store](http://s3.amazonaws.com/AllThingsDistributed/sosp/amazon-dynamo-sosp2007.pdf)
 
 
-[Dynamo: Amazon’s Highly Available Key-value Store](http://s3.amazonaws.com/AllThingsDistributed/sosp/amazon-dynamo-sosp2007.pdf)
-
-
-An excellent paper describing the Amazon's Dynamo system that is the model for the open-source Voldemort project.  There are also some interesting insights into how Amazon generally builds and scales its systems.
-
-
-(tags: [programming](http://delicious.com/eob/programming) [design](http://delicious.com/eob/design) [architecture](http://delicious.com/eob/architecture) [database](http://delicious.com/eob/database) [scaling](http://delicious.com/eob/scaling) [technology](http://delicious.com/eob/technology) [network](http://delicious.com/eob/network))
+An excellent paper describing the Amazon's Dynamo system that is the model for the open-source Voldemort project.  There are also some interesting insights into how Amazon generally builds and scales its systems. (tags: [programming](http://delicious.com/eob/programming) [design](http://delicious.com/eob/design) [architecture](http://delicious.com/eob/architecture) [database](http://delicious.com/eob/database) [scaling](http://delicious.com/eob/scaling) [technology](http://delicious.com/eob/technology) [network](http://delicious.com/eob/network))
 
 
 

@@ -3,6 +3,7 @@ date: '2011-11-16 04:31:57'
 layout: post
 slug: links-for-11162011-p-m
 status: publish
+ref: http://stackoverflow.com/questions/6628949/window-open-popup-getting-blocked-during-click-event/6629045#6629045
 title: How to avoid being blocked by a pop-up blocker.
 wordpress_id: '1251'
 categories:

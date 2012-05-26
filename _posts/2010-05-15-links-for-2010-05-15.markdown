@@ -3,22 +3,17 @@ date: '2010-05-15 15:04:39'
 layout: post
 slug: links-for-2010-05-15
 status: publish
+ref: http://www.smashingmagazine.com/2010/05/13/principles-of-minimalist-web-design-with-examples/
 title: Great examples of Web design
 wordpress_id: '845'
 categories:
 - Programming
 ---
 
-  *
+  * [Principles Of Minimalist Web Design, With Examples - Smashing Magazine](http://www.smashingmagazine.com/2010/05/13/principles-of-minimalist-web-design-with-examples/)
 
 
-[Principles Of Minimalist Web Design, With Examples - Smashing Magazine](http://www.smashingmagazine.com/2010/05/13/principles-of-minimalist-web-design-with-examples/)
-
-
-Great examples of Web design
-
-
-(tags: [design](http://delicious.com/eob/design) [graphics](http://delicious.com/eob/graphics) [css](http://delicious.com/eob/css))
+Great examples of Web design (tags: [design](http://delicious.com/eob/design) [graphics](http://delicious.com/eob/graphics) [css](http://delicious.com/eob/css))
 
 
 

@@ -3,6 +3,7 @@ date: '2008-11-07 00:17:43'
 layout: post
 slug: sparks-fly-at-web-20-panel
 status: publish
+ref: http://www.irishnetworksanfrancisco.com/insf/index.php?option=com_content&task=view&id=38&Itemid=38
 title: Sparks Fly at Web 2.0 Panel
 wordpress_id: '313'
 categories:

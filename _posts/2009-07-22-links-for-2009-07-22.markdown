@@ -3,22 +3,17 @@ date: '2009-07-22 15:07:42'
 layout: post
 slug: links-for-2009-07-22
 status: publish
+ref: http://groups.google.com/group/nosql-discussion/browse_thread/thread/9764a769ce0f0a46?hl=en
 title: A useful guide for how to structure a technical article.
 wordpress_id: '411'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Guidelines for writing a successful technical article -  NOSQL |  Google Groups](http://groups.google.com/group/nosql-discussion/browse_thread/thread/9764a769ce0f0a46?hl=en)
 
 
-[Guidelines for writing a successful technical article -  NOSQL |  Google Groups](http://groups.google.com/group/nosql-discussion/browse_thread/thread/9764a769ce0f0a46?hl=en)
-
-
-A useful guide for how to structure a technical article.
-
-
-(tags: [language](http://delicious.com/eob/language))
+A useful guide for how to structure a technical article. (tags: [language](http://delicious.com/eob/language))
 
 
 

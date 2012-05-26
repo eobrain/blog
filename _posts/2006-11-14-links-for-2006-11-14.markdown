@@ -3,6 +3,7 @@ date: '2006-11-14 16:33:11'
 layout: post
 slug: links-for-2006-11-14
 status: publish
+ref: http://netomer.de/flickrtools/inspector/?PHPSESSID=5ff58b2e511b599e8841bd6c6ef943a7&search_user=Tolka+Rover
 title: links for 2006-11-14
 wordpress_id: '133'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[flickrInspector | http://netomer.de/flickrtools/](http://netomer.de/flickrtools/inspector/?PHPSESSID=5ff58b2e511b599e8841bd6c6ef943a7&search_user=Tolka+Rover)
+  * [flickrInspector | http://netomer.de/flickrtools/](http://netomer.de/flickrtools/inspector/?PHPSESSID=5ff58b2e511b599e8841bd6c6ef943a7&search_user=Tolka+Rover)
 
 
-		
-
-Analysis of my Flickr account
 
 
-		
-
-(tags: [me](http://del.icio.us/eob/me) [photo](http://del.icio.us/eob/photo))
+Analysis of my Flickr account (tags: [me](http://del.icio.us/eob/me) [photo](http://del.icio.us/eob/photo))
 
 
-	
+
 
 
 

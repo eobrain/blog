@@ -3,6 +3,7 @@ date: '2011-03-03 16:38:17'
 layout: post
 slug: links-for-03042011-a-m
 status: publish
+ref: http://matt.might.net/articles/by-example-continuation-passing-style
 title: 'An explanation of continuation passing style and how you might use it in JavaScript. '
 wordpress_id: '1152'
 categories:

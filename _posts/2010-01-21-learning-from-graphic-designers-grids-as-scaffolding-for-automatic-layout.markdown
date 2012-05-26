@@ -3,6 +3,7 @@ date: '2010-01-21 14:40:24'
 layout: post
 slug: learning-from-graphic-designers-grids-as-scaffolding-for-automatic-layout
 status: publish
+ref: http://www.slideshare.net/eobrain/learning-from-graphic-designers-grids-as-scaffolding-for-automatic-layout
 title: Learning from Graphic Designers -- Grids as Scaffolding for Automatic Layout
 wordpress_id: '626'
 categories:

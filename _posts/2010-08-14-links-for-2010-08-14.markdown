@@ -3,6 +3,7 @@ date: '2010-08-14 15:04:04'
 layout: post
 slug: links-for-2010-08-14
 status: publish
+ref: http://studio.html5rocks.com/
 title: Some quite impressive examples of what you can do in HTML5 -- easy to copy
   and adapt.  (via @susiewee)
 wordpress_id: '921'
@@ -10,16 +11,10 @@ categories:
 - Programming
 ---
 
-  *
+  * [HTML5 Studio](http://studio.html5rocks.com/)
 
 
-[HTML5 Studio](http://studio.html5rocks.com/)
-
-
-Some quite impressive examples of what you can do in HTML5 -- easy to copy and adapt.  (via @susiewee)
-
-
-(tags: [html5](http://delicious.com/eob/html5) [web](http://delicious.com/eob/web) [tutorial](http://delicious.com/eob/tutorial))
+Some quite impressive examples of what you can do in HTML5 -- easy to copy and adapt.  (via @susiewee) (tags: [html5](http://delicious.com/eob/html5) [web](http://delicious.com/eob/web) [tutorial](http://delicious.com/eob/tutorial))
 
 
 

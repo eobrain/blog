@@ -3,6 +3,7 @@ date: '2008-03-29 13:49:25'
 layout: post
 slug: hp-labs-new-products-in-the-works-at-hp-labs
 status: publish
+ref: http://www.siliconvalley.com/
 title: HP LABS -- New Products in the Works at HP LABS
 wordpress_id: '263'
 categories:

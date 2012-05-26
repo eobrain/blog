@@ -3,6 +3,7 @@ date: '2010-05-22 15:02:39'
 layout: post
 slug: links-for-2010-05-22
 status: publish
+ref: http://www.movable-type.co.uk/scripts/latlong.html
 title: Handy code snippets for calculating distances between two lat/lon points on
   the Earth.
 wordpress_id: '854'
@@ -10,16 +11,10 @@ categories:
 - Programming
 ---
 
-  *
+  * [Calculate distance and bearing between two Latitude/Longitude points using Haversine formula in JavaScript](http://www.movable-type.co.uk/scripts/latlong.html)
 
 
-[Calculate distance and bearing between two Latitude/Longitude points using Haversine formula in JavaScript](http://www.movable-type.co.uk/scripts/latlong.html)
-
-
-Handy code snippets for calculating distances between two lat/lon points on the Earth.
-
-
-(tags: [javascript](http://delicious.com/eob/javascript) [reference](http://delicious.com/eob/reference) [tutorial](http://delicious.com/eob/tutorial) [programming](http://delicious.com/eob/programming) [mapping](http://delicious.com/eob/mapping))
+Handy code snippets for calculating distances between two lat/lon points on the Earth. (tags: [javascript](http://delicious.com/eob/javascript) [reference](http://delicious.com/eob/reference) [tutorial](http://delicious.com/eob/tutorial) [programming](http://delicious.com/eob/programming) [mapping](http://delicious.com/eob/mapping))
 
 
 

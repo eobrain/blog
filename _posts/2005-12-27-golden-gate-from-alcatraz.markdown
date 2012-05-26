@@ -3,6 +3,7 @@ date: '2005-12-27 16:31:54'
 layout: post
 slug: golden-gate-from-alcatraz
 status: publish
+ref: http://www.flickr.com/photos/eob/78717446/
 title: Golden Gate from Alcatraz
 wordpress_id: '91'
 categories:

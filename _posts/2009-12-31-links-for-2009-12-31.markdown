@@ -3,22 +3,17 @@ date: '2009-12-31 15:01:27'
 layout: post
 slug: links-for-2009-12-31
 status: publish
+ref: http://www.wired.com/gadgetlab/2009/12/blio-ray-kurzweil-book/
 title: Another contender in the ebook space
 wordpress_id: '603'
 categories:
 - Consumer Media
 ---
 
-  *
+  * [Singularity Proponent Ray Kurzweil Reinvents the Book, Again | Gadget Lab | Wired.com](http://www.wired.com/gadgetlab/2009/12/blio-ray-kurzweil-book/)
 
 
-[Singularity Proponent Ray Kurzweil Reinvents the Book, Again | Gadget Lab | Wired.com](http://www.wired.com/gadgetlab/2009/12/blio-ray-kurzweil-book/)
-
-
-Another contender in the ebook space.
-
-
-(tags: [ebook](http://delicious.com/eob/ebook))
+Another contender in the ebook space. (tags: [ebook](http://delicious.com/eob/ebook))
 
 
 

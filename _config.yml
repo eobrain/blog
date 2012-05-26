@@ -4,6 +4,8 @@ permalink: date
 pygments: true
 exclude: ['Rakefile', 'README.md', 'config.rb']
 markdown: rdiscount
+lsi:      false
+paginate: 50
 
 # configuration required for some pages
 

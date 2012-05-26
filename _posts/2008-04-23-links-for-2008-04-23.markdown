@@ -3,6 +3,7 @@ date: '2008-04-23 16:37:54'
 layout: post
 slug: links-for-2008-04-23
 status: publish
+ref: http://www.slideshare.net/Blaine/scaling-twitter/
 title: links for 2008-04-23
 wordpress_id: '272'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Scaling Twitter » SlideShare](http://www.slideshare.net/Blaine/scaling-twitter/)
+  * [Scaling Twitter » SlideShare](http://www.slideshare.net/Blaine/scaling-twitter/)
 
 
-		
-
-How to scale in Ruby on rails (Though see also the uncharitably titled http://www.techcrunch.com/2008/04/23/amateur-hour-over-at-twitter/ which casts this presentation in a different light.)
 
 
-		
-
-(tags: [architecture](http://del.icio.us/eob/architecture) [scaling](http://del.icio.us/eob/scaling) [rubyonrails](http://del.icio.us/eob/rubyonrails) [ruby](http://del.icio.us/eob/ruby) [programming](http://del.icio.us/eob/programming) [deployment](http://del.icio.us/eob/deployment) [database](http://del.icio.us/eob/database))
+How to scale in Ruby on rails (Though see also the uncharitably titled http://www.techcrunch.com/2008/04/23/amateur-hour-over-at-twitter/ which casts this presentation in a different light.) (tags: [architecture](http://del.icio.us/eob/architecture) [scaling](http://del.icio.us/eob/scaling) [rubyonrails](http://del.icio.us/eob/rubyonrails) [ruby](http://del.icio.us/eob/ruby) [programming](http://del.icio.us/eob/programming) [deployment](http://del.icio.us/eob/deployment) [database](http://del.icio.us/eob/database))
 
 
-	
+
 
 
 

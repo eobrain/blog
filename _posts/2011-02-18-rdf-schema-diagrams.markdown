@@ -3,6 +3,7 @@ date: '2011-02-18 14:08:25'
 layout: post
 slug: rdf-schema-diagrams
 status: publish
+ref: http://www.w3.org/2001/sw/RDFCore/Schema/200203/#ch_appendix_figs
 title: RDF Schema Diagrams
 wordpress_id: '1120'
 categories:

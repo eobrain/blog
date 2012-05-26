@@ -3,6 +3,7 @@ date: '2010-02-14 13:05:58'
 layout: post
 slug: debunking-airnergy-with-some-back-of-the-envelope-calculations
 status: publish
+ref: http://www.engadget.com/2010/01/09/airnergy-wifi-power-system-gives-rca-a-reason-to-exist-video/
 title: Debunking Airnergy with some back-of-the-envelope calculations
 wordpress_id: '738'
 categories:

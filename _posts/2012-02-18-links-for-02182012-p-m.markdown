@@ -3,6 +3,7 @@ date: '2012-02-18 04:32:32'
 layout: post
 slug: links-for-02182012-p-m
 status: publish
+ref: http://jaydonnell.com/blog/2011/10/21/collaborative-filtering-using-jruby-and-mahout
 title: Nice simple and complete example of how to implement collaborative filtering
   using the Mahout Java library.
 wordpress_id: '6326'

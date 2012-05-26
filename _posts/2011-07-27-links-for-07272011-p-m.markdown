@@ -3,6 +3,7 @@ date: '2011-07-27 04:31:53'
 layout: post
 slug: links-for-07272011-p-m
 status: publish
+ref: http://wwwnc.cdc.gov/travel/destinations/india.htm
 title: Health Information for Travelers to India - Travelers' Health - CDC
 wordpress_id: '1229'
 categories:

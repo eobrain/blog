@@ -3,6 +3,7 @@ date: '2012-01-16 04:32:03'
 layout: post
 slug: links-for-01162012-p-m
 status: publish
+ref: http://pivotallabs.com/users/jdean/blog/articles/1419-building-a-fast-lightweight-rest-service-with-rails-3-
 title: Some useful tips for optimizing Rails for a simple JSON REST service
 wordpress_id: '2142'
 categories:

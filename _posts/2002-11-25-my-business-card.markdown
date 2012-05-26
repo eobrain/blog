@@ -3,6 +3,7 @@ date: '2002-11-25 17:10:36'
 layout: post
 slug: my-business-card
 status: publish
+ref: https://ecardfile.com/id/eob
 title: My Business Card
 wordpress_id: '6'
 ---

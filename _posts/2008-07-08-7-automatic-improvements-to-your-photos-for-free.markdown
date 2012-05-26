@@ -3,6 +3,7 @@ date: '2008-07-08 18:52:45'
 layout: post
 slug: 7-automatic-improvements-to-your-photos-for-free
 status: publish
+ref: http://www.communities.hp.com/online/blogs/labsblog/archive/2008/07/09/free-automatic-photo-enhancement.aspx
 title: 7 automatic improvements to your photos -- for free
 wordpress_id: '296'
 categories:

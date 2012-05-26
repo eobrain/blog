@@ -3,6 +3,7 @@ date: '2005-06-23 18:55:17'
 layout: post
 slug: object-relational-mapping-tool-list
 status: publish
+ref: http://www.javaskyline.com/database.html
 title: Object-Relational Mapping Tool List
 wordpress_id: '73'
 categories:

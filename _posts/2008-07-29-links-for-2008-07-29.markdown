@@ -3,6 +3,7 @@ date: '2008-07-29 16:32:43'
 layout: post
 slug: links-for-2008-07-29
 status: publish
+ref: http://online.wsj.com/article/SB121625069754060057.html?mod=todays_us_opinion
 title: links for 2008-07-29
 wordpress_id: '297'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[The 3D Internet Will Change How We Live - WSJ.com](http://online.wsj.com/article/SB121625069754060057.html?mod=todays_us_opinion)
+  * [The 3D Internet Will Change How We Live - WSJ.com](http://online.wsj.com/article/SB121625069754060057.html?mod=todays_us_opinion)
 
 
-		
-
-Duranske thinks 3D will be big on the Web.
 
 
-		
-
-(tags: [3d](http://del.icio.us/eob/3d) [web2.0](http://del.icio.us/eob/web2.0) [technology](http://del.icio.us/eob/technology))
+Duranske thinks 3D will be big on the Web. (tags: [3d](http://del.icio.us/eob/3d) [web2.0](http://del.icio.us/eob/web2.0) [technology](http://del.icio.us/eob/technology))
 
 
-	
+
 
 
 

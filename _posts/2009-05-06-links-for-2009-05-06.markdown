@@ -3,19 +3,14 @@ date: '2009-05-06 15:06:12'
 layout: post
 slug: links-for-2009-05-06
 status: publish
+ref: http://java.sun.com/javase/6/docs/api/overview-summary.html
 title: If you are a Java programmer, you need to bookmark this page.
 wordpress_id: '393'
 categories:
 - bookmarks
 ---
 
-  *
-
-
-[Overview (Java Platform SE 6)](http://java.sun.com/javase/6/docs/api/overview-summary.html)
-
-
-(tags: [java](http://delicious.com/eob/java) [reference](http://delicious.com/eob/reference) [programming](http://delicious.com/eob/programming) [daily](http://delicious.com/eob/daily))
+  * [Overview (Java Platform SE 6)](http://java.sun.com/javase/6/docs/api/overview-summary.html) (tags: [java](http://delicious.com/eob/java) [reference](http://delicious.com/eob/reference) [programming](http://delicious.com/eob/programming) [daily](http://delicious.com/eob/daily))
 
 
 

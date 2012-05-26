@@ -3,6 +3,7 @@ date: '2004-08-09 23:35:46'
 layout: post
 slug: in-defense-of-powerpoint
 status: publish
+ref: http://www.computer.org/computer/homepage/0704/profession/index.htm
 title: In Defense of PowerPoint
 wordpress_id: '40'
 ---

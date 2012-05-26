@@ -3,6 +3,7 @@ date: '2012-02-05 04:31:46'
 layout: post
 slug: links-for-02052012-p-m
 status: publish
+ref: http://www.coffeelint.org
 title: It is easier to write clean code in Coffeescript than in JavaScript, but still
   it is good to check that you are not doing anything stupid.
 wordpress_id: '5241'

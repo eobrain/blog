@@ -3,6 +3,7 @@ date: '2007-03-02 16:21:26'
 layout: post
 slug: links-for-2007-03-02
 status: publish
+ref: http://www.mingw.org/mingwfaq.shtml#faq-msvcdll
 title: links for 2007-03-02
 wordpress_id: '180'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[MinGW - Frequently Asked Questions](http://www.mingw.org/mingwfaq.shtml#faq-msvcdll)
+  * [MinGW - Frequently Asked Questions](http://www.mingw.org/mingwfaq.shtml#faq-msvcdll)
 
 
-		
-
-How to call a Microsoft-compiled DLL from MinGW
 
 
-		
-
-(tags: [windows](http://del.icio.us/eob/windows) [programming](http://del.icio.us/eob/programming) [c++](http://del.icio.us/eob/c++))
+How to call a Microsoft-compiled DLL from MinGW (tags: [windows](http://del.icio.us/eob/windows) [programming](http://del.icio.us/eob/programming) [c++](http://del.icio.us/eob/c++))
 
 
-	
+
 
 
 

@@ -3,6 +3,7 @@ date: '2011-07-20 04:31:58'
 layout: post
 slug: links-for-07202011-p-m
 status: publish
+ref: http://ejohn.org/blog/javascript-micro-templating
 title: Some nice JavaScript code for rendering  JSON onto HTML using a template cloaked
   in a bad-data-type script element.
 wordpress_id: '1228'

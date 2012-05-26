@@ -3,6 +3,7 @@ date: '2010-12-23 09:17:41'
 layout: post
 slug: webos-shortcut-bullseye-means-hold-gesture-area-until-gesture-light-glows
 status: publish
+ref: http://www.404techsupport.com/2009/07/02/palm-pre-shortcuts
 title: WebOS shortcut "bullseye" means hold gesture area until gesture light glows.
 wordpress_id: '1064'
 categories:

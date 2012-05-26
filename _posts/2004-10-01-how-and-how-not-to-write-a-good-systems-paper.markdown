@@ -3,6 +3,7 @@ date: '2004-10-01 18:49:40'
 layout: post
 slug: how-and-how-not-to-write-a-good-systems-paper
 status: publish
+ref: http://www.usenix.org/events/samples/submit/advice.html
 title: ' How (and How Not) to Write a Good Systems Paper'
 wordpress_id: '46'
 ---

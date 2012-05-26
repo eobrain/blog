@@ -3,6 +3,7 @@ date: '2008-05-22 16:32:43'
 layout: post
 slug: links-for-2008-05-22
 status: publish
+ref: http://www.icmc.usp.br/~doceng08/?Call_for_Papers
 title: links for 2008-05-22
 wordpress_id: '285'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[DocEng'08 - Call for Papers](http://www.icmc.usp.br/~doceng08/?Call_for_Papers)
+  * [DocEng'08 - Call for Papers](http://www.icmc.usp.br/~doceng08/?Call_for_Papers)
 
 
-		
-
-Possible place to submit our work.
 
 
-		
-
-(tags: [cfp](http://del.icio.us/eob/cfp))
+Possible place to submit our work. (tags: [cfp](http://del.icio.us/eob/cfp))
 
 
-	
+
 
 
 

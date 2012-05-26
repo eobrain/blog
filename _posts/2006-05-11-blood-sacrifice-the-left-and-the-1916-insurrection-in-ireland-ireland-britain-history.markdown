@@ -3,6 +3,7 @@ date: '2006-05-11 20:05:00'
 layout: post
 slug: blood-sacrifice-the-left-and-the-1916-insurrection-in-ireland-ireland-britain-history
 status: publish
+ref: http://www.anarkismo.net/newswire.php?story_id=2937
 title: Blood sacrifice, the left and the 1916 insurrection in Ireland - Ireland /
   Britain History
 wordpress_id: '97'

@@ -3,22 +3,17 @@ date: '2008-09-30 16:03:41'
 layout: post
 slug: links-for-2008-09-30
 status: publish
+ref: http://particletree.com/notebook/automatically-version-your-css-and-javascript-files/
 title: links for 2008-09-30
 wordpress_id: '306'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Particletree  » Automatically Version Your CSS and JavaScript Files](http://particletree.com/notebook/automatically-version-your-css-and-javascript-files/)
 
 
-[Particletree  » Automatically Version Your CSS and JavaScript Files](http://particletree.com/notebook/automatically-version-your-css-and-javascript-files/)
-
-
-Nice implementation in PHP.  I might try to implement the same in Java.  Perhaps as a taglib.
-
-
-(tags: [programming](http://delicious.com/eob/programming) [apache](http://delicious.com/eob/apache) [web](http://delicious.com/eob/web))
+Nice implementation in PHP.  I might try to implement the same in Java.  Perhaps as a taglib. (tags: [programming](http://delicious.com/eob/programming) [apache](http://delicious.com/eob/apache) [web](http://delicious.com/eob/web))
 
 
 

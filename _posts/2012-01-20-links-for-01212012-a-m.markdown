@@ -3,6 +3,7 @@ date: '2012-01-20 16:37:55'
 layout: post
 slug: links-for-01212012-a-m
 status: publish
+ref: http://code.google.com/p/boilerpipe
 title: Java library to find main text from web pages
 wordpress_id: '2813'
 categories:

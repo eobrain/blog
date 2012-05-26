@@ -3,22 +3,17 @@ date: '2010-03-27 15:03:09'
 layout: post
 slug: links-for-2010-03-27
 status: publish
+ref: http://m.sixrevisions.com/web-development/html5-iphone-app/
 title: Handy step-by-step tutorial on using new HTML5, with and iPhone specific features
 wordpress_id: '822'
 categories:
 - Programming
 ---
 
-  *
+  * [How to Make an HTML5 iPhone App](http://m.sixrevisions.com/web-development/html5-iphone-app/)
 
 
-[How to Make an HTML5 iPhone App](http://m.sixrevisions.com/web-development/html5-iphone-app/)
-
-
-Handy step-by-step tutorial on using new HTML5, with and iPhone specific features
-
-
-(tags: [tutorial](http://delicious.com/eob/tutorial) [web](http://delicious.com/eob/web))
+Handy step-by-step tutorial on using new HTML5, with and iPhone specific features (tags: [tutorial](http://delicious.com/eob/tutorial) [web](http://delicious.com/eob/web))
 
 
 

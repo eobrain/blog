@@ -3,6 +3,7 @@ date: '2009-09-30 15:07:39'
 layout: post
 slug: links-for-2009-09-30
 status: publish
+ref: http://ochafik.free.fr/blog/?p=207
 title: Using Scala to make it easy to do parallel/GPU programming.
 wordpress_id: '434'
 categories:
@@ -10,16 +11,10 @@ categories:
 - Programming
 ---
 
-  *
+  * [Ché zOlive  » Blog Archive   » ScalaCL: Reap OpenCL’s benefits without learning its syntax (Scala DSL for transparently parallel computations)](http://ochafik.free.fr/blog/?p=207)
 
 
-[Ché zOlive  » Blog Archive   » ScalaCL: Reap OpenCL’s benefits without learning its syntax (Scala DSL for transparently parallel computations)](http://ochafik.free.fr/blog/?p=207)
-
-
-Using Scala to make it easy to do parallel/GPU programming.
-
-
-(tags: [programming](http://delicious.com/eob/programming) [library](http://delicious.com/eob/library) [graphics](http://delicious.com/eob/graphics) [scala](http://delicious.com/eob/scala))
+Using Scala to make it easy to do parallel/GPU programming. (tags: [programming](http://delicious.com/eob/programming) [library](http://delicious.com/eob/library) [graphics](http://delicious.com/eob/graphics) [scala](http://delicious.com/eob/scala))
 
 
 

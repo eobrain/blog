@@ -10,43 +10,27 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Your Bookmarks on Ma.gnolia](http://ma.gnolia.com/)
+  * [Your Bookmarks on Ma.gnolia](http://ma.gnolia.com/)
 
 
-		
-
-del.icio.us competitor
 
 
-		
-
-(tags: [service](http://del.icio.us/eob/service) [social](http://del.icio.us/eob/social) [web2.0](http://del.icio.us/eob/web2.0))
+del.icio.us competitor (tags: [service](http://del.icio.us/eob/service) [social](http://del.icio.us/eob/social) [web2.0](http://del.icio.us/eob/web2.0))
 
 
-	
-
-	
-  *
-		
-
-[gtd with gmail.pdf (application/pdf Object)](http://spaceagewasteland.com/gtd%20with%20gmail.pdf)
 
 
-		
 
-How to organize your life with gmail tags
-
-
-		
-
-(tags: [tutorial](http://del.icio.us/eob/tutorial))
+  * [gtd with gmail.pdf (application/pdf Object)](http://spaceagewasteland.com/gtd%20with%20gmail.pdf)
 
 
-	
+
+
+How to organize your life with gmail tags (tags: [tutorial](http://del.icio.us/eob/tutorial))
+
+
+
 
 
 

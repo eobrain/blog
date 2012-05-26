@@ -3,6 +3,7 @@ date: '2004-08-08 12:31:45'
 layout: post
 slug: how-to-read-smalltalk-if-you-are-a-java-or-c-programmer
 status: publish
+ref: http://www.squeak.org/
 title: How to read Smalltalk if you are a Java or C++ programmer.
 wordpress_id: '38'
 ---

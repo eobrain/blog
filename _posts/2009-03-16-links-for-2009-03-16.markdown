@@ -3,22 +3,17 @@ date: '2009-03-16 15:05:44'
 layout: post
 slug: links-for-2009-03-16
 status: publish
+ref: http://lists.scribus.info/pipermail/scribus/2007-December/023133.html
 title: links for 2009-03-16
 wordpress_id: '375'
 categories:
 - bookmarks
 ---
 
-  *
+  * [[Scribus] Differences between startup script and regular script](http://lists.scribus.info/pipermail/scribus/2007-December/023133.html)
 
 
-[[Scribus] Differences between startup script and regular script](http://lists.scribus.info/pipermail/scribus/2007-December/023133.html)
-
-
-Someone else hitting the same problems I did trying to run an HTTP server from a Scribus startu python script.
-
-
-(tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [layout](http://delicious.com/eob/layout))
+Someone else hitting the same problems I did trying to run an HTTP server from a Scribus startu python script. (tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [layout](http://delicious.com/eob/layout))
 
 
 

@@ -3,6 +3,7 @@ date: '2010-09-25 15:03:35'
 layout: post
 slug: links-for-2010-09-25
 status: publish
+ref: http://www.codestyle.org/servlets/FontStack
 title: A very handy tool for designing, examining, manipulating, and analyzing effectiveness
   of CSS font stacks.
 wordpress_id: '991'
@@ -10,16 +11,10 @@ categories:
 - Programming
 ---
 
-  *
+  * [Code Style: Font stack builder:](http://www.codestyle.org/servlets/FontStack)
 
 
-[Code Style: Font stack builder:](http://www.codestyle.org/servlets/FontStack)
-
-
-A very handy tool for designing, examining, manipulating, and analyzing effectiveness of CSS font stacks.
-
-
-(tags: [css](http://delicious.com/eob/css) [design](http://delicious.com/eob/design) [tool](http://delicious.com/eob/tool) [web](http://delicious.com/eob/web))
+A very handy tool for designing, examining, manipulating, and analyzing effectiveness of CSS font stacks. (tags: [css](http://delicious.com/eob/css) [design](http://delicious.com/eob/design) [tool](http://delicious.com/eob/tool) [web](http://delicious.com/eob/web))
 
 
 

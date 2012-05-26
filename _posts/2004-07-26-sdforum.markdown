@@ -3,6 +3,7 @@ date: '2004-07-26 15:31:21'
 layout: post
 slug: sdforum
 status: publish
+ref: http://www.sdforum.org/SDForum/Templates/Calendar.aspx
 title: SDForum
 wordpress_id: '30'
 ---

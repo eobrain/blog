@@ -3,6 +3,7 @@ date: '2004-12-17 17:25:53'
 layout: post
 slug: a-tedious-explanation-of-the-fstop
 status: publish
+ref: http://www.uscoles.com/fstop.htm
 title: A Tedious Explanation of the f/stop
 wordpress_id: '65'
 categories:

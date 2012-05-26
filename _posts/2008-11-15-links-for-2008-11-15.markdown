@@ -3,22 +3,17 @@ date: '2008-11-15 16:03:11'
 layout: post
 slug: links-for-2008-11-15
 status: publish
+ref: http://code.google.com/p/google-collections/
 title: links for 2008-11-15
 wordpress_id: '322'
 categories:
 - bookmarks
 ---
 
-  *
+  * [google-collections - Google Code](http://code.google.com/p/google-collections/)
 
 
-[google-collections - Google Code](http://code.google.com/p/google-collections/)
-
-
-This library from Google extends the standard collections class in a useful way.
-
-
-(tags: [programming](http://delicious.com/eob/programming) [library](http://delicious.com/eob/library) [java](http://delicious.com/eob/java) [design](http://delicious.com/eob/design) [code](http://delicious.com/eob/code))
+This library from Google extends the standard collections class in a useful way. (tags: [programming](http://delicious.com/eob/programming) [library](http://delicious.com/eob/library) [java](http://delicious.com/eob/java) [design](http://delicious.com/eob/design) [code](http://delicious.com/eob/code))
 
 
 

@@ -3,6 +3,7 @@ date: '2004-06-16 11:30:03'
 layout: post
 slug: control-room
 status: publish
+ref: http://www.salon.com/ent/feature/2004/06/04/control_room/index_np.html
 title: Control Room
 wordpress_id: '22'
 ---

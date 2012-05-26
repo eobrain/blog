@@ -3,22 +3,17 @@ date: '2009-01-14 15:07:04'
 layout: post
 slug: links-for-2009-01-14
 status: publish
+ref: http://www.mountaingoatsoftware.com/article_view/27-advantages-of-user-stories-for-requirements
 title: links for 2009-01-14
 wordpress_id: '351'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Mountain Goat Software - Advantages of User Stories for Requirements](http://www.mountaingoatsoftware.com/article_view/27-advantages-of-user-stories-for-requirements)
 
 
-[Mountain Goat Software - Advantages of User Stories for Requirements](http://www.mountaingoatsoftware.com/article_view/27-advantages-of-user-stories-for-requirements)
-
-
-How user stories are different from use cases and requirements statements.
-
-
-(tags: [programming](http://delicious.com/eob/programming) [design](http://delicious.com/eob/design) [agile](http://delicious.com/eob/agile))
+How user stories are different from use cases and requirements statements. (tags: [programming](http://delicious.com/eob/programming) [design](http://delicious.com/eob/design) [agile](http://delicious.com/eob/agile))
 
 
 

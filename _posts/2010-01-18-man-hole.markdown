@@ -3,6 +3,7 @@ date: '2010-01-18 22:56:01'
 layout: post
 slug: man-hole
 status: publish
+ref: http://www.msnbc.msn.com/id/34261690/displaymode/1247/?beginSlide=1
 title: Man hole
 wordpress_id: '620'
 categories:

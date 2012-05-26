@@ -3,6 +3,7 @@ date: '2003-02-05 12:47:55'
 layout: post
 slug: trinity-college-prof-in-our-space
 status: publish
+ref: http://www.dsg.cs.tcd.ie/~vjcahill/
 title: Trinity College Prof In Our Space
 wordpress_id: '10'
 ---

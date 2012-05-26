@@ -3,6 +3,7 @@ date: '2006-12-16 16:24:10'
 layout: post
 slug: links-for-2006-12-16
 status: publish
+ref: http://readability.online-web-software.com/demo.php
 title: links for 2006-12-16
 wordpress_id: '150'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Online Readability Software](http://readability.online-web-software.com/demo.php)
+  * [Online Readability Software](http://readability.online-web-software.com/demo.php)
 
 
-		
-
-Handy tool for evaluating the readibility of ones writing.
 
 
-		
-
-(tags: [service](http://del.icio.us/eob/service))
+Handy tool for evaluating the readibility of ones writing. (tags: [service](http://del.icio.us/eob/service))
 
 
-	
+
 
 
 

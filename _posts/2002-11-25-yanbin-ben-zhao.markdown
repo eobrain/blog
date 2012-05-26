@@ -3,6 +3,7 @@ date: '2002-11-25 17:17:17'
 layout: post
 slug: yanbin-ben-zhao
 status: publish
+ref: http://www.cs.berkeley.edu/~ravenben/stuff/cv.html
 title: Yanbin Ben Zhao
 wordpress_id: '7'
 ---

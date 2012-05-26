@@ -9,160 +9,82 @@ categories:
 - bookmarks
 ---
 
-  *
+  * [Cassandra: Open Source Bigtable + Dynamo](http://assets.en.oreilly.com/1/event/27/Cassandra_%20Open%20Source%20Bigtable%20+%20Dynamo%20Presentation.pdf)
 
 
-[Cassandra: Open Source Bigtable + Dynamo](http://assets.en.oreilly.com/1/event/27/Cassandra_%20Open%20Source%20Bigtable%20+%20Dynamo%20Presentation.pdf)
+One of the current crop of "nosql" databases. (tags: [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling) [database](http://delicious.com/eob/database))
 
 
-One of the current crop of "nosql" databases.
+  * [Even Faster Websites](http://assets.en.oreilly.com/1/event/27/Even%20Faster%20Websites%20Presentation.ppt)
 
 
-(tags: [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling) [database](http://delicious.com/eob/database))
+Front-end ways to make web sites faster (or appear to be faster) (tags: [web2.0](http://delicious.com/eob/web2.0) [webservices](http://delicious.com/eob/webservices) [architecture](http://delicious.com/eob/architecture) [programming](http://delicious.com/eob/programming))
 
 
-  *
+  * [What Every Developer Should Know About Database Scalability](http://assets.en.oreilly.com/1/event/27/What%20Every%20Developer%20Should%20Know%20About%20Database%20Scalability%20Presentation.pdf)
 
 
-[Even Faster Websites](http://assets.en.oreilly.com/1/event/27/Even%20Faster%20Websites%20Presentation.ppt)
+Nice overview of scaling issues for database, both relational and non-relational (tags: [database](http://delicious.com/eob/database) [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling))
 
 
-Front-end ways to make web sites faster (or appear to be faster)
+  * [Gearman](http://gearman.org/)
 
 
-(tags: [web2.0](http://delicious.com/eob/web2.0) [webservices](http://delicious.com/eob/webservices) [architecture](http://delicious.com/eob/architecture) [programming](http://delicious.com/eob/programming))
+A scalable distributed compute framework used at LiveJournal/SixApart (tags: [programming](http://delicious.com/eob/programming) [database](http://delicious.com/eob/database) [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling))
 
 
-  *
+  * [cheat sheet for scala syntax](http://anyall.org/scalacheat/)
 
 
-[What Every Developer Should Know About Database Scalability](http://assets.en.oreilly.com/1/event/27/What%20Every%20Developer%20Should%20Know%20About%20Database%20Scalability%20Presentation.pdf)
+Handy reference, particularly to some of the useful terse syntax, such as how to use the underscore symbol. (tags: [scala](http://delicious.com/eob/scala) [reference](http://delicious.com/eob/reference) [programming](http://delicious.com/eob/programming) [code](http://delicious.com/eob/code))
 
 
-Nice overview of scaling issues for database, both relational and non-relational
+  * [Instant Color Schemes](http://www.gpeters.com/color/color-schemes.php)
 
 
-(tags: [database](http://delicious.com/eob/database) [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling))
+Another twist on generating palettes by gong from search-term to images to a palette. (tags: [photo](http://delicious.com/eob/photo) [tool](http://delicious.com/eob/tool) [graphics](http://delicious.com/eob/graphics) [webservices](http://delicious.com/eob/webservices) [webpageprinting](http://delicious.com/eob/webpageprinting) [design](http://delicious.com/eob/design))
 
 
-  *
+  * [Whats Its Color: Find the complementary and primary color of any image](http://whatsitscolor.com/)
 
 
-[Gearman](http://gearman.org/)
+Color analysis of an image. (tags: [photo](http://delicious.com/eob/photo) [tool](http://delicious.com/eob/tool) [graphics](http://delicious.com/eob/graphics) [webservices](http://delicious.com/eob/webservices) [webpageprinting](http://delicious.com/eob/webpageprinting) [design](http://delicious.com/eob/design))
 
 
-A scalable distributed compute framework used at LiveJournal/SixApart
+  * [Palette Generator: Automagically create a palette from any photo.](http://bighugelabs.com/colors.php)
 
 
-(tags: [programming](http://delicious.com/eob/programming) [database](http://delicious.com/eob/database) [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling))
+Yet another image-to-palette tool. (tags: [photo](http://delicious.com/eob/photo) [tool](http://delicious.com/eob/tool) [graphics](http://delicious.com/eob/graphics) [webservices](http://delicious.com/eob/webservices) [webpageprinting](http://delicious.com/eob/webpageprinting) [design](http://delicious.com/eob/design))
 
 
-  *
+  * [Color Palette Generator](http://www.degraeve.com/color-palette/)
 
 
-[cheat sheet for scala syntax](http://anyall.org/scalacheat/)
+Another tool fro extracting palettes from images. (tags: [photo](http://delicious.com/eob/photo) [tool](http://delicious.com/eob/tool) [graphics](http://delicious.com/eob/graphics) [webservices](http://delicious.com/eob/webservices) [webpageprinting](http://delicious.com/eob/webpageprinting) [design](http://delicious.com/eob/design))
 
 
-Handy reference, particularly to some of the useful terse syntax, such as how to use the underscore symbol.
+  * [colr.org](http://www.colr.org/)
 
 
-(tags: [scala](http://delicious.com/eob/scala) [reference](http://delicious.com/eob/reference) [programming](http://delicious.com/eob/programming) [code](http://delicious.com/eob/code))
+Generate color palette from an image or a website. (tags: [photo](http://delicious.com/eob/photo) [tool](http://delicious.com/eob/tool) [graphics](http://delicious.com/eob/graphics) [webservices](http://delicious.com/eob/webservices) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-  *
+  * [Color + Design Blog / The Müller Formula (or: Predictable Color Preferences) by COLOURlovers](http://www.colourlovers.com/blog/2007/09/02/the-muller-formula-or-predictable-color-preferences/)
 
 
-[Instant Color Schemes](http://www.gpeters.com/color/color-schemes.php)
+One theory of what determines pleasing combinations of colors. (tags: [design](http://delicious.com/eob/design) [graphics](http://delicious.com/eob/graphics) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-Another twist on generating palettes by gong from search-term to images to a palette.
+  * [AS3 Colour class for extracting the color palette from a BitmapData image or photo, ColourUtils.as](http://blog.soulwire.co.uk/flash/actionscript-3/colourutils-bitmapdata-extract-colour-palette/)
 
 
-(tags: [photo](http://delicious.com/eob/photo) [tool](http://delicious.com/eob/tool) [graphics](http://delicious.com/eob/graphics) [webservices](http://delicious.com/eob/webservices) [webpageprinting](http://delicious.com/eob/webpageprinting) [design](http://delicious.com/eob/design))
+An algorithm to determine the palette of an image. (tags: [programming](http://delicious.com/eob/programming) [design](http://delicious.com/eob/design) [code](http://delicious.com/eob/code) [flash](http://delicious.com/eob/flash) [imaging](http://delicious.com/eob/imaging) [graphics](http://delicious.com/eob/graphics) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-  *
+  * [Colors Palette Generator: Extract Colors From An Image](http://www.makeuseof.com/dir/colors-palette-generator/)
 
 
-[Whats Its Color: Find the complementary and primary color of any image](http://whatsitscolor.com/)
-
-
-Color analysis of an image.
-
-
-(tags: [photo](http://delicious.com/eob/photo) [tool](http://delicious.com/eob/tool) [graphics](http://delicious.com/eob/graphics) [webservices](http://delicious.com/eob/webservices) [webpageprinting](http://delicious.com/eob/webpageprinting) [design](http://delicious.com/eob/design))
-
-
-  *
-
-
-[Palette Generator: Automagically create a palette from any photo.](http://bighugelabs.com/colors.php)
-
-
-Yet another image-to-palette tool.
-
-
-(tags: [photo](http://delicious.com/eob/photo) [tool](http://delicious.com/eob/tool) [graphics](http://delicious.com/eob/graphics) [webservices](http://delicious.com/eob/webservices) [webpageprinting](http://delicious.com/eob/webpageprinting) [design](http://delicious.com/eob/design))
-
-
-  *
-
-
-[Color Palette Generator](http://www.degraeve.com/color-palette/)
-
-
-Another tool fro extracting palettes from images.
-
-
-(tags: [photo](http://delicious.com/eob/photo) [tool](http://delicious.com/eob/tool) [graphics](http://delicious.com/eob/graphics) [webservices](http://delicious.com/eob/webservices) [webpageprinting](http://delicious.com/eob/webpageprinting) [design](http://delicious.com/eob/design))
-
-
-  *
-
-
-[colr.org](http://www.colr.org/)
-
-
-Generate color palette from an image or a website.
-
-
-(tags: [photo](http://delicious.com/eob/photo) [tool](http://delicious.com/eob/tool) [graphics](http://delicious.com/eob/graphics) [webservices](http://delicious.com/eob/webservices) [webpageprinting](http://delicious.com/eob/webpageprinting))
-
-
-  *
-
-
-[Color + Design Blog / The Müller Formula (or: Predictable Color Preferences) by COLOURlovers](http://www.colourlovers.com/blog/2007/09/02/the-muller-formula-or-predictable-color-preferences/)
-
-
-One theory of what determines pleasing combinations of colors.
-
-
-(tags: [design](http://delicious.com/eob/design) [graphics](http://delicious.com/eob/graphics) [webpageprinting](http://delicious.com/eob/webpageprinting))
-
-
-  *
-
-
-[AS3 Colour class for extracting the color palette from a BitmapData image or photo, ColourUtils.as](http://blog.soulwire.co.uk/flash/actionscript-3/colourutils-bitmapdata-extract-colour-palette/)
-
-
-An algorithm to determine the palette of an image.
-
-
-(tags: [programming](http://delicious.com/eob/programming) [design](http://delicious.com/eob/design) [code](http://delicious.com/eob/code) [flash](http://delicious.com/eob/flash) [imaging](http://delicious.com/eob/imaging) [graphics](http://delicious.com/eob/graphics) [webpageprinting](http://delicious.com/eob/webpageprinting))
-
-
-  *
-
-
-[Colors Palette Generator: Extract Colors From An Image](http://www.makeuseof.com/dir/colors-palette-generator/)
-
-
-A service for extracting a color palette from an image.
-
-
-(tags: [imaging](http://delicious.com/eob/imaging) [graphics](http://delicious.com/eob/graphics) [webservices](http://delicious.com/eob/webservices) [webpageprinting](http://delicious.com/eob/webpageprinting))
+A service for extracting a color palette from an image. (tags: [imaging](http://delicious.com/eob/imaging) [graphics](http://delicious.com/eob/graphics) [webservices](http://delicious.com/eob/webservices) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
 

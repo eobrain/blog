@@ -3,6 +3,7 @@ date: '2006-04-23 17:03:33'
 layout: post
 slug: san-francisco-airport
 status: publish
+ref: http://www.flickr.com/photos/eob/134796112/
 title: San Francisco Airport
 wordpress_id: '94'
 categories:

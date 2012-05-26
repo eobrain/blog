@@ -3,6 +3,7 @@ date: '2005-04-14 11:28:15'
 layout: post
 slug: private-members-in-javascript
 status: publish
+ref: http://www.crockford.com/javascript/private.html
 title: Private Members in JavaScript
 wordpress_id: '70'
 categories:

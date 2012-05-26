@@ -36,7 +36,18 @@
         <a href="/"><h1>{{ site.title }}</h1></a>
       </div>
       <div id="body">
-        {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+        {% if page.title %}
+        <h1>
+          {{ page.title }}
+          {% if page.ref %}
+          <div>
+            <img 
+               src="http://play.webthunk.com/representativeimage.function?webpage={{ page.ref | cgi_escape }}"
+               />
+            </div>
+          {% endif %}
+        </h1>
+        {% endif %}
         {{ content }}
       </div>
     </div>
@@ -45,7 +56,7 @@
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
   </script>
   <!--[if lt IE 9]>
-    <script src="js/ie-map.js"></script>
+    <script src="/js/ie-map.js"></script>
   <![endif]-->
-  <script src="js/eob.js"></script>
+  <script src="/js/eob.js"></script>
 </html>

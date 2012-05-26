@@ -3,6 +3,7 @@ date: '2009-10-12 15:04:58'
 layout: post
 slug: links-for-2009-10-12
 status: publish
+ref: http://phonegap.com/
 title: How to make native-looking mobile web apps that can get location information
   and respond to the accelerometer.
 wordpress_id: '440'
@@ -10,16 +11,10 @@ categories:
 - Programming
 ---
 
-  *
+  * [PhoneGap       | Cross platform mobile framework](http://phonegap.com/)
 
 
-[PhoneGap       | Cross platform mobile framework](http://phonegap.com/)
-
-
-How to make native-looking mobile web apps that can get location information and respond to the accelerometer.
-
-
-(tags: [programming](http://delicious.com/eob/programming) [web2.0](http://delicious.com/eob/web2.0) [javascript](http://delicious.com/eob/javascript) [library](http://delicious.com/eob/library) [web](http://delicious.com/eob/web) [ajax](http://delicious.com/eob/ajax) [css](http://delicious.com/eob/css))
+How to make native-looking mobile web apps that can get location information and respond to the accelerometer. (tags: [programming](http://delicious.com/eob/programming) [web2.0](http://delicious.com/eob/web2.0) [javascript](http://delicious.com/eob/javascript) [library](http://delicious.com/eob/library) [web](http://delicious.com/eob/web) [ajax](http://delicious.com/eob/ajax) [css](http://delicious.com/eob/css))
 
 
 

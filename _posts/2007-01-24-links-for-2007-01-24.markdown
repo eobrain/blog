@@ -3,6 +3,7 @@ date: '2007-01-24 16:24:50'
 layout: post
 slug: links-for-2007-01-24
 status: publish
+ref: http://en.wikipedia.org/wiki/Scale-invariant_feature_transform
 title: links for 2007-01-24
 wordpress_id: '165'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Scale-invariant feature transform - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Scale-invariant_feature_transform)
+  * [Scale-invariant feature transform - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Scale-invariant_feature_transform)
 
 
-		
-
-Popular algorithm for characterizing an image as a 128-dimensional vector.
 
 
-		
-
-(tags: [algorithm](http://del.icio.us/eob/algorithm) [graphics](http://del.icio.us/eob/graphics) [programming](http://del.icio.us/eob/programming) [photo](http://del.icio.us/eob/photo))
+Popular algorithm for characterizing an image as a 128-dimensional vector. (tags: [algorithm](http://del.icio.us/eob/algorithm) [graphics](http://del.icio.us/eob/graphics) [programming](http://del.icio.us/eob/programming) [photo](http://del.icio.us/eob/photo))
 
 
-	
+
 
 
 

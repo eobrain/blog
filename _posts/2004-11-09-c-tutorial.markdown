@@ -3,6 +3,7 @@ date: '2004-11-09 19:05:55'
 layout: post
 slug: c-tutorial
 status: publish
+ref: http://www.softsteel.co.uk/tutorials/cSharp/cIndex.html
 title: C# Tutorial
 wordpress_id: '53'
 categories:

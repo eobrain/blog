@@ -3,6 +3,7 @@ date: '2010-05-26 15:09:04'
 layout: post
 slug: links-for-2010-05-26
 status: publish
+ref: http://javascript.crockford.com/private.html
 title: Patterns for creating private, privileged, and public members of a JavaScript
   object.
 wordpress_id: '859'
@@ -10,16 +11,10 @@ categories:
 - Programming
 ---
 
-  *
+  * [Private Members in JavaScript](http://javascript.crockford.com/private.html)
 
 
-[Private Members in JavaScript](http://javascript.crockford.com/private.html)
-
-
-Patterns for creating private, privileged, and public members of a JavaScript object.
-
-
-(tags: [javascript](http://delicious.com/eob/javascript) [code](http://delicious.com/eob/code) [language](http://delicious.com/eob/language) [programming](http://delicious.com/eob/programming) [tutorial](http://delicious.com/eob/tutorial))
+Patterns for creating private, privileged, and public members of a JavaScript object. (tags: [javascript](http://delicious.com/eob/javascript) [code](http://delicious.com/eob/code) [language](http://delicious.com/eob/language) [programming](http://delicious.com/eob/programming) [tutorial](http://delicious.com/eob/tutorial))
 
 
 

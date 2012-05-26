@@ -3,22 +3,17 @@ date: '2009-06-25 15:06:13'
 layout: post
 slug: links-for-2009-06-25
 status: publish
+ref: http://www.archive.org/details/TheCompleteWorksOfFriedrichNietzscheVolVIII
 title: Example book with full page scan TIFF files available
 wordpress_id: '406'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Internet Archive: Free Download: The Complete Works Of Friedrich Nietzsche - Vol. Viii](http://www.archive.org/details/TheCompleteWorksOfFriedrichNietzscheVolVIII)
 
 
-[Internet Archive: Free Download: The Complete Works Of Friedrich Nietzsche - Vol. Viii](http://www.archive.org/details/TheCompleteWorksOfFriedrichNietzscheVolVIII)
-
-
-Example book with full page scan TIFF files available
-
-
-(tags: [books](http://delicious.com/eob/books) [publishing](http://delicious.com/eob/publishing))
+Example book with full page scan TIFF files available (tags: [books](http://delicious.com/eob/books) [publishing](http://delicious.com/eob/publishing))
 
 
 

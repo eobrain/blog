@@ -3,6 +3,7 @@ date: '2007-09-26 16:23:43'
 layout: post
 slug: links-for-2007-09-26
 status: publish
+ref: http://langs.eserver.org/the-awful-german-language.txt
 title: links for 2007-09-26
 wordpress_id: '198'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[The Awful German Language, by Mark Twain](http://langs.eserver.org/the-awful-german-language.txt)
+  * [The Awful German Language, by Mark Twain](http://langs.eserver.org/the-awful-german-language.txt)
 
 
-		
-
-This looks like a fun little essey on the German language.
 
 
-		
-
-(tags: [language](http://del.icio.us/eob/language) [totry](http://del.icio.us/eob/totry))
+This looks like a fun little essey on the German language. (tags: [language](http://del.icio.us/eob/language) [totry](http://del.icio.us/eob/totry))
 
 
-	
+
 
 
 

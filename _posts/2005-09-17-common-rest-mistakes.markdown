@@ -3,6 +3,7 @@ date: '2005-09-17 16:21:50'
 layout: post
 slug: common-rest-mistakes
 status: publish
+ref: http://www.prescod.net/rest/mistakes/
 title: Common REST Mistakes
 wordpress_id: '83'
 categories:

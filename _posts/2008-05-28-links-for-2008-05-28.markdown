@@ -3,6 +3,7 @@ date: '2008-05-28 16:32:19'
 layout: post
 slug: links-for-2008-05-28
 status: publish
+ref: http://mir.aculo.us/2008/5/27/google-served-javascript-libraries
 title: links for 2008-05-28
 wordpress_id: '290'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[mir.aculo.us](http://mir.aculo.us/2008/5/27/google-served-javascript-libraries)
+  * [mir.aculo.us](http://mir.aculo.us/2008/5/27/google-served-javascript-libraries)
 
 
-		
-
-Serving up your favorite Javascript libraries from Google, gzipped and with proper cache headers.
 
 
-		
-
-(tags: [javascript](http://del.icio.us/eob/javascript) [programming](http://del.icio.us/eob/programming) [ajax](http://del.icio.us/eob/ajax))
+Serving up your favorite Javascript libraries from Google, gzipped and with proper cache headers. (tags: [javascript](http://del.icio.us/eob/javascript) [programming](http://del.icio.us/eob/programming) [ajax](http://del.icio.us/eob/ajax))
 
 
-	
+
 
 
 

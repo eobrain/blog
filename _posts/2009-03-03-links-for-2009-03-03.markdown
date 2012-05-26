@@ -3,22 +3,17 @@ date: '2009-03-03 15:06:01'
 layout: post
 slug: links-for-2009-03-03
 status: publish
+ref: http://stripesframework.org/display/stripes/Home
 title: links for 2009-03-03
 wordpress_id: '372'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Home - Stripes - Stripes Framework](http://stripesframework.org/display/stripes/Home)
 
 
-[Home - Stripes - Stripes Framework](http://stripesframework.org/display/stripes/Home)
-
-
-Nice Java framework that seems to be a lot cleaner and easier to use than Struts or Spring.
-
-
-(tags: [programming](http://delicious.com/eob/programming) [web2.0](http://delicious.com/eob/web2.0) [library](http://delicious.com/eob/library) [java](http://delicious.com/eob/java) [ajax](http://delicious.com/eob/ajax) [web](http://delicious.com/eob/web) [architecture](http://delicious.com/eob/architecture) [technology](http://delicious.com/eob/technology) [reference](http://delicious.com/eob/reference))
+Nice Java framework that seems to be a lot cleaner and easier to use than Struts or Spring. (tags: [programming](http://delicious.com/eob/programming) [web2.0](http://delicious.com/eob/web2.0) [library](http://delicious.com/eob/library) [java](http://delicious.com/eob/java) [ajax](http://delicious.com/eob/ajax) [web](http://delicious.com/eob/web) [architecture](http://delicious.com/eob/architecture) [technology](http://delicious.com/eob/technology) [reference](http://delicious.com/eob/reference))
 
 
 

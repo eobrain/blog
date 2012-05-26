@@ -10,62 +10,38 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Kennard Hotel](http://www.kennard.co.uk/index.html)
+  * [Kennard Hotel](http://www.kennard.co.uk/index.html)
 
 
-		
-
-Perhaps stay here on trip to Bristol
 
 
-		
-
-(tags: [travel](http://del.icio.us/eob/travel))
+Perhaps stay here on trip to Bristol (tags: [travel](http://del.icio.us/eob/travel))
 
 
-	
-
-	
-  *
-		
-
-[HP Labs : Worldwide Sites : Bristol, UK : Location](http://www.hpl.hp.com/bristol/directions.html)
 
 
-		
 
-How to get to HP Labs Bristol
-
-
-		
-
-(tags: [travel](http://del.icio.us/eob/travel) [hp](http://del.icio.us/eob/hp))
+  * [HP Labs : Worldwide Sites : Bristol, UK : Location](http://www.hpl.hp.com/bristol/directions.html)
 
 
-	
-
-	
-  *
-		
-
-[Seeframe Live - My Photos](http://www.seeframe.com/Secured/MyPhotos.aspx)
 
 
-		
-
-Managing my eStarling photo frame
+How to get to HP Labs Bristol (tags: [travel](http://del.icio.us/eob/travel) [hp](http://del.icio.us/eob/hp))
 
 
-		
-
-(tags: [my](http://del.icio.us/eob/my) [service](http://del.icio.us/eob/service) [photo](http://del.icio.us/eob/photo))
 
 
-	
+
+  * [Seeframe Live - My Photos](http://www.seeframe.com/Secured/MyPhotos.aspx)
+
+
+
+
+Managing my eStarling photo frame (tags: [my](http://del.icio.us/eob/my) [service](http://del.icio.us/eob/service) [photo](http://del.icio.us/eob/photo))
+
+
+
 
 
 

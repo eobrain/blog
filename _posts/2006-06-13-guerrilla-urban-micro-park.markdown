@@ -3,6 +3,7 @@ date: '2006-06-13 08:45:00'
 layout: post
 slug: guerrilla-urban-micro-park
 status: publish
+ref: http://www.rebargroup.org/projects/parking/
 title: Guerrilla Urban Micro Park
 wordpress_id: '100'
 categories:

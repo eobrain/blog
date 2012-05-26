@@ -3,6 +3,7 @@ date: '2012-01-30 04:32:41'
 layout: post
 slug: links-for-01302012-p-m
 status: publish
+ref: http://codebrief.com/2012/01/the-top-10-javascript-mvc-frameworks-reviewed
 title: 'Very useful comparison of different JavaScript MVC frameworks.  (Spoiler:
   the article concludes Ember.js is best.)'
 wordpress_id: '4512'

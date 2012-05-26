@@ -9,22 +9,13 @@ categories:
 - bookmarks
 ---
 
-  *
+  * [Index of /maven2/](http://repo2.maven.org/maven2/)
 
 
-[Index of /maven2/](http://repo2.maven.org/maven2/)
+One of the main Maven repositories. (tags: [java](http://delicious.com/eob/java) [programming](http://delicious.com/eob/programming))
 
 
-One of the main Maven repositories.
-
-
-(tags: [java](http://delicious.com/eob/java) [programming](http://delicious.com/eob/programming))
-
-
-  *
-
-
-[Index of /repo-snapshots/](http://scala-tools.org/repo-snapshots/)
+  * [Index of /repo-snapshots/](http://scala-tools.org/repo-snapshots/)
 
 
 This is one of the repositories where SBT (Simple Built Tool) looks for external JAR dependencies specified with as an inline declaration in the SBT project definition.

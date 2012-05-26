@@ -3,6 +3,7 @@ date: '2010-05-17 13:34:33'
 layout: post
 slug: nrby-photos-a-palm-webos-app-to-display-nearby-photographs
 status: publish
+ref: http://developer.palm.com/webChannel/index.php?packageid=org.eamonn.nrby
 title: Nrby Photos -- A Palm WebOS App to Display Nearby Photographs
 wordpress_id: '848'
 categories:

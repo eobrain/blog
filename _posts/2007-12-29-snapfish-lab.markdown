@@ -3,6 +3,7 @@ date: '2007-12-29 00:50:43'
 layout: post
 slug: snapfish-lab
 status: publish
+ref: http://www.snapfishlab.com
 title: Snapfish Lab
 wordpress_id: '221'
 categories:

@@ -3,6 +3,7 @@ date: '1999-11-29 16:00:00'
 layout: post
 slug: links-for-10012011-a-m
 status: publish
+ref: http://schema.org/docs/full.html
 title: The web-page microdata ontology created by Google, Bing, and Yahoo!.
 wordpress_id: '1244'
 categories:

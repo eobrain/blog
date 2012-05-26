@@ -3,19 +3,14 @@ date: '2009-05-04 15:06:18'
 layout: post
 slug: links-for-2009-05-04
 status: publish
+ref: http://info.icopyright.com/The-iCopyright-Platform.pdf
 title: A copyright tracking platform
 wordpress_id: '392'
 categories:
 - bookmarks
 ---
 
-  *
-
-
-[a copyright tracking platform](http://info.icopyright.com/The-iCopyright-Platform.pdf)
-
-
-(tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [webservices](http://delicious.com/eob/webservices))
+  * [a copyright tracking platform](http://info.icopyright.com/The-iCopyright-Platform.pdf) (tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [webservices](http://delicious.com/eob/webservices))
 
 
 

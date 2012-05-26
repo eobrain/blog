@@ -3,6 +3,7 @@ date: '2006-12-01 16:29:41'
 layout: post
 slug: links-for-2006-12-01
 status: publish
+ref: http://persistent.info/archives/2006/05/06/google-reader-subscribe
 title: links for 2006-12-01
 wordpress_id: '144'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Smart Google Reader Subscribe Button [persistent.info]](http://persistent.info/archives/2006/05/06/google-reader-subscribe)
+  * [Smart Google Reader Subscribe Button [persistent.info]](http://persistent.info/archives/2006/05/06/google-reader-subscribe)
 
 
-		
-
-Even better version of the greasemonkey script for subscribing feeds on the current page to Google Reader.
 
 
-		
-
-(tags: [tool](http://del.icio.us/eob/tool) [service](http://del.icio.us/eob/service))
+Even better version of the greasemonkey script for subscribing feeds on the current page to Google Reader. (tags: [tool](http://del.icio.us/eob/tool) [service](http://del.icio.us/eob/service))
 
 
-	
+
 
 
 

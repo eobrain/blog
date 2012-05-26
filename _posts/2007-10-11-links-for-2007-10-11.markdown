@@ -10,43 +10,27 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Ajaxload - Ajax loading gif generator](http://www.ajaxload.info/)
+  * [Ajaxload - Ajax loading gif generator](http://www.ajaxload.info/)
 
 
-		
-
-Create busy indicator GIFs
 
 
-		
-
-(tags: [graphics](http://del.icio.us/eob/graphics) [design](http://del.icio.us/eob/design))
+Create busy indicator GIFs (tags: [graphics](http://del.icio.us/eob/graphics) [design](http://del.icio.us/eob/design))
 
 
-	
-
-	
-  *
-		
-
-[About « Graphing Social Patterns: The Business & Technology of Facebook](http://graphingsocial.com/)
 
 
-		
 
-Facebook conference
-
-
-		
-
-(tags: [conference](http://del.icio.us/eob/conference) [social](http://del.icio.us/eob/social) [technology](http://del.icio.us/eob/technology) [design](http://del.icio.us/eob/design) [business](http://del.icio.us/eob/business))
+  * [About « Graphing Social Patterns: The Business & Technology of Facebook](http://graphingsocial.com/)
 
 
-	
+
+
+Facebook conference (tags: [conference](http://del.icio.us/eob/conference) [social](http://del.icio.us/eob/social) [technology](http://del.icio.us/eob/technology) [design](http://del.icio.us/eob/design) [business](http://del.icio.us/eob/business))
+
+
+
 
 
 

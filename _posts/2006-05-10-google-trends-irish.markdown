@@ -3,6 +3,7 @@ date: '2006-05-10 18:47:00'
 layout: post
 slug: google-trends-irish
 status: publish
+ref: http://www.google.com/trends/viz?q=irish&date=all&geo=all&graph=weekly_img
 title: 'Google Trends: irish'
 wordpress_id: '96'
 categories:

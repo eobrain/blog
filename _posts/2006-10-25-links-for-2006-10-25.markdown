@@ -10,43 +10,27 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Video Technology Search Engine](http://www.google.com/coop/cse?cx=010638580643288787684%3Anezgnd5jmym)
+  * [Video Technology Search Engine](http://www.google.com/coop/cse?cx=010638580643288787684%3Anezgnd5jmym)
 
 
-		
-
-Google Co-op - Custom Search Engine
 
 
-		
-
-(tags: [video](http://del.icio.us/eob/video) [service](http://del.icio.us/eob/service))
+Google Co-op - Custom Search Engine (tags: [video](http://del.icio.us/eob/video) [service](http://del.icio.us/eob/service))
 
 
-	
-
-	
-  *
-		
-
-[Toufee flash movie maker - Make flash movies in seconds!](http://toufee.com/)
 
 
-		
 
-Flash movie and presentation maker
-
-
-		
-
-(tags: [video](http://del.icio.us/eob/video) [service](http://del.icio.us/eob/service))
+  * [Toufee flash movie maker - Make flash movies in seconds!](http://toufee.com/)
 
 
-	
+
+
+Flash movie and presentation maker (tags: [video](http://del.icio.us/eob/video) [service](http://del.icio.us/eob/service))
+
+
+
 
 
 

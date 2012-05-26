@@ -3,6 +3,7 @@ date: '2011-05-28 04:31:45'
 layout: post
 slug: links-for-05282011-p-m
 status: publish
+ref: http://crocodoc.com/demo/efwpa
 title: This crocodoc site has impressive document manipulation technology.
 wordpress_id: '1208'
 categories:

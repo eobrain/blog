@@ -3,6 +3,7 @@ date: '2006-08-30 13:44:00'
 layout: post
 slug: our-house-is-going-on-the-market-soon
 status: publish
+ref: http://107starlite.com/
 title: Our house is going on the market soon
 wordpress_id: '102'
 categories:

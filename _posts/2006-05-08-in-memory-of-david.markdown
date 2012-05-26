@@ -3,6 +3,7 @@ date: '2006-05-08 16:27:00'
 layout: post
 slug: in-memory-of-david
 status: publish
+ref: http://www.acsevents.org/relay/ca/campbell/eobrain?faf=1&e=597762986
 title: In Memory of David
 wordpress_id: '95'
 categories:

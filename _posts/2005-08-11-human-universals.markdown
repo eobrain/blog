@@ -3,6 +3,7 @@ date: '2005-08-11 21:30:32'
 layout: post
 slug: human-universals
 status: publish
+ref: http://uwstudentweb.uwyo.edu/F/FENNERJ/TraitList.html
 title: Human Universals
 wordpress_id: '82'
 categories:

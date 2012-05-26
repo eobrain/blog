@@ -3,6 +3,7 @@ date: '2005-09-19 15:49:08'
 layout: post
 slug: okcancel-%ef%bf%bd-comic
 status: publish
+ref: http://www.ok-cancel.com/archives/comic/
 title: OK/Cancel � Comic
 wordpress_id: '84'
 categories:

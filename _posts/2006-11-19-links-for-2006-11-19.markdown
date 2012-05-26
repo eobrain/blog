@@ -10,43 +10,27 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[MySQL AB :: MySQL 5.0 Reference Manual :: 11 Data Types](http://dev.mysql.com/doc/refman/5.0/en/data-types.html)
+  * [MySQL AB :: MySQL 5.0 Reference Manual :: 11 Data Types](http://dev.mysql.com/doc/refman/5.0/en/data-types.html)
 
 
-		
-
-MySql datatype reference.  Handy when creating rails models.
 
 
-		
-
-(tags: [reference](http://del.icio.us/eob/reference) [programming](http://del.icio.us/eob/programming) [database](http://del.icio.us/eob/database) [rubyonrails](http://del.icio.us/eob/rubyonrails))
+MySql datatype reference.  Handy when creating rails models. (tags: [reference](http://del.icio.us/eob/reference) [programming](http://del.icio.us/eob/programming) [database](http://del.icio.us/eob/database) [rubyonrails](http://del.icio.us/eob/rubyonrails))
 
 
-	
-
-	
-  *
-		
-
-[ActiveRecord Relationships](http://www.slash7.com/cheats/activerecord_cheatsheet.pdf)
 
 
-		
 
-Handy cheat-cheat for how to set up SQL tables for rails.
-
-
-		
-
-(tags: [rubyonrails](http://del.icio.us/eob/rubyonrails) [database](http://del.icio.us/eob/database) [ruby](http://del.icio.us/eob/ruby) [tutorial](http://del.icio.us/eob/tutorial))
+  * [ActiveRecord Relationships](http://www.slash7.com/cheats/activerecord_cheatsheet.pdf)
 
 
-	
+
+
+Handy cheat-cheat for how to set up SQL tables for rails. (tags: [rubyonrails](http://del.icio.us/eob/rubyonrails) [database](http://del.icio.us/eob/database) [ruby](http://del.icio.us/eob/ruby) [tutorial](http://del.icio.us/eob/tutorial))
+
+
+
 
 
 

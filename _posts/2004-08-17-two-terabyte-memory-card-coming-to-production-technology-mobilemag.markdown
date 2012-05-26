@@ -3,6 +3,7 @@ date: '2004-08-17 15:39:24'
 layout: post
 slug: two-terabyte-memory-card-coming-to-production-technology-mobilemag
 status: publish
+ref: http://mindstream.watsmore.net/keshav/main.html
 title: 'Two-Terabyte Memory Card Coming to Production : Technology : MobileMag'
 wordpress_id: '41'
 ---

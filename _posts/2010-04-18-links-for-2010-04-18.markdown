@@ -3,22 +3,17 @@ date: '2010-04-18 15:04:40'
 layout: post
 slug: links-for-2010-04-18
 status: publish
+ref: http://www.fastcompany.com/article/smart-design-magazine-tablet-concept?page=0%2C1
 title: Yet another concept video for magazine publishing on a iPad/slate device.
 wordpress_id: '836'
 categories:
 - Consumer Media
 ---
 
-  *
+  * [Oxo Good Grips Designers Take on Tablet Magazines | Page 2 | Fast Company](http://www.fastcompany.com/article/smart-design-magazine-tablet-concept?page=0%2C1)
 
 
-[Oxo Good Grips Designers Take on Tablet Magazines | Page 2 | Fast Company](http://www.fastcompany.com/article/smart-design-magazine-tablet-concept?page=0%2C1)
-
-
-Yet another concept video for magazine publishing on a iPad/slate device.
-
-
-(tags: [publishing](http://delicious.com/eob/publishing))
+Yet another concept video for magazine publishing on a iPad/slate device. (tags: [publishing](http://delicious.com/eob/publishing))
 
 
 

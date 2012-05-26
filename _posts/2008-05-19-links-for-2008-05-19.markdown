@@ -10,43 +10,27 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[ColorJack: Sphere (Color Theory Visualizer)](http://www.colorjack.com/sphere/?LoadJack=fu:17,blind:0,mode:0,model:1,maly:1,currMe:191x191,cpu:0.735,cpv:0.265,abu:0.9,abv:0.07358,aeu:0.4719,aev:0.52705)
+  * [ColorJack: Sphere (Color Theory Visualizer)](http://www.colorjack.com/sphere/?LoadJack=fu:17,blind:0,mode:0,model:1,maly:1,currMe:191x191,cpu:0.735,cpv:0.265,abu:0.9,abv:0.07358,aeu:0.4719,aev:0.52705)
 
 
-		
-
-Find colours that go well together.
 
 
-		
-
-(tags: [graphics](http://del.icio.us/eob/graphics))
+Find colours that go well together. (tags: [graphics](http://del.icio.us/eob/graphics))
 
 
-	
-
-	
-  *
-		
-
-[Blurb](http://www.blurb.com/create/book/pricing#square)
 
 
-		
 
-Personal book printing service, with downloadable software to create different types of books including photo books.
-
-
-		
-
-(tags: [books](http://del.icio.us/eob/books) [printing](http://del.icio.us/eob/printing) [web2.0](http://del.icio.us/eob/web2.0) [webservices](http://del.icio.us/eob/webservices) [photo](http://del.icio.us/eob/photo))
+  * [Blurb](http://www.blurb.com/create/book/pricing#square)
 
 
-	
+
+
+Personal book printing service, with downloadable software to create different types of books including photo books. (tags: [books](http://del.icio.us/eob/books) [printing](http://del.icio.us/eob/printing) [web2.0](http://del.icio.us/eob/web2.0) [webservices](http://del.icio.us/eob/webservices) [photo](http://del.icio.us/eob/photo))
+
+
+
 
 
 

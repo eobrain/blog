@@ -3,6 +3,7 @@ date: '2010-01-23 12:25:27'
 layout: post
 slug: see-real-example-results-of-website-optimization-ab-tests
 status: publish
+ref: http://www.abtests.com/browse/
 title: See real example results of website optimization A/B tests
 wordpress_id: '632'
 categories:

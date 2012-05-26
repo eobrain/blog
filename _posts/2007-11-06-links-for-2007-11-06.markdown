@@ -3,6 +3,7 @@ date: '2007-11-06 16:25:59'
 layout: post
 slug: links-for-2007-11-06
 status: publish
+ref: http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/PropertyConfigurator.html#doConfigure(java.lang.String,%20org.apache.log4j.spi.LoggerRepository
 title: links for 2007-11-06
 wordpress_id: '206'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[PropertyConfigurator (Apache Log4j 1.2.15 API)](http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/PropertyConfigurator.html#doConfigure(java.lang.String,%20org.apache.log4j.spi.LoggerRepository))
+  * [PropertyConfigurator (Apache Log4j 1.2.15 API)](http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/PropertyConfigurator.html#doConfigure(java.lang.String,%20org.apache.log4j.spi.LoggerRepository))
 
 
-		
-
-log4j configuration file specification
 
 
-		
-
-(tags: [code](http://del.icio.us/eob/code) [,](http://del.icio.us/eob/,) [java](http://del.icio.us/eob/java) [reference](http://del.icio.us/eob/reference))
+log4j configuration file specification (tags: [code](http://del.icio.us/eob/code) [,](http://del.icio.us/eob/,) [java](http://del.icio.us/eob/java) [reference](http://del.icio.us/eob/reference))
 
 
-	
+
 
 
 

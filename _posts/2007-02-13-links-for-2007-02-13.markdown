@@ -3,6 +3,7 @@ date: '2007-02-13 16:25:58'
 layout: post
 slug: links-for-2007-02-13
 status: publish
+ref: http://flickr.com/
 title: links for 2007-02-13
 wordpress_id: '175'
 categories:
@@ -10,19 +11,11 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Welcome to Flickr!](http://flickr.com/)
+  * [Welcome to Flickr!](http://flickr.com/) (tags: [daily](http://del.icio.us/eob/daily) [photo](http://del.icio.us/eob/photo) [service](http://del.icio.us/eob/service))
 
 
-		
 
-(tags: [daily](http://del.icio.us/eob/daily) [photo](http://del.icio.us/eob/photo) [service](http://del.icio.us/eob/service))
-
-
-	
 
 
 

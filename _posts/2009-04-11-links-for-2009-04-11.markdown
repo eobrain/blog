@@ -3,19 +3,14 @@ date: '2009-04-11 15:03:49'
 layout: post
 slug: links-for-2009-04-11
 status: publish
+ref: http://www.scala-lang.org/node/104
 title: One of the more useful guides to the Scala programming language.
 wordpress_id: '383'
 categories:
 - bookmarks
 ---
 
-  *
-
-
-[A Tour of Scala | The Scala Programming Language](http://www.scala-lang.org/node/104)
-
-
-(tags: [programming](http://delicious.com/eob/programming) [tutorial](http://delicious.com/eob/tutorial) [reference](http://delicious.com/eob/reference) [guide](http://delicious.com/eob/guide) [language](http://delicious.com/eob/language) [scala](http://delicious.com/eob/scala))
+  * [A Tour of Scala | The Scala Programming Language](http://www.scala-lang.org/node/104) (tags: [programming](http://delicious.com/eob/programming) [tutorial](http://delicious.com/eob/tutorial) [reference](http://delicious.com/eob/reference) [guide](http://delicious.com/eob/guide) [language](http://delicious.com/eob/language) [scala](http://delicious.com/eob/scala))
 
 
 

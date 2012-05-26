@@ -3,6 +3,7 @@ date: '2009-10-27 15:07:17'
 layout: post
 slug: links-for-2009-10-27
 status: publish
+ref: http://rnash.com/article/the-emergent-landscape-or-the-continuous-permenant-reinvention-of-publishin/
 title: Publishing is going to be disrupted by new technology, probably in unforeseen
   ways.
 wordpress_id: '441'
@@ -10,16 +11,10 @@ categories:
 - Consumer Media
 ---
 
-  *
+  * [Richard Eoin Nash - The Blog: The Emergent Landscape, or, The Continuous Permanent Reinvention of Publishing](http://rnash.com/article/the-emergent-landscape-or-the-continuous-permenant-reinvention-of-publishin/)
 
 
-[Richard Eoin Nash - The Blog: The Emergent Landscape, or, The Continuous Permanent Reinvention of Publishing](http://rnash.com/article/the-emergent-landscape-or-the-continuous-permenant-reinvention-of-publishin/)
-
-
-Publishing is going to be disrupted by new technology, probably in unforeseen ways.
-
-
-(tags: [publishing](http://delicious.com/eob/publishing) [books](http://delicious.com/eob/books))
+Publishing is going to be disrupted by new technology, probably in unforeseen ways. (tags: [publishing](http://delicious.com/eob/publishing) [books](http://delicious.com/eob/books))
 
 
 

@@ -3,6 +3,7 @@ date: '2008-03-20 16:20:26'
 layout: post
 slug: links-for-2008-03-20
 status: publish
+ref: http://ianloic.com/2008/03/20/google-ajax-apis-outside-the-browser/
 title: links for 2008-03-20
 wordpress_id: '261'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Software and Opinions » Blog Archive » Google AJAX APIs outside the browser](http://ianloic.com/2008/03/20/google-ajax-apis-outside-the-browser/)
+  * [Software and Opinions » Blog Archive » Google AJAX APIs outside the browser](http://ianloic.com/2008/03/20/google-ajax-apis-outside-the-browser/)
 
 
-		
-
-Running a Javascript API outside the browser.  Another example of how AJAX APIs are also web service APIs.
 
 
-		
-
-(tags: [ajax](http://del.icio.us/eob/ajax) [webservices](http://del.icio.us/eob/webservices))
+Running a Javascript API outside the browser.  Another example of how AJAX APIs are also web service APIs. (tags: [ajax](http://del.icio.us/eob/ajax) [webservices](http://del.icio.us/eob/webservices))
 
 
-	
+
 
 
 

@@ -3,22 +3,17 @@ date: '2008-10-15 16:03:52'
 layout: post
 slug: links-for-2008-10-15
 status: publish
+ref: http://speckyboy.com/2008/04/01/top-10-javascript-frameworks-which-do-you-prefer/
 title: links for 2008-10-15
 wordpress_id: '308'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Top 10 Javascript Frameworks - Which do you prefer? : Speckyboy - Web Design, Web Development and Graphic Design Resources](http://speckyboy.com/2008/04/01/top-10-javascript-frameworks-which-do-you-prefer/)
 
 
-[Top 10 Javascript Frameworks - Which do you prefer? : Speckyboy - Web Design, Web Development and Graphic Design Resources](http://speckyboy.com/2008/04/01/top-10-javascript-frameworks-which-do-you-prefer/)
-
-
-Handy collection of pointers to main JavaScript programming frameworks.
-
-
-(tags: [javascript](http://delicious.com/eob/javascript) [library](http://delicious.com/eob/library))
+Handy collection of pointers to main JavaScript programming frameworks. (tags: [javascript](http://delicious.com/eob/javascript) [library](http://delicious.com/eob/library))
 
 
 

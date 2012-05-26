@@ -3,6 +3,7 @@ date: '2012-01-13 16:38:45'
 layout: post
 slug: links-for-01142012-a-m
 status: publish
+ref: https://github.com/yeungda/jcoffeescript
 title: Using JCoffeescript can mean for simpler setting up of a coffeescript development
   environment because it does not have dependencies on node.js and npm
 wordpress_id: '1963'

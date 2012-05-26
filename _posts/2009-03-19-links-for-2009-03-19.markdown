@@ -9,28 +9,16 @@ categories:
 - bookmarks
 ---
 
-  *
+  * [Michael Tamblyn - 6 Projects That Could Change Publishing for the Better](http://www.slideshare.net/booknetcanada/bnctechforummichaeltamblyn?type=presentation)
 
 
-[Michael Tamblyn - 6 Projects That Could Change Publishing for the Better](http://www.slideshare.net/booknetcanada/bnctechforummichaeltamblyn?type=presentation)
+Some interesting ideas in this presentation.  Best flicked through with the Notes tab underneath selected. (tags: [reference](http://delicious.com/eob/reference) [business](http://delicious.com/eob/business) [ideas](http://delicious.com/eob/ideas) [technology](http://delicious.com/eob/technology) [books](http://delicious.com/eob/books) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-Some interesting ideas in this presentation.  Best flicked through with the Notes tab underneath selected.
+  * [Vanity Press Plus: The Tweetbook | booktwo.org](http://booktwo.org/notebook/vanity-press-plus-the-tweetbook/)
 
 
-(tags: [reference](http://delicious.com/eob/reference) [business](http://delicious.com/eob/business) [ideas](http://delicious.com/eob/ideas) [technology](http://delicious.com/eob/technology) [books](http://delicious.com/eob/books) [webpageprinting](http://delicious.com/eob/webpageprinting))
-
-
-  *
-
-
-[Vanity Press Plus: The Tweetbook | booktwo.org](http://booktwo.org/notebook/vanity-press-plus-the-tweetbook/)
-
-
-Someone who gathered together all his twittering for one year and published it as a hardcover book with Lulu.  (Php script given.)
-
-
-(tags: [web](http://delicious.com/eob/web) [social](http://delicious.com/eob/social) [blog](http://delicious.com/eob/blog) [books](http://delicious.com/eob/books) [webpageprinting](http://delicious.com/eob/webpageprinting))
+Someone who gathered together all his twittering for one year and published it as a hardcover book with Lulu.  (Php script given.) (tags: [web](http://delicious.com/eob/web) [social](http://delicious.com/eob/social) [blog](http://delicious.com/eob/blog) [books](http://delicious.com/eob/books) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
 

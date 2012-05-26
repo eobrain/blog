@@ -3,22 +3,17 @@ date: '2008-12-13 15:04:03'
 layout: post
 slug: links-for-2008-12-13
 status: publish
+ref: http://lobobrowser.org/cobra.jsp
 title: links for 2008-12-13
 wordpress_id: '336'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Cobra: Pure Java HTML Renderer & Parser (Open Source)](http://lobobrowser.org/cobra.jsp)
 
 
-[Cobra: Pure Java HTML Renderer & Parser (Open Source)](http://lobobrowser.org/cobra.jsp)
-
-
-Pure Java HTML Parser and Renderer handles CSS, JavaScript, and accessing of computed styles.
-
-
-(tags: [programming](http://delicious.com/eob/programming) [library](http://delicious.com/eob/library) [java](http://delicious.com/eob/java) [javascript](http://delicious.com/eob/javascript) [css](http://delicious.com/eob/css) [webpageprinting](http://delicious.com/eob/webpageprinting))
+Pure Java HTML Parser and Renderer handles CSS, JavaScript, and accessing of computed styles. (tags: [programming](http://delicious.com/eob/programming) [library](http://delicious.com/eob/library) [java](http://delicious.com/eob/java) [javascript](http://delicious.com/eob/javascript) [css](http://delicious.com/eob/css) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
 

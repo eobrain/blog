@@ -3,16 +3,14 @@ date: '2008-09-06 17:04:07'
 layout: post
 slug: links-for-2008-09-06
 status: publish
+ref: http://jetty.mortbay.org/apidocs/org/mortbay/jetty/servlet/DefaultServlet.html
 title: links for 2008-09-06
 wordpress_id: '301'
 categories:
 - bookmarks
 ---
 
-  *
-
-
-[DefaultServlet (Jetty Server Project 6.1.12rc1 API)](http://jetty.mortbay.org/apidocs/org/mortbay/jetty/servlet/DefaultServlet.html)
+  * [DefaultServlet (Jetty Server Project 6.1.12rc1 API)](http://jetty.mortbay.org/apidocs/org/mortbay/jetty/servlet/DefaultServlet.html)
 
 
 How to control caching etc. for files serverd by Jetty

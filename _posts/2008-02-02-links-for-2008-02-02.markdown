@@ -3,6 +3,7 @@ date: '2008-02-02 16:24:06'
 layout: post
 slug: links-for-2008-02-02
 status: publish
+ref: http://blog.evanweaver.com/articles/2007/07/13/developing-a-facebook-app-locally/
 title: links for 2008-02-02
 wordpress_id: '238'
 categories:
@@ -10,19 +11,11 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[developing a facebook app locally :: snax](http://blog.evanweaver.com/articles/2007/07/13/developing-a-facebook-app-locally/)
+  * [developing a facebook app locally :: snax](http://blog.evanweaver.com/articles/2007/07/13/developing-a-facebook-app-locally/) (tags: [programming](http://del.icio.us/eob/programming) [facebook](http://del.icio.us/eob/facebook) [ruby](http://del.icio.us/eob/ruby) [rubyonrails](http://del.icio.us/eob/rubyonrails) [social](http://del.icio.us/eob/social) [tutorial](http://del.icio.us/eob/tutorial))
 
 
-		
 
-(tags: [programming](http://del.icio.us/eob/programming) [facebook](http://del.icio.us/eob/facebook) [ruby](http://del.icio.us/eob/ruby) [rubyonrails](http://del.icio.us/eob/rubyonrails) [social](http://del.icio.us/eob/social) [tutorial](http://del.icio.us/eob/tutorial))
-
-
-	
 
 
 

@@ -3,6 +3,7 @@ date: '2011-03-31 16:39:05'
 layout: post
 slug: links-for-04012011-a-m
 status: publish
+ref: http://api.mongodb.org/scala/casbah/2.1.1/scaladoc
 title: API doc for scala API to MongoDB
 wordpress_id: '1190'
 categories:

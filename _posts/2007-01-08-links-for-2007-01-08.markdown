@@ -3,6 +3,7 @@ date: '2007-01-08 16:25:42'
 layout: post
 slug: links-for-2007-01-08
 status: publish
+ref: http://sumeet.info/philip/footsteppr/?url=http%3A%2F%2Fflickr.com%2Fphotos%2Feob%2F&sets=
 title: links for 2007-01-08
 wordpress_id: '160'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Flickr Footsteps](http://sumeet.info/philip/footsteppr/?url=http%3A%2F%2Fflickr.com%2Fphotos%2Feob%2F&sets=)
+  * [Flickr Footsteps](http://sumeet.info/philip/footsteppr/?url=http%3A%2F%2Fflickr.com%2Fphotos%2Feob%2F&sets=)
 
 
-		
-
-Interesting mashup that finds other Flickr users that took photos near yours.
 
 
-		
-
-(tags: [photo](http://del.icio.us/eob/photo) [mapping](http://del.icio.us/eob/mapping) [service](http://del.icio.us/eob/service))
+Interesting mashup that finds other Flickr users that took photos near yours. (tags: [photo](http://del.icio.us/eob/photo) [mapping](http://del.icio.us/eob/mapping) [service](http://del.icio.us/eob/service))
 
 
-	
+
 
 
 

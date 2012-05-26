@@ -3,22 +3,17 @@ date: '2008-10-27 16:12:11'
 layout: post
 slug: links-for-2008-10-27
 status: publish
+ref: http://www.javascriptkit.com/domref/index.shtml
 title: links for 2008-10-27
 wordpress_id: '311'
 categories:
 - bookmarks
 ---
 
-  *
+  * [JavaScript Kit- DOM (Document Object Model) Reference](http://www.javascriptkit.com/domref/index.shtml)
 
 
-[JavaScript Kit- DOM (Document Object Model) Reference](http://www.javascriptkit.com/domref/index.shtml)
-
-
-Another handy Javascript DOM reference
-
-
-(tags: [javascript](http://delicious.com/eob/javascript) [reference](http://delicious.com/eob/reference))
+Another handy Javascript DOM reference (tags: [javascript](http://delicious.com/eob/javascript) [reference](http://delicious.com/eob/reference))
 
 
 

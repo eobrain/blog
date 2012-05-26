@@ -3,6 +3,7 @@ date: '2011-08-12 04:31:55'
 layout: post
 slug: links-for-08122011-p-m
 status: publish
+ref: https://github.com/sonatype/async-http-client
 title: A fast, flexible HTTP client library
 wordpress_id: '1232'
 categories:

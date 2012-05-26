@@ -9,7 +9,7 @@ categories:
 - Programming
 ---
 
-With Ubunto it seems that Linux is getting closer to be a viable replacement for Windows.  I am several days into my experiment of running Ubunto as my operating system on my laptop.  So far it is going fairly well, but I have hit the following problems:
+With Ubuntu it seems that Linux is getting closer to be a viable replacement for Windows.  I am several days into my experiment of running Ubuntu as my operating system on my laptop.  So far it is going fairly well, but I have hit the following problems:
 
 
   1. I cannot get the Evolution connection to my companies Exchange server to work correctly.  For mail this is not a problem, because I can use an IMAP connection, but I really need to be able to connect to the Exchange calendar.

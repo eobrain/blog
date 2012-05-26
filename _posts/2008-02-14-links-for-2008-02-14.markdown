@@ -10,43 +10,27 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[iamcal.com / talks](http://www.iamcal.com/talks/)
+  * [iamcal.com / talks](http://www.iamcal.com/talks/)
 
 
-		
-
-Excellent set of talks on how to build scalable web applications by Flickr's Cal Henderson.
 
 
-		
-
-(tags: [architecture](http://del.icio.us/eob/architecture) [database](http://del.icio.us/eob/database) [programming](http://del.icio.us/eob/programming) [scaling](http://del.icio.us/eob/scaling))
+Excellent set of talks on how to build scalable web applications by Flickr's Cal Henderson. (tags: [architecture](http://del.icio.us/eob/architecture) [database](http://del.icio.us/eob/database) [programming](http://del.icio.us/eob/programming) [scaling](http://del.icio.us/eob/scaling))
 
 
-	
-
-	
-  *
-		
-
-[MogileFS](http://www.danga.com/mogilefs/)
 
 
-		
 
-The distributed file system originally developed for LiveJournal.
-
-
-		
-
-(tags: [architecture](http://del.icio.us/eob/architecture) [deployment](http://del.icio.us/eob/deployment) [library](http://del.icio.us/eob/library))
+  * [MogileFS](http://www.danga.com/mogilefs/)
 
 
-	
+
+
+The distributed file system originally developed for LiveJournal. (tags: [architecture](http://del.icio.us/eob/architecture) [deployment](http://del.icio.us/eob/deployment) [library](http://del.icio.us/eob/library))
+
+
+
 
 
 

@@ -10,43 +10,27 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Image management for my common workflow | Brad Ideas](http://ideas.4brad.com/archives/000189.html)
+  * [Image management for my common workflow | Brad Ideas](http://ideas.4brad.com/archives/000189.html)
 
 
-		
-
-Wishlist for photo management UI and workflow
 
 
-		
-
-(tags: [photo](http://del.icio.us/eob/photo))
+Wishlist for photo management UI and workflow (tags: [photo](http://del.icio.us/eob/photo))
 
 
-	
-
-	
-  *
-		
-
-[CakePHP: the rapid development php framework. Home](http://www.cakephp.org/)
 
 
-		
 
-Bringing a Rails-like aproach to PHP.
-
-
-		
-
-(tags: [php](http://del.icio.us/eob/php) [library](http://del.icio.us/eob/library) [design](http://del.icio.us/eob/design) [code](http://del.icio.us/eob/code))
+  * [CakePHP: the rapid development php framework. Home](http://www.cakephp.org/)
 
 
-	
+
+
+Bringing a Rails-like aproach to PHP. (tags: [php](http://del.icio.us/eob/php) [library](http://del.icio.us/eob/library) [design](http://del.icio.us/eob/design) [code](http://del.icio.us/eob/code))
+
+
+
 
 
 

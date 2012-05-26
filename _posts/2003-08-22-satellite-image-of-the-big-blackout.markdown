@@ -3,6 +3,7 @@ date: '2003-08-22 13:53:24'
 layout: post
 slug: satellite-image-of-the-big-blackout
 status: publish
+ref: http://epod.usra.edu/archive/epodviewer.php3?oid=152768
 title: Satellite Image of the Big Blackout
 wordpress_id: '14'
 ---

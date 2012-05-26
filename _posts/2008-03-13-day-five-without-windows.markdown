@@ -3,6 +3,7 @@ date: '2008-03-13 10:09:00'
 layout: post
 slug: day-five-without-windows
 status: publish
+ref: http://twitter.com/eob/statuses/770649492
 title: Day Five Without Windows
 wordpress_id: '258'
 categories:

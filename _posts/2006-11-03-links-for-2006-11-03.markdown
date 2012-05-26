@@ -3,6 +3,7 @@ date: '2006-11-03 16:34:01'
 layout: post
 slug: links-for-2006-11-03
 status: publish
+ref: http://www.flickrleech.net/nsid/35034364763@N01/
 title: links for 2006-11-03
 wordpress_id: '124'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Flickr Leech](http://www.flickrleech.net/nsid/35034364763@N01/)
+  * [Flickr Leech](http://www.flickrleech.net/nsid/35034364763@N01/)
 
 
-		
-
-Another view of my photos on Flickr
 
 
-		
-
-(tags: [my](http://del.icio.us/eob/my))
+Another view of my photos on Flickr (tags: [my](http://del.icio.us/eob/my))
 
 
-	
+
 
 
 

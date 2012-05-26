@@ -3,22 +3,17 @@ date: '2008-11-13 16:07:53'
 layout: post
 slug: links-for-2008-11-13
 status: publish
+ref: http://www.viget.com/extend/effectively-using-git-with-subversion/
 title: links for 2008-11-13
 wordpress_id: '318'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Effectively Using Git With Subversion | Web Development Blog: Web Development Insights, Best Practices, Tips & Techniques : Viget Labs](http://www.viget.com/extend/effectively-using-git-with-subversion/)
 
 
-[Effectively Using Git With Subversion | Web Development Blog: Web Development Insights, Best Practices, Tips & Techniques : Viget Labs](http://www.viget.com/extend/effectively-using-git-with-subversion/)
-
-
-How to create a Git child repository off a Subversion parent repository.
-
-
-(tags: [tutorial](http://delicious.com/eob/tutorial) [programming](http://delicious.com/eob/programming))
+How to create a Git child repository off a Subversion parent repository. (tags: [tutorial](http://delicious.com/eob/tutorial) [programming](http://delicious.com/eob/programming))
 
 
 

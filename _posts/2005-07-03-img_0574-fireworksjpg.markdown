@@ -3,6 +3,7 @@ date: '2005-07-03 21:31:38'
 layout: post
 slug: img_0574-fireworksjpg
 status: publish
+ref: http://www.flickr.com/photos/eob/23543487/
 title: IMG_0574-fireworks.JPG
 wordpress_id: '76'
 categories:

@@ -3,22 +3,17 @@ date: '2010-06-19 15:03:57'
 layout: post
 slug: links-for-2010-06-19
 status: publish
+ref: http://wiki.apache.org/cassandra/API
 title: A terse but definitive guide to the Cassandra Thrift API.
 wordpress_id: '906'
 categories:
 - Programming
 ---
 
-  *
+  * [API - Cassandra Wiki](http://wiki.apache.org/cassandra/API)
 
 
-[API - Cassandra Wiki](http://wiki.apache.org/cassandra/API)
-
-
-A terse but definitive guide to the Cassandra Thrift API.
-
-
-(tags: [api](http://delicious.com/eob/api) [database](http://delicious.com/eob/database) [reference](http://delicious.com/eob/reference) [architecture](http://delicious.com/eob/architecture) [programming](http://delicious.com/eob/programming))
+A terse but definitive guide to the Cassandra Thrift API. (tags: [api](http://delicious.com/eob/api) [database](http://delicious.com/eob/database) [reference](http://delicious.com/eob/reference) [architecture](http://delicious.com/eob/architecture) [programming](http://delicious.com/eob/programming))
 
 
 

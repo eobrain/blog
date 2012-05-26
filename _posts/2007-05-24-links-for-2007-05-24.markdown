@@ -10,119 +10,71 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Tech Report: HPL-2007-73: Sharing, Discovering and Browsing](http://www.hpl.hp.com/techreports/2007/HPL-2007-73.html?mtxs=rss-hpl-tr)
+  * [Tech Report: HPL-2007-73: Sharing, Discovering and Browsing](http://www.hpl.hp.com/techreports/2007/HPL-2007-73.html?mtxs=rss-hpl-tr)
 
 
-		
-
-From the semantic web guys in Bristol.
 
 
-		
-
-(tags: [hp](http://del.icio.us/eob/hp) [metadata](http://del.icio.us/eob/metadata) [photo](http://del.icio.us/eob/photo))
+From the semantic web guys in Bristol. (tags: [hp](http://del.icio.us/eob/hp) [metadata](http://del.icio.us/eob/metadata) [photo](http://del.icio.us/eob/photo))
 
 
-	
-
-	
-  *
-		
-
-[Tech Report: HPL-2007-52: Using the emphasis statistics](http://www.hpl.hp.com/techreports/2007/HPL-2007-52.html?mtxs=rss-hpl-tr)
 
 
-		
 
-Dave's cast-based ideas.
-
-
-		
-
-(tags: [hp](http://del.icio.us/eob/hp) [photo](http://del.icio.us/eob/photo))
+  * [Tech Report: HPL-2007-52: Using the emphasis statistics](http://www.hpl.hp.com/techreports/2007/HPL-2007-52.html?mtxs=rss-hpl-tr)
 
 
-	
-
-	
-  *
-		
-
-[Tech Report: HPL-2006-166: Content selection based on](http://www.hpl.hp.com/techreports/2006/HPL-2006-166.html?mtxs=rss-hpl-tr)
 
 
-		
-
-Pere's context-as-search
+Dave's cast-based ideas. (tags: [hp](http://del.icio.us/eob/hp) [photo](http://del.icio.us/eob/photo))
 
 
-		
-
-(tags: [hp](http://del.icio.us/eob/hp) [photo](http://del.icio.us/eob/photo) [aesthetics](http://del.icio.us/eob/aesthetics) [searchandorganization](http://del.icio.us/eob/searchandorganization))
 
 
-	
 
-	
-  *
-		
-
-[Tech Report: HPL-2006-140: Jena Property Table Implementation](http://www.hpl.hp.com/techreports/2006/HPL-2006-140.html?mtxs=rss-hpl-tr)
+  * [Tech Report: HPL-2006-166: Content selection based on](http://www.hpl.hp.com/techreports/2006/HPL-2006-166.html?mtxs=rss-hpl-tr)
 
 
-		
-
-Ah.  This is the name for what I am doing.  Storing triples in "property tables", multiple triples per row.
 
 
-		
-
-(tags: [hp](http://del.icio.us/eob/hp) [metadata](http://del.icio.us/eob/metadata))
+Pere's context-as-search (tags: [hp](http://del.icio.us/eob/hp) [photo](http://del.icio.us/eob/photo) [aesthetics](http://del.icio.us/eob/aesthetics) [searchandorganization](http://del.icio.us/eob/searchandorganization))
 
 
-	
-
-	
-  *
-		
-
-[Mongrel: Upload Progress](http://mongrel.rubyforge.org/docs/upload_progress.html)
 
 
-		
 
-How to monitor upload progress in Rails.
-
-
-		
-
-(tags: [ajax](http://del.icio.us/eob/ajax) [programming](http://del.icio.us/eob/programming) [javascript](http://del.icio.us/eob/javascript) [rubyonrails](http://del.icio.us/eob/rubyonrails) [ruby](http://del.icio.us/eob/ruby))
+  * [Tech Report: HPL-2006-140: Jena Property Table Implementation](http://www.hpl.hp.com/techreports/2006/HPL-2006-140.html?mtxs=rss-hpl-tr)
 
 
-	
-
-	
-  *
-		
-
-[Computing.Net - Batch File - Start in a new window](http://www.computing.net/programming/wwwboard/forum/13899.html)
 
 
-		
-
-Oh the joys of Windows batch file programming! :-(
+Ah.  This is the name for what I am doing.  Storing triples in "property tables", multiple triples per row. (tags: [hp](http://del.icio.us/eob/hp) [metadata](http://del.icio.us/eob/metadata))
 
 
-		
-
-(tags: [programming](http://del.icio.us/eob/programming) [windows](http://del.icio.us/eob/windows))
 
 
-	
+
+  * [Mongrel: Upload Progress](http://mongrel.rubyforge.org/docs/upload_progress.html)
+
+
+
+
+How to monitor upload progress in Rails. (tags: [ajax](http://del.icio.us/eob/ajax) [programming](http://del.icio.us/eob/programming) [javascript](http://del.icio.us/eob/javascript) [rubyonrails](http://del.icio.us/eob/rubyonrails) [ruby](http://del.icio.us/eob/ruby))
+
+
+
+
+
+  * [Computing.Net - Batch File - Start in a new window](http://www.computing.net/programming/wwwboard/forum/13899.html)
+
+
+
+
+Oh the joys of Windows batch file programming! :-( (tags: [programming](http://del.icio.us/eob/programming) [windows](http://del.icio.us/eob/windows))
+
+
+
 
 
 

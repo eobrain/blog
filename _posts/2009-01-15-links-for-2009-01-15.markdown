@@ -3,22 +3,17 @@ date: '2009-01-15 15:05:19'
 layout: post
 slug: links-for-2009-01-15
 status: publish
+ref: http://www.learningjquery.com/2006/09/slicker-show-and-hide
 title: links for 2009-01-15
 wordpress_id: '352'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Slicker Show and Hide » Learning jQuery - Tips, Techniques, Tutorials](http://www.learningjquery.com/2006/09/slicker-show-and-hide)
 
 
-[Slicker Show and Hide » Learning jQuery - Tips, Techniques, Tutorials](http://www.learningjquery.com/2006/09/slicker-show-and-hide)
-
-
-JavaScript example code to show or hide some content using jQuery.
-
-
-(tags: [javascript](http://delicious.com/eob/javascript) [tutorial](http://delicious.com/eob/tutorial) [example](http://delicious.com/eob/example) [web](http://delicious.com/eob/web) [code](http://delicious.com/eob/code))
+JavaScript example code to show or hide some content using jQuery. (tags: [javascript](http://delicious.com/eob/javascript) [tutorial](http://delicious.com/eob/tutorial) [example](http://delicious.com/eob/example) [web](http://delicious.com/eob/web) [code](http://delicious.com/eob/code))
 
 
 

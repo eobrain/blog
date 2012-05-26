@@ -3,6 +3,7 @@ date: '2005-08-06 18:34:00'
 layout: post
 slug: engineers-need-to-understand-how-the-mind-works
 status: publish
+ref: http://www.edge.org/documents/archive/edge3.html
 title: Engineers need to understand how the mind works
 wordpress_id: '80'
 categories:

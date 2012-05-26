@@ -3,6 +3,7 @@ date: '2007-03-16 16:22:53'
 layout: post
 slug: links-for-2007-03-16
 status: publish
+ref: http://sfbay.listpic.com/
 title: links for 2007-03-16
 wordpress_id: '184'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[listpic - Visual Craigslist Browser: san francisco bay area](http://sfbay.listpic.com/)
+  * [listpic - Visual Craigslist Browser: san francisco bay area](http://sfbay.listpic.com/)
 
 
-		
-
-This looks like a useful maxh-up of craig's list.
 
 
-		
-
-(tags: [web2.0](http://del.icio.us/eob/web2.0) [service](http://del.icio.us/eob/service))
+This looks like a useful maxh-up of craig's list. (tags: [web2.0](http://del.icio.us/eob/web2.0) [service](http://del.icio.us/eob/service))
 
 
-	
+
 
 
 

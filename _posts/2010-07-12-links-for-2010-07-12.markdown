@@ -3,19 +3,14 @@ date: '2010-07-12 15:04:14'
 layout: post
 slug: links-for-2010-07-12
 status: publish
+ref: http://allthingshadoop.com/2010/04/24/running-hadoop-mapreduce-with-cassandra-nosql/?goback=%2Egdr_1278894596471_1%2Eanb_2822930_*2
 title: Running Hadoop MapReduce With Cassandra NoSQL
 wordpress_id: '916'
 categories:
 - Programming
 ---
 
-  *
-
-
-[Running Hadoop MapReduce With Cassandra NoSQL « All Things Hadoop](http://allthingshadoop.com/2010/04/24/running-hadoop-mapreduce-with-cassandra-nosql/?goback=%2Egdr_1278894596471_1%2Eanb_2822930_*2)
-
-
-(tags: [database](http://delicious.com/eob/database) [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling))
+  * [Running Hadoop MapReduce With Cassandra NoSQL « All Things Hadoop](http://allthingshadoop.com/2010/04/24/running-hadoop-mapreduce-with-cassandra-nosql/?goback=%2Egdr_1278894596471_1%2Eanb_2822930_*2) (tags: [database](http://delicious.com/eob/database) [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling))
 
 
 

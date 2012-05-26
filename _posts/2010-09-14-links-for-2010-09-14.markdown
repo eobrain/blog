@@ -3,22 +3,17 @@ date: '2010-09-14 15:04:27'
 layout: post
 slug: links-for-2010-09-14
 status: publish
+ref: http://www.nordsc.com/ext/classification_of_http_based_apis.html
 title: Classification of HTTP APIs
 wordpress_id: '987'
 categories:
 - Programming
 ---
 
-  *
+  * [Classification of HTTP APIs](http://www.nordsc.com/ext/classification_of_http_based_apis.html)
 
 
-[Classification of HTTP APIs](http://www.nordsc.com/ext/classification_of_http_based_apis.html)
-
-
-There is a lot of confusion over what kinds of web service APIs can be called "REST".  This article gives a good taxonomy, with examples of which APIs conform to different REST constraints.  It is interesting that according to this author the Flickr "REST" API is not very RESTful.
-
-
-(tags: [api](http://delicious.com/eob/api) [architecture](http://delicious.com/eob/architecture) [design](http://delicious.com/eob/design) [programming](http://delicious.com/eob/programming) [web](http://delicious.com/eob/web) [webservices](http://delicious.com/eob/webservices))
+There is a lot of confusion over what kinds of web service APIs can be called "REST".  This article gives a good taxonomy, with examples of which APIs conform to different REST constraints.  It is interesting that according to this author the Flickr "REST" API is not very RESTful. (tags: [api](http://delicious.com/eob/api) [architecture](http://delicious.com/eob/architecture) [design](http://delicious.com/eob/design) [programming](http://delicious.com/eob/programming) [web](http://delicious.com/eob/web) [webservices](http://delicious.com/eob/webservices))
 
 
 

@@ -3,6 +3,7 @@ date: '2009-01-11 12:49:20'
 layout: post
 slug: 33-reduction-in-public-order-prisoners-in-2002
 status: publish
+ref: http://www.ojp.gov/bjs/glance/corrtyp.htm
 title: 33% reduction in public order prisoners in 2002
 wordpress_id: '348'
 categories:

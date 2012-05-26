@@ -9,40 +9,22 @@ categories:
 - bookmarks
 ---
 
-  *
+  * [Simon Jung: Firefox Extension - File I/O](http://simon-jung.blogspot.com/2007/10/firefox-extension-file-io.html)
 
 
-[Simon Jung: Firefox Extension - File I/O](http://simon-jung.blogspot.com/2007/10/firefox-extension-file-io.html)
+How to write to a local file in a Firefox extension. (tags: [javascript](http://delicious.com/eob/javascript))
 
 
-How to write to a local file in a Firefox extension.
+  * [C#: Generate WebPage Thumbmail Screenshot Image](http://pietschsoft.com/post/2008/07/C-Generate-WebPage-Thumbmail-Screenshot-Image.aspx)
 
 
-(tags: [javascript](http://delicious.com/eob/javascript))
+Using .Net to create a bitmap of a web page (tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [tutorial](http://delicious.com/eob/tutorial) [graphics](http://delicious.com/eob/graphics) [web](http://delicious.com/eob/web) [code](http://delicious.com/eob/code))
 
 
-  *
+  * [TinyJSON - A Minimalistic JSON Reader Based On Boost.Spirit, Boost.Any and Boost.Smart_Ptr : Shift Happens](http://blog.beef.de/projects/tinyjson/)
 
 
-[C#: Generate WebPage Thumbmail Screenshot Image](http://pietschsoft.com/post/2008/07/C-Generate-WebPage-Thumbmail-Screenshot-Image.aspx)
-
-
-Using .Net to create a bitmap of a web page
-
-
-(tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [tutorial](http://delicious.com/eob/tutorial) [graphics](http://delicious.com/eob/graphics) [web](http://delicious.com/eob/web) [code](http://delicious.com/eob/code))
-
-
-  *
-
-
-[TinyJSON - A Minimalistic JSON Reader Based On Boost.Spirit, Boost.Any and Boost.Smart_Ptr : Shift Happens](http://blog.beef.de/projects/tinyjson/)
-
-
-This looks like one of the more useful C++ JSON parsers.
-
-
-(tags: [programming](http://delicious.com/eob/programming) [json](http://delicious.com/eob/json) [library](http://delicious.com/eob/library) [c++](http://delicious.com/eob/c%2B%2B))
+This looks like one of the more useful C++ JSON parsers. (tags: [programming](http://delicious.com/eob/programming) [json](http://delicious.com/eob/json) [library](http://delicious.com/eob/library) [c++](http://delicious.com/eob/c%2B%2B))
 
 
 

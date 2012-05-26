@@ -3,6 +3,7 @@ date: '2004-06-08 22:25:32'
 layout: post
 slug: new-home-for-my-blog
 status: publish
+ref: http://obrain.com
 title: New home for my blog.
 wordpress_id: '19'
 ---

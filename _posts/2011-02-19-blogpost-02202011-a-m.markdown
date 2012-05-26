@@ -3,6 +3,7 @@ date: '2011-02-19 16:41:49'
 layout: post
 slug: blogpost-02202011-a-m
 status: publish
+ref: https://github.com/hij1nx/Weld/raw/master/demo/public/img/weld.png
 title: This is a nice solution for creating live HTML pages by "welding" JSON data
   onto HTML prototypes.
 wordpress_id: '1131'

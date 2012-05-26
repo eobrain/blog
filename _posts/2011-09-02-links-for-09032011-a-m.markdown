@@ -3,6 +3,7 @@ date: '2011-09-02 16:37:26'
 layout: post
 slug: links-for-09032011-a-m
 status: publish
+ref: http://h10010.www1.hp.com/wwpc/us/en/sm/WF08a/321957-321957-64295-3740645-4307559-4096175.html
 title: I think I need to get some more memory for my laptop so that I can run Windows
   and Ubuntu simultaneously (using a virtual machine).
 wordpress_id: '1236'

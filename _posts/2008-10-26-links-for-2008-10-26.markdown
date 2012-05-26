@@ -9,40 +9,22 @@ categories:
 - bookmarks
 ---
 
-  *
+  * [DOM - MDC](https://developer.mozilla.org/En/DOM)
 
 
-[DOM - MDC](https://developer.mozilla.org/En/DOM)
+Firefox DOM reference (tags: [javascript](http://delicious.com/eob/javascript) [reference](http://delicious.com/eob/reference))
 
 
-Firefox DOM reference
+  * [Core JavaScript 1.5 Guide - MDC](https://developer.mozilla.org/En/Core_JavaScript_1.5_Guide)
 
 
-(tags: [javascript](http://delicious.com/eob/javascript) [reference](http://delicious.com/eob/reference))
+Good guide to basic Javascript language features (tags: [javascript](http://delicious.com/eob/javascript) [tutorial](http://delicious.com/eob/tutorial))
 
 
-  *
+  * [Core JavaScript 1.5 Reference - MDC](https://developer.mozilla.org/En/Core_JavaScript_1.5_Reference)
 
 
-[Core JavaScript 1.5 Guide - MDC](https://developer.mozilla.org/En/Core_JavaScript_1.5_Guide)
-
-
-Good guide to basic Javascript language features
-
-
-(tags: [javascript](http://delicious.com/eob/javascript) [tutorial](http://delicious.com/eob/tutorial))
-
-
-  *
-
-
-[Core JavaScript 1.5 Reference - MDC](https://developer.mozilla.org/En/Core_JavaScript_1.5_Reference)
-
-
-Least common denominator version of Javascript core language for IE and Firefox.
-
-
-(tags: [javascript](http://delicious.com/eob/javascript) [reference](http://delicious.com/eob/reference))
+Least common denominator version of Javascript core language for IE and Firefox. (tags: [javascript](http://delicious.com/eob/javascript) [reference](http://delicious.com/eob/reference))
 
 
 

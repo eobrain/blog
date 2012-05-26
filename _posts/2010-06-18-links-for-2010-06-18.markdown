@@ -3,22 +3,17 @@ date: '2010-06-18 15:05:43'
 layout: post
 slug: links-for-2010-06-18
 status: publish
+ref: http://www.docjar.com/docs/api/org/apache/cassandra/thrift/package-index.html
 title: Low-level Java API to Cassandra
 wordpress_id: '905'
 categories:
 - Programming
 ---
 
-  *
+  * [org.apache.cassandra.thrift](http://www.docjar.com/docs/api/org/apache/cassandra/thrift/package-index.html)
 
 
-[org.apache.cassandra.thrift](http://www.docjar.com/docs/api/org/apache/cassandra/thrift/package-index.html)
-
-
-Low-level Java API to Cassandra
-
-
-(tags: [code](http://delicious.com/eob/code) [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling) [reference](http://delicious.com/eob/reference) [java](http://delicious.com/eob/java) [database](http://delicious.com/eob/database))
+Low-level Java API to Cassandra (tags: [code](http://delicious.com/eob/code) [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling) [reference](http://delicious.com/eob/reference) [java](http://delicious.com/eob/java) [database](http://delicious.com/eob/database))
 
 
 

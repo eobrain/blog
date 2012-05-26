@@ -3,22 +3,17 @@ date: '2009-03-04 15:04:18'
 layout: post
 slug: links-for-2009-03-04
 status: publish
+ref: http://www.crazysquirrel.com/computing/debian/servers/tomcat55.jspx
 title: links for 2009-03-04
 wordpress_id: '373'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Apache 2 and Tomcat 5.5](http://www.crazysquirrel.com/computing/debian/servers/tomcat55.jspx)
 
 
-[Apache 2 and Tomcat 5.5](http://www.crazysquirrel.com/computing/debian/servers/tomcat55.jspx)
-
-
-Useful guide for getting Apache and Tomcat to play nice together.
-
-
-(tags: [reference](http://delicious.com/eob/reference) [java](http://delicious.com/eob/java) [linux](http://delicious.com/eob/linux) [apache](http://delicious.com/eob/apache) [web](http://delicious.com/eob/web))
+Useful guide for getting Apache and Tomcat to play nice together. (tags: [reference](http://delicious.com/eob/reference) [java](http://delicious.com/eob/java) [linux](http://delicious.com/eob/linux) [apache](http://delicious.com/eob/apache) [web](http://delicious.com/eob/web))
 
 
 

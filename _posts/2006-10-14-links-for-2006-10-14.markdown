@@ -3,6 +3,7 @@ date: '2006-10-14 16:26:42'
 layout: post
 slug: links-for-2006-10-14
 status: publish
+ref: http://retroweaver.sourceforge.net/index.html
 title: links for 2006-10-14
 wordpress_id: '118'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Retroweaver](http://retroweaver.sourceforge.net/index.html)
+  * [Retroweaver](http://retroweaver.sourceforge.net/index.html)
 
 
-		
-
-Hopefully I will be able to use this tool to deploy my Java 1.5 application on a Java 1.4 JDK.
 
 
-		
-
-(tags: [java](http://del.icio.us/eob/java) [programming](http://del.icio.us/eob/programming) [tool](http://del.icio.us/eob/tool))
+Hopefully I will be able to use this tool to deploy my Java 1.5 application on a Java 1.4 JDK. (tags: [java](http://del.icio.us/eob/java) [programming](http://del.icio.us/eob/programming) [tool](http://del.icio.us/eob/tool))
 
 
-	
+
 
 
 

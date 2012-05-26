@@ -3,6 +3,7 @@ date: '2008-02-24 16:21:58'
 layout: post
 slug: links-for-2008-02-24
 status: publish
+ref: http://www.xs4all.nl/~foz/mod_enclosure.html
 title: links for 2008-02-24
 wordpress_id: '250'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[RDF Site Summary 1.0 Modules: mod_enclosure](http://www.xs4all.nl/~foz/mod_enclosure.html)
+  * [RDF Site Summary 1.0 Modules: mod_enclosure](http://www.xs4all.nl/~foz/mod_enclosure.html)
 
 
-		
-
-FOrmat for enclosures in RSS 1.0
 
 
-		
-
-(tags: [rdf](http://del.icio.us/eob/rdf) [service](http://del.icio.us/eob/service))
+FOrmat for enclosures in RSS 1.0 (tags: [rdf](http://del.icio.us/eob/rdf) [service](http://del.icio.us/eob/service))
 
 
-	
+
 
 
 

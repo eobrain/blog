@@ -3,6 +3,7 @@ date: '2011-11-29 16:37:38'
 layout: post
 slug: links-for-11302011-a-m
 status: publish
+ref: https://github.com/capistrano/capistrano/wiki/2.x-From-The-Beginning
 title: Nice step-by-step tutorial for using Capistrano to deploy a rails app.
 wordpress_id: '1252'
 categories:

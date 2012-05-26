@@ -3,22 +3,17 @@ date: '2009-03-31 15:05:37'
 layout: post
 slug: links-for-2009-03-31
 status: publish
+ref: http://tomcat.apache.org/tomcat-5.5-doc/virtual-hosting-howto.html
 title: links for 2009-03-31
 wordpress_id: '379'
 categories:
 - bookmarks
 ---
 
-  *
+  * [The Apache Tomcat 5.5 Servlet/JSP Container - Virtual Hosting and Tomcat](http://tomcat.apache.org/tomcat-5.5-doc/virtual-hosting-howto.html)
 
 
-[The Apache Tomcat 5.5 Servlet/JSP Container - Virtual Hosting and Tomcat](http://tomcat.apache.org/tomcat-5.5-doc/virtual-hosting-howto.html)
-
-
-How to set up virtual hosts on Tomcat5.
-
-
-(tags: [apache](http://delicious.com/eob/apache) [linux](http://delicious.com/eob/linux) [java](http://delicious.com/eob/java))
+How to set up virtual hosts on Tomcat5. (tags: [apache](http://delicious.com/eob/apache) [linux](http://delicious.com/eob/linux) [java](http://delicious.com/eob/java))
 
 
 

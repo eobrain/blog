@@ -3,22 +3,17 @@ date: '2009-05-23 15:33:13'
 layout: post
 slug: links-for-2009-05-23
 status: publish
+ref: http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1993&categoryID=208
 title: Useful looking AWS machine image for Java deployment
 wordpress_id: '398'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Amazon Web Services Developer Community : Java Web Starter](http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1993&categoryID=208)
 
 
-[Amazon Web Services Developer Community : Java Web Starter](http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1993&categoryID=208)
-
-
-Useful looking AWS machine image for Java deployment
-
-
-(tags: [webservices](http://delicious.com/eob/webservices) [java](http://delicious.com/eob/java) [deployment](http://delicious.com/eob/deployment))
+Useful looking AWS machine image for Java deployment (tags: [webservices](http://delicious.com/eob/webservices) [java](http://delicious.com/eob/java) [deployment](http://delicious.com/eob/deployment))
 
 
 

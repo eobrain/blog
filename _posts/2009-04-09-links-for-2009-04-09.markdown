@@ -3,19 +3,14 @@ date: '2009-04-09 15:05:13'
 layout: post
 slug: links-for-2009-04-09
 status: publish
+ref: http://docs.scribus.net/index.php?lang=en&page=scripterapi
 title: Python scripting API for the Scribus page layout tool
 wordpress_id: '382'
 categories:
 - bookmarks
 ---
 
-  *
-
-
-[.:Scribus:. GPL Desktop Publishing and More](http://docs.scribus.net/index.php?lang=en&page=scripterapi)
-
-
-(tags: [python](http://delicious.com/eob/python) [webpageprinting](http://delicious.com/eob/webpageprinting))
+  * [.:Scribus:. GPL Desktop Publishing and More](http://docs.scribus.net/index.php?lang=en&page=scripterapi) (tags: [python](http://delicious.com/eob/python) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
 

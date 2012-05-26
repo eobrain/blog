@@ -3,6 +3,7 @@ date: '2004-07-04 22:27:10'
 layout: post
 slug: glimpses-of-the-surface-of-titan
 status: publish
+ref: http://photojournal.jpl.nasa.gov/catalog/PIA06407
 title: Glimpses of the surface of titan.
 wordpress_id: '24'
 ---

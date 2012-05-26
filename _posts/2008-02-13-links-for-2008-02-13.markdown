@@ -10,95 +10,55 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Pixenate - Online Photo Editor](http://pixenate.com/)
+  * [Pixenate - Online Photo Editor](http://pixenate.com/) (tags: [ajax](http://del.icio.us/eob/ajax) [flash](http://del.icio.us/eob/flash) [photo](http://del.icio.us/eob/photo) [web2.0](http://del.icio.us/eob/web2.0))
 
 
-		
-
-(tags: [ajax](http://del.icio.us/eob/ajax) [flash](http://del.icio.us/eob/flash) [photo](http://del.icio.us/eob/photo) [web2.0](http://del.icio.us/eob/web2.0))
 
 
-	
 
-	
-  *
-		
-
-[http://www.gliffy.com/gliffy/](http://www.gliffy.com/gliffy/)
+  * [http://www.gliffy.com/gliffy/](http://www.gliffy.com/gliffy/)
 
 
-		
-
-Online diagram editor -- including UML
 
 
-		
-
-(tags: [service](http://del.icio.us/eob/service) [graphics](http://del.icio.us/eob/graphics) [web2.0](http://del.icio.us/eob/web2.0))
+Online diagram editor -- including UML (tags: [service](http://del.icio.us/eob/service) [graphics](http://del.icio.us/eob/graphics) [web2.0](http://del.icio.us/eob/web2.0))
 
 
-	
-
-	
-  *
-		
-
-[nooked » the world’s first distributed feedcommerce platform](http://www.nooked.com/)
 
 
-		
 
-Making money from RSS
-
-
-		
-
-(tags: [ireland](http://del.icio.us/eob/ireland) [startup](http://del.icio.us/eob/startup) [service](http://del.icio.us/eob/service) [webservices](http://del.icio.us/eob/webservices) [business](http://del.icio.us/eob/business))
+  * [nooked » the world’s first distributed feedcommerce platform](http://www.nooked.com/)
 
 
-	
-
-	
-  *
-		
-
-[log5j - Google Code](http://code.google.com/p/log5j/)
 
 
-		
-
-Nice simple and useful layer on top of log4j
+Making money from RSS (tags: [ireland](http://del.icio.us/eob/ireland) [startup](http://del.icio.us/eob/startup) [service](http://del.icio.us/eob/service) [webservices](http://del.icio.us/eob/webservices) [business](http://del.icio.us/eob/business))
 
 
-		
-
-(tags: [java](http://del.icio.us/eob/java) [library](http://del.icio.us/eob/library))
 
 
-	
 
-	
-  *
-		
-
-[thatsmymouse (Beta) Home](http://thatsmymouse.com/)
+  * [log5j - Google Code](http://code.google.com/p/log5j/)
 
 
-		
-
-Cool Javascript sharing of mouse movement between different users of the same web page.
 
 
-		
-
-(tags: [javascript](http://del.icio.us/eob/javascript) [service](http://del.icio.us/eob/service) [ideas](http://del.icio.us/eob/ideas) [web2.0](http://del.icio.us/eob/web2.0))
+Nice simple and useful layer on top of log4j (tags: [java](http://del.icio.us/eob/java) [library](http://del.icio.us/eob/library))
 
 
-	
+
+
+
+  * [thatsmymouse (Beta) Home](http://thatsmymouse.com/)
+
+
+
+
+Cool Javascript sharing of mouse movement between different users of the same web page. (tags: [javascript](http://del.icio.us/eob/javascript) [service](http://del.icio.us/eob/service) [ideas](http://del.icio.us/eob/ideas) [web2.0](http://del.icio.us/eob/web2.0))
+
+
+
 
 
 

@@ -3,6 +3,7 @@ date: '2011-06-04 04:32:34'
 layout: post
 slug: links-for-06042011-p-m
 status: publish
+ref: http://translate.google.com/translate_tools
 title: How to add language translation to your web page.
 wordpress_id: '1209'
 categories:

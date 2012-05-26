@@ -3,6 +3,7 @@ date: '2007-02-06 16:24:11'
 layout: post
 slug: links-for-2007-02-06
 status: publish
+ref: http://eigenclass.org/hiki.rb?rcov
 title: links for 2007-02-06
 wordpress_id: '172'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[eigenclass - rcov: code coverage for Ruby](http://eigenclass.org/hiki.rb?rcov)
+  * [eigenclass - rcov: code coverage for Ruby](http://eigenclass.org/hiki.rb?rcov)
 
 
-		
-
-Code coverage for ruby
 
 
-		
-
-(tags: [ruby](http://del.icio.us/eob/ruby) [tool](http://del.icio.us/eob/tool) [programming](http://del.icio.us/eob/programming))
+Code coverage for ruby (tags: [ruby](http://del.icio.us/eob/ruby) [tool](http://del.icio.us/eob/tool) [programming](http://del.icio.us/eob/programming))
 
 
-	
+
 
 
 

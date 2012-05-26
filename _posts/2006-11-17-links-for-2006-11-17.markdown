@@ -10,99 +10,51 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[fliptrack: put your life to music](http://www.fliptrack.com/)
+  * [fliptrack: put your life to music](http://www.fliptrack.com/) (tags: [photo](http://del.icio.us/eob/photo) [video](http://del.icio.us/eob/video) [photovideo](http://del.icio.us/eob/photovideo) [music](http://del.icio.us/eob/music) [service](http://del.icio.us/eob/service))
 
 
-		
-
-(tags: [photo](http://del.icio.us/eob/photo) [video](http://del.icio.us/eob/video) [photovideo](http://del.icio.us/eob/photovideo) [music](http://del.icio.us/eob/music) [service](http://del.icio.us/eob/service))
 
 
-	
 
-	
-  *
-		
-
-[Brilliant Minds on the Next 50 Years: Instant Expert - science-forecasts - 16 November 2006 - New Scientist](http://www.newscientist.com/channel/opinion/science-forecasts/dn10580)
+  * [Brilliant Minds on the Next 50 Years: Instant Expert - science-forecasts - 16 November 2006 - New Scientist](http://www.newscientist.com/channel/opinion/science-forecasts/dn10580)
 
 
-		
-
-Predictions for the next 50 years from New Scientist
 
 
-		
-
-(tags: [future](http://del.icio.us/eob/future) [technology](http://del.icio.us/eob/technology))
+Predictions for the next 50 years from New Scientist (tags: [future](http://del.icio.us/eob/future) [technology](http://del.icio.us/eob/technology))
 
 
-	
-
-	
-  *
-		
-
-[One True Media Home](http://www.onetruemedia.com/)
 
 
-		
 
-(tags: [photo](http://del.icio.us/eob/photo) [video](http://del.icio.us/eob/video) [photovideo](http://del.icio.us/eob/photovideo))
-
-
-	
-
-	
-  *
-		
-
-[VideoEgg:](http://www.videoegg.com/)
+  * [One True Media Home](http://www.onetruemedia.com/) (tags: [photo](http://del.icio.us/eob/photo) [video](http://del.icio.us/eob/video) [photovideo](http://del.icio.us/eob/photovideo))
 
 
-		
-
-(tags: [video](http://del.icio.us/eob/video) [service](http://del.icio.us/eob/service))
 
 
-	
 
-	
-  *
-		
-
-[RadRails: A free and open source Ruby on Rails IDE](http://www.radrails.org/)
+  * [VideoEgg:](http://www.videoegg.com/) (tags: [video](http://del.icio.us/eob/video) [service](http://del.icio.us/eob/service))
 
 
-		
-
-Looks worth checking out.
 
 
-		
 
-(tags: [ruby](http://del.icio.us/eob/ruby) [programming](http://del.icio.us/eob/programming) [tool](http://del.icio.us/eob/tool) [rubyonrails](http://del.icio.us/eob/rubyonrails) [totry](http://del.icio.us/eob/totry))
-
-
-	
-
-	
-  *
-		
-
-[Multiply](http://multiply.com/)
+  * [RadRails: A free and open source Ruby on Rails IDE](http://www.radrails.org/)
 
 
-		
-
-(tags: [photovideo](http://del.icio.us/eob/photovideo))
 
 
-	
+Looks worth checking out. (tags: [ruby](http://del.icio.us/eob/ruby) [programming](http://del.icio.us/eob/programming) [tool](http://del.icio.us/eob/tool) [rubyonrails](http://del.icio.us/eob/rubyonrails) [totry](http://del.icio.us/eob/totry))
+
+
+
+
+
+  * [Multiply](http://multiply.com/) (tags: [photovideo](http://del.icio.us/eob/photovideo))
+
+
+
 
 
 

@@ -3,19 +3,14 @@ date: '2009-04-28 15:08:28'
 layout: post
 slug: links-for-2009-04-28
 status: publish
+ref: http://en.wikipedia.org/wiki/VOX-ATypI_classification
 title: A system for classifying typefaces.
 wordpress_id: '389'
 categories:
 - bookmarks
 ---
 
-  *
-
-
-[VOX-ATypI classification - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/VOX-ATypI_classification)
-
-
-(tags: [reference](http://delicious.com/eob/reference) [webpageprinting](http://delicious.com/eob/webpageprinting))
+  * [VOX-ATypI classification - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/VOX-ATypI_classification) (tags: [reference](http://delicious.com/eob/reference) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
 

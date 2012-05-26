@@ -3,6 +3,7 @@ date: '2009-12-21 13:14:23'
 layout: post
 slug: scala-class-an-online-resource-to-make-it-easier-to-learn-the-next-big-language
 status: publish
+ref: http://scalaclass.com
 title: Scala Class, an online resource to make it easier to learn the Next Big Language
 wordpress_id: '595'
 categories:

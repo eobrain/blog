@@ -3,31 +3,20 @@ date: '2009-08-02 15:06:34'
 layout: post
 slug: links-for-2009-08-02
 status: publish
+ref: http://portal.acm.org/citation.cfm?id=986537.986607
 title: Biologically inspired attempt to overcome scalability problems of Linda
 wordpress_id: '418'
 categories:
 - bookmarks
 ---
 
-  *
+  * [On the implementation of SwarmLinda](http://portal.acm.org/citation.cfm?id=986537.986607)
 
 
-[On the implementation of SwarmLinda](http://portal.acm.org/citation.cfm?id=986537.986607)
+This and other SwarmLinda papers have a useful discussion of the scalability problems of Linda. The proposed solution however seems a bit dubious to me, though it would be cool if such biologically inspired mechanisms actually worked. (tags: [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling))
 
 
-This and other SwarmLinda papers have a useful discussion of the scalability problems of Linda. The proposed solution however seems a bit dubious to me, though it would be cool if such biologically inspired mechanisms actually worked.
-
-
-(tags: [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling))
-
-
-  *
-
-
-[A Survey of Concurrency Constructs](http://www.slideshare.net/twleung/a-survey-of-concurrency-constructs)
-
-
-(tags: [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling) [programming](http://delicious.com/eob/programming))
+  * [A Survey of Concurrency Constructs](http://www.slideshare.net/twleung/a-survey-of-concurrency-constructs) (tags: [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling) [programming](http://delicious.com/eob/programming))
 
 
 

@@ -3,6 +3,7 @@ date: '2005-09-22 11:39:09'
 layout: post
 slug: writely-update
 status: publish
+ref: http://www.writely.com/
 title: Writely Update
 wordpress_id: '86'
 categories:

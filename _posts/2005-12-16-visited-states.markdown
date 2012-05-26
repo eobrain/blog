@@ -3,6 +3,7 @@ date: '2005-12-16 12:09:00'
 layout: post
 slug: visited-states
 status: publish
+ref: http://www.world66.com/myworld66/visitedStates/statemap?visited=ALAZCACOCTDCDEFLGAILIALAMDMAMSNENVNHNJNMNYNCORPARISCTNTXUTVTVAWAWVWI
 title: Visited States
 wordpress_id: '89'
 categories:

@@ -3,6 +3,7 @@ date: '2008-05-26 16:31:59'
 layout: post
 slug: links-for-2008-05-26
 status: publish
+ref: http://migbase64.sourceforge.net/
 title: links for 2008-05-26
 wordpress_id: '288'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[MiGBase64 - Base64 Java Codec](http://migbase64.sourceforge.net/)
+  * [MiGBase64 - Base64 Java Codec](http://migbase64.sourceforge.net/)
 
 
-		
-
-Base64 encoder which claims to be much faster than the iharder encoder that we currently use.  Might consider using it, but it would need a little tweaking to provide an alternative "URL-safe" alphabet mode like the iharder library does.
 
 
-		
-
-(tags: [java](http://del.icio.us/eob/java) [library](http://del.icio.us/eob/library) [programming](http://del.icio.us/eob/programming) [algorithm](http://del.icio.us/eob/algorithm))
+Base64 encoder which claims to be much faster than the iharder encoder that we currently use.  Might consider using it, but it would need a little tweaking to provide an alternative "URL-safe" alphabet mode like the iharder library does. (tags: [java](http://del.icio.us/eob/java) [library](http://del.icio.us/eob/library) [programming](http://del.icio.us/eob/programming) [algorithm](http://del.icio.us/eob/algorithm))
 
 
-	
+
 
 
 

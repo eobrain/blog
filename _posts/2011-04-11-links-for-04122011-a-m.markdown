@@ -3,6 +3,7 @@ date: '2011-04-11 16:38:42'
 layout: post
 slug: links-for-04122011-a-m
 status: publish
+ref: http://www.datastax.com/dev/blog/setting-up-a-cassandra-cluster-with-the-datastax-ami
 title: This looks like a convenient recipe for getting Cassandra up and running in
   the cloud.
 wordpress_id: '1192'

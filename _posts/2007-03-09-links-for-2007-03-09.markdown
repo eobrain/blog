@@ -3,6 +3,7 @@ date: '2007-03-09 16:20:50'
 layout: post
 slug: links-for-2007-03-09
 status: publish
+ref: http://jibbering.com/faq/faq_notes/closures.html
 title: links for 2007-03-09
 wordpress_id: '182'
 categories:
@@ -10,19 +11,11 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Javascript Closures](http://jibbering.com/faq/faq_notes/closures.html)
+  * [Javascript Closures](http://jibbering.com/faq/faq_notes/closures.html) (tags: [javascript](http://del.icio.us/eob/javascript) [language](http://del.icio.us/eob/language) [programming](http://del.icio.us/eob/programming) [tutorial](http://del.icio.us/eob/tutorial))
 
 
-		
 
-(tags: [javascript](http://del.icio.us/eob/javascript) [language](http://del.icio.us/eob/language) [programming](http://del.icio.us/eob/programming) [tutorial](http://del.icio.us/eob/tutorial))
-
-
-	
 
 
 

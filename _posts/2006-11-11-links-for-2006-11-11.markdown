@@ -10,43 +10,27 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[FAlbum at RandomByte](http://www.randombyte.net/blog/projects/falbum/)
+  * [FAlbum at RandomByte](http://www.randombyte.net/blog/projects/falbum/)
 
 
-		
-
-Wordpress plugin for displaying FLickr photos
 
 
-		
-
-(tags: [photo](http://del.icio.us/eob/photo) [tools](http://del.icio.us/eob/tools) [blog](http://del.icio.us/eob/blog))
+Wordpress plugin for displaying FLickr photos (tags: [photo](http://del.icio.us/eob/photo) [tools](http://del.icio.us/eob/tools) [blog](http://del.icio.us/eob/blog))
 
 
-	
-
-	
-  *
-		
-
-[quickr-flickr: quickr-flickr: access Flickr services with Java, simply!](https://quickr-flickr.dev.java.net/)
 
 
-		
 
-AN alternative Java API for Flickr
-
-
-		
-
-(tags: [java](http://del.icio.us/eob/java) [service](http://del.icio.us/eob/service) [photo](http://del.icio.us/eob/photo))
+  * [quickr-flickr: quickr-flickr: access Flickr services with Java, simply!](https://quickr-flickr.dev.java.net/)
 
 
-	
+
+
+AN alternative Java API for Flickr (tags: [java](http://del.icio.us/eob/java) [service](http://del.icio.us/eob/service) [photo](http://del.icio.us/eob/photo))
+
+
+
 
 
 

@@ -3,19 +3,14 @@ date: '2009-04-13 15:05:15'
 layout: post
 slug: links-for-2009-04-13
 status: publish
+ref: http://www.scala-lang.org/docu/files/api/index.html
 title: The API reference for the Scala library.
 wordpress_id: '384'
 categories:
 - bookmarks
 ---
 
-  *
-
-
-[Scala Library](http://www.scala-lang.org/docu/files/api/index.html)
-
-
-(tags: [scala](http://delicious.com/eob/scala) [language](http://delicious.com/eob/language) [library](http://delicious.com/eob/library) [programming](http://delicious.com/eob/programming) [reference](http://delicious.com/eob/reference))
+  * [Scala Library](http://www.scala-lang.org/docu/files/api/index.html) (tags: [scala](http://delicious.com/eob/scala) [language](http://delicious.com/eob/language) [library](http://delicious.com/eob/library) [programming](http://delicious.com/eob/programming) [reference](http://delicious.com/eob/reference))
 
 
 

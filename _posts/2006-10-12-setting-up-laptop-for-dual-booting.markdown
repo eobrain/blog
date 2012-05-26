@@ -3,6 +3,7 @@ date: '2006-10-12 15:04:15'
 layout: post
 slug: setting-up-laptop-for-dual-booting
 status: publish
+ref: http://www.ubuntu.com/download
 title: Setting up laptop for dual booting
 wordpress_id: '112'
 categories:

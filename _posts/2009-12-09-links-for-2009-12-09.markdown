@@ -9,28 +9,16 @@ categories:
 - Programming
 ---
 
-  *
+  * [A Fast Signature Simulation Tool for Built-In Self-Testing Circuits](http://delivery.acm.org/10.1145/40000/37891/p17-tan.pdf?key1=37891&key2=7067930621&coll=GUIDE&dl=GUIDE&CFID=67581184&CFTOKEN=41913591)
 
 
-[A Fast Signature Simulation Tool for Built-In Self-Testing Circuits](http://delivery.acm.org/10.1145/40000/37891/p17-tan.pdf?key1=37891&key2=7067930621&coll=GUIDE&dl=GUIDE&CFID=67581184&CFTOKEN=41913591)
+This is paper came out of a research team that I worked with in London. (tags: [my](http://delicious.com/eob/my))
 
 
-This is paper came out of a research team that I worked with in London.
+  * [High-Level CAD for Interactive Layout and Design](http://cordis.europa.eu/search/index.cfm?fuseaction=proj.document&PJ_LANG=EN&PJ_RCN=293275)
 
 
-(tags: [my](http://delicious.com/eob/my))
-
-
-  *
-
-
-[High-Level CAD for Interactive Layout and Design](http://cordis.europa.eu/search/index.cfm?fuseaction=proj.document&PJ_LANG=EN&PJ_RCN=293275)
-
-
-This was the research project that I worked on for several years in London,
-
-
-(tags: [my](http://delicious.com/eob/my))
+This was the research project that I worked on for several years in London, (tags: [my](http://delicious.com/eob/my))
 
 
 

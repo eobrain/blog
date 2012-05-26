@@ -9,28 +9,16 @@ categories:
 - bookmarks
 ---
 
-  *
+  * [braindump: NOSQL debrief](http://blog.oskarsson.nu/2009/06/nosql-debrief.html)
 
 
-[braindump: NOSQL debrief](http://blog.oskarsson.nu/2009/06/nosql-debrief.html)
+Very useful collection of presentation of various non-SQL databases, some of them similar to Google's BigTable. (tags: [programming](http://delicious.com/eob/programming) [database](http://delicious.com/eob/database) [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling) [conference](http://delicious.com/eob/conference))
 
 
-Very useful collection of presentation of various non-SQL databases, some of them similar to Google's BigTable.
+  * [Benchmarking -  thrift-protobuf-compare -  Google Code](http://code.google.com/p/thrift-protobuf-compare/wiki/Benchmarking)
 
 
-(tags: [programming](http://delicious.com/eob/programming) [database](http://delicious.com/eob/database) [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling) [conference](http://delicious.com/eob/conference))
-
-
-  *
-
-
-[Benchmarking -  thrift-protobuf-compare -  Google Code](http://code.google.com/p/thrift-protobuf-compare/wiki/Benchmarking)
-
-
-Interesting comparison of different Java serialization methods.
-
-
-(tags: [programming](http://delicious.com/eob/programming) [java](http://delicious.com/eob/java) [scala](http://delicious.com/eob/scala) [json](http://delicious.com/eob/json))
+Interesting comparison of different Java serialization methods. (tags: [programming](http://delicious.com/eob/programming) [java](http://delicious.com/eob/java) [scala](http://delicious.com/eob/scala) [json](http://delicious.com/eob/json))
 
 
 

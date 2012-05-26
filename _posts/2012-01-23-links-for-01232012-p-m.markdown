@@ -3,6 +3,7 @@ date: '2012-01-23 04:33:36'
 layout: post
 slug: links-for-01232012-p-m
 status: publish
+ref: http://www.appdata.com
 title: Interesting data on Facebook and iOS apps.
 wordpress_id: '3481'
 categories:

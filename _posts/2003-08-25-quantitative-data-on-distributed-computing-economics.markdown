@@ -3,6 +3,7 @@ date: '2003-08-25 12:51:02'
 layout: post
 slug: quantitative-data-on-distributed-computing-economics
 status: publish
+ref: ftp://ftp.research.microsoft.com/pub/tr/tr-2003-24.pdf
 title: Quantitative data on distributed computing economics.
 wordpress_id: '15'
 ---

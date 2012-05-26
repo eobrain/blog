@@ -3,6 +3,7 @@ date: '2011-03-27 04:32:31'
 layout: post
 slug: links-for-03272011-p-m
 status: publish
+ref: http://www.mongodb.org/display/DOCS/SQL+to+Mongo+Mapping+Chart
 title: Handy cheat-cheat of SQL / mongoDB correspondences.
 wordpress_id: '1187'
 categories:

@@ -3,6 +3,7 @@ date: '2002-11-25 16:27:25'
 layout: post
 slug: moonbeam-xml-socket-server
 status: publish
+ref: http://openj.net/
 title: Moonbeam XML Socket Server
 wordpress_id: '3'
 categories:

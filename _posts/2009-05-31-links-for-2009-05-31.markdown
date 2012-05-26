@@ -9,49 +9,25 @@ categories:
 - bookmarks
 ---
 
-  *
+  * [hartija -  Google Code](http://code.google.com/p/hartija/)
 
 
-[hartija -  Google Code](http://code.google.com/p/hartija/)
+A universal CSS print stylesheet (tags: [printing](http://delicious.com/eob/printing) [web](http://delicious.com/eob/web) [css](http://delicious.com/eob/css) [layout](http://delicious.com/eob/layout) [design](http://delicious.com/eob/design) [library](http://delicious.com/eob/library) [programming](http://delicious.com/eob/programming) [code](http://delicious.com/eob/code))
 
 
-A universal CSS print stylesheet
+  * [Aardvark Firefox Extension](http://karmatics.com/aardvark/)
 
 
-(tags: [printing](http://delicious.com/eob/printing) [web](http://delicious.com/eob/web) [css](http://delicious.com/eob/css) [layout](http://delicious.com/eob/layout) [design](http://delicious.com/eob/design) [library](http://delicious.com/eob/library) [programming](http://delicious.com/eob/programming) [code](http://delicious.com/eob/code))
+Powerful editor to temporarily change a web page before printing. (tags: [javascript](http://delicious.com/eob/javascript) [ajax](http://delicious.com/eob/ajax) [web](http://delicious.com/eob/web) [printing](http://delicious.com/eob/printing) [css](http://delicious.com/eob/css) [tool](http://delicious.com/eob/tool) [design](http://delicious.com/eob/design) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-  *
+  * [Edit Any Web Page in your Browser Just Like a Wiki](http://www.labnol.org/internet/design/edit-web-pages-like-wiki/3832/) (tags: [javascript](http://delicious.com/eob/javascript) [code](http://delicious.com/eob/code) [web](http://delicious.com/eob/web) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-[Aardvark Firefox Extension](http://karmatics.com/aardvark/)
+  * [Make a Print Friendly Version of any WebPage, save Webpages as a PDF](http://www.printfriendly.com/)
 
 
-Powerful editor to temporarily change a web page before printing.
-
-
-(tags: [javascript](http://delicious.com/eob/javascript) [ajax](http://delicious.com/eob/ajax) [web](http://delicious.com/eob/web) [printing](http://delicious.com/eob/printing) [css](http://delicious.com/eob/css) [tool](http://delicious.com/eob/tool) [design](http://delicious.com/eob/design) [webpageprinting](http://delicious.com/eob/webpageprinting))
-
-
-  *
-
-
-[Edit Any Web Page in your Browser Just Like a Wiki](http://www.labnol.org/internet/design/edit-web-pages-like-wiki/3832/)
-
-
-(tags: [javascript](http://delicious.com/eob/javascript) [code](http://delicious.com/eob/code) [web](http://delicious.com/eob/web) [webpageprinting](http://delicious.com/eob/webpageprinting))
-
-
-  *
-
-
-[Make a Print Friendly Version of any WebPage, save Webpages as a PDF](http://www.printfriendly.com/)
-
-
-Another site that creates print-friendly versions of web pages.
-
-
-(tags: [web2.0](http://delicious.com/eob/web2.0) [tool](http://delicious.com/eob/tool) [web](http://delicious.com/eob/web) [printing](http://delicious.com/eob/printing) [css](http://delicious.com/eob/css) [technology](http://delicious.com/eob/technology) [webpageprinting](http://delicious.com/eob/webpageprinting) [printfriendly](http://delicious.com/eob/printfriendly))
+Another site that creates print-friendly versions of web pages. (tags: [web2.0](http://delicious.com/eob/web2.0) [tool](http://delicious.com/eob/tool) [web](http://delicious.com/eob/web) [printing](http://delicious.com/eob/printing) [css](http://delicious.com/eob/css) [technology](http://delicious.com/eob/technology) [webpageprinting](http://delicious.com/eob/webpageprinting) [printfriendly](http://delicious.com/eob/printfriendly))
 
 
 

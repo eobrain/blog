@@ -3,6 +3,7 @@ date: '2011-04-07 16:38:56'
 layout: post
 slug: links-for-04082011-a-m
 status: publish
+ref: http://pagespeed.googlelabs.com
 title: A nicely organized tool to measure your web site performance, prioritizing
   the actions you should take.
 wordpress_id: '1191'

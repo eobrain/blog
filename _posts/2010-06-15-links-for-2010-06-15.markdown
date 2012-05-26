@@ -3,22 +3,17 @@ date: '2010-06-15 15:03:57'
 layout: post
 slug: links-for-2010-06-15
 status: publish
+ref: http://github.com/rantav/hector/blob/master/src/main/java/me/prettyprint/cassandra/service/ExampleClient.java
 title: Example Cassandra client using the Hector library
 wordpress_id: '904'
 categories:
 - Programming
 ---
 
-  *
+  * [src/main/java/me/prettyprint/cassandra/service/ExampleClient.java at master from rantav's hector - GitHub](http://github.com/rantav/hector/blob/master/src/main/java/me/prettyprint/cassandra/service/ExampleClient.java)
 
 
-[src/main/java/me/prettyprint/cassandra/service/ExampleClient.java at master from rantav's hector - GitHub](http://github.com/rantav/hector/blob/master/src/main/java/me/prettyprint/cassandra/service/ExampleClient.java)
-
-
-Example Cassandra client using the Hector library
-
-
-(tags: [java](http://delicious.com/eob/java) [tutorial](http://delicious.com/eob/tutorial) [code](http://delicious.com/eob/code) [architecture](http://delicious.com/eob/architecture))
+Example Cassandra client using the Hector library (tags: [java](http://delicious.com/eob/java) [tutorial](http://delicious.com/eob/tutorial) [code](http://delicious.com/eob/code) [architecture](http://delicious.com/eob/architecture))
 
 
 

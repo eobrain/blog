@@ -7,7 +7,18 @@ description: A description about my blog homepage
   <h2>Blog Posts</h2>
   <ul>
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li>
+        <span>{{ post.date | date_to_string }}</span> 
+        -
+        <a href="{{ post.url }}">
+          {{ post.title }}
+          {% if post.ref %}
+            <img 
+               src="http://play.webthunk.com/representativeimage.function?webpage={{ post.ref | cgi_escape }}"
+               />
+          {% endif %}
+        </a>
+      </li>
     {% endfor %}
   </ul>
 </div>
@@ -17,7 +28,16 @@ description: A description about my blog homepage
   <ul>
     {% for page in site.html_pages %}
       {% if page.title %}
-        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+        <li>
+          <a href="{{ page.url }}">
+            {{ page.title }}
+            {% if page.ref %}
+              <img 
+                 src="http://play.webthunk.com/representativeimage.function?webpage={{ page.ref | cgi_escape }}"
+                 />
+            {% endif %}
+          </a>
+        </li>
       {% endif %}
     {% endfor %}
   </ul>

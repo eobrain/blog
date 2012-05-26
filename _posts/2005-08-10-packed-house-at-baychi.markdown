@@ -3,6 +3,7 @@ date: '2005-08-10 19:07:59'
 layout: post
 slug: packed-house-at-baychi
 status: publish
+ref: http://www.flickr.com/photos/stewart/32849054/
 title: Packed house at BayCHI
 wordpress_id: '81'
 categories:

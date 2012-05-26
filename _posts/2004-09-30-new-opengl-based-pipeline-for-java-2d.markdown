@@ -3,6 +3,7 @@ date: '2004-09-30 09:18:01'
 layout: post
 slug: new-opengl-based-pipeline-for-java-2d
 status: publish
+ref: http://www.artima.com/forums/flat.jsp?forum=121&thread=73135
 title: ' new OpenGL-based pipeline for Java 2D'
 wordpress_id: '44'
 ---

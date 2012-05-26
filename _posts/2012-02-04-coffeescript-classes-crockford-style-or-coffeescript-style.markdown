@@ -3,6 +3,7 @@ date: '2012-02-04 23:40:35'
 layout: post
 slug: coffeescript-classes-crockford-style-or-coffeescript-style
 status: publish
+ref: http://javascript.crockford.com/private.html
 title: 'Coffeescript classes: Coffeescript-style or Crockford-style?'
 wordpress_id: '5184'
 categories:

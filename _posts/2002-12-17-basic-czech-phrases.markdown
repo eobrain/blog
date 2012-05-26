@@ -3,6 +3,7 @@ date: '2002-12-17 09:46:29'
 layout: post
 slug: basic-czech-phrases
 status: publish
+ref: http://www.accommodation-prague.cz/slovnik.html
 title: Basic Czech phrases
 wordpress_id: '8'
 ---

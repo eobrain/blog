@@ -3,6 +3,7 @@ date: '2006-10-14 12:59:43'
 layout: post
 slug: mounting-windows-disks-under-linux
 status: publish
+ref: http://ubuntuguide.org/wiki/Dapper#How_to_mount_Windows_partitions_.28FAT.29_on_boot-up.2C_and_allow_all_users_to_read.2Fwrite
 title: Mounting windows disks under Linux
 wordpress_id: '117'
 categories:

@@ -3,6 +3,7 @@ date: '2002-11-25 16:33:03'
 layout: post
 slug: new-jdk-14-socket-timeout-control
 status: publish
+ref: http://developer.java.sun.com/developer/JDCTechTips/2002/tt1119.html#2
 title: New JDK 1.4 socket timeout control
 wordpress_id: '4'
 ---

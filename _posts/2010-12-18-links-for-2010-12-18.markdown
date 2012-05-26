@@ -3,6 +3,7 @@ date: '2010-12-18 15:11:56'
 layout: post
 slug: links-for-2010-12-18
 status: publish
+ref: http://bodybrowser.googlelabs.com/body.html#ui=0,0&opa=s:0,m:0.91,sk:0.88,c:0.88,o:0.85,ci:0.82,n:0.79&sel=&lab=&nav=-3.99,154.11,24.75
 title: An amazing service from Google, allowing you to fly through the human body
   in 3D, setting the transparency of different parts of the body.
 wordpress_id: '1037'
@@ -10,18 +11,12 @@ categories:
 - Science
 ---
 
-  *
-
-
-[Body Browser - Google Labs](http://bodybrowser.googlelabs.com/body.html#ui=0,0&opa=s:0,m:0.91,sk:0.88,c:0.88,o:0.85,ci:0.82,n:0.79&sel=&lab=&nav=-3.99,154.11,24.75)
+  * [Body Browser - Google Labs](http://bodybrowser.googlelabs.com/body.html#ui=0,0&opa=s:0,m:0.91,sk:0.88,c:0.88,o:0.85,ci:0.82,n:0.79&sel=&lab=&nav=-3.99,154.11,24.75)
 
 
 An amazing service from Google, allowing you to fly through the human body in 3D, setting the transparency of different parts of the body.  You can search for parts of the body, though only by Latin name mostly.
 
-This does require a modern browser HTML5 browser.
-
-
-(tags: [web](http://www.delicious.com/eob/web) [service](http://www.delicious.com/eob/service) [graphics](http://www.delicious.com/eob/graphics) [html5](http://www.delicious.com/eob/html5))
+This does require a modern browser HTML5 browser. (tags: [web](http://www.delicious.com/eob/web) [service](http://www.delicious.com/eob/service) [graphics](http://www.delicious.com/eob/graphics) [html5](http://www.delicious.com/eob/html5))
 
 
 

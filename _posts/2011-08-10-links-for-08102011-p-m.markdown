@@ -3,6 +3,7 @@ date: '2011-08-10 04:31:52'
 layout: post
 slug: links-for-08102011-p-m
 status: publish
+ref: http://activemq.apache.org/how-do-i-embed-a-broker-inside-a-connection.html
 title: An easy-to-deploy configuration of ActiveMQ messaging, that seems good for
   modest levels of scaling.
 wordpress_id: '1231'

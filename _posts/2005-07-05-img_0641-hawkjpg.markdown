@@ -3,6 +3,7 @@ date: '2005-07-05 12:12:20'
 layout: post
 slug: img_0641-hawkjpg
 status: publish
+ref: http://www.flickr.com/photos/eob/23836535/
 title: IMG_0641-hawk.JPG
 wordpress_id: '77'
 categories:

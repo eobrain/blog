@@ -3,6 +3,7 @@ date: '2004-11-18 18:29:33'
 layout: post
 slug: film-analysis
 status: publish
+ref: http://classes.yale.edu/film-analysis/
 title: Film Analysis
 wordpress_id: '54'
 categories:

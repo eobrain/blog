@@ -9,28 +9,16 @@ categories:
 - bookmarks
 ---
 
-  *
+  * [What's Your Personal Data Worth? | Blog | design mind](http://designmind.frogdesign.com/blog/what039s-your-personal-data-worth.html?)
 
 
-[What's Your Personal Data Worth? | Blog | design mind](http://designmind.frogdesign.com/blog/what039s-your-personal-data-worth.html?)
+According to this research people are willing to pay about $50/year to preserve the privacy of their digital communication, web history, and physical location. (tags: [privacy](http://www.delicious.com/eob/privacy) [security](http://www.delicious.com/eob/security) [business](http://www.delicious.com/eob/business))
 
 
-According to this research people are willing to pay about $50/year to preserve the privacy of their digital communication, web history, and physical location.
+  * [Amazon Elastic Compute Cloud Command Line Tools Reference](http://docs.amazonwebservices.com/AWSEC2/latest/CommandLineReference)
 
 
-(tags: [privacy](http://www.delicious.com/eob/privacy) [security](http://www.delicious.com/eob/security) [business](http://www.delicious.com/eob/business))
-
-
-  *
-
-
-[Amazon Elastic Compute Cloud Command Line Tools Reference](http://docs.amazonwebservices.com/AWSEC2/latest/CommandLineReference)
-
-
-Hard-to-find documentation for the EC2 command-line tools.
-
-
-(tags: [scaling](http://www.delicious.com/eob/scaling) [deployment](http://www.delicious.com/eob/deployment) [programming](http://www.delicious.com/eob/programming) [reference](http://www.delicious.com/eob/reference))
+Hard-to-find documentation for the EC2 command-line tools. (tags: [scaling](http://www.delicious.com/eob/scaling) [deployment](http://www.delicious.com/eob/deployment) [programming](http://www.delicious.com/eob/programming) [reference](http://www.delicious.com/eob/reference))
 
 
 

@@ -3,6 +3,7 @@ date: '2007-01-18 16:30:55'
 layout: post
 slug: links-for-2007-01-18
 status: publish
+ref: http://flood.firetree.net/?ll=53.3713,-6.2706&z=1&m=11&t=2
 title: links for 2007-01-18
 wordpress_id: '164'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Flood Maps](http://flood.firetree.net/?ll=53.3713,-6.2706&z=1&m=11&t=2)
+  * [Flood Maps](http://flood.firetree.net/?ll=53.3713,-6.2706&z=1&m=11&t=2)
 
 
-		
-
-With an 11 metre seal-level rise the house I grew up in would be seaside property.  Any higher sea-level rise and it would be under water.
 
 
-		
-
-(tags: [climate](http://del.icio.us/eob/climate) [Ireland](http://del.icio.us/eob/Ireland))
+With an 11 metre seal-level rise the house I grew up in would be seaside property.  Any higher sea-level rise and it would be under water. (tags: [climate](http://del.icio.us/eob/climate) [Ireland](http://del.icio.us/eob/Ireland))
 
 
-	
+
 
 
 

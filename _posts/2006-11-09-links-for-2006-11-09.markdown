@@ -3,6 +3,7 @@ date: '2006-11-09 16:29:57'
 layout: post
 slug: links-for-2006-11-09
 status: publish
+ref: http://www.ninebynine.org/RDFNotes/RDFForLittleLanguages.htm
 title: links for 2006-11-09
 wordpress_id: '127'
 categories:
@@ -10,19 +11,11 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[RDF for "Little Languages"](http://www.ninebynine.org/RDFNotes/RDFForLittleLanguages.htm)
+  * [RDF for "Little Languages"](http://www.ninebynine.org/RDFNotes/RDFForLittleLanguages.htm) (tags: [rdf](http://del.icio.us/eob/rdf) [metadata](http://del.icio.us/eob/metadata))
 
 
-		
 
-(tags: [rdf](http://del.icio.us/eob/rdf) [metadata](http://del.icio.us/eob/metadata))
-
-
-	
 
 
 

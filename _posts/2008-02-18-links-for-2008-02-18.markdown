@@ -3,6 +3,7 @@ date: '2008-02-18 16:23:16'
 layout: post
 slug: links-for-2008-02-18
 status: publish
+ref: http://exporttoworld.plugimi.com/
 title: links for 2008-02-18
 wordpress_id: '246'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Export to World * Home](http://exporttoworld.plugimi.com/)
+  * [Export to World * Home](http://exporttoworld.plugimi.com/)
 
 
-		
-
-bits-to-atoms, another way
 
 
-		
-
-(tags: [technology](http://del.icio.us/eob/technology))
+bits-to-atoms, another way (tags: [technology](http://del.icio.us/eob/technology))
 
 
-	
+
 
 
 

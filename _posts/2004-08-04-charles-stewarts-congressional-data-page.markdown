@@ -3,6 +3,7 @@ date: '2004-08-04 17:22:51'
 layout: post
 slug: charles-stewarts-congressional-data-page
 status: publish
+ref: http://web.mit.edu/17.251/www/data_page.html
 title: Charles Stewart's congressional data page
 wordpress_id: '35'
 ---

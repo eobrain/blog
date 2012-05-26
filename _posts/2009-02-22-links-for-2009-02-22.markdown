@@ -3,22 +3,17 @@ date: '2009-02-22 15:05:29'
 layout: post
 slug: links-for-2009-02-22
 status: publish
+ref: http://semicomplete.com/blog/geekery/xvfb-firefox.html
 title: links for 2009-02-22
 wordpress_id: '367'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Xvfb + Firefox :: semicomplete.com - Jordan Sissel](http://semicomplete.com/blog/geekery/xvfb-firefox.html)
 
 
-[Xvfb + Firefox :: semicomplete.com - Jordan Sissel](http://semicomplete.com/blog/geekery/xvfb-firefox.html)
-
-
-Capturing screenshots of web sites programatically from a server using firefox running under an X virtual frame buffer.
-
-
-(tags: [tutorial](http://delicious.com/eob/tutorial) [web](http://delicious.com/eob/web) [linux](http://delicious.com/eob/linux) [webpageprinting](http://delicious.com/eob/webpageprinting))
+Capturing screenshots of web sites programatically from a server using firefox running under an X virtual frame buffer. (tags: [tutorial](http://delicious.com/eob/tutorial) [web](http://delicious.com/eob/web) [linux](http://delicious.com/eob/linux) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
 

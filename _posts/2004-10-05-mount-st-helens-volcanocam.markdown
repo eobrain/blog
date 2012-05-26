@@ -3,6 +3,7 @@ date: '2004-10-05 10:24:13'
 layout: post
 slug: mount-st-helens-volcanocam
 status: publish
+ref: http://www.fs.fed.us/gpnf/volcanocams/msh/
 title: Mount St. Helens VolcanoCam
 wordpress_id: '47'
 ---

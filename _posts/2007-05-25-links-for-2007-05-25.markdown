@@ -10,43 +10,27 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[ElectionsIreland.org: Home Page](http://www.electionsireland.org/)
+  * [ElectionsIreland.org: Home Page](http://www.electionsireland.org/)
 
 
-		
-
-A place to watch the Irish election results come in.
 
 
-		
-
-(tags: [politics](http://del.icio.us/eob/politics) [ireland](http://del.icio.us/eob/ireland))
+A place to watch the Irish election results come in. (tags: [politics](http://del.icio.us/eob/politics) [ireland](http://del.icio.us/eob/ireland))
 
 
-	
-
-	
-  *
-		
-
-[Elections Ireland: 30th Dáil Summary of Results](http://www.electionsireland.org/results/general/30thdail/resultssummary.cfm)
 
 
-		
 
-Results as they come in of the Election
-
-
-		
-
-(tags: [politics](http://del.icio.us/eob/politics) [ireland](http://del.icio.us/eob/ireland))
+  * [Elections Ireland: 30th Dáil Summary of Results](http://www.electionsireland.org/results/general/30thdail/resultssummary.cfm)
 
 
-	
+
+
+Results as they come in of the Election (tags: [politics](http://del.icio.us/eob/politics) [ireland](http://del.icio.us/eob/ireland))
+
+
+
 
 
 

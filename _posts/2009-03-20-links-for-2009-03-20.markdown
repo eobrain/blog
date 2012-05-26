@@ -3,22 +3,17 @@ date: '2009-03-20 15:05:47'
 layout: post
 slug: links-for-2009-03-20
 status: publish
+ref: http://kde-files.org/index.php?xcontentmode=642
 title: links for 2009-03-20
 wordpress_id: '377'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Documents for your KDE-Desktop -  KDE-Files.org](http://kde-files.org/index.php?xcontentmode=642)
 
 
-[Documents for your KDE-Desktop -  KDE-Files.org](http://kde-files.org/index.php?xcontentmode=642)
-
-
-Some templates for Scribus
-
-
-(tags: [web2.0](http://delicious.com/eob/web2.0) [webpageprinting](http://delicious.com/eob/webpageprinting) [layout](http://delicious.com/eob/layout))
+Some templates for Scribus (tags: [web2.0](http://delicious.com/eob/web2.0) [webpageprinting](http://delicious.com/eob/webpageprinting) [layout](http://delicious.com/eob/layout))
 
 
 

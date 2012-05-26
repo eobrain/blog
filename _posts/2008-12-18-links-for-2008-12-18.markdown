@@ -3,22 +3,17 @@ date: '2008-12-18 15:04:59'
 layout: post
 slug: links-for-2008-12-18
 status: publish
+ref: http://www.gnucitizen.org/blog/bookmark-of-death-domain-hijacking-without-0days/
 title: links for 2008-12-18
 wordpress_id: '337'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Bookmarklet of death: Domain hijacking without 0days | GNUCITIZEN](http://www.gnucitizen.org/blog/bookmark-of-death-domain-hijacking-without-0days/)
 
 
-[Bookmarklet of death: Domain hijacking without 0days | GNUCITIZEN](http://www.gnucitizen.org/blog/bookmark-of-death-domain-hijacking-without-0days/)
-
-
-Using a bookmarklet to steal cookies by adding an image to the page.
-
-
-(tags: [javascript](http://delicious.com/eob/javascript) [security](http://delicious.com/eob/security) [webpageprinting](http://delicious.com/eob/webpageprinting))
+Using a bookmarklet to steal cookies by adding an image to the page. (tags: [javascript](http://delicious.com/eob/javascript) [security](http://delicious.com/eob/security) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
 

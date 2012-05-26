@@ -3,6 +3,7 @@ date: '2008-07-30 16:33:50'
 layout: post
 slug: links-for-2008-07-30
 status: publish
+ref: http://news.cnet.com/8301-17939_109-10002523-2.html?part=rss&tag=feed&subj=Webware
 title: links for 2008-07-30
 wordpress_id: '298'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Build killer Flash games with Playcrafter | Webware : Cool Web apps for everyone - CNET](http://news.cnet.com/8301-17939_109-10002523-2.html?part=rss&tag=feed&subj=Webware)
+  * [Build killer Flash games with Playcrafter | Webware : Cool Web apps for everyone - CNET](http://news.cnet.com/8301-17939_109-10002523-2.html?part=rss&tag=feed&subj=Webware)
 
 
-		
-
-Flash game builder
 
 
-		
-
-(tags: [game](http://del.icio.us/eob/game))
+Flash game builder (tags: [game](http://del.icio.us/eob/game))
 
 
-	
+
 
 
 

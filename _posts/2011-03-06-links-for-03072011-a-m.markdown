@@ -3,6 +3,7 @@ date: '2011-03-06 16:38:15'
 layout: post
 slug: links-for-03072011-a-m
 status: publish
+ref: http://knockoutjs.com
 title: A nice looking  JavaScript library for dynamically modifying web pages.
 wordpress_id: '1153'
 categories:

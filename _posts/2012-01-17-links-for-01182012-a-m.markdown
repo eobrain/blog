@@ -4,6 +4,7 @@ layout: post
 slug: links-for-01182012-a-m
 status: publish
 title: JavaScript snippet for a shim to do cross-domain Ajax in IE
+ref: http://www.nczonline.net/blog/2010/05/25/cross-domain-ajax-with-cross-origin-resource-sharing
 wordpress_id: '2344'
 categories:
 - Programming
@@ -18,28 +19,28 @@ tags:
 Includes JavaScript snippet for a shim to do cross-domain ajax in IE
 
 
-[js]
-function createCORSRequest(method, url){
-    var xhr = new XMLHttpRequest();
-    if ("withCredentials" in xhr){
-        xhr.open(method, url, true);
-    } else if (typeof XDomainRequest != "undefined"){
-        xhr = new XDomainRequest();
-        xhr.open(method, url);
-    } else {
-        xhr = null;
+{% highlight js %}
+    function createCORSRequest(method, url){
+        var xhr = new XMLHttpRequest();
+        if ("withCredentials" in xhr){
+            xhr.open(method, url, true);
+        } else if (typeof XDomainRequest != "undefined"){
+            xhr = new XDomainRequest();
+            xhr.open(method, url);
+        } else {
+            xhr = null;
+        }
+        return xhr;
     }
-    return xhr;
-}
 
-var request = createCORSRequest("get", "http://www.nczonline.net/");
-if (request){
-    request.onload = function(){
-        //do something with request.responseText
-    };
-    request.send();
-}
-[/js]
+    var request = createCORSRequest("get", "http://www.nczonline.net/");
+    if (request){
+        request.onload = function(){
+            //do something with request.responseText
+        };
+        request.send();
+    }
+{% endhighlight %}
  tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
 
 

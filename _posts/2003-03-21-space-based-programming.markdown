@@ -3,6 +3,7 @@ date: '2003-03-21 09:18:34'
 layout: post
 slug: space-based-programming
 status: publish
+ref: http://www.onjava.com/pub/a/onjava/2003/03/19/java_spaces.html
 title: Space-Based Programming
 wordpress_id: '12'
 ---

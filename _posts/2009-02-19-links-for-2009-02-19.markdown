@@ -9,40 +9,22 @@ categories:
 - bookmarks
 ---
 
-  *
+  * [Haru Free PDF Library](http://libharu.sourceforge.net/index.html)
 
 
-[Haru Free PDF Library](http://libharu.sourceforge.net/index.html)
+C library that can be used to generate PDF documents (tags: [programming](http://delicious.com/eob/programming) [ruby](http://delicious.com/eob/ruby) [c++](http://delicious.com/eob/c%2B%2B) [webpageprinting](http://delicious.com/eob/webpageprinting) [code](http://delicious.com/eob/code) [library](http://delicious.com/eob/library))
 
 
-C library that can be used to generate PDF documents
+  * [Well, I'm Back: Rendering Web Page To Images](http://weblogs.mozillazine.org/roc/archives/2005/05/rendering_web_p.html)
 
 
-(tags: [programming](http://delicious.com/eob/programming) [ruby](http://delicious.com/eob/ruby) [c++](http://delicious.com/eob/c%2B%2B) [webpageprinting](http://delicious.com/eob/webpageprinting) [code](http://delicious.com/eob/code) [library](http://delicious.com/eob/library))
+Some JavaScript code from back in the early day's of Gecko's support of canvas. (tags: [javascript](http://delicious.com/eob/javascript) [code](http://delicious.com/eob/code) [programming](http://delicious.com/eob/programming) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-  *
+  * [Pixastic : Photo editing with JavaScript and canvas - Nihilogic](http://blog.nihilogic.dk/2008/06/pixastic-photo-editing-with-javascript.html)
 
 
-[Well, I'm Back: Rendering Web Page To Images](http://weblogs.mozillazine.org/roc/archives/2005/05/rendering_web_p.html)
-
-
-Some JavaScript code from back in the early day's of Gecko's support of canvas.
-
-
-(tags: [javascript](http://delicious.com/eob/javascript) [code](http://delicious.com/eob/code) [programming](http://delicious.com/eob/programming) [webpageprinting](http://delicious.com/eob/webpageprinting))
-
-
-  *
-
-
-[Pixastic : Photo editing with JavaScript and canvas - Nihilogic](http://blog.nihilogic.dk/2008/06/pixastic-photo-editing-with-javascript.html)
-
-
-Nice JavaScript library for client-side image processing in canvas-supporting browser.
-
-
-(tags: [javascript](http://delicious.com/eob/javascript) [library](http://delicious.com/eob/library) [photo](http://delicious.com/eob/photo))
+Nice JavaScript library for client-side image processing in canvas-supporting browser. (tags: [javascript](http://delicious.com/eob/javascript) [library](http://delicious.com/eob/library) [photo](http://delicious.com/eob/photo))
 
 
 

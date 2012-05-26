@@ -3,6 +3,7 @@ date: '2010-02-15 11:50:48'
 layout: post
 slug: decluttered-api-documentation-for-the-itext-pdf-manipulating-java-library
 status: publish
+ref: http://bit.ly/itextapi
 title: Decluttered API documentation for the iText PDF-manipulating Java library
 wordpress_id: '750'
 categories:

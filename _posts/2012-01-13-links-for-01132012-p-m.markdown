@@ -3,6 +3,7 @@ date: '2012-01-13 04:32:35'
 layout: post
 slug: links-for-01132012-p-m
 status: publish
+ref: http://aefxx.com/jquery-plugins/jqote2
 title: JavaScript templates
 wordpress_id: '1894'
 categories:

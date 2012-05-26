@@ -3,6 +3,7 @@ date: '2008-03-10 16:22:05'
 layout: post
 slug: links-for-2008-03-10
 status: publish
+ref: http://video.mercurynews.com/mms/rt/1/site/medianewsgroup-bang-mercurynews-pub01-live/current/launch.html?maven_playerId=mercurynewsvideomc&maven_referralPlaylistId=ffc117e0783f2eba73d2dda62711aa62c96ecd29&maven_referralObject=da3ee3e5-eb8b-43a7-873d-40b62abaeda9
 title: links for 2008-03-10
 wordpress_id: '256'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[http://video.mercurynews.com/mms/rt/1/site/medianewsgroup-bang-mercurynews-pub01-live/current/launch.html?maven_playerId=mercurynewsvideomc&maven;_referralPlaylistId=ffc117e0783f2eba73d2dda62711aa62c96ecd29&maven;_referralObject=da3ee3e5-eb8b-43a7-873d-40b6](http://video.mercurynews.com/mms/rt/1/site/medianewsgroup-bang-mercurynews-pub01-live/current/launch.html?maven_playerId=mercurynewsvideomc&maven_referralPlaylistId=ffc117e0783f2eba73d2dda62711aa62c96ecd29&maven_referralObject=da3ee3e5-eb8b-43a7-873d-40b62abaeda9)
+  * [http://video.mercurynews.com/mms/rt/1/site/medianewsgroup-bang-mercurynews-pub01-live/current/launch.html?maven_playerId=mercurynewsvideomc&maven;_referralPlaylistId=ffc117e0783f2eba73d2dda62711aa62c96ecd29&maven;_referralObject=da3ee3e5-eb8b-43a7-873d-40b6](http://video.mercurynews.com/mms/rt/1/site/medianewsgroup-bang-mercurynews-pub01-live/current/launch.html?maven_playerId=mercurynewsvideomc&maven_referralPlaylistId=ffc117e0783f2eba73d2dda62711aa62c96ecd29&maven_referralObject=da3ee3e5-eb8b-43a7-873d-40b62abaeda9)
 
 
-		
-
-Video og HP Labs Launch in which I appear
 
 
-		
-
-(tags: [hp](http://del.icio.us/eob/hp) [snapfishlab](http://del.icio.us/eob/snapfishlab))
+Video og HP Labs Launch in which I appear (tags: [hp](http://del.icio.us/eob/hp) [snapfishlab](http://del.icio.us/eob/snapfishlab))
 
 
-	
+
 
 
 

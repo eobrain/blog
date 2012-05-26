@@ -3,22 +3,17 @@ date: '2010-03-13 15:04:15'
 layout: post
 slug: links-for-2010-03-13
 status: publish
+ref: http://www.eecs.harvard.edu/~cduan/technical/git/
 title: Understanding Git Conceptually
 wordpress_id: '814'
 categories:
 - Programming
 ---
 
-  *
+  * [Understanding Git Conceptually](http://www.eecs.harvard.edu/~cduan/technical/git/)
 
 
-[Understanding Git Conceptually](http://www.eecs.harvard.edu/~cduan/technical/git/)
-
-
-The Git source code control system has a lot of advantages compared to the more established Subversion.  Many online tutorials emphasize the similarities to Subversion, giving examples of sequences commands that can adapted and used in a rote way.  However these tutorials also tend to gloss over the sometimes fundamental conceptual differences between Git and Subversion which can lead you into confusion and trouble.  This tutorial by contrast does a good job of explaining the conceptual fundamentals, but in a practical way without getting into too much detail.
-
-
-(tags: [programming](http://delicious.com/eob/programming) [guide](http://delicious.com/eob/guide) [code](http://delicious.com/eob/code) [tutorial](http://delicious.com/eob/tutorial))
+The Git source code control system has a lot of advantages compared to the more established Subversion.  Many online tutorials emphasize the similarities to Subversion, giving examples of sequences commands that can adapted and used in a rote way.  However these tutorials also tend to gloss over the sometimes fundamental conceptual differences between Git and Subversion which can lead you into confusion and trouble.  This tutorial by contrast does a good job of explaining the conceptual fundamentals, but in a practical way without getting into too much detail. (tags: [programming](http://delicious.com/eob/programming) [guide](http://delicious.com/eob/guide) [code](http://delicious.com/eob/code) [tutorial](http://delicious.com/eob/tutorial))
 
 
 

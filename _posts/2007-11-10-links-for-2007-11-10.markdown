@@ -3,6 +3,7 @@ date: '2007-11-10 16:23:04'
 layout: post
 slug: links-for-2007-11-10
 status: publish
+ref: http://minaret.biz/tips/timezone.html
 title: links for 2007-11-10
 wordpress_id: '208'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Java Default Timezone Issue Under Fedora Redhat Linux](http://minaret.biz/tips/timezone.html)
+  * [Java Default Timezone Issue Under Fedora Redhat Linux](http://minaret.biz/tips/timezone.html)
 
 
-		
-
-Setting the Java timezone under Linux
 
 
-		
-
-(tags: [java](http://del.icio.us/eob/java) [linux](http://del.icio.us/eob/linux) [programming](http://del.icio.us/eob/programming))
+Setting the Java timezone under Linux (tags: [java](http://del.icio.us/eob/java) [linux](http://del.icio.us/eob/linux) [programming](http://del.icio.us/eob/programming))
 
 
-	
+
 
 
 

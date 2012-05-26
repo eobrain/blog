@@ -3,22 +3,17 @@ date: '2009-07-31 16:05:41'
 layout: post
 slug: links-for-2009-07-31-2
 status: publish
+ref: http://db.cs.yale.edu/hadoopdb/hadoopdb.html
 title: Combining MapReduce with and SQL database
 wordpress_id: '416'
 categories:
 - bookmarks
 ---
 
-  *
+  * [HadoopDB Project](http://db.cs.yale.edu/hadoopdb/hadoopdb.html)
 
 
-[HadoopDB Project](http://db.cs.yale.edu/hadoopdb/hadoopdb.html)
-
-
-Combining MapReduce with and SQL database
-
-
-(tags: [programming](http://delicious.com/eob/programming) [java](http://delicious.com/eob/java) [database](http://delicious.com/eob/database) [scaling](http://delicious.com/eob/scaling) [architecture](http://delicious.com/eob/architecture))
+Combining MapReduce with and SQL database (tags: [programming](http://delicious.com/eob/programming) [java](http://delicious.com/eob/java) [database](http://delicious.com/eob/database) [scaling](http://delicious.com/eob/scaling) [architecture](http://delicious.com/eob/architecture))
 
 
 

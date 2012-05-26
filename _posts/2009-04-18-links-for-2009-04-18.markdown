@@ -3,19 +3,14 @@ date: '2009-04-18 15:08:24'
 layout: post
 slug: links-for-2009-04-18
 status: publish
+ref: http://searchengineland.com/analysis-which-url-shortening-service-should-you-use-17204
 title: Handy comparison of URL shortening services (via @timoreilly)
 wordpress_id: '385'
 categories:
 - bookmarks
 ---
 
-  *
-
-
-[URL Shorteners: Which Shortening Service Should You Use?](http://searchengineland.com/analysis-which-url-shortening-service-should-you-use-17204)
-
-
-(tags: [web2.0](http://delicious.com/eob/web2.0) [web](http://delicious.com/eob/web) [technology](http://delicious.com/eob/technology) [seo](http://delicious.com/eob/seo) [reference](http://delicious.com/eob/reference))
+  * [URL Shorteners: Which Shortening Service Should You Use?](http://searchengineland.com/analysis-which-url-shortening-service-should-you-use-17204) (tags: [web2.0](http://delicious.com/eob/web2.0) [web](http://delicious.com/eob/web) [technology](http://delicious.com/eob/technology) [seo](http://delicious.com/eob/seo) [reference](http://delicious.com/eob/reference))
 
 
 

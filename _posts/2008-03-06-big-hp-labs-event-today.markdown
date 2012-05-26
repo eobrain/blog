@@ -3,6 +3,7 @@ date: '2008-03-06 21:08:18'
 layout: post
 slug: big-hp-labs-event-today
 status: publish
+ref: http://www.snapfishlab.com
 title: Big HP Labs Event Today
 wordpress_id: '253'
 categories:

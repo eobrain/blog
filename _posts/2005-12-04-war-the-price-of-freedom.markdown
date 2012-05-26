@@ -3,6 +3,7 @@ date: '2005-12-04 20:19:00'
 layout: post
 slug: war-the-price-of-freedom
 status: publish
+ref: http://www.flickr.com/photos/eob/70343174/
 title: War, "The Price of Freedom"?
 wordpress_id: '87'
 categories:

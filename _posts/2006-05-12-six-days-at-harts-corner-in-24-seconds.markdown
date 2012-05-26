@@ -3,6 +3,7 @@ date: '2006-05-12 18:10:00'
 layout: post
 slug: six-days-at-harts-corner-in-24-seconds
 status: publish
+ref: http://obrien-strain.com/HartsCorner-6days.avi
 title: Six Days at Harts Corner in 24 Seconds
 wordpress_id: '98'
 categories:

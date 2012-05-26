@@ -3,6 +3,7 @@ date: '2008-04-14 16:38:42'
 layout: post
 slug: links-for-2008-04-14
 status: publish
+ref: http://www.degraeve.com/flickr-rss/
 title: links for 2008-04-14
 wordpress_id: '269'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Flickr RSS Feed Generator](http://www.degraeve.com/flickr-rss/)
+  * [Flickr RSS Feed Generator](http://www.degraeve.com/flickr-rss/)
 
 
-		
-
-More flexible source of media RSS feeds than on Flickr itself.
 
 
-		
-
-(tags: [service](http://del.icio.us/eob/service) [photo](http://del.icio.us/eob/photo))
+More flexible source of media RSS feeds than on Flickr itself. (tags: [service](http://del.icio.us/eob/service) [photo](http://del.icio.us/eob/photo))
 
 
-	
+
 
 
 

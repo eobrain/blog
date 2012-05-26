@@ -3,6 +3,7 @@ date: '2004-09-27 21:57:49'
 layout: post
 slug: hello-rob-from-ca
 status: publish
+ref: http://bloglines.com/public/robfromca
 title: Hello Rob from CA!
 wordpress_id: '43'
 ---

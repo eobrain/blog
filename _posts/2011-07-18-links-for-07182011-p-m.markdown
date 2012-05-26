@@ -3,6 +3,7 @@ date: '2011-07-18 04:31:51'
 layout: post
 slug: links-for-07182011-p-m
 status: publish
+ref: http://plugins.jquery.com/project/LazyLoadOnScroll
 title: Nice easy-to-use lazy-loading JavaScript library
 wordpress_id: '1227'
 categories:

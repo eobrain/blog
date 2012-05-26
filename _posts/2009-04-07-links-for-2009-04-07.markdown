@@ -3,22 +3,17 @@ date: '2009-04-07 15:04:41'
 layout: post
 slug: links-for-2009-04-07
 status: publish
+ref: http://www.niallkennedy.com/blog/2009/04/facebook-haystack.html
 title: links for 2009-04-07
 wordpress_id: '381'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Facebook's photo storage rewrite](http://www.niallkennedy.com/blog/2009/04/facebook-haystack.html)
 
 
-[Facebook's photo storage rewrite](http://www.niallkennedy.com/blog/2009/04/facebook-haystack.html)
-
-
-An overview of Facebook's photo storage architecture, Haystack, highly optimized for their particular access patterns.
-
-
-(tags: [photo](http://delicious.com/eob/photo) [design](http://delicious.com/eob/design) [web](http://delicious.com/eob/web) [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling) [network](http://delicious.com/eob/network) [technology](http://delicious.com/eob/technology) [facebook](http://delicious.com/eob/facebook))
+An overview of Facebook's photo storage architecture, Haystack, highly optimized for their particular access patterns. (tags: [photo](http://delicious.com/eob/photo) [design](http://delicious.com/eob/design) [web](http://delicious.com/eob/web) [architecture](http://delicious.com/eob/architecture) [scaling](http://delicious.com/eob/scaling) [network](http://delicious.com/eob/network) [technology](http://delicious.com/eob/technology) [facebook](http://delicious.com/eob/facebook))
 
 
 

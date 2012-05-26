@@ -3,16 +3,14 @@ date: '2009-12-15 15:03:06'
 layout: post
 slug: links-for-2009-12-15
 status: publish
+ref: http://www.webmonkey.com/blog/Use_Google_For_Text-to-Speech_Translations_in_the_Browser?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+wired%2Findex+%28Wired%3A+Index+3+%28Top+Stories+2%29%29
 title: Here is a form that will speak out any English text you type into it.
 wordpress_id: '585'
 categories:
 - Programming
 ---
 
-  *
-
-
-[Use Google For Text - Webmonkey](http://www.webmonkey.com/blog/Use_Google_For_Text-to-Speech_Translations_in_the_Browser?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+wired%2Findex+%28Wired%3A+Index+3+%28Top+Stories+2%29%29)
+  * [Use Google For Text - Webmonkey](http://www.webmonkey.com/blog/Use_Google_For_Text-to-Speech_Translations_in_the_Browser?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+wired%2Findex+%28Wired%3A+Index+3+%28Top+Stories+2%29%29)
 
 
 You can craft a URL that will take advantage of Google's web service to do test-to-speech of arbitrary English text like this
@@ -25,10 +23,7 @@ Try entering some text and to see for yourself!
 
 There was some problem with the Internet Explorer browser.   If you get a "not found" error page, try refreshing the error page.  That worked for me.
 
-It worked fine in the Google Chrome browser.
-
-
-(tags: [webservices](http://delicious.com/eob/webservices))
+It worked fine in the Google Chrome browser. (tags: [webservices](http://delicious.com/eob/webservices))
 
 
 

@@ -3,6 +3,7 @@ date: '2006-01-14 14:34:50'
 layout: post
 slug: suspended-drops-1
 status: publish
+ref: http://www.flickr.com/photos/eob/90943279/
 title: 'Suspended Drops #1'
 wordpress_id: '92'
 categories:

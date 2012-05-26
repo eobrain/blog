@@ -3,22 +3,17 @@ date: '2009-02-12 12:43:38'
 layout: post
 slug: links-for-2009-02-12
 status: publish
+ref: http://www.newseum.org/todaysfrontpages/default.asp
 title: links for 2009-02-12
 wordpress_id: '363'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Newseum | Today's Front Pages | Gallery View](http://www.newseum.org/todaysfrontpages/default.asp)
 
 
-[Newseum | Today's Front Pages | Gallery View](http://www.newseum.org/todaysfrontpages/default.asp)
-
-
-Front page images of newspapers from around the world.
-
-
-(tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [news](http://delicious.com/eob/news))
+Front page images of newspapers from around the world. (tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [news](http://delicious.com/eob/news))
 
 
 

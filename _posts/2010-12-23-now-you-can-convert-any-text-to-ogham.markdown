@@ -3,6 +3,7 @@ date: '2010-12-23 23:37:55'
 layout: post
 slug: now-you-can-convert-any-text-to-ogham
 status: publish
+ref: http://eamonn.org/ogham.php
 title: Now you can convert any text to Ogham
 wordpress_id: '1072'
 categories:

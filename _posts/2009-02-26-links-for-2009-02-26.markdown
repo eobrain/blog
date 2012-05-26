@@ -9,25 +9,13 @@ categories:
 - bookmarks
 ---
 
-  *
+  * [Adaptive grid-based document layout](http://portal.acm.org/citation.cfm?id=882353&dl=GUIDE&coll=GUIDE&CFID=24406314&CFTOKEN=61545726)
 
 
-[Adaptive grid-based document layout](http://portal.acm.org/citation.cfm?id=882353&dl=GUIDE&coll=GUIDE&CFID=24406314&CFTOKEN=61545726)
+Charles Jacobs , Wilmot Li , Evan Schrier , David Bargeron , David Salesin, Adaptive grid-based document layout, ACM Transactions on Graphics (TOG), v.22 n.3, July 2003 (tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [layout](http://delicious.com/eob/layout))
 
 
-Charles Jacobs , Wilmot Li , Evan Schrier , David Bargeron , David Salesin, Adaptive grid-based document layout, ACM Transactions on Graphics (TOG), v.22 n.3, July 2003
-
-
-(tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [layout](http://delicious.com/eob/layout))
-
-
-  *
-
-
-[XEP Engine < Products < XML to PDF, PostScript, AFP, Print - RenderX](http://www.renderx.com/tools/xep.html)
-
-
-(tags: [library](http://delicious.com/eob/library) [java](http://delicious.com/eob/java) [webpageprinting](http://delicious.com/eob/webpageprinting) [layout](http://delicious.com/eob/layout))
+  * [XEP Engine < Products < XML to PDF, PostScript, AFP, Print - RenderX](http://www.renderx.com/tools/xep.html) (tags: [library](http://delicious.com/eob/library) [java](http://delicious.com/eob/java) [webpageprinting](http://delicious.com/eob/webpageprinting) [layout](http://delicious.com/eob/layout))
 
 
 

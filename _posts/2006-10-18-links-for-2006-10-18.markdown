@@ -10,43 +10,27 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[The current state of video search](http://www.niallkennedy.com/blog/archives/2006/10/video-search.html)
+  * [The current state of video search](http://www.niallkennedy.com/blog/archives/2006/10/video-search.html)
 
 
-		
-
-A nice survey of the video on the web, and how it could be searched.
 
 
-		
-
-(tags: [video](http://del.icio.us/eob/video))
+A nice survey of the video on the web, and how it could be searched. (tags: [video](http://del.icio.us/eob/video))
 
 
-	
-
-	
-  *
-		
-
-[Moving Images](http://www.digitalpreservation.gov/formats/content/video.shtml)
 
 
-		
 
-The Library of COngress on video formats for preservation.
-
-
-		
-
-(tags: [video](http://del.icio.us/eob/video))
+  * [Moving Images](http://www.digitalpreservation.gov/formats/content/video.shtml)
 
 
-	
+
+
+The Library of COngress on video formats for preservation. (tags: [video](http://del.icio.us/eob/video))
+
+
+
 
 
 

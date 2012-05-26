@@ -3,6 +3,7 @@ date: '2006-11-12 16:24:22'
 layout: post
 slug: links-for-2006-11-12
 status: publish
+ref: http://www.radarnetworks.com/index.html
 title: links for 2006-11-12
 wordpress_id: '131'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Radar Networks](http://www.radarnetworks.com/index.html)
+  * [Radar Networks](http://www.radarnetworks.com/index.html)
 
 
-		
-
-"Web 3.0" semantic web startup featured on the front page of today's New York TImes.
 
 
-		
-
-(tags: [startup](http://del.icio.us/eob/startup) [rdf](http://del.icio.us/eob/rdf) [sanfrancisco](http://del.icio.us/eob/sanfrancisco))
+"Web 3.0" semantic web startup featured on the front page of today's New York TImes. (tags: [startup](http://del.icio.us/eob/startup) [rdf](http://del.icio.us/eob/rdf) [sanfrancisco](http://del.icio.us/eob/sanfrancisco))
 
 
-	
+
 
 
 

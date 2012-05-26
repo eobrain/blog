@@ -3,6 +3,7 @@ date: '2007-09-22 16:25:15'
 layout: post
 slug: links-for-2007-09-22
 status: publish
+ref: http://www.thelab.org/
 title: links for 2007-09-22
 wordpress_id: '196'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[The LAB - Home](http://www.thelab.org/)
+  * [The LAB - Home](http://www.thelab.org/)
 
 
-		
-
-Bradley Hyppa
 
 
-		
-
-(tags: [video](http://del.icio.us/eob/video) [aesthetics](http://del.icio.us/eob/aesthetics))
+Bradley Hyppa (tags: [video](http://del.icio.us/eob/video) [aesthetics](http://del.icio.us/eob/aesthetics))
 
 
-	
+
 
 
 

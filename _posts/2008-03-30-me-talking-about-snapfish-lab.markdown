@@ -3,6 +3,7 @@ date: '2008-03-30 20:48:29'
 layout: post
 slug: me-talking-about-snapfish-lab
 status: publish
+ref: http://www.eamonn.org/blog/?p=263
 title: Me talking about Snapfish Lab
 wordpress_id: '265'
 categories:

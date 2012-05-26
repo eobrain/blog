@@ -9,40 +9,22 @@ categories:
 - Programming
 ---
 
-  *
+  * [Typekit](http://typekit.com/)
 
 
-[Typekit](http://typekit.com/)
+Better fonts in your web pages (for a price) (tags: [design](http://delicious.com/eob/design) [css](http://delicious.com/eob/css) [tool](http://delicious.com/eob/tool) [service](http://delicious.com/eob/service))
 
 
-Better fonts in your web pages (for a price)
+  * [JSLint, The JavaScript Code Quality Tool](http://www.jslint.com/)
 
 
-(tags: [design](http://delicious.com/eob/design) [css](http://delicious.com/eob/css) [tool](http://delicious.com/eob/tool) [service](http://delicious.com/eob/service))
+Handy checker to make sure you are only using the good parts of JavaScript. (tags: [javascript](http://delicious.com/eob/javascript) [programming](http://delicious.com/eob/programming) [tool](http://delicious.com/eob/tool) [code](http://delicious.com/eob/code))
 
 
-  *
+  * [The CSS 3 Flexible Box Model ✩        Mozilla Hacks – the Web developer blog](http://hacks.mozilla.org/2010/04/the-css-3-flexible-box-model/)
 
 
-[JSLint, The JavaScript Code Quality Tool](http://www.jslint.com/)
-
-
-Handy checker to make sure you are only using the good parts of JavaScript.
-
-
-(tags: [javascript](http://delicious.com/eob/javascript) [programming](http://delicious.com/eob/programming) [tool](http://delicious.com/eob/tool) [code](http://delicious.com/eob/code))
-
-
-  *
-
-
-[The CSS 3 Flexible Box Model ✩        Mozilla Hacks – the Web developer blog](http://hacks.mozilla.org/2010/04/the-css-3-flexible-box-model/)
-
-
-An easier box model for HTML5 apps.
-
-
-(tags: [css](http://delicious.com/eob/css) [html5](http://delicious.com/eob/html5) [programming](http://delicious.com/eob/programming) [tutorial](http://delicious.com/eob/tutorial) [web](http://delicious.com/eob/web) [layout](http://delicious.com/eob/layout))
+An easier box model for HTML5 apps. (tags: [css](http://delicious.com/eob/css) [html5](http://delicious.com/eob/html5) [programming](http://delicious.com/eob/programming) [tutorial](http://delicious.com/eob/tutorial) [web](http://delicious.com/eob/web) [layout](http://delicious.com/eob/layout))
 
 
 

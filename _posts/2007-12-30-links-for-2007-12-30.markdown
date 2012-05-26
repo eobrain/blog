@@ -10,43 +10,27 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Danoo](http://www.danoospot.tv/login.php)
+  * [Danoo](http://www.danoospot.tv/login.php)
 
 
-		
-
-Location-based media.
 
 
-		
-
-(tags: [service](http://del.icio.us/eob/service) [web2.0](http://del.icio.us/eob/web2.0) [mobile](http://del.icio.us/eob/mobile) [pervasive](http://del.icio.us/eob/pervasive))
+Location-based media. (tags: [service](http://del.icio.us/eob/service) [web2.0](http://del.icio.us/eob/web2.0) [mobile](http://del.icio.us/eob/mobile) [pervasive](http://del.icio.us/eob/pervasive))
 
 
-	
-
-	
-  *
-		
-
-[MDBG Chinese-English dictionary](http://www.mdbg.net/chindict/chindict.php)
 
 
-		
 
-Handy English-Chinese dictionary that gives both the characters and the pinyin with tonemarks.
-
-
-		
-
-(tags: [reference](http://del.icio.us/eob/reference) [language](http://del.icio.us/eob/language))
+  * [MDBG Chinese-English dictionary](http://www.mdbg.net/chindict/chindict.php)
 
 
-	
+
+
+Handy English-Chinese dictionary that gives both the characters and the pinyin with tonemarks. (tags: [reference](http://del.icio.us/eob/reference) [language](http://del.icio.us/eob/language))
+
+
+
 
 
 

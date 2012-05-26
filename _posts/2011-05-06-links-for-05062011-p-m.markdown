@@ -3,6 +3,7 @@ date: '2011-05-06 04:33:10'
 layout: post
 slug: links-for-05062011-p-m
 status: publish
+ref: http://confluence.atlassian.com/display/JIRA/Connecting+to+SSL+services
 title: Some tricks here that I had to use when using Java to connect to a Jira server
   with a self-signed SSL certificate.
 wordpress_id: '1202'

@@ -3,6 +3,7 @@ date: '2006-10-16 16:34:23'
 layout: post
 slug: links-for-2006-10-16
 status: publish
+ref: http://www.flapjax-lang.org/tutorial/
 title: links for 2006-10-16
 wordpress_id: '120'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Flapjax Tutorial](http://www.flapjax-lang.org/tutorial/)
+  * [Flapjax Tutorial](http://www.flapjax-lang.org/tutorial/)
 
 
-		
-
-This is a really interesting looking language for writing AJAX apps.  I allows you to write programs that have the dataflow semantics of a spreadsheet.
 
 
-		
-
-(tags: [programming](http://del.icio.us/eob/programming) [ajax](http://del.icio.us/eob/ajax))
+This is a really interesting looking language for writing AJAX apps.  I allows you to write programs that have the dataflow semantics of a spreadsheet. (tags: [programming](http://del.icio.us/eob/programming) [ajax](http://del.icio.us/eob/ajax))
 
 
-	
+
 
 
 

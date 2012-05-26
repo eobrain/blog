@@ -3,6 +3,7 @@ date: '2008-03-09 16:24:38'
 layout: post
 slug: links-for-2008-03-09
 status: publish
+ref: http://www.livemocha.com/
 title: links for 2008-03-09
 wordpress_id: '255'
 categories:
@@ -10,19 +11,11 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Livemocha: Learn Languages and Practice with Native Speakers](http://www.livemocha.com/)
+  * [Livemocha: Learn Languages and Practice with Native Speakers](http://www.livemocha.com/) (tags: [language](http://del.icio.us/eob/language) [mandarin](http://del.icio.us/eob/mandarin) [social](http://del.icio.us/eob/social))
 
 
-		
 
-(tags: [language](http://del.icio.us/eob/language) [mandarin](http://del.icio.us/eob/mandarin) [social](http://del.icio.us/eob/social))
-
-
-	
 
 
 

@@ -3,22 +3,17 @@ date: '2008-09-28 16:02:49'
 layout: post
 slug: links-for-2008-09-28
 status: publish
+ref: http://sourceforge.net/projects/pjl-comp-filter/
 title: links for 2008-09-28
 wordpress_id: '304'
 categories:
 - bookmarks
 ---
 
-  *
+  * [SourceForge.net: PJL Compressing Filter](http://sourceforge.net/projects/pjl-comp-filter/)
 
 
-[SourceForge.net: PJL Compressing Filter](http://sourceforge.net/projects/pjl-comp-filter/)
-
-
-Might be useful for increasing the performance of our web application.
-
-
-(tags: [java](http://delicious.com/eob/java))
+Might be useful for increasing the performance of our web application. (tags: [java](http://delicious.com/eob/java))
 
 
 

@@ -3,6 +3,7 @@ date: '2008-05-08 16:35:29'
 layout: post
 slug: links-for-2008-05-08
 status: publish
+ref: http://staff.science.uva.nl/~dang/pub/3DRec.pdf
 title: links for 2008-05-08
 wordpress_id: '277'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Dang Trung Kien, University of Amsterdam, "A Review of 3D Reconstruction from Video Sequences" 2005](http://staff.science.uva.nl/~dang/pub/3DRec.pdf)
+  * [Dang Trung Kien, University of Amsterdam, "A Review of 3D Reconstruction from Video Sequences" 2005](http://staff.science.uva.nl/~dang/pub/3DRec.pdf)
 
 
-		
-
-Has 4 steps: (1) Feature Detection and Matching -- features in different images, matched, (2) Structure and Motion Recovery -- motion & parameters of camera through scene, (3) Stereo Mapping -- dense matching map, (4) Modelling -- realistic model of scene
 
 
-		
-
-(tags: [3d](http://del.icio.us/eob/3d) [video](http://del.icio.us/eob/video))
+Has 4 steps: (1) Feature Detection and Matching -- features in different images, matched, (2) Structure and Motion Recovery -- motion & parameters of camera through scene, (3) Stereo Mapping -- dense matching map, (4) Modelling -- realistic model of scene (tags: [3d](http://del.icio.us/eob/3d) [video](http://del.icio.us/eob/video))
 
 
-	
+
 
 
 

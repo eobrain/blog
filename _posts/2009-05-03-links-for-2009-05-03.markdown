@@ -3,19 +3,14 @@ date: '2009-05-03 15:05:33'
 layout: post
 slug: links-for-2009-05-03
 status: publish
+ref: http://www.enlight.ru/demo/faq/smth.phtml?query=alg_clr_cmyklab
 title: CMYK to LAB color conversion
 wordpress_id: '391'
 categories:
 - bookmarks
 ---
 
-  *
-
-
-[DEMO.DESIGN FAQ](http://www.enlight.ru/demo/faq/smth.phtml?query=alg_clr_cmyklab)
-
-
-(tags: [design](http://delicious.com/eob/design))
+  * [DEMO.DESIGN FAQ](http://www.enlight.ru/demo/faq/smth.phtml?query=alg_clr_cmyklab) (tags: [design](http://delicious.com/eob/design))
 
 
 

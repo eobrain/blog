@@ -3,6 +3,7 @@ date: '2011-12-07 16:37:08'
 layout: post
 slug: links-for-12082011-a-m
 status: publish
+ref: http://jopas.sourceforge.net
 title: Calling Octave (the Matlab clone) from Java.
 wordpress_id: '1253'
 categories:

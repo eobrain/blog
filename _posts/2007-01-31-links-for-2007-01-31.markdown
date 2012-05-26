@@ -10,43 +10,27 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Rails and SQL queries - AnyExample.com](http://www.anyexample.com/webdev/rails/rails_and_sql_queries.xml)
+  * [Rails and SQL queries - AnyExample.com](http://www.anyexample.com/webdev/rails/rails_and_sql_queries.xml)
 
 
-		
-
-Raw SQL queries in Ruby on Rails.
 
 
-		
-
-(tags: [rubyonrails](http://del.icio.us/eob/rubyonrails) [database](http://del.icio.us/eob/database))
+Raw SQL queries in Ruby on Rails. (tags: [rubyonrails](http://del.icio.us/eob/rubyonrails) [database](http://del.icio.us/eob/database))
 
 
-	
-
-	
-  *
-		
-
-[Hack Attack: Burn almost any video file to a playable DVD - Lifehacker](http://www.lifehacker.com/software/dvds/hack-attack-burn-almost-any-video-file-to-a-playable-dvd-232322.php)
 
 
-		
 
-DVD authoring.
-
-
-		
-
-(tags: [video](http://del.icio.us/eob/video) [tools](http://del.icio.us/eob/tools) [tutorial](http://del.icio.us/eob/tutorial) [tool](http://del.icio.us/eob/tool) [dvd](http://del.icio.us/eob/dvd))
+  * [Hack Attack: Burn almost any video file to a playable DVD - Lifehacker](http://www.lifehacker.com/software/dvds/hack-attack-burn-almost-any-video-file-to-a-playable-dvd-232322.php)
 
 
-	
+
+
+DVD authoring. (tags: [video](http://del.icio.us/eob/video) [tools](http://del.icio.us/eob/tools) [tutorial](http://del.icio.us/eob/tutorial) [tool](http://del.icio.us/eob/tool) [dvd](http://del.icio.us/eob/dvd))
+
+
+
 
 
 

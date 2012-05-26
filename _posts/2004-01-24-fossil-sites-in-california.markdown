@@ -3,6 +3,7 @@ date: '2004-01-24 12:11:04'
 layout: post
 slug: fossil-sites-in-california
 status: publish
+ref: http://www.iwaynet.net/~mperona/fossil1.htm#california
 title: Fossil Sites in California
 wordpress_id: '18'
 ---

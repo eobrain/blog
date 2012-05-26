@@ -9,88 +9,46 @@ categories:
 - bookmarks
 ---
 
-  *
+  * [8 Definitive Web Font Stacks [Design Tips & Tricks]](http://www.sitepoint.com/article/eight-definitive-font-stacks/)
 
 
-[8 Definitive Web Font Stacks [Design Tips & Tricks]](http://www.sitepoint.com/article/eight-definitive-font-stacks/)
+Very useful set of  font stacks that can be copied-and pasted into your CSS. This allows for good-looking typography on your web sites, for users who have good font support, while still making the site work for everyone. (tags: [reference](http://delicious.com/eob/reference) [design](http://delicious.com/eob/design) [code](http://delicious.com/eob/code) [web](http://delicious.com/eob/web) [css](http://delicious.com/eob/css))
 
 
-Very useful set of  font stacks that can be copied-and pasted into your CSS. This allows for good-looking typography on your web sites, for users who have good font support, while still making the site work for everyone.
+  * [learn Typography and Page Layout - Margins, free Tutorials](http://www.typography-1st.com/typo/margins.shtml)
 
 
-(tags: [reference](http://delicious.com/eob/reference) [design](http://delicious.com/eob/design) [code](http://delicious.com/eob/code) [web](http://delicious.com/eob/web) [css](http://delicious.com/eob/css))
+Guidelines for margin sizes for books. (tags: [layout](http://delicious.com/eob/layout) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-  *
+  * [doctest — Test interactive Python examples — Python v2.6.1 documentation](http://docs.python.org/library/doctest.html#module-doctest)
 
 
-[learn Typography and Page Layout - Margins, free Tutorials](http://www.typography-1st.com/typo/margins.shtml)
+Very nice way to do python unit tests, as long as you avoid its siren call to be non-Agile.  It is very different in philosophy from Beck's *Unit style of unit tests framework.  I like that it ensures the docstrings are up-to date with the code.  The main drawback, it seems to me, from an Agile point of view is that it encourages you to copy-paste the result of a test run into the doc string.  That is *bad*.  You should write down your expected results *before* you run the test.  So resist the urge to copy-paste the results of the test run into the doc string. (tags: [python](http://delicious.com/eob/python) [programming](http://delicious.com/eob/programming))
 
 
-Guidelines for margin sizes for books.
+  * [Perfect Page Layout - Is There Such a Thing as a Perfect Page Layout?](http://desktoppub.about.com/cs/pagelayout/f/layout_rules.htm)
 
 
-(tags: [layout](http://delicious.com/eob/layout) [webpageprinting](http://delicious.com/eob/webpageprinting))
+Some more guidelines in page layout, (tags: [design](http://delicious.com/eob/design) [guide](http://delicious.com/eob/guide) [layout](http://delicious.com/eob/layout) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-  *
+  * [Layout Rules of Thumb](http://www.writedesignonline.com/resources/design/rules/layout.html)
 
 
-[doctest — Test interactive Python examples — Python v2.6.1 documentation](http://docs.python.org/library/doctest.html#module-doctest)
+Some basic rules for print design. (tags: [design](http://delicious.com/eob/design) [layout](http://delicious.com/eob/layout) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-Very nice way to do python unit tests, as long as you avoid its siren call to be non-Agile.  It is very different in philosophy from Beck's *Unit style of unit tests framework.  I like that it ensures the docstrings are up-to date with the code.  The main drawback, it seems to me, from an Agile point of view is that it encourages you to copy-paste the result of a test run into the doc string.  That is *bad*.  You should write down your expected results *before* you run the test.  So resist the urge to copy-paste the results of the test run into the doc string.
+  * [The Complex Grid « Whatype](http://whatype.wordpress.com/texts/the-complex-grid/)
 
 
-(tags: [python](http://delicious.com/eob/python) [programming](http://delicious.com/eob/programming))
+Worked through math of laying out a complex grid for print design layout (tags: [graphics](http://delicious.com/eob/graphics) [tutorial](http://delicious.com/eob/tutorial) [design](http://delicious.com/eob/design) [layout](http://delicious.com/eob/layout) [webpageprinting](http://delicious.com/eob/webpageprinting))
 
 
-  *
+  * [PageMaker DTP Tutorial](http://designer-info.com/Writing/dtp_tutorial.htm)
 
 
-[Perfect Page Layout - Is There Such a Thing as a Perfect Page Layout?](http://desktoppub.about.com/cs/pagelayout/f/layout_rules.htm)
-
-
-Some more guidelines in page layout,
-
-
-(tags: [design](http://delicious.com/eob/design) [guide](http://delicious.com/eob/guide) [layout](http://delicious.com/eob/layout) [webpageprinting](http://delicious.com/eob/webpageprinting))
-
-
-  *
-
-
-[Layout Rules of Thumb](http://www.writedesignonline.com/resources/design/rules/layout.html)
-
-
-Some basic rules for print design.
-
-
-(tags: [design](http://delicious.com/eob/design) [layout](http://delicious.com/eob/layout) [webpageprinting](http://delicious.com/eob/webpageprinting))
-
-
-  *
-
-
-[The Complex Grid « Whatype](http://whatype.wordpress.com/texts/the-complex-grid/)
-
-
-Worked through math of laying out a complex grid for print design layout
-
-
-(tags: [graphics](http://delicious.com/eob/graphics) [tutorial](http://delicious.com/eob/tutorial) [design](http://delicious.com/eob/design) [layout](http://delicious.com/eob/layout) [webpageprinting](http://delicious.com/eob/webpageprinting))
-
-
-  *
-
-
-[PageMaker DTP Tutorial](http://designer-info.com/Writing/dtp_tutorial.htm)
-
-
-Tips for page layout
-
-
-(tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [layout](http://delicious.com/eob/layout))
+Tips for page layout (tags: [webpageprinting](http://delicious.com/eob/webpageprinting) [layout](http://delicious.com/eob/layout))
 
 
 

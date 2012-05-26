@@ -3,6 +3,7 @@ date: '2011-07-08 16:36:59'
 layout: post
 slug: links-for-07092011-a-m
 status: publish
+ref: http://www.jedi.be/blog/2009/05/06/8-ways-to-share-your-git-repository/#apachehttp
 title: Comprehensive guide to the various ways of sharing Git repositories.
 wordpress_id: '1222'
 categories:

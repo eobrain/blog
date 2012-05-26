@@ -3,6 +3,7 @@ date: '2004-07-06 11:54:37'
 layout: post
 slug: memory-footprint-of-java-objects
 status: publish
+ref: http://www.javaworld.com/javatips/jw-javatip130_p.html
 title: Memory footprint of Java Objects.
 wordpress_id: '26'
 ---

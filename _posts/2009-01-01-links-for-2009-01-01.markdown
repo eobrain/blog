@@ -3,22 +3,17 @@ date: '2009-01-01 15:04:47'
 layout: post
 slug: links-for-2009-01-01
 status: publish
+ref: http://www.dafx.ca/proceedings/papers/p_297.pdf
 title: links for 2009-01-01
 wordpress_id: '338'
 categories:
 - bookmarks
 ---
 
-  *
+  * [EXACT DISCRETE-TIME REALIZATION OF A DOLBY B ENCODING/DECODING ARCHITECTURE](http://www.dafx.ca/proceedings/papers/p_297.pdf)
 
 
-[EXACT DISCRETE-TIME REALIZATION OF A DOLBY B ENCODING/DECODING ARCHITECTURE](http://www.dafx.ca/proceedings/papers/p_297.pdf)
-
-
-I found the graphs in this paper handy when trying to approximate Dolby B decoding in Audacity
-
-
-(tags: [music](http://delicious.com/eob/music))
+I found the graphs in this paper handy when trying to approximate Dolby B decoding in Audacity (tags: [music](http://delicious.com/eob/music))
 
 
 

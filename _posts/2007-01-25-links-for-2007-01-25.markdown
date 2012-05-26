@@ -10,71 +10,39 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Digital Cameras, Camcorders, TV's, Home Theater, DVD Players, Apple iPods](http://www.bhphotovideo.com/)
+  * [Digital Cameras, Camcorders, TV's, Home Theater, DVD Players, Apple iPods](http://www.bhphotovideo.com/)
 
 
-		
-
-recommended store
 
 
-		
-
-(tags: [photo](http://del.icio.us/eob/photo) [shopping](http://del.icio.us/eob/shopping))
+recommended store (tags: [photo](http://del.icio.us/eob/photo) [shopping](http://del.icio.us/eob/shopping))
 
 
-	
-
-	
-  *
-		
-
-[Compare Prices and Read Customer Reviews at ResellerRatings.com](http://www.resellerratings.com/)
 
 
-		
 
-(tags: [shopping](http://del.icio.us/eob/shopping))
-
-
-	
-
-	
-  *
-		
-
-[Digital cameras, all other cameras and everything photographic from Adorama Camera](http://www.adorama.com/)
+  * [Compare Prices and Read Customer Reviews at ResellerRatings.com](http://www.resellerratings.com/) (tags: [shopping](http://del.icio.us/eob/shopping))
 
 
-		
-
-(tags: [shopping](http://del.icio.us/eob/shopping) [photo](http://del.icio.us/eob/photo))
 
 
-	
 
-	
-  *
-		
-
-[Microsoft Photo Info](http://www.microsoft.com/windowsxp/using/digitalphotography/prophoto/photoinfo.mspx)
+  * [Digital cameras, all other cameras and everything photographic from Adorama Camera](http://www.adorama.com/) (tags: [shopping](http://del.icio.us/eob/shopping) [photo](http://del.icio.us/eob/photo))
 
 
-		
-
-Microsoft add-on for editing JPEG metadata
 
 
-		
 
-(tags: [photo](http://del.icio.us/eob/photo) [metadata](http://del.icio.us/eob/metadata) [tool](http://del.icio.us/eob/tool))
+  * [Microsoft Photo Info](http://www.microsoft.com/windowsxp/using/digitalphotography/prophoto/photoinfo.mspx)
 
 
-	
+
+
+Microsoft add-on for editing JPEG metadata (tags: [photo](http://del.icio.us/eob/photo) [metadata](http://del.icio.us/eob/metadata) [tool](http://del.icio.us/eob/tool))
+
+
+
 
 
 

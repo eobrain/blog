@@ -3,6 +3,7 @@ date: '2008-05-14 16:37:32'
 layout: post
 slug: links-for-2008-05-14
 status: publish
+ref: http://www.framemedia.com/
 title: links for 2008-05-14
 wordpress_id: '281'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[FrameMedia, Inc. :: Your frame. Your content.](http://www.framemedia.com/)
+  * [FrameMedia, Inc. :: Your frame. Your content.](http://www.framemedia.com/)
 
 
-		
-
-Content for photo frames
 
 
-		
-
-(tags: [web2.0](http://del.icio.us/eob/web2.0) [photo](http://del.icio.us/eob/photo))
+Content for photo frames (tags: [web2.0](http://del.icio.us/eob/web2.0) [photo](http://del.icio.us/eob/photo))
 
 
-	
+
 
 
 

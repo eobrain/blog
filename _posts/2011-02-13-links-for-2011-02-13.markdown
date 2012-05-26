@@ -9,32 +9,19 @@ categories:
 - bookmarks
 ---
 
-  *
+  * [Overview (Riak Client for Java 0.11.0 API)](http://www.jarvana.com/jarvana/view/com/basho/riak/riak-client/0.11.0/riak-client-0.11.0-javadoc.jar!/overview-summary.html)
 
 
-[Overview (Riak Client for Java 0.11.0 API)](http://www.jarvana.com/jarvana/view/com/basho/riak/riak-client/0.11.0/riak-client-0.11.0-javadoc.jar!/overview-summary.html)
+API doc for latest version of Riak's Java library (tags: [java](http://www.delicious.com/eob/java) [database](http://www.delicious.com/eob/database) [reference](http://www.delicious.com/eob/reference) [programming](http://www.delicious.com/eob/programming))
 
 
-API doc for latest version of Riak's Java library
-
-
-(tags: [java](http://www.delicious.com/eob/java) [database](http://www.delicious.com/eob/database) [reference](http://www.delicious.com/eob/reference) [programming](http://www.delicious.com/eob/programming))
-
-
-  *
-[
-
-
-[EdgeRank: The Secret Sauce That Makes Facebook’s News Feed Tick](http://techcrunch.com/2010/04/22/facebook-edgerank)
+  * [EdgeRank: The Secret Sauce That Makes Facebook’s News Feed Tick](http://techcrunch.com/2010/04/22/facebook-edgerank)
 
 
 ![](http://tctechcrunch.files.wordpress.com/2010/04/graphshot3.png)](http://techcrunch.com/2010/04/22/facebook-edgerank/)
 
 
-How Facebook filters items to only show you what it thinks you would be most interested in seeing.
-
-
-(tags: [algorithm](http://www.delicious.com/eob/algorithm) [web2.0](http://www.delicious.com/eob/web2.0))
+How Facebook filters items to only show you what it thinks you would be most interested in seeing. (tags: [algorithm](http://www.delicious.com/eob/algorithm) [web2.0](http://www.delicious.com/eob/web2.0))
 
 
 

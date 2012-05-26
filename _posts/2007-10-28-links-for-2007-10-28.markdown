@@ -3,6 +3,7 @@ date: '2007-10-28 16:24:52'
 layout: post
 slug: links-for-2007-10-28
 status: publish
+ref: http://en.wikipedia.org/wiki/Comparison_of_screencasting_software
 title: links for 2007-10-28
 wordpress_id: '203'
 categories:
@@ -10,19 +11,11 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Comparison of screencasting software - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Comparison_of_screencasting_software)
+  * [Comparison of screencasting software - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Comparison_of_screencasting_software) (tags: [tool](http://del.icio.us/eob/tool))
 
 
-		
 
-(tags: [tool](http://del.icio.us/eob/tool))
-
-
-	
 
 
 

@@ -3,6 +3,7 @@ date: '2005-06-09 11:09:28'
 layout: post
 slug: comparison-of-different-sql-implementations
 status: publish
+ref: http://troels.arvin.dk/db/rdbms/
 title: Comparison of different SQL implementations
 wordpress_id: '71'
 categories:

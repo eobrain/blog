@@ -3,6 +3,7 @@ date: '2006-10-12 15:45:28'
 layout: post
 slug: eclipse-downloads-home
 status: publish
+ref: http://www.eclipse.org/downloads/
 title: Eclipse downloads home
 wordpress_id: '114'
 categories:

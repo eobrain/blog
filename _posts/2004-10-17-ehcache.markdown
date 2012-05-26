@@ -3,6 +3,7 @@ date: '2004-10-17 00:33:08'
 layout: post
 slug: ehcache
 status: publish
+ref: http://ehcache.sourceforge.net/
 title: ehcache
 wordpress_id: '49'
 categories:

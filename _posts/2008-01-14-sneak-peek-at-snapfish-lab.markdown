@@ -3,6 +3,7 @@ date: '2008-01-14 13:30:31'
 layout: post
 slug: sneak-peek-at-snapfish-lab
 status: publish
+ref: http://www.snapfishlab.com
 title: Sneak Peek at Snapfish Lab
 wordpress_id: '229'
 categories:

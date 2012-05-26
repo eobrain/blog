@@ -3,6 +3,7 @@ date: '2006-11-18 20:34:08'
 layout: post
 slug: plant-hardiness-zone-changes-more-evidence-of-global-warming
 status: publish
+ref: http://www.arborday.org/media/mapchanges.cfm
 title: Plant Hardiness Zone Changes -- More Evidence of Global Warming?
 wordpress_id: '138'
 categories:

@@ -3,6 +3,7 @@ date: '2008-06-04 16:31:48'
 layout: post
 slug: links-for-2008-06-04
 status: publish
+ref: http://www.timeanddate.com/worldclock/personal.html?cities=237,438,1504,78,43,24,224
 title: links for 2008-06-04
 wordpress_id: '295'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[The Personal World Clock](http://www.timeanddate.com/worldclock/personal.html?cities=237,438,1504,78,43,24,224)
+  * [The Personal World Clock](http://www.timeanddate.com/worldclock/personal.html?cities=237,438,1504,78,43,24,224)
 
 
-		
-
-Handy world clock personalized for the places I care about.
 
 
-		
-
-(tags: [webservices](http://del.icio.us/eob/webservices))
+Handy world clock personalized for the places I care about. (tags: [webservices](http://del.icio.us/eob/webservices))
 
 
-	
+
 
 
 

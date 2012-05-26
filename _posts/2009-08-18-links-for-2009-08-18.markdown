@@ -3,22 +3,17 @@ date: '2009-08-18 15:05:25'
 layout: post
 slug: links-for-2009-08-18
 status: publish
+ref: http://www.owasp.org/index.php/Guide_Table_of_Contents
 title: Comprehensive guide for how to make your web apps secure.
 wordpress_id: '426'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Guide Table of Contents - OWASP](http://www.owasp.org/index.php/Guide_Table_of_Contents)
 
 
-[Guide Table of Contents - OWASP](http://www.owasp.org/index.php/Guide_Table_of_Contents)
-
-
-Comprehensive guide for how to make your web apps secure.
-
-
-(tags: [programming](http://delicious.com/eob/programming) [web](http://delicious.com/eob/web) [guide](http://delicious.com/eob/guide) [security](http://delicious.com/eob/security))
+Comprehensive guide for how to make your web apps secure. (tags: [programming](http://delicious.com/eob/programming) [web](http://delicious.com/eob/web) [guide](http://delicious.com/eob/guide) [security](http://delicious.com/eob/security))
 
 
 

@@ -3,6 +3,7 @@ date: '2008-01-23 16:25:51'
 layout: post
 slug: links-for-2008-01-23
 status: publish
+ref: http://expressioncenter.wetpaint.com/
 title: links for 2008-01-23
 wordpress_id: '234'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Welcome to Our Wiki - A Wetpaint WIKI: HP Community](http://expressioncenter.wetpaint.com/)
+  * [Welcome to Our Wiki - A Wetpaint WIKI: HP Community](http://expressioncenter.wetpaint.com/)
 
 
-		
-
-HP going all Web 2.0-ish
 
 
-		
-
-(tags: [hp](http://del.icio.us/eob/hp) [printing](http://del.icio.us/eob/printing) [photo](http://del.icio.us/eob/photo) [web2.0](http://del.icio.us/eob/web2.0))
+HP going all Web 2.0-ish (tags: [hp](http://del.icio.us/eob/hp) [printing](http://del.icio.us/eob/printing) [photo](http://del.icio.us/eob/photo) [web2.0](http://del.icio.us/eob/web2.0))
 
 
-	
+
 
 
 

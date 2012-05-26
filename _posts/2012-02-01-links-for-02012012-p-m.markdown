@@ -3,6 +3,7 @@ date: '2012-02-01 04:33:29'
 layout: post
 slug: links-for-02012012-p-m
 status: publish
+ref: http://www.evanmiller.org/how-not-to-sort-by-average-rating.html
 title: For sorting user ratings the best algorithm is lower bound of Wilson score
   confidence interval for a Bernoulli parameter (via +Christopher Hoover)
 wordpress_id: '4741'

@@ -3,22 +3,17 @@ date: '2009-05-13 15:06:51'
 layout: post
 slug: links-for-2009-05-13
 status: publish
+ref: http://code.google.com/appengine/docs/java/overview.html
 title: Framework virtualization
 wordpress_id: '396'
 categories:
 - bookmarks
 ---
 
-  *
+  * [App Engine Java Overview - Google App Engine - Google Code](http://code.google.com/appengine/docs/java/overview.html)
 
 
-[App Engine Java Overview - Google App Engine - Google Code](http://code.google.com/appengine/docs/java/overview.html)
-
-
-Framework virtualization
-
-
-(tags: [java](http://delicious.com/eob/java) [webservices](http://delicious.com/eob/webservices) [architecture](http://delicious.com/eob/architecture))
+Framework virtualization (tags: [java](http://delicious.com/eob/java) [webservices](http://delicious.com/eob/webservices) [architecture](http://delicious.com/eob/architecture))
 
 
 

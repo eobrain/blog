@@ -3,6 +3,7 @@ date: '2004-07-27 09:44:54'
 layout: post
 slug: applet-demos-of-wolfram-cellular-automota
 status: publish
+ref: http://sjsu.rudyrucker.com/
 title: Applet Demos of Wolfram Cellular Automota
 wordpress_id: '31'
 ---

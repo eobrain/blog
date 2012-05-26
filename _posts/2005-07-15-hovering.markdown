@@ -3,6 +3,7 @@ date: '2005-07-15 18:07:05'
 layout: post
 slug: hovering
 status: publish
+ref: http://www.flickr.com/photos/eob/73352525/
 title: Hovering
 wordpress_id: '88'
 categories:

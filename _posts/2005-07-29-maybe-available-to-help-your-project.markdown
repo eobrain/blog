@@ -3,6 +3,7 @@ date: '2005-07-29 17:46:00'
 layout: post
 slug: maybe-available-to-help-your-project
 status: publish
+ref: http://eamonn.obrien-strain.com/bio/
 title: Maybe available to help your project
 wordpress_id: '79'
 categories:

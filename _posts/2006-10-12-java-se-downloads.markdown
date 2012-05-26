@@ -3,6 +3,7 @@ date: '2006-10-12 15:08:08'
 layout: post
 slug: java-se-downloads
 status: publish
+ref: http://java.sun.com/javase/downloads/index.jsp
 title: Java SE Downloads
 wordpress_id: '113'
 categories:

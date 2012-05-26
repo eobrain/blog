@@ -3,6 +3,7 @@ date: '2011-03-21 20:41:09'
 layout: post
 slug: '1178'
 status: publish
+ref: http://www.flickr.com/photos/eob/5537982085/
 title: Social Photo Sharing Sessions at SXSW
 wordpress_id: '1178'
 categories:

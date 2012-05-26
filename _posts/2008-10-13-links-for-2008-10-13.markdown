@@ -3,22 +3,17 @@ date: '2008-10-13 16:03:18'
 layout: post
 slug: links-for-2008-10-13
 status: publish
+ref: http://dojotoolkit.org/node/136
 title: links for 2008-10-13
 wordpress_id: '307'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Debugging JavaScript | The Dojo Toolkit](http://dojotoolkit.org/node/136)
 
 
-[Debugging JavaScript | The Dojo Toolkit](http://dojotoolkit.org/node/136)
-
-
-Handy list of IDEs and debuggers for JavaScript development
-
-
-(tags: [javascript](http://delicious.com/eob/javascript))
+Handy list of IDEs and debuggers for JavaScript development (tags: [javascript](http://delicious.com/eob/javascript))
 
 
 

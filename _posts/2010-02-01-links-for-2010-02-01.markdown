@@ -9,28 +9,16 @@ categories:
 - bookmarks
 ---
 
-  *
+  * [ePub Zen Garden](http://epubzengarden.com/#/static/middlemarch/OEBPS/chapter1.html)
 
 
-[ePub Zen Garden](http://epubzengarden.com/#/static/middlemarch/OEBPS/chapter1.html)
+Nice example of how different CSS can be used to display ePub format nicely on the web.  However this formatting does not seem to be respected by e-book readers (or at least not Adobe Digital Editions). (tags: [books](http://delicious.com/eob/books) [publishing](http://delicious.com/eob/publishing) [ebook](http://delicious.com/eob/ebook) [literature](http://delicious.com/eob/literature) [css](http://delicious.com/eob/css) [design](http://delicious.com/eob/design))
 
 
-Nice example of how different CSS can be used to display ePub format nicely on the web.  However this formatting does not seem to be respected by e-book readers (or at least not Adobe Digital Editions).
+  * [San Francisco Planning Department : Citywide Zoning Map (Color)](http://www.sf-planning.org/index.aspx?page=1569)
 
 
-(tags: [books](http://delicious.com/eob/books) [publishing](http://delicious.com/eob/publishing) [ebook](http://delicious.com/eob/ebook) [literature](http://delicious.com/eob/literature) [css](http://delicious.com/eob/css) [design](http://delicious.com/eob/design))
-
-
-  *
-
-
-[San Francisco Planning Department : Citywide Zoning Map (Color)](http://www.sf-planning.org/index.aspx?page=1569)
-
-
-This nicely designed map gives some insights into the geography of San Francisco.
-
-
-(tags: [sanfrancisco](http://delicious.com/eob/sanfrancisco))
+This nicely designed map gives some insights into the geography of San Francisco. (tags: [sanfrancisco](http://delicious.com/eob/sanfrancisco))
 
 
 

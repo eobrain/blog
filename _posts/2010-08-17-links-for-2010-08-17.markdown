@@ -3,6 +3,7 @@ date: '2010-08-17 15:03:08'
 layout: post
 slug: links-for-2010-08-17
 status: publish
+ref: http://beust.com/jcommander/
 title: Nice easy-to-use command-line argument parser with a lot of functionality.
 wordpress_id: '938'
 categories:
@@ -10,16 +11,10 @@ categories:
 - Programming
 ---
 
-  *
+  * [JCommander](http://beust.com/jcommander/)
 
 
-[JCommander](http://beust.com/jcommander/)
-
-
-Nice easy-to-use command-line argument parser with a lot of functionality.
-
-
-(tags: [library](http://delicious.com/eob/library) [programming](http://delicious.com/eob/programming) [java](http://delicious.com/eob/java))
+Nice easy-to-use command-line argument parser with a lot of functionality. (tags: [library](http://delicious.com/eob/library) [programming](http://delicious.com/eob/programming) [java](http://delicious.com/eob/java))
 
 
 

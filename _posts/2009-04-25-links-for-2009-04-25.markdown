@@ -3,22 +3,17 @@ date: '2009-04-25 15:04:54'
 layout: post
 slug: links-for-2009-04-25
 status: publish
+ref: http://cyber.law.harvard.edu/interactive/webcast
 title: Wolfram alpha webcast
 wordpress_id: '387'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Live Webcast | Berkman Center](http://cyber.law.harvard.edu/interactive/webcast)
 
 
-[Live Webcast | Berkman Center](http://cyber.law.harvard.edu/interactive/webcast)
-
-
-Wolfram alpha webcast here on April 28 at 3pm eastern , noon pacific
-
-
-(tags: [web2.0](http://delicious.com/eob/web2.0))
+Wolfram alpha webcast here on April 28 at 3pm eastern , noon pacific (tags: [web2.0](http://delicious.com/eob/web2.0))
 
 
 

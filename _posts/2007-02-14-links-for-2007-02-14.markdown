@@ -10,43 +10,27 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Programming Ruby: The Pragmatic Programmer's Guide](http://www.rubycentral.com/book/)
+  * [Programming Ruby: The Pragmatic Programmer's Guide](http://www.rubycentral.com/book/)
 
 
-		
-
-If you are programming in Ruby, keep a bookmark to this page!
 
 
-		
-
-(tags: [daily](http://del.icio.us/eob/daily) [books](http://del.icio.us/eob/books) [code](http://del.icio.us/eob/code) [language](http://del.icio.us/eob/language) [guide](http://del.icio.us/eob/guide))
+If you are programming in Ruby, keep a bookmark to this page! (tags: [daily](http://del.icio.us/eob/daily) [books](http://del.icio.us/eob/books) [code](http://del.icio.us/eob/code) [language](http://del.icio.us/eob/language) [guide](http://del.icio.us/eob/guide))
 
 
-	
-
-	
-  *
-		
-
-[split-s: Design by contract for Ruby](http://split-s.blogspot.com/2006/02/design-by-contract-for-ruby.html)
 
 
-		
 
-Nice clean implementation of design-by-contract for Ruby.
-
-
-		
-
-(tags: [ruby](http://del.icio.us/eob/ruby) [programming](http://del.icio.us/eob/programming) [library](http://del.icio.us/eob/library) [design](http://del.icio.us/eob/design))
+  * [split-s: Design by contract for Ruby](http://split-s.blogspot.com/2006/02/design-by-contract-for-ruby.html)
 
 
-	
+
+
+Nice clean implementation of design-by-contract for Ruby. (tags: [ruby](http://del.icio.us/eob/ruby) [programming](http://del.icio.us/eob/programming) [library](http://del.icio.us/eob/library) [design](http://del.icio.us/eob/design))
+
+
+
 
 
 

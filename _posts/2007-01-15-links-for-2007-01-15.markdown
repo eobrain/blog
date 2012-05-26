@@ -3,6 +3,7 @@ date: '2007-01-15 16:27:35'
 layout: post
 slug: links-for-2007-01-15
 status: publish
+ref: http://www.stuvel.eu/pdfdownload
 title: links for 2007-01-15
 wordpress_id: '162'
 categories:
@@ -10,19 +11,11 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Offerring PDFs that download - Stüvel IT](http://www.stuvel.eu/pdfdownload)
+  * [Offerring PDFs that download - Stüvel IT](http://www.stuvel.eu/pdfdownload) (tags: [download](http://del.icio.us/eob/download) [programming](http://del.icio.us/eob/programming))
 
 
-		
 
-(tags: [download](http://del.icio.us/eob/download) [programming](http://del.icio.us/eob/programming))
-
-
-	
 
 
 

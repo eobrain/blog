@@ -3,22 +3,17 @@ date: '2009-02-16 15:03:55'
 layout: post
 slug: links-for-2009-02-16
 status: publish
+ref: http://www.askapache.com/online-tools/base64-image-converter/
 title: links for 2009-02-16
 wordpress_id: '365'
 categories:
 - bookmarks
 ---
 
-  *
+  * [Base64 Image Converter](http://www.askapache.com/online-tools/base64-image-converter/)
 
 
-[Base64 Image Converter](http://www.askapache.com/online-tools/base64-image-converter/)
-
-
-Online tool that you can use to create the base64 representation of an image URL.  Handy for creating inline data: URLs.
-
-
-(tags: [tool](http://delicious.com/eob/tool) [graphics](http://delicious.com/eob/graphics))
+Online tool that you can use to create the base64 representation of an image URL.  Handy for creating inline data: URLs. (tags: [tool](http://delicious.com/eob/tool) [graphics](http://delicious.com/eob/graphics))
 
 
 

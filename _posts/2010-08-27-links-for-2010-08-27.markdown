@@ -3,6 +3,7 @@ date: '2010-08-27 15:03:12'
 layout: post
 slug: links-for-2010-08-27
 status: publish
+ref: http://www.scrum.org/storage/scrumguides/Scrum%20Guide.pdf
 title: A very good overview and cheat-sheet of the Scrum agile process for software
   development.
 wordpress_id: '966'
@@ -10,16 +11,10 @@ categories:
 - Programming
 ---
 
-  *
+  * [Scrum Basics](http://www.scrum.org/storage/scrumguides/Scrum%20Guide.pdf)
 
 
-[Scrum Basics](http://www.scrum.org/storage/scrumguides/Scrum%20Guide.pdf)
-
-
-A very good overview and cheat-sheet of the Scrum agile process for software development.
-
-
-(tags: [agile](http://delicious.com/eob/agile) [guide](http://delicious.com/eob/guide) [tutorial](http://delicious.com/eob/tutorial))
+A very good overview and cheat-sheet of the Scrum agile process for software development. (tags: [agile](http://delicious.com/eob/agile) [guide](http://delicious.com/eob/guide) [tutorial](http://delicious.com/eob/tutorial))
 
 
 

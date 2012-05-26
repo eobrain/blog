@@ -9,52 +9,28 @@ categories:
 - bookmarks
 ---
 
-  *
+  * [Cappuccino Web Framework - Build Desktop Class Applications in Objective-J and JavaScript](http://cappuccino.org/)
 
 
-[Cappuccino Web Framework - Build Desktop Class Applications in Objective-J and JavaScript](http://cappuccino.org/)
+Impressive JavaScript framework for building apps that look like desktop apps.  It implements a version of Objective-C in JavaScript and then builds a Cocoa-like framework on top of that. (tags: [programming](http://delicious.com/eob/programming) [web](http://delicious.com/eob/web) [web2.0](http://delicious.com/eob/web2.0) [language](http://delicious.com/eob/language) [javascript](http://delicious.com/eob/javascript))
 
 
-Impressive JavaScript framework for building apps that look like desktop apps.  It implements a version of Objective-C in JavaScript and then builds a Cocoa-like framework on top of that.
+  * [Overlapping And Z Index - css-discuss](http://css-discuss.incutio.com/?page=OverlappingAndZIndex)
 
 
-(tags: [programming](http://delicious.com/eob/programming) [web](http://delicious.com/eob/web) [web2.0](http://delicious.com/eob/web2.0) [language](http://delicious.com/eob/language) [javascript](http://delicious.com/eob/javascript))
+This clear and concise explanation of CSS stacking contexts explains how the CSS z-index is not just a simple linear dimension, but there can be multiple nested stacking contexts. (tags: [tutorial](http://delicious.com/eob/tutorial) [css](http://delicious.com/eob/css) [web](http://delicious.com/eob/web) [reference](http://delicious.com/eob/reference))
 
 
-  *
+  * [John Resig -   Processing.js](http://ejohn.org/blog/processingjs/)
 
 
-[Overlapping And Z Index - css-discuss](http://css-discuss.incutio.com/?page=OverlappingAndZIndex)
+Impressive implementation of the Processing animation language in JavaScript (tags: [programming](http://delicious.com/eob/programming) [javascript](http://delicious.com/eob/javascript) [graphics](http://delicious.com/eob/graphics) [code](http://delicious.com/eob/code) [language](http://delicious.com/eob/language) [web](http://delicious.com/eob/web) [library](http://delicious.com/eob/library))
 
 
-This clear and concise explanation of CSS stacking contexts explains how the CSS z-index is not just a simple linear dimension, but there can be multiple nested stacking contexts.
+  * [Aharef: Websites as graphs](http://www.aharef.info/2006/05/websites_as_graphs.htm)
 
 
-(tags: [tutorial](http://delicious.com/eob/tutorial) [css](http://delicious.com/eob/css) [web](http://delicious.com/eob/web) [reference](http://delicious.com/eob/reference))
-
-
-  *
-
-
-[John Resig -   Processing.js](http://ejohn.org/blog/processingjs/)
-
-
-Impressive implementation of the Processing animation language in JavaScript
-
-
-(tags: [programming](http://delicious.com/eob/programming) [javascript](http://delicious.com/eob/javascript) [graphics](http://delicious.com/eob/graphics) [code](http://delicious.com/eob/code) [language](http://delicious.com/eob/language) [web](http://delicious.com/eob/web) [library](http://delicious.com/eob/library))
-
-
-  *
-
-
-[Aharef: Websites as graphs](http://www.aharef.info/2006/05/websites_as_graphs.htm)
-
-
-Interesting Java applet that displays web page DOM trees as colored graphs.
-
-
-(tags: [design](http://delicious.com/eob/design))
+Interesting Java applet that displays web page DOM trees as colored graphs. (tags: [design](http://delicious.com/eob/design))
 
 
 

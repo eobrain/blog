@@ -3,6 +3,7 @@ date: '2008-02-25 16:23:48'
 layout: post
 slug: links-for-2008-02-25
 status: publish
+ref: http://browsershots.org/
 title: links for 2008-02-25
 wordpress_id: '251'
 categories:
@@ -10,24 +11,16 @@ categories:
 ---
 
 
-	
-  *
-		
 
-[Test your web design in different browsers - Browsershots](http://browsershots.org/)
+  * [Test your web design in different browsers - Browsershots](http://browsershots.org/)
 
 
-		
-
-Produce screenshots of a web site from  a wide variety of browsers and OSes.
 
 
-		
-
-(tags: [graphics](http://del.icio.us/eob/graphics) [design](http://del.icio.us/eob/design) [css](http://del.icio.us/eob/css) [service](http://del.icio.us/eob/service))
+Produce screenshots of a web site from  a wide variety of browsers and OSes. (tags: [graphics](http://del.icio.us/eob/graphics) [design](http://del.icio.us/eob/design) [css](http://del.icio.us/eob/css) [service](http://del.icio.us/eob/service))
 
 
-	
+
 
 
 

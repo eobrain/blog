@@ -9,31 +9,19 @@ categories:
 - bookmarks
 ---
 
-  *
-
-
-[Longshot!](http://longshotmag.com/)
+  * [Longshot!](http://longshotmag.com/)
 
 
 Annotated link http://www.diigo.com/bookmark/http://longshotmag.com
 
 
-  *
+  * [10 Alternatives To Delicious.com Bookmarking](http://searchengineland.com/10-alternatives-to-delicious-com-bookmarking-59058)
 
 
-[10 Alternatives To Delicious.com Bookmarking](http://searchengineland.com/10-alternatives-to-delicious-com-bookmarking-59058)
+Looks like I cannot rely on delicious any more -- and even if I could they have had no significant improvement for years.  For now I am going to try moving to diigo. (tags: [web2.0](http://www.delicious.com/eob/web2.0))
 
 
-Looks like I cannot rely on delicious any more -- and even if I could they have had no significant improvement for years.  For now I am going to try moving to diigo.
-
-
-(tags: [web2.0](http://www.delicious.com/eob/web2.0))
-
-
-  *
-
-
-[Diigo - Web Highlighter and Sticky Notes, Online Bookmarking and Annotation, Personal Learning Network.](http://www.diigo.com/index)
+  * [Diigo - Web Highlighter and Sticky Notes, Online Bookmarking and Annotation, Personal Learning Network.](http://www.diigo.com/index)
 
 
 Annotated link http://www.diigo.com/bookmark/http://www.diigo.com/index

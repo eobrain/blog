@@ -3,22 +3,17 @@ date: '2010-12-26 15:02:43'
 layout: post
 slug: links-for-2010-12-26
 status: publish
+ref: http://labs.ideeinc.com/
 title: In addition to TinEye, Idée has several other image search and discovery services.
 wordpress_id: '1085'
 categories:
 - Consumer Media
 ---
 
-  *
+  * [Idée Labs](http://labs.ideeinc.com/)
 
 
-[Idée Labs](http://labs.ideeinc.com/)
-
-
-In addition to TinEye, Idée has several other image search and discovery services.
-
-
-(tags: [imaging](http://www.delicious.com/eob/imaging) [webservices](http://www.delicious.com/eob/webservices))
+In addition to TinEye, Idée has several other image search and discovery services. (tags: [imaging](http://www.delicious.com/eob/imaging) [webservices](http://www.delicious.com/eob/webservices))
 
 
 

@@ -36,7 +36,7 @@ span, .postdate {
   color:            #E00; /* wet lips */
   background-color: #FFD; /* creme anglaise */
 }
-#body h1, .postdate {
+#body h1, .postdate, h1 div {
   color:            #354; /* army blanket */
   background-color: #FFD; /* creme anglaise */
 }
@@ -64,7 +64,12 @@ body {
     padding:0.5em;
 }
 
- .post li {
+h1 div {
+    margin:2em;
+    padding:2em;
+}
+
+.post li {
     margin-left: 1em;
 }
 
@@ -102,4 +107,13 @@ body {
 
 #pages h2, #posts h2 {
     display: none;
+}
+
+.posts li img {
+  /*dth: 280px;*/
+  width: 100%;
+}
+
+h1 div {
+    float: right;
 }
