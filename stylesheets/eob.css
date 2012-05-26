@@ -1,9 +1,9 @@
 
 /*** Fonts ***/
-h1, .postdate {
+h1, .postdate, #paginate {
     font-family: Futura, 'Century Gothic', AppleGothic, sans-serif;
 }
-li {
+p, li {
     font-family: GillSans, Calibri, Trebuchet, sans-serif;
 }
 
@@ -24,7 +24,7 @@ body, #header {
   color:            #354; /* army blanket */
   background-color: #8A9; /* Yucca plant */
 }
-#header a:link, #header a:visited {
+#header a:link, #header a:visited, #paginate {
     color:            #354; /* army blanket */
     background-color: #8A9; /* Yucca plant */
 }
@@ -40,11 +40,11 @@ span, .postdate {
   color:            #354; /* army blanket */
   background-color: #FFD; /* creme anglaise */
 }
-#pages li a:visited, #posts li a:visited, .posts li a:visited, .post a:visited  {
+#pages li a:visited, #posts li a:visited, .posts li a:visited, .post a:visited, #body > ul a:visited  {
   color:            #354; /* army blanket */
   background-color: #FE9; /* haystack */
 }
-#body p, #pages li, #posts li, .posts li, .post {
+#body p, #pages li, #posts li, .posts li, .post, #body > ul {
   color:            #354; /* army blanket */
   background-color: #FFD; /* creme anglaise */
 }
@@ -59,9 +59,13 @@ body {
     background-position:center;
 }
 
-#body p, h1, #pages li, #posts li, .posts li, .post, .postdate {
-    margin:0.5em;
-    padding:0.5em;
+#body p, h1, #posts li, .posts li, #body > ul li, .post, .postdate, #paginate {
+    margin: 7px;
+    padding: 7px;
+}
+
+#pages li {
+    padding: 7px;
 }
 
 h1 div {
@@ -69,23 +73,23 @@ h1 div {
     padding:2em;
 }
 
-.post li {
+.post li, #body > ul li {
     margin-left: 1em;
 }
 
 
-.post ul {
+.post ul, #body > ul {
   margin:0.5em;
   padding:0.5em;
   list-style-image: url('/images/noun_project_34.png');
 }
 
-.post li a {
+.post li a, #body > ul li a {
   font-size: larger;
   font-weight:bold;
 }
 
-#body h1 {
+#body h1, #paginate {
     text-align: center;
 }
 
@@ -94,26 +98,34 @@ h1 div {
 }
 #posts li, .posts li {
     overflow: hidden;
-    width:20em;
+    /*width:20em;*/
+    width: 280px;
     float:left;
 }
 
 #pages li {
     overflow: hidden;
     width:20em;
-    postion: absolute;
-    top: 1em;
+    position: absolute;
+    top: 7px;
+    right: 7px;
 }
 
-#pages h2, #posts h2 {
-    display: none;
+#pages li img {
+    float: right;
 }
 
-.posts li img {
-  /*dth: 280px;*/
-  width: 100%;
+#posts li img, .posts li img {
+  width: 280px;
+  height: auto;
+  margin-top: 7px;
+  /*width: 100%;*/
 }
 
 h1 div {
     float: right;
+}
+
+#paginate {
+  clear: both;
 }

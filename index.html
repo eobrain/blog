@@ -3,10 +3,28 @@ layout: default
 description: A description about my blog homepage
 ---
 
+<span id="pages">
+ <ul>
+    {% for page in site.html_pages %}
+      {% if page.title %}
+        <li>
+          <a href="{{ page.url }}">
+            {{ page.title }}
+            {% if page.ref %}
+              <img 
+                 src="http://play.webthunk.com/representativeimage.function?webpage={{ page.ref | cgi_escape }}"
+                 />
+            {% endif %}
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</span>
+
 <div id="posts">
-  <h2>Blog Posts</h2>
-  <ul>
-    {% for post in site.posts %}
+ <ul>
+    {% for post in paginator.posts %}
       <li>
         <span>{{ post.date | date_to_string }}</span> 
         -
@@ -23,22 +41,12 @@ description: A description about my blog homepage
   </ul>
 </div>
 
-<div id="pages">
-  <h2>Pages</h2>
-  <ul>
-    {% for page in site.html_pages %}
-      {% if page.title %}
-        <li>
-          <a href="{{ page.url }}">
-            {{ page.title }}
-            {% if page.ref %}
-              <img 
-                 src="http://play.webthunk.com/representativeimage.function?webpage={{ page.ref | cgi_escape }}"
-                 />
-            {% endif %}
-          </a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+<div id="paginate">
+  {% if paginator.previous_page %}
+    <a href="/page{{ paginator.previous_page }}/">Newer Postings</a>
+  {% endif %}
+  Page {{ paginator.page }} of {{ paginator.total_pages }}
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}/">Older Postings</a>
+  {% endif %}
 </div>
