@@ -34,6 +34,8 @@ description: A description about my blog homepage
             <img 
                src="http://play.webthunk.com/representativeimage.function?webpage={{ post.ref | cgi_escape }}"
                />
+          {% else %}
+            <span class="no-img"></span>
           {% endif %}
         </a>
       </li>
@@ -41,12 +43,3 @@ description: A description about my blog homepage
   </ul>
 </div>
 
-<div id="paginate">
-  {% if paginator.previous_page %}
-    <a href="/page{{ paginator.previous_page }}/">Newer Postings</a>
-  {% endif %}
-  Page {{ paginator.page }} of {{ paginator.total_pages }}
-  {% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}/">Older Postings</a>
-  {% endif %}
-</div>

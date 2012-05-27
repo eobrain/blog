@@ -24,7 +24,7 @@ body, #header {
   color:            #354; /* army blanket */
   background-color: #8A9; /* Yucca plant */
 }
-#header a:link, #header a:visited, #paginate {
+#header > a:link, #header > a:visited, #paginate {
     color:            #354; /* army blanket */
     background-color: #8A9; /* Yucca plant */
 }
@@ -48,6 +48,17 @@ span, .postdate {
   color:            #354; /* army blanket */
   background-color: #FFD; /* creme anglaise */
 }
+#pages li, #posts li, .posts li {
+          box-shadow: 4px 4px 2px black;
+     -moz-box-shadow: 4px 4px 2px black;
+  -webkit-box-shadow: 4px 4px 2px black;
+       -o-box-shadow: 4px 4px 2px black;
+}
+
+.post img {
+  float: right;
+}
+
 h2 {
   color:            #FE9; /* haystack */
 }
@@ -59,7 +70,7 @@ body {
     background-position:center;
 }
 
-#body p, h1, #posts li, .posts li, #body > ul li, .post, .postdate, #paginate {
+#body p, #header, #posts li, .posts li, #body > ul li, .post, .postdate, #paginate {
     margin: 7px;
     padding: 7px;
 }
@@ -101,6 +112,10 @@ h1 div {
     /*width:20em;*/
     width: 280px;
     float:left;
+          border-radius: 10px;
+     -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+       -o-border-radius: 10px;
 }
 
 #pages li {
@@ -126,6 +141,17 @@ h1 div {
     float: right;
 }
 
+#header a h1 {
+  display: inline;
+}
+
 #paginate {
-  clear: both;
+  width: 100%;
+}
+
+li {
+         transition: height 1s;
+    -moz-transition: height 1s; 
+ -webkit-transition: height 1s; 
+      -o-transition: height 1s; 
 }

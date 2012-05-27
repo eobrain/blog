@@ -34,6 +34,25 @@
     <div id="page">
       <div id="header">
         <a href="/"><h1>{{ site.title }}</h1></a>
+	{% if paginator.previous_page or paginator.next_page %}
+	  <span id="paginate">
+	    {% if paginator.previous_page %}
+	      {% if paginator.previous_page == 1 %}
+	        <a href="/">Newest</a>
+	      {% else %}
+	        <a href="/page{{ paginator.previous_page }}/">Newer</a>
+	      {% endif %}
+	    {% endif %}
+	    Page {{ paginator.page }} of {{ paginator.total_pages }}
+	    {% if paginator.next_page %}
+	      {% if paginator.next_page == paginator.total_pages  %}
+	        <a href="/page{{ paginator.next_page }}/">Oldest</a>
+	      {% else %}
+	        <a href="/page{{ paginator.next_page }}/">Older</a>
+	    {% endif %}
+	    {% endif %}
+	  </span>
+	{% endif %}
       </div>
       <div id="body">
         {% if page.title %}

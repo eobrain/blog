@@ -19,8 +19,9 @@ quantizeHeight = ( $li ) ->
 
 $ ->
 
-  $('#posts li, .posts li').each ->
-    quantizeHeight $(@)
+  $('#posts li .no-img, .posts li .no-img').each ->
+    $li = $(@).parent().parent()
+    quantizeHeight $($li)
 
   $('#posts li img, .posts li img').each ->
     $(@).load ->
@@ -32,3 +33,4 @@ $ ->
       setTimeout -> quantizeHeight $li, 1000
 
   $('#pages li').height $('h1').height()
+
