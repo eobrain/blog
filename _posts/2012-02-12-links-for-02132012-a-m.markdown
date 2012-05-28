@@ -3,10 +3,11 @@ date: '2012-02-12 16:38:47'
 layout: post
 slug: links-for-02132012-a-m
 status: publish
-title: links for 02/13/2012 (a.m.)
+ref: https://github.com/balupton/history.js
+title: You can use this library to fix the AJAX back-button problem in a browser-compatible way.
 wordpress_id: '5985'
 categories:
-- bookmarks
+- Programming
 ---
 
 
@@ -17,11 +18,5 @@ You can use this library to fix the AJAX back-button problem in a browser-compat
  tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [html5](http://www.diigo.com/user/eobrain/html5)            [ajax](http://www.diigo.com/user/eobrain/ajax)            [seo](http://www.diigo.com/user/eobrain/seo)            [library](http://www.diigo.com/user/eobrain/library)
 
 
-  * [How To Build a Naive Bayes Classifier](http://bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html)
 
 
-Nice clear article explaining the theory and practice behind naive Bayes.
- tags:                      [tutorial](http://www.diigo.com/user/eobrain/tutorial)            [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)
-
-
-Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

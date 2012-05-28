@@ -36,7 +36,7 @@ span, .postdate {
   color:            #E00; /* wet lips */
   background-color: #FFD; /* creme anglaise */
 }
-#body h1, .postdate, h1 div {
+#body h1, h1 div {
   color:            #354; /* army blanket */
   background-color: #FFD; /* creme anglaise */
 }
@@ -139,6 +139,10 @@ h1 div {
 
 h1 div {
     float: right;
+}
+
+#related {
+  clear: both;
 }
 
 #header a h1 {

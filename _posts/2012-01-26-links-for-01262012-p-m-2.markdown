@@ -1,0 +1,16 @@
+---
+date: '2012-01-26 04:33:43'
+layout: post
+slug: links-for-01262012-p-m-2
+status: publish
+re: http://enyojs.com
+title: The WebOS enyo library is now open-sourced and available for desktop browsers, not just mobile browsers.
+wordpress_id: '4051'
+categories:
+- Programming
+---
+
+  * [Enyo JavaScript Application Framework](http://enyojs.com)
+
+The WebOS enyo library is now open-sourced and available for desktop browsers, not just mobile browsers.   tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [mobile](http://www.diigo.com/user/eobrain/mobile)            [webos](http://www.diigo.com/user/eobrain/webos)            [programming](http://www.diigo.com/user/eobrain/programming)
+

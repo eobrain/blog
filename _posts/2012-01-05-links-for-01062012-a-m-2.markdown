@@ -1,0 +1,17 @@
+---
+date: '2012-01-05 16:38:38'
+layout: post
+slug: links-for-01062012-a-m-2
+status: publish
+ref: http://wiki.apache.org/stdcxx/C++0xCompilerSupport
+title: Handy table showing what new C++ features are supported by what compilers
+wordpress_id: '1260'
+categories:
+- Programming
+---
+
+  * [C++0xCompilerSupport - Stdcxx Wiki](http://wiki.apache.org/stdcxx/C++0xCompilerSupport)
+
+
+Handy table showing what new C++ features are supported by what compilers
+ tags:                      [c++](http://www.diigo.com/user/eobrain/c++)            [programming](http://www.diigo.com/user/eobrain/programming)

@@ -3,7 +3,8 @@ date: '2012-01-03 16:38:06'
 layout: post
 slug: links-for-01042012-a-m
 status: publish
-title: links for 01/04/2012 (a.m.)
+ref: http://benalman.com/projects/jquery-postmessage-plugin
+title: Cross-Domain JavaScript Requests
 wordpress_id: '1259'
 categories:
 - bookmarks
@@ -24,4 +25,3 @@ This seems like the best way to do cross-domain calls in JavaScript.
  tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)
 
 
-Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

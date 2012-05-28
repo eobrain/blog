@@ -1,0 +1,17 @@
+---
+date: '2011-10-19 16:37:51'
+layout: post
+slug: links-for-10202011-a-m-2
+status: publish
+ref: http://diameter.itn.liu.se/colse
+title: Mapping from adjectives to colors
+wordpress_id: '1249'
+categories:
+- bookmarks
+---
+
+  * [Color Semantics for Image Indexing](http://diameter.itn.liu.se/colse)
+
+
+Mapping from adjectives to colors.
+ tags:                      [imaging](http://www.diigo.com/user/eobrain/imaging)

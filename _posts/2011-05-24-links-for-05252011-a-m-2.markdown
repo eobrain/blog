@@ -1,0 +1,17 @@
+---
+date: '2011-05-24 16:39:36'
+layout: post
+slug: links-for-05252011-a-m-2
+status: publish
+ref: http://code.google.com/web/ajaxcrawling/docs/getting-started.html
+title: How to make AJAX sites crawlable by Google
+wordpress_id: '1207'
+categories:
+- bookmarks
+---
+
+  * [Getting Started - Making AJAX Applications Crawlable - Google Code](http://code.google.com/web/ajaxcrawling/docs/getting-started.html)
+
+
+How to make AJAX sites crawlable by Google.
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [seo](http://www.diigo.com/user/eobrain/seo)            [web](http://www.diigo.com/user/eobrain/web)

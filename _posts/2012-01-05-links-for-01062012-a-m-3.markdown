@@ -1,0 +1,16 @@
+---
+date: '2012-01-05 16:38:38'
+layout: post
+slug: links-for-01062012-a-m-2
+status: publish
+ref: http://popcornjs.org
+title: HTML5 Media Javascript library
+wordpress_id: '1260'
+categories:
+- Programming
+---
+  * [Popcorn.js | The HTML5 Media Framework](http://popcornjs.org)
+
+
+HTML5 Media Javascript library
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [video](http://www.diigo.com/user/eobrain/video)

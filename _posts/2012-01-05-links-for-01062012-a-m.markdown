@@ -3,18 +3,14 @@ date: '2012-01-05 16:38:38'
 layout: post
 slug: links-for-01062012-a-m
 status: publish
-title: links for 01/06/2012 (a.m.)
+ref: http://net.tutsplus.com
+title: Great source for web development news and information
 wordpress_id: '1260'
 categories:
-- bookmarks
+- Programming
 ---
 
 
-  * [C++0xCompilerSupport - Stdcxx Wiki](http://wiki.apache.org/stdcxx/C++0xCompilerSupport)
-
-
-Handy table showing what new C++ features are supported by what compilers
- tags:                      [c++](http://www.diigo.com/user/eobrain/c++)            [programming](http://www.diigo.com/user/eobrain/programming)
 
 
   * [Web development tutorials, from beginner to advanced | Nettuts+](http://net.tutsplus.com)
@@ -24,11 +20,5 @@ Great source for web development news and information.
  tags:                      [web](http://www.diigo.com/user/eobrain/web)
 
 
-  * [Popcorn.js | The HTML5 Media Framework](http://popcornjs.org)
 
 
-HTML5 Javascript library
- tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [video](http://www.diigo.com/user/eobrain/video)
-
-
-Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/eobrain).

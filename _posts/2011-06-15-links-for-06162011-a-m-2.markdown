@@ -1,0 +1,19 @@
+---
+date: '2011-06-15 16:39:29'
+layout: post
+slug: links-for-06162011-a-m-2
+status: publish
+ref: http://csslint.net
+title: online tool to check for problems in your CSS stylesheets
+wordpress_id: '1212'
+categories:
+- bookmarks
+---
+
+  * [CSS Lint](http://csslint.net)
+
+
+online tool to check for problems in your CSS stylesheets
+ tags:                      [css](http://www.diigo.com/user/eobrain/css)            [web](http://www.diigo.com/user/eobrain/web)            [tool](http://www.diigo.com/user/eobrain/tool)            [webservices](http://www.diigo.com/user/eobrain/webservices)
+
+

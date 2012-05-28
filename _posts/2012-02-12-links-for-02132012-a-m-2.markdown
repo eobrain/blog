@@ -1,0 +1,17 @@
+---
+date: '2012-02-12 16:38:47'
+layout: post
+slug: links-for-02132012-a-m-2
+status: publish
+ref: http://bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html
+title: Nice clear article explaining the theory and practice behind naive Bayes.
+wordpress_id: '5985'
+categories:
+- Programming
+---
+
+  * [How To Build a Naive Bayes Classifier](http://bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html)
+
+
+Nice clear article explaining the theory and practice behind naive Bayes.
+ tags:                      [tutorial](http://www.diigo.com/user/eobrain/tutorial)            [machinelearning](http://www.diigo.com/user/eobrain/machinelearning)

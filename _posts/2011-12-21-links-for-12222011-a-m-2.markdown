@@ -1,0 +1,17 @@
+---
+date: '2011-12-21 16:37:02'
+layout: post
+slug: links-for-12222011-a-m-2
+status: publish
+ref: http://www.slideshare.net/seancribbs/riakjs-javascript-turtles-all-the-way-down
+title: Using Riak from node.js
+wordpress_id: '1258'
+categories:
+- Programming
+---
+
+  * [riak-js: Javascript Turtles All the Way Down](http://www.slideshare.net/seancribbs/riakjs-javascript-turtles-all-the-way-down)
+
+
+Using Riak from node.js
+ tags:                      [javascript](http://www.diigo.com/user/eobrain/javascript)            [database](http://www.diigo.com/user/eobrain/database)            [scaling](http://www.diigo.com/user/eobrain/scaling)
