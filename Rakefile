@@ -21,6 +21,12 @@ task :build => [:clean, :coffeebuild] do
   jekyll
 end
 
+desc 'Build site with Jekyll, using latent semantic indexing'
+task :build_lsi => [:clean, :coffeebuild] do
+  compass
+  jekyll('--lsi')
+end
+
 desc 'Start server with --auto'
 task :server => :clean do
   compass
@@ -33,7 +39,7 @@ task :deploy => :build do
 end
 
 desc 'deploy to s3'
-task :s3 => :build  do
+task :s3 => :build do
   sh 's3cmd \'--add-header=Cache-Control:public, max-age=300\' --acl-public sync _site/ s3://blog.eamonn.org'
 end
 
