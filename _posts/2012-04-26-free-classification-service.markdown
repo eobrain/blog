@@ -1,7 +1,7 @@
 ---
 layout: post
 ref: http://www.uclassify.com/UrlApiDocumentation.aspx
-cateries:
+categories:
 - Programming
 ---
 
