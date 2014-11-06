@@ -69,7 +69,7 @@
           {% if page.ref %}
           <div>
             <img 
-               src="http://play.webthunk.com/representativeimage.function?webpage={{ page.ref | cgi_escape }}"
+               src="{{ site.chiefimage }}{{ page.ref | cgi_escape }}"
                />
             </div>
           {% endif %}

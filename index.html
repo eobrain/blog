@@ -12,7 +12,7 @@ description: A description about my blog homepage
             {{ page.title }}
             {% if page.ref %}
               <img 
-                 src="http://play.webthunk.com/representativeimage.function?webpage={{ page.ref | cgi_escape }}"
+                 src="{{ site.chiefimage }}{{ page.ref | cgi_escape }}"
                  />
             {% endif %}
           </a>
@@ -32,7 +32,7 @@ description: A description about my blog homepage
           {{ post.title }}
           {% if post.ref %}
             <img 
-               src="http://play.webthunk.com/representativeimage.function?webpage={{ post.ref | cgi_escape }}"
+               src="{{ site.chiefimage }}{{ post.ref | cgi_escape }}"
                />
           {% else %}
             <span class="no-img"></span>

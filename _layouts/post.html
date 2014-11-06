@@ -19,7 +19,7 @@ layout: default
           {{ page.next.title }}
           {% if page.next.ref %}
             <img 
-               src="http://play.webthunk.com/representativeimage.function?webpage={{ page.next.ref | cgi_escape }}"
+               src="{{ site.chiefimage }}{{ page.next.ref | cgi_escape }}"
                />
           {% endif %}
         </a>
@@ -34,7 +34,7 @@ layout: default
           {{ page.previous.title }}
           {% if page.previous.ref %}
             <img 
-               src="http://play.webthunk.com/representativeimage.function?webpage={{ page.previous.ref | cgi_escape }}"
+               src="{{ site.chiefimage }}{{ page.previous.ref | cgi_escape }}"
                />
           {% endif %}
         </a>
@@ -50,7 +50,7 @@ layout: default
             {{ post.title }}
             {% if post.ref %}
               <img 
-                 src="http://play.webthunk.com/representativeimage.function?webpage={{ post.ref | cgi_escape }}"
+                 src="{{ site.chiefimage }}{{ post.ref | cgi_escape }}"
                  />
             {% endif %}
           </a>

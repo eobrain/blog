@@ -18,7 +18,7 @@ end
 desc 'Build site with Jekyll'
 task :build => [:clean, :coffeebuild] do
   compass
-  jekyll
+  jekyll('build')
 end
 
 desc 'Build site with Jekyll, using latent semantic indexing'
@@ -30,7 +30,7 @@ end
 desc 'Start server with --auto'
 task :server => :clean do
   compass
-  jekyll('--server --auto')
+  jekyll('serve --watch')
 end
 
 desc 'Build and deploy'
