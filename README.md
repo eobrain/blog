@@ -9,4 +9,4 @@ From a clean RVM ruby you need to do:
     gem install jekyll
     gem install compass
     gem install rdiscount
-    
+    gem install jekyll-paginate

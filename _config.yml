@@ -1,11 +1,12 @@
 # standard jekyll configuration
 
 permalink: date
-pygments: true
+highlighter: rouge
 exclude: ['Rakefile', 'README.md', 'config.rb']
 markdown: rdiscount
 lsi:      false
 paginate: 60
+gems: [jekyll-paginate]
 
 # configuration required for some pages
 
