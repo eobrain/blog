@@ -43,6 +43,11 @@ task :s3 => :build do
   sh 's3cmd \'--add-header=Cache-Control:public, max-age=300\' --acl-public sync _site/ s3://blog.eamonn.org'
 end
 
+desc 'deploy to ipfs'
+task :ipfs => :build do
+  sh 'hash=$(ipfs add -q -r _site | tail -1); ipfs name publish ${hash}'
+end
+
 desc 'Check links for site already running on localhost:4000'
 task :check_links do
   begin
